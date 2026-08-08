@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-08-08T15:29:58",
-  "count": 2640,
+  "generated_at": "2026-08-08T15:39:25",
+  "count": 2582,
   "products": [
-    {
-      "ref": "00",
-      "designation": "SERVICE YOUSEFFE",
-      "prix": 20.0,
-      "stock": 0
-    },
     {
       "ref": "000001",
       "designation": "SERPILIERE FRANCE CASA BN2 50X70CM",
@@ -25,12 +19,6 @@
       "designation": "PAPIER CANSON ORANGE A2 - 00041007",
       "prix": 8.0,
       "stock": 3
-    },
-    {
-      "ref": "0005",
-      "designation": "SERVICE",
-      "prix": 200.0,
-      "stock": 3804
     },
     {
       "ref": "0006",
@@ -121,12 +109,6 @@
       "designation": "CHARGEUR SONY VAIO ORIGINAL 19,5V-3,3A",
       "prix": 200.0,
       "stock": 1
-    },
-    {
-      "ref": "102",
-      "designation": "SERVICE AZZEDDINE",
-      "prix": 20.0,
-      "stock": 0
     },
     {
       "ref": "103-CY",
@@ -385,18 +367,6 @@
       "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
       "prix": 10.0,
       "stock": 46
-    },
-    {
-      "ref": "2008",
-      "designation": "SERVICE NAJWA",
-      "prix": 20.0,
-      "stock": 0
-    },
-    {
-      "ref": "2010",
-      "designation": "SERVICE SANAE",
-      "prix": 20.0,
-      "stock": 0
     },
     {
       "ref": "202416",
@@ -1293,12 +1263,6 @@
       "stock": 0
     },
     {
-      "ref": "A789021",
-      "designation": "PHOTOCOPIE NOIRE A4 SERIAL A789021001191",
-      "prix": 0.4,
-      "stock": 0
-    },
-    {
       "ref": "A-808-4",
       "designation": "FLUORESCENT HIGHLIGHTER 6 COULEUR A-808-4",
       "prix": 25.0,
@@ -1369,12 +1333,6 @@
       "designation": "ADAPTOR AC/DC",
       "prix": 10.0,
       "stock": 9
-    },
-    {
-      "ref": "AC005",
-      "designation": "Accessoires",
-      "prix": 100.0,
-      "stock": 0
     },
     {
       "ref": "AC-11GEN",
@@ -1489,12 +1447,6 @@
       "designation": "ADHESIF 100",
       "prix": 2.0,
       "stock": 40
-    },
-    {
-      "ref": "AD12V",
-      "designation": "Adaptateur secteur 12v",
-      "prix": 50.0,
-      "stock": 0
     },
     {
       "ref": "AD201EU",
@@ -2067,12 +2019,6 @@
       "stock": 5
     },
     {
-      "ref": "B-33CL",
-      "designation": "Bouteille d'eau Thermos large de 33 cl",
-      "prix": 150.0,
-      "stock": 0
-    },
-    {
       "ref": "B-35369",
       "designation": "FEUTRE PERMANENT FABER CASTELL",
       "prix": 10.0,
@@ -2607,12 +2553,6 @@
       "stock": 3
     },
     {
-      "ref": "BOX-4G",
-      "designation": "CONNEXION BOX INTERNET 4G+ ORANGE TELECOM 12 MONS",
-      "prix": 4900.0,
-      "stock": 0
-    },
-    {
       "ref": "B-P01",
       "designation": "BROSSE POUR TABLEAU BTB-10114",
       "prix": 5.0,
@@ -2847,12 +2787,6 @@
       "stock": 0
     },
     {
-      "ref": "C-001",
-      "designation": "PHOTOCOPIE CARTE NATIONAL R/V",
-      "prix": 1.5,
-      "stock": 0
-    },
-    {
       "ref": "C002",
       "designation": "PAQUET CRAIES COULEURS GIOTTO",
       "prix": 5.0,
@@ -2988,12 +2922,6 @@
       "ref": "C21",
       "designation": "MACHINE SPIRALE ENJOY BEYONDER",
       "prix": 1800.0,
-      "stock": 0
-    },
-    {
-      "ref": "C-21.7",
-      "designation": "Carnet ft 21*7 cm imp R sur papier couché 135 gr centre american",
-      "prix": 0.0,
       "stock": 0
     },
     {
@@ -3237,12 +3165,6 @@
       "stock": 1
     },
     {
-      "ref": "CAH-ROD",
-      "designation": "CAHIER DE CORRESPONDANCE RODIN",
-      "prix": 38.0,
-      "stock": 0
-    },
-    {
       "ref": "CAL25",
       "designation": "CALENDRIER 2025",
       "prix": 12.0,
@@ -3313,12 +3235,6 @@
       "designation": "HP ADAPTATEUR D'ALIMENTATION 40W POUR VEHICULE HP MINI",
       "prix": 150.0,
       "stock": 1
-    },
-    {
-      "ref": "CAR-A5",
-      "designation": "carnet aitfaska negoce ft A5 EN 4 SOUCHES",
-      "prix": 45.0,
-      "stock": 0
     },
     {
       "ref": "CAR-CF210",
@@ -3534,12 +3450,6 @@
       "ref": "CAR-PC",
       "designation": "CARTABLE HP PC PORTABLE ORIGINAL",
       "prix": 300.0,
-      "stock": 0
-    },
-    {
-      "ref": "CARTE",
-      "designation": "CARTE D'ETUDIANT COULEUR RECTO VERSO",
-      "prix": 2.0,
       "stock": 0
     },
     {
@@ -4629,12 +4539,6 @@
       "stock": 8
     },
     {
-      "ref": "CL001",
-      "designation": "CL",
-      "prix": 50.0,
-      "stock": 0
-    },
-    {
       "ref": "CL-006",
       "designation": "Clavier Numerique Sans Fil",
       "prix": 100.0,
@@ -4935,12 +4839,6 @@
       "stock": 20
     },
     {
-      "ref": "CR-1",
-      "designation": "service certificat de propriété",
-      "prix": 120.0,
-      "stock": 0
-    },
-    {
       "ref": "CR-1.5M",
       "designation": "CABLE RESEAU CAT6 1.5M",
       "prix": 15.0,
@@ -5022,12 +4920,6 @@
       "ref": "CR2-1.5",
       "designation": "CABLE SOUPLE 2*1.5 AJER 100M",
       "prix": 7.0,
-      "stock": 0
-    },
-    {
-      "ref": "CR250G",
-      "designation": "CARTE FT 16*12cm imp R/V sur papier couché 250gr \"PAUL CLAUDEL\"",
-      "prix": 0.0,
       "stock": 0
     },
     {
@@ -5481,12 +5373,6 @@
       "stock": 1
     },
     {
-      "ref": "D3360",
-      "designation": "DELL Precision 3660 TWR i7-13700 16Go 512Go SSD Nvidia T400 , 4GB Win",
-      "prix": 18320.0,
-      "stock": 0
-    },
-    {
       "ref": "D-3581-I7",
       "designation": "DELL Precision 3581 Intel CoreT i7-13700H 16 Go 512SSD NVMe",
       "prix": 0.0,
@@ -5532,12 +5418,6 @@
       "ref": "D-6796",
       "designation": "TABLE STYLO DELI STAR AVEC STYLO NOIR",
       "prix": 20.0,
-      "stock": 0
-    },
-    {
-      "ref": "D7020I7",
-      "designation": "DELL OPTIPLEX 7020 PLUS MT i7-14700 16Go 512Go SSD Ubuntu 36M",
-      "prix": 11000.0,
       "stock": 0
     },
     {
@@ -5781,12 +5661,6 @@
       "stock": 0
     },
     {
-      "ref": "DEP-300G",
-      "designation": "Dépliant FT 27.9*21.5 imp R/V sur papier couché 300gr",
-      "prix": 2.8,
-      "stock": 0
-    },
-    {
       "ref": "DFS-001",
       "designation": "DATEUR FRANCAIS DATE STAMP",
       "prix": 18.0,
@@ -5952,12 +5826,6 @@
       "ref": "DO-7020",
       "designation": "DELL OPTIPLEX 7020 MT i5-14500 8Go 512 Go SSD",
       "prix": 6350.0,
-      "stock": 0
-    },
-    {
-      "ref": "DOS-A3",
-      "designation": "DOSSIER AMP FO A3 IMP R1 CLR NOIR SUR PAPIER BRISTOL JAUNE 300G",
-      "prix": 3.0,
       "stock": 0
     },
     {
@@ -6361,12 +6229,6 @@
       "designation": "ENSEMBLE SET DE BUREAU 7 PCS METAL CROWN 3592T",
       "prix": 220.0,
       "stock": 2
-    },
-    {
-      "ref": "E14-125U5",
-      "designation": "LENOVO E14 Ultra 5-125U 14\"WUXGA 8 Go 512 Go SSD Freedos Black + Topl",
-      "prix": 11080.0,
-      "stock": 0
     },
     {
       "ref": "E232",
@@ -7185,21 +7047,9 @@
       "stock": 0
     },
     {
-      "ref": "FF-A5IMP",
-      "designation": "IMP COUVERTURE DE LIVRE FF A5 IMP R° SUR PAPIER COUCHE AVEC PELLICULA",
-      "prix": 40.0,
-      "stock": 0
-    },
-    {
       "ref": "FICHE",
       "designation": "FICHE MALE",
       "prix": 0.0,
-      "stock": 0
-    },
-    {
-      "ref": "FL-FTA5",
-      "designation": "FLYER \"CENTRE AMERICAIN\" FT A5 imp r/v sur papier couché 135gr",
-      "prix": 0.7,
       "stock": 0
     },
     {
@@ -7251,12 +7101,6 @@
       "stock": 3
     },
     {
-      "ref": "FRAIS",
-      "designation": "FRAIS DE TRANSPORT",
-      "prix": 0.0,
-      "stock": 0
-    },
-    {
       "ref": "FR-Y1",
       "designation": "ECOUTER BLUETOOTH BURDER FROM-Y1 SPORT EARPHONE",
       "prix": 180.0,
@@ -7272,12 +7116,6 @@
       "ref": "FT-A5",
       "designation": "Carnet FT A5 imp sur papier NCR en 2 souches en 50 F 2MM BETON",
       "prix": 30.0,
-      "stock": 0
-    },
-    {
-      "ref": "FT-A5-170G",
-      "designation": "DEPLIANT 40*14cm  3 VOLETS PAPIER COUCHE 170g",
-      "prix": 5.0,
       "stock": 0
     },
     {
@@ -8577,12 +8415,6 @@
       "stock": 0
     },
     {
-      "ref": "HRW03195",
-      "designation": "PHOTOCOPIE NOIR A4 SERIAL N°A7AK027004462",
-      "prix": 0.4,
-      "stock": 0
-    },
-    {
       "ref": "HS-020",
       "designation": "ECOUTEUR TYPE-C HS-020 PLUSTAR",
       "prix": 50.0,
@@ -8703,45 +8535,15 @@
       "stock": 2
     },
     {
-      "ref": "IM-001",
-      "designation": "IMPRESSION NOIR A4",
-      "prix": 1.0,
-      "stock": 0
-    },
-    {
-      "ref": "IM002",
-      "designation": "IMPRESSION COULEUR A4",
-      "prix": 2.0,
-      "stock": 0
-    },
-    {
-      "ref": "IM003",
-      "designation": "IMPRESSION COULEUR A3",
-      "prix": 3.0,
-      "stock": 0
-    },
-    {
       "ref": "IM3251",
       "designation": "IMPRIMANTE EPSON  L3251",
       "prix": 1900.0,
       "stock": 5
     },
     {
-      "ref": "IMAD",
-      "designation": "SERVICE IMAD",
-      "prix": 20.0,
-      "stock": 0
-    },
-    {
       "ref": "IMG680",
       "designation": "BLOCNTE VIP POWERBANK MAGNET UMG-680",
       "prix": 500.0,
-      "stock": 0
-    },
-    {
-      "ref": "IMP300G",
-      "designation": "CARTE VISITE FT 8.5*5cm PAPIER COUCHE 300 GRS / Avec pelliculage mat",
-      "prix": 0.6,
       "stock": 0
     },
     {
@@ -9435,50 +9237,8 @@
       "stock": 0
     },
     {
-      "ref": "LO_2023C",
-      "designation": "LOCATION COPIEUR NOIR ET BLAN",
-      "prix": 750.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_447DW",
-      "designation": "LOCATION HP COLOR LASER PRO 447FDW  IMP. MULTIFONCTION",
-      "prix": 389.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_DFX-9000",
-      "designation": "LOCATION EPSON IMPRIMANTE MATRICIELLE DFX-9000",
-      "prix": 4900.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_LQ-2190",
-      "designation": "LOCATION EPSON MATRICIELLE LQ-2190",
-      "prix": 1050.0,
-      "stock": 0
-    },
-    {
       "ref": "LO_LX-350",
       "designation": "LOCATION IMPRIMANTE EPSON LX-350",
-      "prix": 138.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_M176",
-      "designation": "LOCATION HP COLOR LASER PRO M176N IMP.MULTIFONCTION",
-      "prix": 395.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_M2020",
-      "designation": "LOCATION IMPRIMANTE SAMSUNG M2020 NOIR",
-      "prix": 138.0,
-      "stock": 0
-    },
-    {
-      "ref": "LO_M402",
-      "designation": "LOCATION IMPRIMANTE LASER JET M402DNE NOIR",
       "prix": 138.0,
       "stock": 0
     },
@@ -9829,12 +9589,6 @@
       "designation": "CHARGEUR MAC 60 W",
       "prix": 350.0,
       "stock": 2
-    },
-    {
-      "ref": "MAI005",
-      "designation": "installation et mise en service + formation",
-      "prix": 120.0,
-      "stock": 0
     },
     {
       "ref": "MAP-24/6",
@@ -10191,12 +9945,6 @@
       "stock": 1
     },
     {
-      "ref": "MT007",
-      "designation": "MAINTENANCE  DU MATERIEL INFORMATIQUE",
-      "prix": 12375.0,
-      "stock": 0
-    },
-    {
       "ref": "MTK04",
       "designation": "CLAVIER USB NORMAIL NT-K8236S",
       "prix": 60.0,
@@ -10224,12 +9972,6 @@
       "ref": "MY-731",
       "designation": "CABLE TYPE C USB EMY MY-731",
       "prix": 30.0,
-      "stock": 0
-    },
-    {
-      "ref": "N003",
-      "designation": "LA NOTE",
-      "prix": 600.0,
       "stock": 0
     },
     {
@@ -10363,18 +10105,6 @@
       "designation": "NEXANS BOBINE CABLE INFORMATIQUE CAT6 ORANGE 500M",
       "prix": 7.5,
       "stock": 4
-    },
-    {
-      "ref": "NGF000",
-      "designation": "BACHE \"RODIN\" FT 3*1.60m",
-      "prix": 450.0,
-      "stock": 0
-    },
-    {
-      "ref": "NGF003",
-      "designation": "AFFICHE FT 58*90 cm Impression sur Vinyle avec découpe",
-      "prix": 52.0,
-      "stock": 0
     },
     {
       "ref": "NGF008",
@@ -10608,12 +10338,6 @@
       "ref": "P005",
       "designation": "PORTE STYLO",
       "prix": 20.0,
-      "stock": 0
-    },
-    {
-      "ref": "P01",
-      "designation": "PLASTIFICATION",
-      "prix": 10.0,
       "stock": 0
     },
     {
@@ -11187,21 +10911,9 @@
       "stock": 19
     },
     {
-      "ref": "PL001",
-      "designation": "PL",
-      "prix": 120.0,
-      "stock": 0
-    },
-    {
       "ref": "PLA05",
       "designation": "PLATEAU AMOUD",
       "prix": 350.0,
-      "stock": 0
-    },
-    {
-      "ref": "PLAN-01",
-      "designation": "IMPRESSION PLAN COULEUR",
-      "prix": 50.0,
       "stock": 0
     },
     {
@@ -11961,12 +11673,6 @@
       "stock": 1
     },
     {
-      "ref": "R250G",
-      "designation": "CARTE FT 16*10cm imp R/V sur papier bristol 250gr \"RODIN\"",
-      "prix": 2.0,
-      "stock": 0
-    },
-    {
       "ref": "R2MM",
       "designation": "REGISTRE NOIR 2 MM",
       "prix": 25.0,
@@ -12081,12 +11787,6 @@
       "stock": 0
     },
     {
-      "ref": "RAC313",
-      "designation": "RACLETTE TAPIRE KONICA BH C224/454 W/B",
-      "prix": 200.0,
-      "stock": 0
-    },
-    {
       "ref": "RAM04",
       "designation": "RAM 16GO PC 4",
       "prix": 480.0,
@@ -12127,12 +11827,6 @@
       "designation": "RAMETTE PAPIER BUSINESS PAPER A4",
       "prix": 50.0,
       "stock": 1
-    },
-    {
-      "ref": "RC",
-      "designation": "REGISTRE DE COMMERCE",
-      "prix": 50.0,
-      "stock": 0
     },
     {
       "ref": "RC005",
@@ -12777,12 +12471,6 @@
       "stock": 0
     },
     {
-      "ref": "SAGE-100",
-      "designation": "INSTALLATION SAGE 100 GESTION COMMERCIALE",
-      "prix": 3000.0,
-      "stock": 0
-    },
-    {
       "ref": "SAM-A05-64G",
       "designation": "SAMSUNG Smartphone A05 6.7 Helio G85 4Go 64Go Android 4G",
       "prix": 1190.0,
@@ -12966,12 +12654,6 @@
       "ref": "S-CAFE",
       "designation": "SUCRE POUR CAFE",
       "prix": 7.0,
-      "stock": 0
-    },
-    {
-      "ref": "SCAN-01",
-      "designation": "SCAN DOC",
-      "prix": 3.0,
       "stock": 0
     },
     {
@@ -13365,12 +13047,6 @@
       "stock": 1
     },
     {
-      "ref": "SP1",
-      "designation": "SPIRAL DOCUMENT",
-      "prix": 7.0,
-      "stock": 0
-    },
-    {
       "ref": "SP-1.5M",
       "designation": "CABLE IMPRIMANTE HIGH SPEED 1,5M",
       "prix": 30.0,
@@ -13719,12 +13395,6 @@
       "stock": 0
     },
     {
-      "ref": "T14U7",
-      "designation": "LENOVO Thinkpad T14s Ultra 7-155U 14\"WUXGA 16 Go 1 To SSD Win 11 PRO",
-      "prix": 17800.0,
-      "stock": 0
-    },
-    {
       "ref": "T150/100",
       "designation": "TABLEAU MAGNETIQUE 150/100",
       "prix": 0.0,
@@ -13794,12 +13464,6 @@
       "ref": "T513-N",
       "designation": "TONER KONICA ADAPTABLE TN513BK NOIR",
       "prix": 350.0,
-      "stock": 0
-    },
-    {
-      "ref": "T520",
-      "designation": "LOCATION TRACEUR HP T520",
-      "prix": 200.0,
       "stock": 0
     },
     {
@@ -14145,12 +13809,6 @@
       "stock": 2
     },
     {
-      "ref": "TEAM-V",
-      "designation": "TeamViewer Premium 12 MOIS",
-      "prix": 9500.0,
-      "stock": 0
-    },
-    {
       "ref": "TED416G",
       "designation": "Team Group Elite 16GB DDR4 3200MHZ",
       "prix": 0.0,
@@ -14227,12 +13885,6 @@
       "designation": "TONER HP CB542A JAUNE",
       "prix": 300.0,
       "stock": 1
-    },
-    {
-      "ref": "TICKET",
-      "designation": "IMPRESSION Ticket",
-      "prix": 75.0,
-      "stock": 0
     },
     {
       "ref": "TICKET12",
