@@ -83,6 +83,12 @@ OUTPUT_PATH = REPO_ROOT / "data" / "products.json"
 #
 # Le stock est sommé sur tous les dépôts sauf si CONFIG["depot"] est
 # renseigné, auquel cas seul ce dépôt est pris en compte.
+#
+# La famille FA_CodeFamille = 'SER' correspond aux codes de service
+# internes (ex: "SERVICE YOUSEFFE", "SERVICE AZZEDDINE" — un article
+# par employé, sans rapport avec le catalogue client) : exclue de la
+# boutique publique. Les autres familles de services facturables
+# (ex: LOCATION) restent affichées.
 SQL_QUERY = """
 SELECT
     a.AR_Ref                         AS AR_Ref,
@@ -94,6 +100,7 @@ LEFT JOIN F_ARTSTOCK s
     ON s.AR_Ref = a.AR_Ref
     {depot_filter}
 WHERE a.AR_Ref <> ''
+  AND (a.FA_CodeFamille IS NULL OR a.FA_CodeFamille <> 'SER')
 GROUP BY a.AR_Ref, a.AR_Design, a.AR_PrixVen
 ORDER BY a.AR_Ref
 """
