@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:39:25",
-  "count": 2582,
+  "generated_at": "2026-08-08T16:17:57",
+  "count": 2575,
   "products": [
     {
       "ref": "000001",
@@ -21,22 +21,10 @@
       "stock": 3
     },
     {
-      "ref": "0006",
-      "designation": "SERVICE ENT ET REPA",
-      "prix": 200.0,
-      "stock": 0
-    },
-    {
       "ref": "0012N",
       "designation": "AGRAF STAPLES 24/6 0012N",
       "prix": 7.0,
       "stock": 12
-    },
-    {
-      "ref": "01-SANAE",
-      "designation": "SERVICE SOUMIA",
-      "prix": 20.0,
-      "stock": 0
     },
     {
       "ref": "0323",
@@ -91,18 +79,6 @@
       "designation": "SWITCHE 5P HIKVISIO 10-100",
       "prix": 100.0,
       "stock": 0
-    },
-    {
-      "ref": "101010",
-      "designation": "101010",
-      "prix": 2.0,
-      "stock": 0
-    },
-    {
-      "ref": "1011",
-      "designation": "PIECE DE CAISSE RECETTES F2000",
-      "prix": 30.0,
-      "stock": 2
     },
     {
       "ref": "101368",
@@ -12555,12 +12531,6 @@
       "stock": 1
     },
     {
-      "ref": "SANAE",
-      "designation": "SERVICE SANAE",
-      "prix": 20.0,
-      "stock": 0
-    },
-    {
       "ref": "SAV-1L",
       "designation": "SAVON LIQUIDE VAISSELLE FAIRY",
       "prix": 35.0,
@@ -12774,18 +12744,6 @@
       "ref": "SE2725",
       "designation": "Dell 27 Monitor - SE2725H - 68.5cm (27) Full HD (1080p) 1920 x 1080 3",
       "prix": 1600.0,
-      "stock": 0
-    },
-    {
-      "ref": "SERV01",
-      "designation": "SERVICE RAOUIA",
-      "prix": 20.0,
-      "stock": 0
-    },
-    {
-      "ref": "SERV-A",
-      "designation": "SERVICE AUTO",
-      "prix": 0.0,
       "stock": 0
     },
     {

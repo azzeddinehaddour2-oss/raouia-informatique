@@ -84,11 +84,22 @@ OUTPUT_PATH = REPO_ROOT / "data" / "products.json"
 # Le stock est sommé sur tous les dépôts sauf si CONFIG["depot"] est
 # renseigné, auquel cas seul ce dépôt est pris en compte.
 #
-# La famille FA_CodeFamille = 'SER' correspond aux codes de service
-# internes (ex: "SERVICE YOUSEFFE", "SERVICE AZZEDDINE" — un article
-# par employé, sans rapport avec le catalogue client) : exclue de la
-# boutique publique. Les autres familles de services facturables
-# (ex: LOCATION) restent affichées.
+# Exclusions d'articles internes/tests, non destinés à la boutique publique :
+#   - FA_CodeFamille = 'SER'  : codes de service internes par employé
+#                               (ex: "SERVICE YOUSEFFE", "SERVICE AZZEDDINE").
+#                               Les familles de services facturables restent
+#                               affichées (ex: LOCATION).
+#   - AR_Design contient 'SERVICE' : filet de sécurité complémentaire pour les
+#                               articles de service hors famille SER (ex:
+#                               "01-SANAE / SERVICE SOUMIA", famille TON).
+#                               ATTENTION : ceci exclut aussi tout article
+#                               légitime dont la désignation contient le mot
+#                               "service" (ex: "installation et mise en
+#                               service"). Retirer cette ligne si besoin.
+#   - AR_Ref IN ('101010','1011') : références de test / usage interne
+#                               identifiées manuellement (article de test,
+#                               pièce de caisse comptable).
+#   - AR_Sommeil = 1          : article mis en sommeil dans Sage (inactif).
 SQL_QUERY = """
 SELECT
     a.AR_Ref                         AS AR_Ref,
@@ -101,6 +112,9 @@ LEFT JOIN F_ARTSTOCK s
     {depot_filter}
 WHERE a.AR_Ref <> ''
   AND (a.FA_CodeFamille IS NULL OR a.FA_CodeFamille <> 'SER')
+  AND a.AR_Design NOT LIKE '%SERVICE%'
+  AND a.AR_Ref NOT IN ('101010', '1011')
+  AND ISNULL(a.AR_Sommeil, 0) = 0
 GROUP BY a.AR_Ref, a.AR_Design, a.AR_PrixVen
 ORDER BY a.AR_Ref
 """
