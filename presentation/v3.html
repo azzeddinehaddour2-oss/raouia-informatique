@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAOUIA INFORMATIQUE — V3 Innovation Marocaine</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{emerald:{DEFAULT:'#0E4D45',deep:'#0B3B35',dark:'#072B26'},gold:{DEFAULT:'#C9A227',light:'#E4C558'},sand:'#F6F1E7',ink:'#1A1F1E',clay:'#5C5A4E'},fontFamily:{heading:['Georgia','"Times New Roman"','serif'],body:['-apple-system','BlinkMacSystemFont','"Segoe UI"','Roboto','sans-serif']}}}}
+</script>
+<style>
+body{overflow-x:hidden}
+#wipe{transform:scaleY(1);transform-origin:top}
+.zellige{animation:spin 60s linear infinite;transform-origin:center;will-change:transform}
+@keyframes spin{to{transform:rotate(360deg)}}
+.zellige-fast{animation:spin 38s linear infinite reverse}
+.layer{opacity:0;clip-path:inset(0 0 100% 0)}
+.reveal{opacity:0}
+.mag{will-change:transform}
+.gold-frame{position:relative}
+.gold-frame::before{content:'';position:absolute;inset:0;border:1px solid rgba(201,162,39,.35);border-radius:inherit;transform:scale(1);transition:transform .5s cubic-bezier(.22,1,.36,1),border-color .5s ease;pointer-events:none}
+.gold-frame:hover::before{transform:scale(1.035);border-color:rgba(201,162,39,.9)}
+.gold-sheen{background:linear-gradient(110deg,#C9A227 20%,#F3DFA0 48%,#C9A227 70%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:sheen 6s ease-in-out infinite}
+@keyframes sheen{0%,100%{background-position:0% 0}50%{background-position:100% 0}}
+.arch{border-radius:9999px 9999px 0 0}
+@media (prefers-reduced-motion:reduce){.layer,.reveal{opacity:1;clip-path:none}.zellige,.zellige-fast,.gold-sheen{animation:none}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body class="font-body bg-sand text-ink antialiased">
+
+<div id="wipe" class="fixed inset-0 z-[100] bg-emerald pointer-events-none" aria-hidden="true"></div>
+
+<svg class="fixed -top-40 -right-40 w-[36rem] h-[36rem] opacity-[0.08] pointer-events-none zellige" viewBox="0 0 200 200" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#0E4D45" stroke-width="1.2">
+    <path d="M100 10 L155 45 L155 115 L100 150 L45 115 L45 45 Z"/>
+    <path d="M100 30 L138 55 L138 105 L100 130 L62 105 L62 55 Z"/>
+    <path d="M100 10 L100 150 M45 45 L155 115 M155 45 L45 115"/>
+    <circle cx="100" cy="80" r="18"/><circle cx="100" cy="80" r="34"/>
+  </g>
+</svg>
+<svg class="fixed -bottom-48 -left-48 w-[40rem] h-[40rem] opacity-[0.07] pointer-events-none zellige-fast" viewBox="0 0 200 200" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#C9A227" stroke-width="1.2">
+    <rect x="40" y="40" width="120" height="120" transform="rotate(45 100 100)"/>
+    <rect x="60" y="60" width="80" height="80" transform="rotate(45 100 100)"/>
+    <rect x="40" y="40" width="120" height="120"/>
+    <circle cx="100" cy="100" r="22"/>
+  </g>
+</svg>
+
+<header class="sticky top-0 z-50 bg-sand/90 backdrop-blur border-b border-gold/25">
+  <div class="max-w-6xl mx-auto px-6 h-[72px] flex items-center justify-between">
+    <a href="index.html" data-nav data-color="#060B18" class="flex items-center gap-3" aria-label="Retour au hub">
+      <span class="w-10 h-10 rotate-45 rounded-md bg-emerald flex items-center justify-center" aria-hidden="true"><span class="-rotate-45 font-heading text-gold-light font-bold">R</span></span>
+      <span class="font-heading font-bold text-emerald text-lg">RAOUIA <span class="text-xs uppercase tracking-widest text-clay font-body font-normal">V3 · Maroc</span></span>
+    </a>
+    <nav aria-label="Variantes" class="flex items-center gap-5 text-sm font-medium">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-gold transition-colors">Hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hidden sm:inline hover:text-gold transition-colors">V1</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="hidden sm:inline hover:text-gold transition-colors">V2</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="hidden sm:inline hover:text-gold transition-colors">V4</a>
+      <a href="#contact" class="mag gold-frame bg-emerald text-sand font-semibold px-5 py-2.5 rounded-full">Audit gratuit</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="relative overflow-hidden" aria-labelledby="h1">
+  <div class="max-w-6xl mx-auto px-6 pt-20 pb-24 lg:pt-28 lg:pb-32 text-center relative">
+    <p data-hero class="inline-flex items-center gap-3 text-gold text-sm font-semibold uppercase tracking-[0.3em] mb-8"><span class="w-2 h-2 rotate-45 bg-gold" aria-hidden="true"></span>Mohammedia · Casablanca<span class="w-2 h-2 rotate-45 bg-gold" aria-hidden="true"></span></p>
+    <h1 id="h1" data-hero class="font-heading text-4xl sm:text-5xl lg:text-7xl font-bold text-emerald leading-[1.08] mb-8 max-w-4xl mx-auto">L'artisanat de la technologie,<br>au service de <span class="gold-sheen">votre entreprise</span>.</h1>
+    <p data-hero class="text-lg text-clay max-w-2xl mx-auto mb-10 leading-relaxed">RAOUIA INFORMATIQUE tisse votre système d'information comme un maître artisan : matériel, maintenance, réseaux, cybersécurité, vidéosurveillance et solutions de bureau.</p>
+    <div data-hero class="flex flex-col sm:flex-row justify-center gap-4">
+      <a href="#contact" class="mag gold-frame inline-flex items-center justify-center gap-2 bg-emerald text-sand font-semibold px-8 py-4 rounded-full">Demander un audit gratuit</a>
+      <a href="#services" class="mag inline-flex items-center justify-center border-2 border-emerald/30 hover:border-emerald text-emerald font-semibold px-8 py-4 rounded-full transition-colors duration-300">Découvrir nos savoir-faire</a>
+    </div>
+  </div>
+  <div data-hero class="max-w-6xl mx-auto px-6 grid grid-cols-2 lg:grid-cols-4 gap-4 pb-20">
+    <div class="arch bg-emerald text-sand pt-10 pb-7 px-4 text-center gold-frame"><p class="font-heading text-4xl font-bold text-gold-light" data-counter="15" data-suffix="+">0</p><p class="text-sm text-sand/70 mt-1">années d'expérience</p></div>
+    <div class="arch bg-emerald text-sand pt-10 pb-7 px-4 text-center gold-frame"><p class="font-heading text-4xl font-bold text-gold-light" data-counter="200" data-suffix="+">0</p><p class="text-sm text-sand/70 mt-1">entreprises servies</p></div>
+    <div class="arch bg-emerald text-sand pt-10 pb-7 px-4 text-center gold-frame"><p class="font-heading text-4xl font-bold text-gold-light" data-counter="4" data-prefix="&lt; " data-suffix="h">0</p><p class="text-sm text-sand/70 mt-1">d'intervention sur site</p></div>
+    <div class="arch bg-emerald text-sand pt-10 pb-7 px-4 text-center gold-frame"><p class="font-heading text-4xl font-bold text-gold-light" data-counter="99" data-suffix=",5 %">0</p><p class="text-sm text-sand/70 mt-1">de disponibilité</p></div>
+  </div>
+</section>
+
+<section id="services" class="bg-emerald text-sand py-24 lg:py-32 relative overflow-hidden" aria-labelledby="h-services">
+  <svg class="absolute top-10 left-1/2 -translate-x-1/2 w-[52rem] h-[52rem] opacity-[0.06] pointer-events-none zellige" viewBox="0 0 200 200" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#C9A227" stroke-width="1"><path d="M100 5 L160 40 L160 120 L100 155 L40 120 L40 40 Z"/><path d="M100 5 L100 155 M40 40 L160 120 M160 40 L40 120"/><circle cx="100" cy="80" r="40"/></g></svg>
+  <div class="max-w-6xl mx-auto px-6 relative">
+    <div class="layer text-center mb-16">
+      <p class="text-gold-light text-sm font-semibold uppercase tracking-[0.3em] mb-4">Nos savoir-faire</p>
+      <h2 id="h-services" class="font-heading text-3xl lg:text-5xl font-bold">Six métiers, une même exigence</h2>
+    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Matériel &amp; informatique pro</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Postes, portables, stations</li><li>◆ Serveurs &amp; stockage</li><li>◆ Conseil &amp; installation</li></ul></article>
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Maintenance &amp; infogérance</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Contrats SLA &amp; supervision</li><li>◆ Audit, conseil, schéma directeur</li><li>◆ Assurance informatique</li></ul></article>
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Réseaux, serveurs &amp; cloud</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Wi-Fi professionnel</li><li>◆ Cloud &amp; on-premise</li><li>◆ Microsoft 365 · Workspace</li></ul></article>
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Cybersécurité</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Sauvegarde chiffrée</li><li>◆ Firewall nouvelle génération</li><li>◆ Plan de reprise testé</li></ul></article>
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Sécurité physique</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Caméras IP &amp; vidéosurveillance</li><li>◆ Alarmes anti-intrusion</li><li>◆ Contrôle d'accès &amp; biométrie</li></ul></article>
+      <article class="layer gold-frame bg-emerald-deep rounded-2xl p-7 hover:bg-emerald-dark transition-colors duration-500"><p class="text-gold font-heading text-3xl mb-4" aria-hidden="true">۞</p><h3 class="font-heading text-xl font-bold mb-3">Solutions de bureau</h3><ul class="space-y-2 text-sm text-sand/70"><li>◆ Téléphonie IP</li><li>◆ Impression &amp; photocopieurs</li><li>◆ Consommables &amp; parc</li></ul></article>
+    </div>
+  </div>
+</section>
+
+<section class="py-24 lg:py-32" aria-labelledby="h-cas">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="layer text-center mb-16">
+      <p class="text-gold text-sm font-semibold uppercase tracking-[0.3em] mb-4">Nos réalisations</p>
+      <h2 id="h-cas" class="font-heading text-3xl lg:text-5xl font-bold text-emerald">Des œuvres qui durent</h2>
+    </div>
+    <div class="grid lg:grid-cols-3 gap-6">
+      <article class="layer gold-frame bg-white rounded-2xl overflow-hidden shadow-[0_16px_40px_-16px_rgba(14,77,69,.25)]">
+        <div class="arch bg-emerald h-20 flex items-end justify-center pb-3"><p class="text-gold-light text-xs font-semibold uppercase tracking-widest">Industrie · Mohammedia</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-emerald mb-3">Infogérance d'un site de 120 postes</h3><p class="text-sm text-clay leading-relaxed mb-5">Supervision proactive, renouvellement du parc, hotline dédiée.</p><p class="font-heading text-emerald"><span class="text-2xl font-bold text-gold">−82 %</span> d'incidents · <span class="text-2xl font-bold text-gold">45 min</span> de prise en charge</p></div>
+      </article>
+      <article class="layer gold-frame bg-white rounded-2xl overflow-hidden shadow-[0_16px_40px_-16px_rgba(14,77,69,.25)]">
+        <div class="arch bg-emerald h-20 flex items-end justify-center pb-3"><p class="text-gold-light text-xs font-semibold uppercase tracking-widest">Santé · Casablanca</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-emerald mb-3">Sécurisation d'une clinique multisite</h3><p class="text-sm text-clay leading-relaxed mb-5">Firewall NG, sauvegarde chiffrée, segmentation, PRA testé.</p><p class="font-heading text-emerald"><span class="text-2xl font-bold text-gold">0</span> perte de données · <span class="text-2xl font-bold text-gold">4 h</span> de reprise garantie</p></div>
+      </article>
+      <article class="layer gold-frame bg-white rounded-2xl overflow-hidden shadow-[0_16px_40px_-16px_rgba(14,77,69,.25)]">
+        <div class="arch bg-emerald h-20 flex items-end justify-center pb-3"><p class="text-gold-light text-xs font-semibold uppercase tracking-widest">Services · Casablanca</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-emerald mb-3">Migration M365 + téléphonie IP</h3><p class="text-sm text-clay leading-relaxed mb-5">60 collaborateurs migrés en un week-end, sans interruption.</p><p class="font-heading text-emerald"><span class="text-2xl font-bold text-gold">−35 %</span> de coûts télécoms · <span class="text-2xl font-bold text-gold">0</span> jour d'arrêt</p></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="bg-emerald-deep text-sand py-24 lg:py-32 relative overflow-hidden" aria-labelledby="h-temoin">
+  <svg class="absolute -bottom-24 -right-24 w-96 h-96 opacity-[0.08] zellige-fast" viewBox="0 0 200 200" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#C9A227" stroke-width="1.2"><rect x="50" y="50" width="100" height="100" transform="rotate(45 100 100)"/><rect x="50" y="50" width="100" height="100"/><circle cx="100" cy="100" r="26"/></g></svg>
+  <div class="max-w-4xl mx-auto px-6 text-center relative">
+    <h2 id="h-temoin" class="layer font-heading text-3xl lg:text-4xl font-bold mb-14">La parole à nos clients</h2>
+    <div class="space-y-10">
+      <figure class="layer"><blockquote class="font-heading text-xl lg:text-2xl leading-relaxed mb-4">« Depuis le contrat d'infogérance, la production ne s'arrête plus. Les délais annoncés sont tenus, mois après mois. »</blockquote><figcaption class="text-gold-light text-sm">Karim B. — Directeur d'usine, Mohammedia</figcaption></figure>
+      <div class="layer w-16 h-px bg-gold/50 mx-auto" aria-hidden="true"></div>
+      <figure class="layer"><blockquote class="font-heading text-xl lg:text-2xl leading-relaxed mb-4">« L'audit a révélé des failles jamais signalées. La refonte sécurité a été menée sans perturber les soins. Un vrai partenaire. »</blockquote><figcaption class="text-gold-light text-sm">Dr Salma L. — Directrice de clinique, Casablanca</figcaption></figure>
+      <div class="layer w-16 h-px bg-gold/50 mx-auto" aria-hidden="true"></div>
+      <figure class="layer"><blockquote class="font-heading text-xl lg:text-2xl leading-relaxed mb-4">« Migration bouclée en un week-end. Le lundi matin, tout fonctionnait. »</blockquote><figcaption class="text-gold-light text-sm">Youssef E. — Associé gérant, Casablanca</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="py-24 lg:py-32" aria-labelledby="h-contact">
+  <div class="max-w-5xl mx-auto px-6 grid lg:grid-cols-2 gap-12 items-start">
+    <div class="layer">
+      <p class="text-gold text-sm font-semibold uppercase tracking-[0.3em] mb-4">Premier pas</p>
+      <h2 id="h-contact" class="font-heading text-3xl lg:text-4xl font-bold text-emerald mb-6">Votre audit informatique, offert</h2>
+      <p class="text-clay leading-relaxed mb-8">Un consultant analyse votre infrastructure et vous remet un rapport chiffré sous 5 jours ouvrés. Sans engagement.</p>
+      <ul class="space-y-3 text-clay mb-8">
+        <li>📞 <a href="tel:+212523000000" class="hover:text-gold transition-colors">+212 5 23 00 00 00</a></li>
+        <li>✉️ <a href="mailto:contact@raouia-informatique.ma" class="hover:text-gold transition-colors">contact@raouia-informatique.ma</a></li>
+        <li>📍 Mohammedia — région Casablanca-Settat</li>
+      </ul>
+      <a href="https://wa.me/212600000000" target="_blank" rel="noopener" class="mag inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1DA851] text-white font-semibold px-6 py-3.5 rounded-full transition-colors duration-300">WhatsApp Business</a>
+    </div>
+    <form action="/api/demande-audit" method="POST" class="layer gold-frame bg-white rounded-2xl p-8 shadow-[0_20px_50px_-20px_rgba(14,77,69,.3)]" aria-label="Formulaire de demande d'audit">
+      <h3 class="font-heading text-2xl font-bold text-emerald mb-6">Recevez votre audit sous 5 jours</h3>
+      <div class="space-y-5 mb-7">
+        <div><label for="v3-nom" class="block text-sm font-semibold text-emerald mb-1.5">Nom complet *</label><input id="v3-nom" name="nom" type="text" required class="w-full rounded-xl border border-gold/40 px-4 py-3 focus:border-emerald focus:ring-2 focus:ring-emerald/20 focus:outline-none"></div>
+        <div><label for="v3-ent" class="block text-sm font-semibold text-emerald mb-1.5">Entreprise *</label><input id="v3-ent" name="entreprise" type="text" required class="w-full rounded-xl border border-gold/40 px-4 py-3 focus:border-emerald focus:ring-2 focus:ring-emerald/20 focus:outline-none"></div>
+        <div><label for="v3-tel" class="block text-sm font-semibold text-emerald mb-1.5">Téléphone professionnel *</label><input id="v3-tel" name="telephone" type="tel" required class="w-full rounded-xl border border-gold/40 px-4 py-3 focus:border-emerald focus:ring-2 focus:ring-emerald/20 focus:outline-none"></div>
+        <div><label for="v3-besoin" class="block text-sm font-semibold text-emerald mb-1.5">Votre besoin principal *</label>
+          <select id="v3-besoin" name="besoin" required class="w-full rounded-xl border border-gold/40 px-4 py-3 bg-white focus:border-emerald focus:ring-2 focus:ring-emerald/20 focus:outline-none">
+            <option value="" disabled selected>Sélectionnez…</option><option value="infogerance">Maintenance / infogérance</option><option value="materiel">Matériel informatique</option><option value="reseaux">Réseaux &amp; cloud</option><option value="cyber">Cybersécurité</option><option value="physique">Vidéosurveillance / accès</option><option value="bureau">Téléphonie / impression</option>
+          </select></div>
+      </div>
+      <button type="submit" class="mag w-full bg-emerald text-sand font-bold text-lg px-7 py-4 rounded-full gold-frame">Recevoir mon audit gratuit</button>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="bg-emerald-dark text-sand/60">
+  <div class="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm">
+    <p>© 2026 RAOUIA INFORMATIQUE — V3 Innovation Marocaine · Mohammedia</p>
+    <nav aria-label="Variantes (pied de page)" class="flex gap-4">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-gold-light transition-colors">Hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hover:text-gold-light transition-colors">V1</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="hover:text-gold-light transition-colors">V2</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="hover:text-gold-light transition-colors">V4</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+gsap.registerPlugin(ScrollTrigger);
+var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var wipe=document.getElementById('wipe');
+if(reduce){
+  gsap.set(wipe,{scaleY:0});
+  gsap.set('[data-hero],.layer',{opacity:1,clipPath:'none',y:0,rotate:0});
+}else{
+  gsap.timeline()
+    .to(wipe,{scaleY:0,duration:.9,ease:'power4.inOut'})
+    .from('[data-hero]',{y:50,opacity:0,rotate:.6,stagger:.14,duration:1,ease:'power4.out'},'-=.4');
+  ScrollTrigger.batch('.layer',{start:'top 86%',onEnter:function(els){
+    gsap.to(els,{opacity:1,clipPath:'inset(0 0 0% 0)',y:0,rotate:0,stagger:.12,duration:1.1,ease:'power4.out',overwrite:true});
+  }});
+  gsap.set('.layer',{y:36,rotate:.8});
+}
+document.querySelectorAll('.mag').forEach(function(btn){
+  var bx=gsap.quickTo(btn,'x',{duration:.4,ease:'power3.out'});
+  var by=gsap.quickTo(btn,'y',{duration:.4,ease:'power3.out'});
+  btn.addEventListener('mousemove',function(e){
+    if(reduce)return;
+    var r=btn.getBoundingClientRect();
+    bx((e.clientX-(r.left+r.width/2))*.28);
+    by((e.clientY-(r.top+r.height/2))*.28);
+  });
+  btn.addEventListener('mouseleave',function(){bx(0);by(0);});
+});
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-counter'),10);
+  var prefix=el.getAttribute('data-prefix')||'';
+  var suffix=el.getAttribute('data-suffix')||'';
+  var obj={v:0};
+  function render(){el.innerHTML=prefix+Math.round(obj.v).toLocaleString('fr-FR')+suffix;}
+  if(reduce){obj.v=target;render();return;}
+  gsap.to(obj,{v:target,duration:1.7,ease:'power2.out',onUpdate:render,delay:1});
+}
+document.querySelectorAll('[data-counter]').forEach(runCounter);
+document.querySelectorAll('a[data-nav]').forEach(function(a){
+  a.addEventListener('click',function(e){
+    e.preventDefault();
+    var href=a.getAttribute('href');
+    if(reduce){location.href=href;return;}
+    wipe.style.backgroundColor=a.getAttribute('data-color');
+    gsap.set(wipe,{transformOrigin:'bottom'});
+    gsap.to(wipe,{scaleY:1,duration:.65,ease:'power4.inOut',onComplete:function(){location.href=href;}});
+  });
+});
+})();
+</script>
+</body>
+</html>

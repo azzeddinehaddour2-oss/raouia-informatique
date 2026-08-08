@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAOUIA INFORMATIQUE — V1 Corporate Premium</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:{DEFAULT:'#0B2447',light:'#19376D'},accent:{DEFAULT:'#F59E0B',hover:'#D97706'},success:'#059669',neutral:{50:'#F8FAFC',200:'#E2E8F0',400:'#94A3B8',600:'#475569',700:'#334155',900:'#0F172A'}},fontFamily:{heading:['Georgia','serif'],body:['-apple-system','BlinkMacSystemFont','"Segoe UI"','Roboto','sans-serif']},boxShadow:{card:'0 1px 3px rgba(11,36,71,.08)',lift:'0 20px 40px -16px rgba(11,36,71,.25)',cta:'0 4px 14px rgba(245,158,11,.35)'}}}}
+</script>
+<style>
+#wipe{transform:scaleY(1);transform-origin:top}
+.svc{position:relative;overflow:hidden}
+.svc .net path{stroke-dasharray:260;stroke-dashoffset:260;transition:stroke-dashoffset 1.1s cubic-bezier(.22,1,.36,1)}
+.svc .net circle{opacity:0;transition:opacity .5s ease .4s}
+.svc:hover .net path{stroke-dashoffset:0}
+.svc:hover .net circle{opacity:1}
+.reveal{opacity:0}
+.underlink{position:relative}
+.underlink::after{content:'';position:absolute;left:0;bottom:-4px;width:100%;height:2px;background:#F59E0B;transform:scaleX(0);transform-origin:left;transition:transform .3s cubic-bezier(.22,1,.36,1)}
+.underlink:hover::after{transform:scaleX(1)}
+@media (prefers-reduced-motion:reduce){.reveal{opacity:1}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body class="font-body bg-white text-neutral-700 antialiased overflow-x-hidden">
+
+<div id="wipe" class="fixed inset-0 z-[100] bg-primary pointer-events-none" aria-hidden="true"></div>
+
+<header class="bg-white/90 backdrop-blur sticky top-0 z-50 shadow-card">
+  <div class="max-w-6xl mx-auto px-6 h-[72px] flex items-center justify-between">
+    <a href="index.html" data-nav data-color="#060B18" class="flex items-center gap-3" aria-label="Retour au hub de présentation">
+      <span class="w-10 h-10 rounded bg-primary flex items-center justify-center font-heading text-accent font-bold" aria-hidden="true">R</span>
+      <span class="font-heading font-bold text-primary">RAOUIA <span class="text-xs uppercase tracking-widest text-neutral-600 font-body font-normal">V1 · Corporate</span></span>
+    </a>
+    <nav aria-label="Variantes" class="flex items-center gap-5 text-sm font-medium">
+      <a href="index.html" data-nav data-color="#060B18" class="underlink text-neutral-900 hover:text-primary">Hub</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="underlink hidden sm:inline text-neutral-900 hover:text-primary">V2</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="underlink hidden sm:inline text-neutral-900 hover:text-primary">V3</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="underlink hidden sm:inline text-neutral-900 hover:text-primary">V4</a>
+      <a href="#contact" class="bg-accent hover:bg-accent-hover text-primary font-semibold px-5 py-2.5 rounded shadow-cta transition-all duration-200 hover:-translate-y-0.5">Audit gratuit</a>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu">
+
+<section class="bg-primary text-white relative overflow-hidden" aria-labelledby="h1">
+  <svg class="absolute inset-0 w-full h-full opacity-10" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="hgrid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#F59E0B" stroke-width=".5"/></pattern></defs><rect width="100%" height="100%" fill="url(#hgrid)"/></svg>
+  <div class="max-w-6xl mx-auto px-6 py-20 lg:py-28 grid lg:grid-cols-12 gap-10 items-center relative">
+    <div class="lg:col-span-7">
+      <p data-hero class="inline-flex items-center gap-2 text-accent text-sm font-semibold uppercase tracking-widest mb-5"><span class="w-8 h-px bg-accent" aria-hidden="true"></span>Prestataire informatique B2B — Mohammedia</p>
+      <h1 id="h1" data-hero class="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] mb-6">L'informatique de votre entreprise, pilotée avec rigueur.</h1>
+      <p data-hero class="text-lg text-neutral-400 max-w-xl mb-9 leading-relaxed">Matériel, maintenance, réseaux, cloud, cybersécurité, vidéosurveillance et solutions de bureau. Un interlocuteur unique, des SLA écrits, des résultats mesurés.</p>
+      <div data-hero class="flex flex-col sm:flex-row gap-4">
+        <a href="#contact" class="inline-flex items-center justify-center gap-2 bg-accent hover:bg-accent-hover text-primary font-semibold px-7 py-3.5 rounded shadow-cta transition-all duration-200 hover:-translate-y-0.5">Demander un audit gratuit →</a>
+        <a href="#services" class="inline-flex items-center justify-center border border-white/30 hover:border-white hover:bg-white/5 text-white font-semibold px-7 py-3.5 rounded transition-all duration-200">Nos services</a>
+      </div>
+    </div>
+    <aside data-hero class="lg:col-span-5" aria-label="Chiffres de confiance">
+      <div class="bg-primary-light/60 border border-white/10 rounded-xl p-8 backdrop-blur">
+        <dl class="grid grid-cols-2 gap-6">
+          <div><dd class="font-heading text-4xl font-bold text-accent" data-counter="15" data-suffix="+">0</dd><dt class="text-sm text-neutral-400">années d'expérience B2B</dt></div>
+          <div><dd class="font-heading text-4xl font-bold text-accent" data-counter="200" data-suffix="+">0</dd><dt class="text-sm text-neutral-400">entreprises accompagnées</dt></div>
+          <div><dd class="font-heading text-4xl font-bold text-accent" data-counter="4" data-prefix="&lt; " data-suffix="h">0</dd><dt class="text-sm text-neutral-400">d'intervention sur site</dt></div>
+          <div><dd class="font-heading text-4xl font-bold text-accent" data-counter="99" data-suffix=",5 %">0</dd><dt class="text-sm text-neutral-400">de disponibilité garantie</dt></div>
+        </dl>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="bg-neutral-50 border-b border-neutral-200" aria-labelledby="h-clients">
+  <div class="max-w-6xl mx-auto px-6 py-10">
+    <h2 id="h-clients" class="text-center text-sm font-semibold uppercase tracking-widest text-neutral-600 mb-8">Ils nous font confiance</h2>
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 items-center" role="list">
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">INDUSTRIA MAROC</span></li>
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">CLINIQUE ATLAS</span></li>
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">FIDUCIA CONSEIL</span></li>
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">LOGIMED</span></li>
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">TRANSAFRIC</span></li>
+      <li class="reveal flex justify-center"><span class="font-heading font-bold text-neutral-400 hover:text-primary transition-colors duration-300">HÔTEL MIRAMAR</span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="services" class="py-20 lg:py-28" aria-labelledby="h-services">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="max-w-3xl mb-12 reveal">
+      <p class="text-accent-hover text-sm font-semibold uppercase tracking-widest mb-3">Catalogue complet</p>
+      <h2 id="h-services" class="font-heading text-3xl lg:text-4xl font-bold text-primary">Six pôles d'expertise, un seul partenaire</h2>
+    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M4 60 L30 34 L58 44 L92 6" stroke="#F59E0B" stroke-width="1.5"/><circle cx="30" cy="34" r="3" fill="#F59E0B"/><circle cx="58" cy="44" r="3" fill="#F59E0B"/><circle cx="92" cy="6" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Matériel &amp; informatique professionnelle</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Postes, portables, stations de travail</li><li>✓ Serveurs, stockage, équipements réseau</li><li>✓ Conseil, dimensionnement, installation</li></ul>
+      </article>
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M4 10 L34 40 L60 20 L92 54" stroke="#F59E0B" stroke-width="1.5"/><circle cx="34" cy="40" r="3" fill="#F59E0B"/><circle cx="60" cy="20" r="3" fill="#F59E0B"/><circle cx="92" cy="54" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Maintenance &amp; infogérance</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Contrats de maintenance avec SLA</li><li>✓ Audit, conseil, schéma directeur</li><li>✓ Assurance informatique &amp; continuité</li></ul>
+      </article>
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M6 32 L32 12 L52 50 L90 26" stroke="#F59E0B" stroke-width="1.5"/><circle cx="32" cy="12" r="3" fill="#F59E0B"/><circle cx="52" cy="50" r="3" fill="#F59E0B"/><circle cx="90" cy="26" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Réseaux, serveurs &amp; cloud</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Wi-Fi professionnel &amp; câblage</li><li>✓ Cloud &amp; serveurs on-premise</li><li>✓ Microsoft 365 · Google Workspace</li></ul>
+      </article>
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M4 50 L28 16 L62 34 L92 10" stroke="#F59E0B" stroke-width="1.5"/><circle cx="28" cy="16" r="3" fill="#F59E0B"/><circle cx="62" cy="34" r="3" fill="#F59E0B"/><circle cx="92" cy="10" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Cybersécurité</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Sauvegarde locale &amp; externalisée</li><li>✓ Firewall nouvelle génération</li><li>✓ Plan de reprise d'activité testé</li></ul>
+      </article>
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M6 14 L36 44 L64 8 L90 40" stroke="#F59E0B" stroke-width="1.5"/><circle cx="36" cy="44" r="3" fill="#F59E0B"/><circle cx="64" cy="8" r="3" fill="#F59E0B"/><circle cx="90" cy="40" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Sécurité physique</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Caméras IP &amp; vidéosurveillance</li><li>✓ Alarmes anti-intrusion</li><li>✓ Contrôle d'accès badge &amp; biométrie</li></ul>
+      </article>
+      <article class="svc reveal bg-white border border-neutral-200 rounded-xl p-7 shadow-card hover:shadow-lift hover:-translate-y-1.5 hover:border-primary/40 transition-all duration-300">
+        <svg class="net absolute top-3 right-3 w-24 h-16" viewBox="0 0 96 64" fill="none" aria-hidden="true"><path d="M4 30 L30 54 L58 14 L92 34" stroke="#F59E0B" stroke-width="1.5"/><circle cx="30" cy="54" r="3" fill="#F59E0B"/><circle cx="58" cy="14" r="3" fill="#F59E0B"/><circle cx="92" cy="34" r="3" fill="#F59E0B"/></svg>
+        <h3 class="font-heading text-xl font-bold text-primary mb-3 pr-16">Solutions de bureau</h3>
+        <ul class="space-y-2 text-[15px] text-neutral-600"><li>✓ Téléphonie IP &amp; standards virtuels</li><li>✓ Impression pro &amp; photocopieurs</li><li>✓ Consommables &amp; gestion de parc</li></ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="bg-primary-light text-white py-20 lg:py-28" aria-labelledby="h-pourquoi">
+  <div class="max-w-6xl mx-auto px-6 grid lg:grid-cols-12 gap-12 items-start">
+    <div class="lg:col-span-5 reveal">
+      <p class="text-accent text-sm font-semibold uppercase tracking-widest mb-3">Nos engagements</p>
+      <h2 id="h-pourquoi" class="font-heading text-3xl lg:text-4xl font-bold mb-8">Pourquoi choisir RAOUIA INFORMATIQUE ?</h2>
+      <div class="space-y-6">
+        <div><h3 class="font-heading text-lg font-bold mb-2">Un interlocuteur unique</h3><p class="text-neutral-400 leading-relaxed">Tout votre SI géré par une seule équipe : fini la coordination de cinq prestataires.</p></div>
+        <div><h3 class="font-heading text-lg font-bold mb-2">Des SLA contractuels</h3><p class="text-neutral-400 leading-relaxed">Délais d'intervention, disponibilité et pénalités écrits noir sur blanc.</p></div>
+        <div><h3 class="font-heading text-lg font-bold mb-2">Une proximité réelle</h3><p class="text-neutral-400 leading-relaxed">Basés à Mohammedia, sur site en moins de 4 heures ouvrées dans toute la région.</p></div>
+      </div>
+    </div>
+    <div class="lg:col-span-7 grid grid-cols-2 gap-5">
+      <div class="reveal bg-primary rounded-xl border border-white/10 p-7 text-center hover:border-accent/60 transition-colors duration-300"><p class="font-heading text-5xl font-bold text-accent mb-2" data-counter="97" data-suffix=" %">0</p><p class="text-sm text-neutral-400">de contrats renouvelés</p></div>
+      <div class="reveal bg-primary rounded-xl border border-white/10 p-7 text-center hover:border-accent/60 transition-colors duration-300"><p class="font-heading text-5xl font-bold text-accent mb-2" data-counter="1500" data-suffix="+">0</p><p class="text-sm text-neutral-400">postes supervisés</p></div>
+      <div class="reveal bg-primary rounded-xl border border-white/10 p-7 text-center hover:border-accent/60 transition-colors duration-300"><p class="font-heading text-5xl font-bold text-accent mb-2" data-counter="45" data-suffix=" min">0</p><p class="text-sm text-neutral-400">de prise en charge moyenne</p></div>
+      <div class="reveal bg-primary rounded-xl border border-white/10 p-7 text-center hover:border-accent/60 transition-colors duration-300"><p class="font-heading text-5xl font-bold text-accent mb-2" data-counter="0">0</p><p class="text-sm text-neutral-400">perte de données clients</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="py-20 lg:py-28 bg-neutral-50" aria-labelledby="h-cas">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="max-w-3xl mb-12 reveal">
+      <p class="text-accent-hover text-sm font-semibold uppercase tracking-widest mb-3">Preuves par les résultats</p>
+      <h2 id="h-cas" class="font-heading text-3xl lg:text-4xl font-bold text-primary">Études de cas</h2>
+    </div>
+    <div class="grid lg:grid-cols-3 gap-6">
+      <article class="reveal bg-white rounded-xl border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1.5 transition-all duration-300 overflow-hidden">
+        <div class="bg-primary px-7 py-3"><p class="text-accent text-xs font-semibold uppercase tracking-widest">Industrie · Mohammedia</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-primary mb-3">Infogérance d'un site de 120 postes</h3><p class="text-[15px] text-neutral-600 mb-5 leading-relaxed">Reprise complète du SI : supervision proactive, renouvellement du parc, hotline dédiée.</p>
+        <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200"><div><dd class="font-heading text-2xl font-bold text-success">−82 %</dd><dt class="text-xs text-neutral-600">d'incidents bloquants</dt></div><div><dd class="font-heading text-2xl font-bold text-success">45 min</dd><dt class="text-xs text-neutral-600">de prise en charge</dt></div></dl></div>
+      </article>
+      <article class="reveal bg-white rounded-xl border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1.5 transition-all duration-300 overflow-hidden">
+        <div class="bg-primary px-7 py-3"><p class="text-accent text-xs font-semibold uppercase tracking-widest">Santé · Casablanca</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-primary mb-3">Sécurisation d'une clinique multisite</h3><p class="text-[15px] text-neutral-600 mb-5 leading-relaxed">Firewall NG, sauvegarde chiffrée externalisée, segmentation réseau, PRA testé.</p>
+        <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200"><div><dd class="font-heading text-2xl font-bold text-success">0</dd><dt class="text-xs text-neutral-600">perte de données</dt></div><div><dd class="font-heading text-2xl font-bold text-success">4 h</dd><dt class="text-xs text-neutral-600">de reprise garantie</dt></div></dl></div>
+      </article>
+      <article class="reveal bg-white rounded-xl border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1.5 transition-all duration-300 overflow-hidden">
+        <div class="bg-primary px-7 py-3"><p class="text-accent text-xs font-semibold uppercase tracking-widest">Services · Casablanca</p></div>
+        <div class="p-7"><h3 class="font-heading text-xl font-bold text-primary mb-3">Migration M365 + téléphonie IP</h3><p class="text-[15px] text-neutral-600 mb-5 leading-relaxed">60 collaborateurs migrés en un week-end, téléphonie unifiée, Wi-Fi professionnel.</p>
+        <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200"><div><dd class="font-heading text-2xl font-bold text-success">−35 %</dd><dt class="text-xs text-neutral-600">de coûts télécoms</dt></div><div><dd class="font-heading text-2xl font-bold text-success">0</dd><dt class="text-xs text-neutral-600">jour d'interruption</dt></div></dl></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="py-20 lg:py-28" aria-labelledby="h-temoin">
+  <div class="max-w-6xl mx-auto px-6">
+    <h2 id="h-temoin" class="reveal font-heading text-3xl lg:text-4xl font-bold text-primary mb-12">Ce que disent nos clients</h2>
+    <div class="grid lg:grid-cols-3 gap-6">
+      <figure class="reveal bg-neutral-50 rounded-xl border border-neutral-200 p-7 hover:border-primary/40 transition-colors duration-300">
+        <p class="text-accent mb-3" aria-label="5 étoiles">★★★★★</p>
+        <blockquote class="text-[15px] leading-relaxed mb-6">« Depuis le contrat d'infogérance, je ne gère plus l'informatique. Les délais sont tenus, la production ne s'arrête plus. »</blockquote>
+        <figcaption class="pt-4 border-t border-neutral-200 text-sm"><span class="block font-semibold text-neutral-900">Karim B.</span>Directeur d'usine — Mohammedia</figcaption>
+      </figure>
+      <figure class="reveal bg-neutral-50 rounded-xl border border-neutral-200 p-7 hover:border-primary/40 transition-colors duration-300">
+        <p class="text-accent mb-3" aria-label="5 étoiles">★★★★★</p>
+        <blockquote class="text-[15px] leading-relaxed mb-6">« L'audit a révélé des failles jamais signalées par notre ancien prestataire. La refonte a été menée sans perturber les soins. »</blockquote>
+        <figcaption class="pt-4 border-t border-neutral-200 text-sm"><span class="block font-semibold text-neutral-900">Dr Salma L.</span>Directrice de clinique — Casablanca</figcaption>
+      </figure>
+      <figure class="reveal bg-neutral-50 rounded-xl border border-neutral-200 p-7 hover:border-primary/40 transition-colors duration-300">
+        <p class="text-accent mb-3" aria-label="5 étoiles">★★★★★</p>
+        <blockquote class="text-[15px] leading-relaxed mb-6">« Migration bouclée en un week-end. Le lundi matin, tout fonctionnait. Exactement le professionnalisme que nous cherchions. »</blockquote>
+        <figcaption class="pt-4 border-t border-neutral-200 text-sm"><span class="block font-semibold text-neutral-900">Youssef E.</span>Associé gérant — Casablanca</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="bg-primary text-white py-20 lg:py-28" aria-labelledby="h-contact">
+  <div class="max-w-6xl mx-auto px-6 grid lg:grid-cols-12 gap-12">
+    <div class="lg:col-span-5 reveal">
+      <p class="text-accent text-sm font-semibold uppercase tracking-widest mb-3">Sans engagement</p>
+      <h2 id="h-contact" class="font-heading text-3xl lg:text-4xl font-bold mb-5">Demandez votre audit gratuit</h2>
+      <p class="text-neutral-400 leading-relaxed mb-8">Rapport de recommandations chiffré sous 5 jours ouvrés. Réponse sous 24 h.</p>
+      <ul class="space-y-3 text-neutral-400">
+        <li>📞 <a href="tel:+212523000000" class="hover:text-accent transition-colors">+212 5 23 00 00 00</a></li>
+        <li>✉️ <a href="mailto:contact@raouia-informatique.ma" class="hover:text-accent transition-colors">contact@raouia-informatique.ma</a></li>
+        <li>📍 Mohammedia — région Casablanca-Settat</li>
+      </ul>
+      <a href="https://wa.me/212600000000" target="_blank" rel="noopener" class="mt-8 inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1DA851] text-white font-semibold px-6 py-3.5 rounded transition-all duration-200 hover:-translate-y-0.5">WhatsApp Business</a>
+    </div>
+    <form action="/api/demande-audit" method="POST" class="lg:col-span-7 reveal bg-white rounded-xl p-8 text-neutral-700" aria-label="Formulaire de demande d'audit">
+      <h3 class="font-heading text-2xl font-bold text-primary mb-6">Recevez votre audit sous 5 jours</h3>
+      <div class="grid sm:grid-cols-2 gap-5 mb-5">
+        <div><label for="v1-nom" class="block text-sm font-semibold text-neutral-900 mb-1.5">Nom complet *</label><input id="v1-nom" name="nom" type="text" required class="w-full rounded border border-neutral-200 px-4 py-3 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none"></div>
+        <div><label for="v1-ent" class="block text-sm font-semibold text-neutral-900 mb-1.5">Entreprise *</label><input id="v1-ent" name="entreprise" type="text" required class="w-full rounded border border-neutral-200 px-4 py-3 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none"></div>
+      </div>
+      <div class="mb-5"><label for="v1-tel" class="block text-sm font-semibold text-neutral-900 mb-1.5">Téléphone professionnel *</label><input id="v1-tel" name="telephone" type="tel" required class="w-full rounded border border-neutral-200 px-4 py-3 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none"></div>
+      <div class="mb-7"><label for="v1-besoin" class="block text-sm font-semibold text-neutral-900 mb-1.5">Votre besoin principal *</label>
+        <select id="v1-besoin" name="besoin" required class="w-full rounded border border-neutral-200 px-4 py-3 bg-white focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none">
+          <option value="" disabled selected>Sélectionnez…</option><option value="infogerance">Maintenance / infogérance</option><option value="materiel">Matériel informatique</option><option value="reseaux">Réseaux &amp; cloud</option><option value="cyber">Cybersécurité</option><option value="physique">Vidéosurveillance / accès</option><option value="bureau">Téléphonie / impression</option>
+        </select></div>
+      <button type="submit" class="w-full bg-accent hover:bg-accent-hover text-primary font-bold text-lg px-7 py-4 rounded shadow-cta transition-all duration-200 hover:-translate-y-0.5">Recevoir mon audit gratuit →</button>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="bg-neutral-900 text-neutral-400">
+  <div class="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm">
+    <p>© 2026 RAOUIA INFORMATIQUE — V1 Corporate Premium</p>
+    <nav aria-label="Variantes (pied de page)" class="flex gap-4">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-accent transition-colors">Hub</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="hover:text-accent transition-colors">V2</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="hover:text-accent transition-colors">V3</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="hover:text-accent transition-colors">V4</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+gsap.registerPlugin(ScrollTrigger);
+var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var wipe=document.getElementById('wipe');
+if(reduce){
+  gsap.set(wipe,{scaleY:0});
+  gsap.set('[data-hero],.reveal',{opacity:1,y:0});
+}else{
+  gsap.timeline()
+    .to(wipe,{scaleY:0,duration:.85,ease:'power4.inOut'})
+    .from('[data-hero]',{y:44,opacity:0,stagger:.12,duration:.9,ease:'power4.out'},'-=.35');
+  ScrollTrigger.batch('.reveal',{start:'top 88%',onEnter:function(els){gsap.to(els,{opacity:1,y:0,stagger:.09,duration:.85,ease:'power4.out',overwrite:true});}});
+  gsap.set('.reveal',{y:44});
+}
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-counter'),10);
+  var prefix=el.getAttribute('data-prefix')||'';
+  var suffix=el.getAttribute('data-suffix')||'';
+  var obj={v:0};
+  function render(){el.innerHTML=prefix+Math.round(obj.v).toLocaleString('fr-FR')+suffix;}
+  if(reduce){obj.v=target;render();return;}
+  gsap.to(obj,{v:target,duration:1.6,ease:'power2.out',onUpdate:render});
+}
+document.querySelectorAll('[data-counter]').forEach(function(el){
+  ScrollTrigger.create({trigger:el,start:'top 90%',once:true,onEnter:function(){runCounter(el);}});
+});
+document.querySelectorAll('a[data-nav]').forEach(function(a){
+  a.addEventListener('click',function(e){
+    e.preventDefault();
+    var href=a.getAttribute('href');
+    if(reduce){location.href=href;return;}
+    wipe.style.backgroundColor=a.getAttribute('data-color');
+    gsap.set(wipe,{transformOrigin:'bottom'});
+    gsap.to(wipe,{scaleY:1,duration:.6,ease:'power4.inOut',onComplete:function(){location.href=href;}});
+  });
+});
+})();
+</script>
+</body>
+</html>

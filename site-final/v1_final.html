@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAOUIA INFORMATIQUE — Vente de matériel, maintenance & sécurité informatique à Mohammedia</title>
+<meta name="description" content="RAOUIA INFORMATIQUE à Mohammedia : vente de matériel informatique et bureautique, cybersécurité intégrée, maintenance et infogérance, réseaux et serveurs, vidéosurveillance et impression professionnelle pour les entreprises de la région Casablanca-Settat.">
+<link rel="canonical" href="https://www.raouia-informatique.ma/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="RAOUIA INFORMATIQUE — Votre partenaire informatique B2B à Mohammedia">
+<meta property="og:description" content="Matériel informatique et bureautique, cybersécurité, infogérance, réseaux, vidéosurveillance et impression professionnelle pour les entreprises de Mohammedia et Casablanca.">
+<meta property="og:image" content="https://www.raouia-informatique.ma/images/equipe-raouia-informatique-experts-it-mohammedia.webp">
+<meta property="og:url" content="https://www.raouia-informatique.ma/">
+<meta property="og:locale" content="fr_MA">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.raouia-informatique.ma/#organisation",
+  "name": "RAOUIA INFORMATIQUE",
+  "description": "Prestataire de services informatiques pour entreprises à Mohammedia : vente de matériel informatique et bureautique avec cybersécurité intégrée, maintenance et infogérance, réseaux et serveurs, cloud, sécurité physique, téléphonie IP et impression professionnelle.",
+  "url": "https://www.raouia-informatique.ma/",
+  "telephone": "+212-5-23-00-00-00",
+  "email": "contact@raouia-informatique.ma",
+  "priceRange": "$$",
+  "logo": "https://www.raouia-informatique.ma/images/logo-raouia-informatique-mohammedia.webp",
+  "image": "https://www.raouia-informatique.ma/images/equipe-raouia-informatique-experts-it-mohammedia.webp",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Adresse à compléter",
+    "addressLocality": "Mohammedia",
+    "addressRegion": "Casablanca-Settat",
+    "postalCode": "28810",
+    "addressCountry": "MA"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 33.6866, "longitude": -7.3830 },
+  "openingHoursSpecification": [
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "08:30", "closes": "18:30" },
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+  ],
+  "areaServed": [
+    { "@type": "City", "name": "Mohammedia" },
+    { "@type": "City", "name": "Casablanca" },
+    { "@type": "AdministrativeArea", "name": "Casablanca-Settat" }
+  ],
+  "knowsAbout": ["Vente de matériel informatique","Solutions bureautiques","Cybersécurité","Maintenance informatique","Infogérance","Réseaux informatiques","Cloud","Microsoft 365","Google Workspace","Vidéosurveillance","Téléphonie IP","Impression professionnelle"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services informatiques professionnels",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "serviceType": "Vente de matériel informatique et bureautique avec cybersécurité intégrée : PC professionnels, serveurs, switches, impression professionnelle, photocopieurs, consommables, sauvegarde locale et externalisée, firewall nouvelle génération, plan de reprise d'activité testé", "provider": { "@id": "https://www.raouia-informatique.ma/#organisation" } } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "serviceType": "Maintenance informatique, contrats de maintenance, infogérance, audit, conseil et assurance informatique", "provider": { "@id": "https://www.raouia-informatique.ma/#organisation" } } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "serviceType": "Réseaux et serveurs : Wi-Fi professionnel, cloud, Microsoft 365, Google Workspace", "provider": { "@id": "https://www.raouia-informatique.ma/#organisation" } } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "serviceType": "Sécurité physique : caméras IP, vidéosurveillance, alarmes, contrôle d'accès", "provider": { "@id": "https://www.raouia-informatique.ma/#organisation" } } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "serviceType": "Téléphonie IP et solutions de communication d'entreprise", "provider": { "@id": "https://www.raouia-informatique.ma/#organisation" } } }
+    ]
+  },
+  "sameAs": [
+    "https://www.facebook.com/raouiainformatique",
+    "https://www.linkedin.com/company/raouia-informatique"
+  ]
+}
+</script>
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:{DEFAULT:'#0B2447',light:'#19376D',lighter:'#2B4C87'},accent:{DEFAULT:'#F59E0B',hover:'#D97706',active:'#B45309'},success:'#059669',whatsapp:'#25D366',neutral:{50:'#F8FAFC',100:'#F1F5F9',200:'#E2E8F0',400:'#94A3B8',600:'#475569',700:'#334155',900:'#0F172A'}},fontFamily:{heading:['Georgia','"Times New Roman"','serif'],body:['-apple-system','BlinkMacSystemFont','"Segoe UI"','Roboto','Arial','sans-serif']},borderRadius:{card:'0.75rem',btn:'0.375rem',field:'0.375rem'},boxShadow:{card:'0 1px 3px rgba(11,36,71,.08), 0 1px 2px rgba(11,36,71,.04)',lift:'0 20px 40px -16px rgba(11,36,71,.25)',cta:'0 4px 14px rgba(245,158,11,.35)',float:'0 8px 30px rgba(11,36,71,.25)'},maxWidth:{site:'76rem'}}}}
+</script>
+<style>
+html{scroll-behavior:smooth}
+#wipe{transform:scaleY(1);transform-origin:top}
+.reveal{opacity:0}
+.marquee{overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.marquee-track{display:inline-flex;align-items:center;white-space:nowrap;animation:marquee 32s linear infinite;will-change:transform}
+.marquee:hover .marquee-track{animation-play-state:paused}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.nav-link{position:relative}
+.nav-link::after{content:'';position:absolute;left:0;bottom:-4px;width:100%;height:2px;background:#F59E0B;transform:scaleX(0);transform-origin:left;transition:transform .3s cubic-bezier(.22,1,.36,1)}
+.nav-link:hover::after,.nav-link:focus-visible::after{transform:scaleX(1)}
+.svc-img{transition:transform .7s cubic-bezier(.22,1,.36,1)}
+.svc:hover .svc-img{transform:scale(1.06)}
+.btn-shine{position:relative;overflow:hidden}
+.btn-shine::after{content:'';position:absolute;top:0;left:-120%;width:60%;height:100%;background:linear-gradient(105deg,transparent,rgba(255,255,255,.45),transparent);transform:skewX(-20deg);transition:left .6s cubic-bezier(.22,1,.36,1)}
+.btn-shine:hover::after{left:150%}
+.wa-pulse{animation:wapulse 2.6s ease-out infinite}
+@keyframes wapulse{0%{box-shadow:0 0 0 0 rgba(37,211,102,.45)}70%{box-shadow:0 0 0 18px rgba(37,211,102,0)}100%{box-shadow:0 0 0 0 rgba(37,211,102,0)}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1}.marquee-track,.wa-pulse{animation:none}*,*::before,*::after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
+</style>
+</head>
+
+<body class="font-body text-neutral-700 bg-white antialiased overflow-x-hidden">
+
+<div id="wipe" class="fixed inset-0 z-[100] bg-primary pointer-events-none" aria-hidden="true"></div>
+
+<a href="#contenu" class="sr-only focus:not-sr-only focus:absolute focus:z-[110] focus:top-2 focus:left-2 focus:bg-accent focus:text-primary focus:font-semibold focus:px-4 focus:py-2 focus:rounded-btn">Aller au contenu principal</a>
+
+<div class="bg-primary text-neutral-400 text-sm">
+  <div class="max-w-site mx-auto px-4 md:px-6 py-2 flex flex-wrap items-center justify-between gap-2">
+    <p class="hidden sm:block">Mohammedia · Casablanca — Intervention sur site sous 4h ouvrées</p>
+    <div class="flex items-center gap-5">
+      <a href="tel:+212523000000" class="flex items-center gap-2 hover:text-white transition-colors duration-200">
+        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 3.5A1.5 1.5 0 013.5 2h1.148a1.5 1.5 0 011.465 1.175l.716 3.223a1.5 1.5 0 01-1.052 1.767l-.933.267c-.41.117-.643.555-.48.95a11.542 11.542 0 006.254 6.254c.395.163.833-.07.95-.48l.267-.933a1.5 1.5 0 011.767-1.052l3.223.716A1.5 1.5 0 0118 15.352V16.5a1.5 1.5 0 01-1.5 1.5H15c-1.149 0-2.263-.15-3.326-.43A13.022 13.022 0 012.43 8.326 13.019 13.019 0 012 5V3.5z"/></svg>
+        <span>+212 5 23 00 00 00</span>
+      </a>
+      <a href="mailto:contact@raouia-informatique.ma" class="hidden md:flex items-center gap-2 hover:text-white transition-colors duration-200">
+        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z"/><path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z"/></svg>
+        <span>contact@raouia-informatique.ma</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<header class="bg-white/95 backdrop-blur sticky top-0 z-50 shadow-card">
+  <div class="max-w-site mx-auto px-4 md:px-6 flex items-center justify-between h-[76px]">
+    <a href="#" class="flex items-center gap-3" aria-label="RAOUIA INFORMATIQUE — retour en haut de page">
+      <img src="images/logo-raouia-informatique-mohammedia.webp" alt="Logo RAOUIA INFORMATIQUE, spécialiste imprimerie, informatique et papeterie à Mohammedia" width="52" height="44" class="h-11 w-auto" loading="eager">
+      <span class="leading-tight">
+        <span class="block font-heading font-bold text-primary text-lg tracking-wide">RAOUIA</span>
+        <span class="block text-xs uppercase tracking-[0.2em] text-neutral-600">Informatique</span>
+      </span>
+    </a>
+    <nav aria-label="Navigation principale" class="hidden lg:block">
+      <ul class="flex items-center gap-8 text-[15px] font-medium text-neutral-900">
+        <li><a href="#services" class="nav-link hover:text-primary transition-colors duration-200">Services</a></li>
+        <li><a href="#pourquoi-nous" class="nav-link hover:text-primary transition-colors duration-200">Pourquoi nous</a></li>
+        <li><a href="#etudes-de-cas" class="nav-link hover:text-primary transition-colors duration-200">Études de cas</a></li>
+        <li><a href="#temoignages" class="nav-link hover:text-primary transition-colors duration-200">Témoignages</a></li>
+        <li><a href="#contact" class="nav-link hover:text-primary transition-colors duration-200">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="flex items-center gap-3">
+      <a href="#contact" class="btn-shine hidden sm:inline-flex items-center gap-2 bg-accent hover:bg-accent-hover active:bg-accent-active text-primary font-semibold px-5 py-2.5 rounded-btn shadow-cta transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent">
+        Demander un audit
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12l-7.5 7.5M21 12H3"/></svg>
+      </a>
+      <button id="menu-toggle" type="button" class="lg:hidden w-11 h-11 flex items-center justify-center rounded-btn text-primary hover:bg-neutral-100 transition-colors duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-primary" aria-controls="mobile-menu" aria-expanded="false" aria-label="Ouvrir le menu de navigation">
+        <svg id="icon-open" class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" d="M3.75 6.75h16.5M3.75 12h16.5M3.75 17.25h16.5"/></svg>
+        <svg id="icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" d="M6 18L18 6M6 6l12 12"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mobile-menu" aria-label="Navigation mobile" class="lg:hidden hidden border-t border-neutral-200 bg-white">
+    <ul class="px-4 py-3 space-y-1 text-[15px] font-medium text-neutral-900">
+      <li><a href="#services" class="block px-3 py-3 rounded-btn hover:bg-neutral-50 hover:text-primary transition-colors duration-200">Services</a></li>
+      <li><a href="#pourquoi-nous" class="block px-3 py-3 rounded-btn hover:bg-neutral-50 hover:text-primary transition-colors duration-200">Pourquoi nous</a></li>
+      <li><a href="#etudes-de-cas" class="block px-3 py-3 rounded-btn hover:bg-neutral-50 hover:text-primary transition-colors duration-200">Études de cas</a></li>
+      <li><a href="#temoignages" class="block px-3 py-3 rounded-btn hover:bg-neutral-50 hover:text-primary transition-colors duration-200">Témoignages</a></li>
+      <li><a href="#contact" class="block px-3 py-3 rounded-btn bg-accent text-primary font-semibold text-center mt-2 hover:bg-accent-hover transition-colors duration-200">Demander un audit</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="contenu">
+
+<section class="bg-primary text-white relative overflow-hidden" aria-labelledby="titre-hero">
+  <svg class="absolute inset-0 w-full h-full opacity-10" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="hgrid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#F59E0B" stroke-width=".5"/></pattern></defs><rect width="100%" height="100%" fill="url(#hgrid)"/></svg>
+  <div class="max-w-site mx-auto px-4 md:px-6 py-16 lg:py-24 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-6 lg:gap-10 items-center relative">
+    <div class="col-span-4 md:col-span-8 lg:col-span-6">
+      <p data-hero class="inline-flex items-center gap-2 text-accent text-sm font-semibold uppercase tracking-widest mb-5"><span class="w-8 h-px bg-accent" aria-hidden="true"></span>Prestataire informatique B2B — Mohammedia</p>
+      <h1 id="titre-hero" data-hero class="font-heading text-4xl sm:text-5xl lg:text-[3.3rem] font-bold leading-[1.12] mb-6">Matériel, sécurité et services informatiques pour entreprises à Mohammedia &amp; Casablanca</h1>
+      <p data-hero class="text-lg text-neutral-400 max-w-xl mb-9 leading-relaxed">Vente de matériel informatique et bureautique avec cybersécurité intégrée, maintenance, infogérance, réseaux, vidéosurveillance et téléphonie IP. Un interlocuteur unique, des SLA écrits.</p>
+      <div data-hero class="flex flex-col sm:flex-row gap-4">
+        <a href="#contact" class="btn-shine inline-flex items-center justify-center gap-2 bg-accent hover:bg-accent-hover active:bg-accent-active text-primary font-semibold px-7 py-3.5 rounded-btn shadow-cta transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent">
+          Demander un audit gratuit
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12l-7.5 7.5M21 12H3"/></svg>
+        </a>
+        <a href="#services" class="inline-flex items-center justify-center border border-white/30 hover:border-white hover:bg-white/5 text-white font-semibold px-7 py-3.5 rounded-btn transition-all duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Découvrir nos services</a>
+      </div>
+    </div>
+    <div data-hero class="col-span-4 md:col-span-8 lg:col-span-6">
+      <figure class="relative rounded-card overflow-hidden shadow-float border border-white/10">
+        <img src="images/equipe-raouia-informatique-experts-it-mohammedia.webp" alt="L'équipe d'experts informatiques RAOUIA INFORMATIQUE au complet dans son atelier de Mohammedia, devant ses véhicules d'intervention" width="1536" height="1024" class="w-full h-72 lg:h-96 object-cover" loading="eager">
+        <figcaption class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-primary via-primary/70 to-transparent px-6 pt-14 pb-5">
+          <dl class="grid grid-cols-4 gap-3 text-center">
+            <div><dd class="font-heading text-2xl lg:text-3xl font-bold text-accent" data-counter="15" data-suffix="+">0</dd><dt class="text-[11px] lg:text-xs text-neutral-400">ans d'expérience</dt></div>
+            <div><dd class="font-heading text-2xl lg:text-3xl font-bold text-accent" data-counter="200" data-suffix="+">0</dd><dt class="text-[11px] lg:text-xs text-neutral-400">entreprises clientes</dt></div>
+            <div><dd class="font-heading text-2xl lg:text-3xl font-bold text-accent" data-counter="4" data-prefix="&lt; " data-suffix="h">0</dd><dt class="text-[11px] lg:text-xs text-neutral-400">d'intervention</dt></div>
+            <div><dd class="font-heading text-2xl lg:text-3xl font-bold text-accent" data-counter="99" data-suffix=",5 %">0</dd><dt class="text-[11px] lg:text-xs text-neutral-400">de disponibilité</dt></div>
+          </dl>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="bg-neutral-50 border-b border-neutral-200 py-10" aria-labelledby="titre-clients">
+  <h2 id="titre-clients" class="text-center text-sm font-semibold uppercase tracking-widest text-neutral-600 mb-8">Ils nous font confiance</h2>
+  <div class="marquee" role="presentation">
+    <div class="marquee-track">
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">INDUSTRIA MAROC</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">CLINIQUE ATLAS</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">FIDUCIA CONSEIL</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">LOGIMED</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">TRANSAFRIC</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">HÔTEL MIRAMAR</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">ÉCOLE AL MAARIFA</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300">FOOD MOHAMMEDIA</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">INDUSTRIA MAROC</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">CLINIQUE ATLAS</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">FIDUCIA CONSEIL</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">LOGIMED</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">TRANSAFRIC</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">HÔTEL MIRAMAR</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">ÉCOLE AL MAARIFA</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+      <span class="px-10 font-heading text-xl font-bold text-neutral-400 grayscale hover:grayscale-0 hover:text-primary transition-all duration-300" aria-hidden="true">FOOD MOHAMMEDIA</span>
+      <span class="text-accent" aria-hidden="true">◆</span>
+    </div>
+  </div>
+</section>
+
+<section id="services" class="py-16 lg:py-24" aria-labelledby="titre-services">
+  <div class="max-w-site mx-auto px-4 md:px-6">
+    <div class="max-w-3xl mb-12 reveal">
+      <p class="text-accent-hover text-sm font-semibold uppercase tracking-widest mb-3">Catalogue complet</p>
+      <h2 id="titre-services" class="font-heading text-3xl lg:text-4xl font-bold text-primary mb-4">Nos services informatiques professionnels</h2>
+      <p class="text-lg text-neutral-600 leading-relaxed">Cinq pôles d'expertise pour couvrir 100 % des besoins IT et bureautiques de votre entreprise.</p>
+    </div>
+
+    <div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-4 md:gap-6 lg:gap-8">
+
+      <article class="svc reveal col-span-4 md:col-span-8 lg:col-span-8 bg-white border-2 border-accent/60 rounded-card shadow-card hover:shadow-lift hover:-translate-y-1 transition-all duration-300 overflow-hidden">
+        <div class="grid md:grid-cols-2">
+          <div class="relative overflow-hidden h-56 md:h-full">
+            <img src="images/vente-materiel-informatique-bureautique-casablanca.webp" alt="Techniciens RAOUIA INFORMATIQUE préparant des PC professionnels HP et des écrans pour une livraison d'entreprise à Casablanca" width="1402" height="1122" class="svc-img w-full h-full object-cover" loading="lazy">
+            <p class="absolute top-4 left-4 bg-accent text-primary text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-btn">Pôle majeur</p>
+          </div>
+          <div class="p-7">
+            <h3 class="font-heading text-2xl font-bold text-primary mb-4">Vente de matériel informatique et bureautique</h3>
+            <div class="space-y-4 text-[15px] text-neutral-600">
+              <div>
+                <p class="font-semibold text-neutral-900 mb-1.5">Vente de matériel informatique</p>
+                <ul class="space-y-1.5">
+                  <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>PC professionnels, serveurs, switches</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-neutral-900 mb-1.5">Solutions bureautiques</p>
+                <ul class="space-y-1.5">
+                  <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Impression professionnelle, photocopieurs, consommables</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-neutral-900 mb-1.5">Cybersécurité intégrée</p>
+                <ul class="space-y-1.5">
+                  <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Sauvegarde locale &amp; externalisée</li>
+                  <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Firewall nouvelle génération</li>
+                  <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Plan de reprise d'activité (PRA) testé</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-4 lg:col-span-4 bg-white border border-neutral-200 rounded-card shadow-card hover:shadow-lift hover:-translate-y-1 hover:border-primary/40 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-44">
+          <img src="images/maintenance-informatique-depannage-entreprise-mohammedia.webp" alt="Techniciens RAOUIA INFORMATIQUE réparant l'unité centrale d'un client professionnel dans ses bureaux à Mohammedia" width="1402" height="1122" class="svc-img w-full h-full object-cover" loading="lazy">
+        </div>
+        <div class="p-7 flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Maintenance &amp; contrats d'infogérance</h3>
+          <ul class="space-y-2 text-[15px] text-neutral-600">
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Contrats de maintenance avec SLA écrits</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Infogérance, audit, conseil</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Assurance informatique &amp; continuité</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-4 lg:col-span-4 bg-white border border-neutral-200 rounded-card shadow-card hover:shadow-lift hover:-translate-y-1 hover:border-primary/40 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-44">
+          <img src="images/infrastructure-reseau-entreprise-maroc.webp" alt="Experts RAOUIA INFORMATIQUE câblant une baie de brassage réseau dans une usine au Maroc" width="1536" height="1024" class="svc-img w-full h-full object-cover" loading="lazy">
+        </div>
+        <div class="p-7 flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Réseaux, serveurs &amp; cloud</h3>
+          <ul class="space-y-2 text-[15px] text-neutral-600">
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Wi-Fi professionnel &amp; câblage structuré</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Serveurs on-premise &amp; migration cloud</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Microsoft 365 · Google Workspace</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-4 lg:col-span-4 bg-white border border-neutral-200 rounded-card shadow-card hover:shadow-lift hover:-translate-y-1 hover:border-primary/40 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-44">
+          <img src="images/installation-camera-videosurveillance-ecole-mohammedia.webp" alt="Équipe RAOUIA INFORMATIQUE installant des caméras IP de vidéosurveillance dans une école privée à Mohammedia" width="1536" height="1024" class="svc-img w-full h-full object-cover" loading="lazy">
+        </div>
+        <div class="p-7 flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Sécurité physique &amp; vidéosurveillance</h3>
+          <ul class="space-y-2 text-[15px] text-neutral-600">
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Caméras IP &amp; vidéosurveillance à distance</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Alarmes anti-intrusion professionnelles</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Contrôle d'accès par badge &amp; biométrie</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-4 lg:col-span-4 bg-white border border-neutral-200 rounded-card shadow-card hover:shadow-lift hover:-translate-y-1 hover:border-primary/40 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-44">
+          <img src="images/impression-professionnelle-grand-format-mohammedia.webp" alt="Atelier d'impression professionnelle grand format RAOUIA INFORMATIQUE produisant des roll-ups publicitaires à Mohammedia" width="1402" height="1122" class="svc-img w-full h-full object-cover" loading="lazy">
+        </div>
+        <div class="p-7 flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Téléphonie IP &amp; communication</h3>
+          <ul class="space-y-2 text-[15px] text-neutral-600">
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Téléphonie IP &amp; standards virtuels</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Impression grand format &amp; signalétique</li>
+            <li class="flex gap-2"><span class="text-success mt-0.5" aria-hidden="true">✓</span>Supports de communication d'entreprise</li>
+          </ul>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section id="pourquoi-nous" class="bg-primary-light text-white py-16 lg:py-24" aria-labelledby="titre-pourquoi">
+  <div class="max-w-site mx-auto px-4 md:px-6 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-6 lg:gap-12 items-center">
+    <div class="col-span-4 md:col-span-8 lg:col-span-5 reveal">
+      <p class="text-accent text-sm font-semibold uppercase tracking-widest mb-3">Nos engagements</p>
+      <h2 id="titre-pourquoi" class="font-heading text-3xl lg:text-4xl font-bold mb-8">Pourquoi choisir RAOUIA INFORMATIQUE ?</h2>
+      <div class="space-y-6">
+        <div>
+          <h3 class="font-heading text-lg font-bold mb-2">Un interlocuteur unique pour tout votre SI</h3>
+          <p class="text-neutral-400 leading-relaxed">Matériel, réseau, sécurité, téléphonie et impression gérés par une seule équipe.</p>
+        </div>
+        <div>
+          <h3 class="font-heading text-lg font-bold mb-2">Des engagements de service contractuels</h3>
+          <p class="text-neutral-400 leading-relaxed">Délais d'intervention, disponibilité garantie et pénalités écrits noir sur blanc.</p>
+        </div>
+        <div>
+          <h3 class="font-heading text-lg font-bold mb-2">Une expertise certifiée, une proximité locale</h3>
+          <p class="text-neutral-400 leading-relaxed">Basés à Mohammedia, sur site en moins de 4 heures ouvrées dans toute la région Casablanca-Settat.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-span-4 md:col-span-8 lg:col-span-7 reveal">
+      <figure class="relative rounded-card overflow-hidden shadow-float mb-6">
+        <img src="images/raouia-informatique-maintenance-serveurs-mohammedia.webp" alt="Techniciens RAOUIA INFORMATIQUE effectuant la maintenance de serveurs en baie dans un datacenter près de Mohammedia" width="1402" height="1122" class="w-full h-64 object-cover" loading="lazy">
+      </figure>
+      <div class="grid grid-cols-2 gap-4 md:gap-6">
+        <div class="bg-primary rounded-card border border-white/10 p-6 text-center hover:border-accent/60 hover:-translate-y-1 transition-all duration-300">
+          <p class="font-heading text-4xl font-bold text-accent mb-2" data-counter="97" data-suffix=" %">0</p>
+          <p class="text-sm text-neutral-400">de contrats de maintenance renouvelés</p>
+        </div>
+        <div class="bg-primary rounded-card border border-white/10 p-6 text-center hover:border-accent/60 hover:-translate-y-1 transition-all duration-300">
+          <p class="font-heading text-4xl font-bold text-accent mb-2" data-counter="1500" data-suffix="+">0</p>
+          <p class="text-sm text-neutral-400">postes de travail sous supervision</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="etudes-de-cas" class="py-16 lg:py-24 bg-neutral-50" aria-labelledby="titre-cas">
+  <div class="max-w-site mx-auto px-4 md:px-6">
+    <div class="max-w-3xl mb-12 reveal">
+      <p class="text-accent-hover text-sm font-semibold uppercase tracking-widest mb-3">Preuves par les résultats</p>
+      <h2 id="titre-cas" class="font-heading text-3xl lg:text-4xl font-bold text-primary">Études de cas : des résultats mesurables</h2>
+    </div>
+    <div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-4 md:gap-6 lg:gap-8">
+
+      <article class="svc reveal col-span-4 md:col-span-8 lg:col-span-4 bg-white rounded-card border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-48">
+          <img src="images/livraison-materiel-informatique-professionnel-casablanca.webp" alt="Livraison de matériel informatique Dell et HP par RAOUIA INFORMATIQUE au siège d'une entreprise à Casablanca" width="1536" height="1024" class="svc-img w-full h-full object-cover" loading="lazy">
+          <p class="absolute top-4 left-4 bg-primary text-accent text-xs font-semibold uppercase tracking-widest px-3 py-1.5 rounded-btn">Industrie · Mohammedia</p>
+        </div>
+        <div class="p-7 flex flex-col flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Équipement et infogérance d'un site de 120 postes</h3>
+          <p class="text-[15px] text-neutral-600 leading-relaxed mb-5 flex-1">Renouvellement complet du parc, supervision proactive et hotline dédiée sous contrat d'infogérance.</p>
+          <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200">
+            <div><dd class="font-heading text-2xl font-bold text-success">−82 %</dd><dt class="text-xs text-neutral-600">d'incidents bloquants en 12 mois</dt></div>
+            <div><dd class="font-heading text-2xl font-bold text-success">45 min</dd><dt class="text-xs text-neutral-600">de prise en charge moyenne</dt></div>
+          </dl>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-8 lg:col-span-4 bg-white rounded-card border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-48">
+          <img src="images/installation-alarme-controle-acces-bureaux-mohammedia.webp" alt="Installation d'un système d'alarme et de contrôle d'accès par les techniciens RAOUIA INFORMATIQUE dans des bureaux à Mohammedia" width="1536" height="1024" class="svc-img w-full h-full object-cover" loading="lazy">
+          <p class="absolute top-4 left-4 bg-primary text-accent text-xs font-semibold uppercase tracking-widest px-3 py-1.5 rounded-btn">Éducation · Mohammedia</p>
+        </div>
+        <div class="p-7 flex flex-col flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Sécurisation complète d'une école privée</h3>
+          <p class="text-[15px] text-neutral-600 leading-relaxed mb-5 flex-1">Caméras IP, alarmes et contrôle d'accès déployés sur tout le campus, supervision à distance pour la direction.</p>
+          <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200">
+            <div><dd class="font-heading text-2xl font-bold text-success">32</dd><dt class="text-xs text-neutral-600">caméras IP installées et supervisées</dt></div>
+            <div><dd class="font-heading text-2xl font-bold text-success">5 j</dd><dt class="text-xs text-neutral-600">de déploiement sans fermer l'école</dt></div>
+          </dl>
+        </div>
+      </article>
+
+      <article class="svc reveal col-span-4 md:col-span-8 lg:col-span-4 bg-white rounded-card border border-neutral-200 shadow-card hover:shadow-lift hover:-translate-y-1 transition-all duration-300 overflow-hidden flex flex-col">
+        <div class="relative overflow-hidden h-48">
+          <img src="images/raouia-informatique-maintenance-serveurs-mohammedia.webp" alt="Maintenance préventive de serveurs professionnels en datacenter par l'équipe RAOUIA INFORMATIQUE de Mohammedia" width="1402" height="1122" class="svc-img w-full h-full object-cover" loading="lazy">
+          <p class="absolute top-4 left-4 bg-primary text-accent text-xs font-semibold uppercase tracking-widest px-3 py-1.5 rounded-btn">Santé · Casablanca</p>
+        </div>
+        <div class="p-7 flex flex-col flex-1">
+          <h3 class="font-heading text-xl font-bold text-primary mb-3">Sécurisation et sauvegarde d'une clinique multisite</h3>
+          <p class="text-[15px] text-neutral-600 leading-relaxed mb-5 flex-1">Firewall nouvelle génération, sauvegarde chiffrée externalisée, segmentation réseau et PRA testé.</p>
+          <dl class="grid grid-cols-2 gap-4 pt-5 border-t border-neutral-200">
+            <div><dd class="font-heading text-2xl font-bold text-success">0</dd><dt class="text-xs text-neutral-600">perte de données depuis la refonte</dt></div>
+            <div><dd class="font-heading text-2xl font-bold text-success">4 h</dd><dt class="text-xs text-neutral-600">de reprise d'activité garantie</dt></div>
+          </dl>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section id="temoignages" class="py-16 lg:py-24" aria-labelledby="titre-temoignages">
+  <div class="max-w-site mx-auto px-4 md:px-6">
+    <div class="max-w-3xl mb-12 reveal">
+      <p class="text-accent-hover text-sm font-semibold uppercase tracking-widest mb-3">Ils témoignent</p>
+      <h2 id="titre-temoignages" class="font-heading text-3xl lg:text-4xl font-bold text-primary">Ce que disent nos clients</h2>
+    </div>
+    <div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-4 md:gap-6 lg:gap-8">
+      <figure class="reveal col-span-4 md:col-span-4 lg:col-span-4 bg-neutral-50 rounded-card border border-neutral-200 p-7 hover:border-primary/40 hover:-translate-y-1 transition-all duration-300">
+        <p class="text-accent mb-3" aria-label="Note : 5 étoiles sur 5">★★★★★</p>
+        <blockquote class="text-[15px] text-neutral-700 leading-relaxed mb-6">« Depuis la signature du contrat d'infogérance, je n'ai plus à gérer l'informatique. Les délais annoncés sont tenus et la production ne s'arrête plus. »</blockquote>
+        <figcaption class="flex items-center gap-3 pt-5 border-t border-neutral-200">
+          <span class="w-11 h-11 rounded-full bg-primary text-white flex items-center justify-center font-heading font-bold" aria-hidden="true">KB</span>
+          <span><span class="block font-semibold text-neutral-900">Karim B.</span><span class="block text-sm text-neutral-600">Directeur d'usine — Mohammedia</span></span>
+        </figcaption>
+      </figure>
+      <figure class="reveal col-span-4 md:col-span-4 lg:col-span-4 bg-neutral-50 rounded-card border border-neutral-200 p-7 hover:border-primary/40 hover:-translate-y-1 transition-all duration-300">
+        <p class="text-accent mb-3" aria-label="Note : 5 étoiles sur 5">★★★★★</p>
+        <blockquote class="text-[15px] text-neutral-700 leading-relaxed mb-6">« L'audit initial a mis en évidence des failles que notre ancien prestataire n'avait jamais signalées. La refonte sécurité a été menée sans perturber les soins. »</blockquote>
+        <figcaption class="flex items-center gap-3 pt-5 border-t border-neutral-200">
+          <span class="w-11 h-11 rounded-full bg-primary text-white flex items-center justify-center font-heading font-bold" aria-hidden="true">SL</span>
+          <span><span class="block font-semibold text-neutral-900">Dr Salma L.</span><span class="block text-sm text-neutral-600">Directrice de clinique — Casablanca</span></span>
+        </figcaption>
+      </figure>
+      <figure class="reveal col-span-4 md:col-span-8 lg:col-span-4 bg-neutral-50 rounded-card border border-neutral-200 p-7 hover:border-primary/40 hover:-translate-y-1 transition-all duration-300">
+        <p class="text-accent mb-3" aria-label="Note : 5 étoiles sur 5">★★★★★</p>
+        <blockquote class="text-[15px] text-neutral-700 leading-relaxed mb-6">« Le campus a été entièrement sécurisé en cinq jours, sans fermer l'école. Caméras, alarmes, contrôle d'accès : tout est supervisé depuis mon bureau. »</blockquote>
+        <figcaption class="flex items-center gap-3 pt-5 border-t border-neutral-200">
+          <span class="w-11 h-11 rounded-full bg-primary text-white flex items-center justify-center font-heading font-bold" aria-hidden="true">NA</span>
+          <span><span class="block font-semibold text-neutral-900">Nadia A.</span><span class="block text-sm text-neutral-600">Directrice d'école privée — Mohammedia</span></span>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="bg-primary text-white py-16 lg:py-24" aria-labelledby="titre-contact">
+  <div class="max-w-site mx-auto px-4 md:px-6 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-6 lg:gap-12">
+    <div class="col-span-4 md:col-span-8 lg:col-span-5 reveal">
+      <p class="text-accent text-sm font-semibold uppercase tracking-widest mb-3">Premier pas, sans engagement</p>
+      <h2 id="titre-contact" class="font-heading text-3xl lg:text-4xl font-bold mb-5">Demandez votre audit informatique gratuit</h2>
+      <p class="text-neutral-400 leading-relaxed mb-8">Un consultant analyse votre infrastructure, identifie les risques et vous remet un rapport de recommandations chiffré sous 5 jours ouvrés.</p>
+      <ul class="space-y-5 mb-10">
+        <li class="flex items-start gap-4">
+          <span class="w-10 h-10 rounded-btn bg-white/10 flex items-center justify-center shrink-0" aria-hidden="true">
+            <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3.5A1.5 1.5 0 013.5 2h1.148a1.5 1.5 0 011.465 1.175l.716 3.223a1.5 1.5 0 01-1.052 1.767l-.933.267c-.41.117-.643.555-.48.95a11.542 11.542 0 006.254 6.254c.395.163.833-.07.95-.48l.267-.933a1.5 1.5 0 011.767-1.052l3.223.716A1.5 1.5 0 0118 15.352V16.5a1.5 1.5 0 01-1.5 1.5H15c-1.149 0-2.263-.15-3.326-.43A13.022 13.022 0 012.43 8.326 13.019 13.019 0 012 5V3.5z"/></svg>
+          </span>
+          <span><span class="block font-semibold">Téléphone</span><a href="tel:+212523000000" class="text-neutral-400 hover:text-accent transition-colors duration-200">+212 5 23 00 00 00</a></span>
+        </li>
+        <li class="flex items-start gap-4">
+          <span class="w-10 h-10 rounded-btn bg-white/10 flex items-center justify-center shrink-0" aria-hidden="true">
+            <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z"/><path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z"/></svg>
+          </span>
+          <span><span class="block font-semibold">Email</span><a href="mailto:contact@raouia-informatique.ma" class="text-neutral-400 hover:text-accent transition-colors duration-200">contact@raouia-informatique.ma</a></span>
+        </li>
+        <li class="flex items-start gap-4">
+          <span class="w-10 h-10 rounded-btn bg-white/10 flex items-center justify-center shrink-0" aria-hidden="true">
+            <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M9.69 18.933l.003.001C9.89 19.02 10 19 10 19s.11.02.308-.066l.002-.001.006-.003.018-.008a5.741 5.741 0 00.281-.14c.186-.096.446-.24.757-.433.62-.384 1.445-.966 2.274-1.765C15.302 14.988 17 12.493 17 9A7 7 0 003 9c0 3.492 1.698 5.988 3.355 7.584a13.731 13.731 0 002.273 1.765 11.842 11.842 0 00.976.544l.062.029.018.008.006.003zM10 11.25a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5z" clip-rule="evenodd"/></svg>
+          </span>
+          <span><span class="block font-semibold">Adresse</span><span class="text-neutral-400">Mohammedia, Maroc — interventions sur toute la région Casablanca-Settat</span></span>
+        </li>
+      </ul>
+      <a href="https://wa.me/212600000000?text=Bonjour%20RAOUIA%20INFORMATIQUE%2C%20je%20souhaite%20un%20audit%20informatique%20pour%20mon%20entreprise." target="_blank" rel="noopener" class="btn-shine inline-flex items-center gap-3 bg-whatsapp hover:bg-[#1DA851] text-white font-semibold px-6 py-3.5 rounded-btn transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">
+      <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+        Discuter sur WhatsApp Business
+      </a>
+    </div>
+
+    <div class="col-span-4 md:col-span-8 lg:col-span-7 reveal">
+      <form action="/api/demande-audit" method="POST" class="bg-white rounded-card p-7 lg:p-9 text-neutral-700 shadow-float" aria-label="Formulaire de demande d'audit informatique">
+        <h3 class="font-heading text-2xl font-bold text-primary mb-2">Recevez votre audit sous 5 jours</h3>
+        <p class="text-sm text-neutral-600 mb-7">Réponse garantie sous 24h ouvrées. Vos données restent confidentielles.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
+          <div>
+            <label for="champ-nom" class="block text-sm font-semibold text-neutral-900 mb-1.5">Nom complet <span class="text-accent-active" aria-hidden="true">*</span></label>
+            <input type="text" id="champ-nom" name="nom" required autocomplete="name" placeholder="Ex. : Amine Alaoui" class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] placeholder:text-neutral-400 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          </div>
+          <div>
+            <label for="champ-entreprise" class="block text-sm font-semibold text-neutral-900 mb-1.5">Entreprise <span class="text-accent-active" aria-hidden="true">*</span></label>
+            <input type="text" id="champ-entreprise" name="entreprise" required autocomplete="organization" placeholder="Ex. : Industria Maroc SARL" class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] placeholder:text-neutral-400 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          </div>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
+          <div>
+            <label for="champ-email" class="block text-sm font-semibold text-neutral-900 mb-1.5">Email professionnel <span class="text-accent-active" aria-hidden="true">*</span></label>
+            <input type="email" id="champ-email" name="email" required autocomplete="email" placeholder="Ex. : a.alaoui@entreprise.ma" class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] placeholder:text-neutral-400 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          </div>
+          <div>
+            <label for="champ-telephone" class="block text-sm font-semibold text-neutral-900 mb-1.5">Téléphone professionnel <span class="text-accent-active" aria-hidden="true">*</span></label>
+            <input type="tel" id="champ-telephone" name="telephone" required autocomplete="tel" placeholder="Ex. : 06 61 00 00 00" class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] placeholder:text-neutral-400 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          </div>
+        </div>
+        <div class="mb-5">
+          <label for="champ-besoin" class="block text-sm font-semibold text-neutral-900 mb-1.5">Votre besoin principal <span class="text-accent-active" aria-hidden="true">*</span></label>
+          <select id="champ-besoin" name="besoin" required class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] bg-white focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+            <option value="" disabled selected>Sélectionnez un domaine…</option>
+            <option value="materiel-bureautique">Matériel informatique &amp; bureautique (+ cybersécurité)</option>
+            <option value="maintenance-infogerance">Maintenance / contrat d'infogérance</option>
+            <option value="reseaux-cloud">Réseaux, serveurs &amp; cloud (M365, Workspace)</option>
+            <option value="securite-physique">Vidéosurveillance, alarmes, contrôle d'accès</option>
+            <option value="telephonie-communication">Téléphonie IP &amp; communication</option>
+            <option value="audit-global">Audit global de mon système d'information</option>
+          </select>
+        </div>
+        <div class="mb-7">
+          <label for="champ-message" class="block text-sm font-semibold text-neutral-900 mb-1.5">Décrivez votre projet <span class="text-neutral-400 font-normal">(facultatif)</span></label>
+          <textarea id="champ-message" name="message" rows="3" placeholder="Ex. : Nous avons 40 postes, un serveur vieillissant et aucun contrat de maintenance…" class="w-full rounded-field border border-neutral-200 px-4 py-3 text-[15px] placeholder:text-neutral-400 focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200 resize-y"></textarea>
+        </div>
+        <button type="submit" class="btn-shine w-full inline-flex items-center justify-center gap-2 bg-accent hover:bg-accent-hover active:bg-accent-active text-primary font-bold text-lg px-7 py-4 rounded-btn shadow-cta transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary">
+          Recevoir mon audit gratuit
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12l-7.5 7.5M21 12H3"/></svg>
+        </button>
+        <p class="text-xs text-neutral-600 text-center mt-4">En soumettant ce formulaire, vous acceptez d'être recontacté par RAOUIA INFORMATIQUE. Données traitées conformément à la loi 09-08 (CNDP).</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="bg-neutral-900 text-neutral-400">
+  <div class="max-w-site mx-auto px-4 md:px-6 py-14 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-8">
+    <div class="col-span-4 md:col-span-8 lg:col-span-4">
+      <p class="flex items-center gap-3 mb-4">
+        <img src="images/logo-raouia-informatique-mohammedia.webp" alt="Logo RAOUIA INFORMATIQUE Mohammedia" width="44" height="37" class="h-10 w-auto bg-white rounded-btn p-1" loading="lazy">
+        <span class="font-heading font-bold text-white text-lg">RAOUIA INFORMATIQUE</span>
+      </p>
+      <p class="text-sm leading-relaxed max-w-sm">Partenaire informatique des entreprises de Mohammedia et Casablanca : matériel et bureautique, cybersécurité, maintenance, réseaux, sécurité physique et communication.</p>
+    </div>
+    <nav class="col-span-2 md:col-span-4 lg:col-span-3" aria-label="Liens services (pied de page)">
+      <h2 class="text-white font-semibold text-sm uppercase tracking-widest mb-4">Services</h2>
+      <ul class="space-y-2.5 text-sm">
+        <li><a href="#services" class="hover:text-accent transition-colors duration-200">Matériel informatique &amp; bureautique</a></li>
+        <li><a href="#services" class="hover:text-accent transition-colors duration-200">Maintenance &amp; infogérance</a></li>
+        <li><a href="#services" class="hover:text-accent transition-colors duration-200">Réseaux, serveurs &amp; cloud</a></li>
+        <li><a href="#services" class="hover:text-accent transition-colors duration-200">Vidéosurveillance &amp; contrôle d'accès</a></li>
+        <li><a href="#services" class="hover:text-accent transition-colors duration-200">Téléphonie IP &amp; communication</a></li>
+      </ul>
+    </nav>
+    <nav class="col-span-2 md:col-span-4 lg:col-span-2" aria-label="Liens entreprise (pied de page)">
+      <h2 class="text-white font-semibold text-sm uppercase tracking-widest mb-4">Entreprise</h2>
+      <ul class="space-y-2.5 text-sm">
+        <li><a href="#pourquoi-nous" class="hover:text-accent transition-colors duration-200">Pourquoi nous</a></li>
+        <li><a href="#etudes-de-cas" class="hover:text-accent transition-colors duration-200">Études de cas</a></li>
+        <li><a href="#temoignages" class="hover:text-accent transition-colors duration-200">Témoignages</a></li>
+        <li><a href="#contact" class="hover:text-accent transition-colors duration-200">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="col-span-4 md:col-span-8 lg:col-span-3">
+      <h2 class="text-white font-semibold text-sm uppercase tracking-widest mb-4">Coordonnées</h2>
+      <ul class="space-y-2.5 text-sm">
+        <li>Mohammedia, Maroc</li>
+        <li><a href="tel:+212523000000" class="hover:text-accent transition-colors duration-200">+212 5 23 00 00 00</a></li>
+        <li><a href="mailto:contact@raouia-informatique.ma" class="hover:text-accent transition-colors duration-200">contact@raouia-informatique.ma</a></li>
+        <li>Lun–Ven : 8h30–18h30 · Sam : 9h–13h</li>
+      </ul>
+    </div>
+  </div>
+  <div class="border-t border-white/10">
+    <div class="max-w-site mx-auto px-4 md:px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
+      <p>© 2026 RAOUIA INFORMATIQUE — Tous droits réservés.</p>
+      <p><a href="#" class="hover:text-accent transition-colors duration-200">Mentions légales</a> · <a href="#" class="hover:text-accent transition-colors duration-200">Politique de confidentialité</a></p>
+    </div>
+  </div>
+</footer>
+
+<a href="https://wa.me/212600000000?text=Bonjour%20RAOUIA%20INFORMATIQUE%2C%20je%20souhaite%20des%20informations%20sur%20vos%20services." target="_blank" rel="noopener" aria-label="Contacter RAOUIA INFORMATIQUE sur WhatsApp Business" class="wa-pulse fixed bottom-6 right-6 z-50 w-14 h-14 bg-whatsapp hover:bg-[#1DA851] text-white rounded-full shadow-float flex items-center justify-center transition-all duration-200 hover:scale-110 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-whatsapp">
+  <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+</a>
+
+<script>
+(function(){
+'use strict';
+gsap.registerPlugin(ScrollTrigger);
+var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var wipe=document.getElementById('wipe');
+
+var toggle=document.getElementById('menu-toggle');
+var menu=document.getElementById('mobile-menu');
+var iconOpen=document.getElementById('icon-open');
+var iconClose=document.getElementById('icon-close');
+toggle.addEventListener('click',function(){
+  var isOpen=toggle.getAttribute('aria-expanded')==='true';
+  toggle.setAttribute('aria-expanded',String(!isOpen));
+  toggle.setAttribute('aria-label',isOpen?'Ouvrir le menu de navigation':'Fermer le menu de navigation');
+  menu.classList.toggle('hidden',isOpen);
+  iconOpen.classList.toggle('hidden',!isOpen);
+  iconClose.classList.toggle('hidden',isOpen);
+});
+menu.querySelectorAll('a').forEach(function(link){
+  link.addEventListener('click',function(){
+    toggle.setAttribute('aria-expanded','false');
+    menu.classList.add('hidden');
+    iconOpen.classList.remove('hidden');
+    iconClose.classList.add('hidden');
+  });
+});
+
+if(reduce){
+  gsap.set(wipe,{scaleY:0});
+  gsap.set('[data-hero],.reveal',{opacity:1,y:0});
+}else{
+  gsap.timeline()
+    .to(wipe,{scaleY:0,duration:.85,ease:'power4.inOut'})
+    .from('[data-hero]',{y:44,opacity:0,stagger:.12,duration:.9,ease:'power4.out'},'-=.35');
+  gsap.set('.reveal',{y:44});
+  ScrollTrigger.batch('.reveal',{start:'top 88%',onEnter:function(els){gsap.to(els,{opacity:1,y:0,stagger:.09,duration:.85,ease:'power4.out',overwrite:true});}});
+}
+
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-counter'),10);
+  var prefix=el.getAttribute('data-prefix')||'';
+  var suffix=el.getAttribute('data-suffix')||'';
+  var obj={v:0};
+  function render(){el.innerHTML=prefix+Math.round(obj.v).toLocaleString('fr-FR')+suffix;}
+  if(reduce){obj.v=target;render();return;}
+  gsap.to(obj,{v:target,duration:1.6,ease:'power2.out',onUpdate:render});
+}
+document.querySelectorAll('[data-counter]').forEach(function(el){
+  ScrollTrigger.create({trigger:el,start:'top 92%',once:true,onEnter:function(){runCounter(el);}});
+});
+})();
+</script>
+</body>
+</html>

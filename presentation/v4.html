@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAOUIA INFORMATIQUE — V4 Luxe Minimaliste</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{paper:'#FAFAFA',inkk:'#0A0A0A',mist:'#6B7280',hair:'#E5E5E5',iris:'#4F46E5'},fontFamily:{body:['-apple-system','BlinkMacSystemFont','"Helvetica Neue"','"Segoe UI"','Arial','sans-serif']},letterSpacing:{massive:'-0.04em'}}}}
+</script>
+<style>
+body{overflow-x:hidden}
+#wipe{transform:scaleY(1);transform-origin:top}
+.blurup{opacity:0;filter:blur(18px);transform:translateY(40px);will-change:transform,filter,opacity}
+.reveal{opacity:0}
+.mag{will-change:transform;display:inline-flex}
+.hairline{border-color:#E5E5E5}
+.rowlink{transition:background-color .35s cubic-bezier(.22,1,.36,1),padding-left .35s cubic-bezier(.22,1,.36,1)}
+.rowlink:hover{background-color:#F3F3F3;padding-left:2.25rem}
+.rowlink .num{transition:color .35s ease}
+.rowlink:hover .num{color:#4F46E5}
+.pill{transition:transform .3s cubic-bezier(.22,1,.36,1),box-shadow .3s ease}
+.pill:hover{transform:translateY(-2px);box-shadow:0 14px 30px -12px rgba(10,10,10,.35)}
+.pill:active{transform:translateY(0) scale(.98)}
+@media (prefers-reduced-motion:reduce){.blurup,.reveal{opacity:1;filter:none;transform:none}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body class="font-body bg-paper text-inkk antialiased">
+
+<div id="wipe" class="fixed inset-0 z-[100] bg-paper pointer-events-none" aria-hidden="true"></div>
+
+<header class="sticky top-0 z-50 bg-paper/85 backdrop-blur-xl border-b hairline">
+  <div class="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
+    <a href="index.html" data-nav data-color="#060B18" class="font-semibold tracking-massive text-lg" aria-label="Retour au hub">Raouia<span class="text-mist font-normal"> — V4</span></a>
+    <nav aria-label="Variantes" class="flex items-center gap-6 text-sm">
+      <a href="index.html" data-nav data-color="#060B18" class="text-mist hover:text-inkk transition-colors duration-300">Hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hidden sm:inline text-mist hover:text-inkk transition-colors duration-300">V1</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="hidden sm:inline text-mist hover:text-inkk transition-colors duration-300">V2</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="hidden sm:inline text-mist hover:text-inkk transition-colors duration-300">V3</a>
+      <span class="mag"><a href="#contact" class="pill bg-inkk text-paper text-sm font-medium px-5 py-2.5 rounded-full">Audit gratuit</a></span>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="min-h-[92vh] flex items-center" aria-labelledby="h1">
+  <div class="max-w-5xl mx-auto px-6 py-24 w-full">
+    <p class="blurup text-mist text-sm mb-10">Services informatiques B2B — Mohammedia &amp; Casablanca</p>
+    <h1 id="h1" class="blurup text-5xl sm:text-7xl lg:text-[6.5rem] font-bold tracking-massive leading-[0.98] mb-12">L'informatique,<br>réduite à<br>l'essentiel&nbsp;: <span class="text-mist">fiable.</span></h1>
+    <div class="blurup flex flex-col sm:flex-row items-start sm:items-center gap-6">
+      <span class="mag"><a href="#contact" class="pill bg-inkk text-paper font-medium px-8 py-4 rounded-full">Demander un audit gratuit</a></span>
+      <a href="#services" class="text-mist hover:text-inkk transition-colors duration-300 border-b border-transparent hover:border-inkk pb-0.5">Parcourir les services ↓</a>
+    </div>
+  </div>
+</section>
+
+<section class="border-y hairline" aria-label="Chiffres clés">
+  <div class="max-w-5xl mx-auto px-6 py-14 grid grid-cols-2 lg:grid-cols-4 gap-10">
+    <div class="reveal"><p class="text-4xl lg:text-5xl font-bold tracking-massive" data-counter="15" data-suffix="+">0</p><p class="text-sm text-mist mt-2">années d'expérience</p></div>
+    <div class="reveal"><p class="text-4xl lg:text-5xl font-bold tracking-massive" data-counter="200" data-suffix="+">0</p><p class="text-sm text-mist mt-2">entreprises accompagnées</p></div>
+    <div class="reveal"><p class="text-4xl lg:text-5xl font-bold tracking-massive" data-counter="4" data-prefix="&lt;&nbsp;" data-suffix="h">0</p><p class="text-sm text-mist mt-2">d'intervention sur site</p></div>
+    <div class="reveal"><p class="text-4xl lg:text-5xl font-bold tracking-massive" data-counter="99" data-suffix=",5&nbsp;%">0</p><p class="text-sm text-mist mt-2">de disponibilité garantie</p></div>
+  </div>
+</section>
+
+<section id="services" class="py-24 lg:py-32" aria-labelledby="h-services">
+  <div class="max-w-5xl mx-auto px-6">
+    <h2 id="h-services" class="reveal text-3xl lg:text-5xl font-bold tracking-massive mb-16">Services</h2>
+    <div class="border-t hairline">
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">01</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Matériel &amp; informatique professionnelle</span><span class="text-sm text-mist">Postes, serveurs, stockage, conseil et installation.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">02</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Maintenance &amp; contrats d'infogérance</span><span class="text-sm text-mist">SLA écrits, audit, conseil, assurance informatique.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">03</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Réseaux, serveurs &amp; cloud</span><span class="text-sm text-mist">Wi-Fi professionnel, Microsoft 365, Google Workspace.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">04</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Cybersécurité</span><span class="text-sm text-mist">Sauvegarde, firewall, plan de reprise testé.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">05</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Sécurité physique</span><span class="text-sm text-mist">Caméras IP, vidéosurveillance, alarmes, contrôle d'accès.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+      <a href="#contact" class="rowlink reveal group flex items-baseline gap-6 py-7 pl-2 border-b hairline">
+        <span class="num text-sm text-mist font-medium w-8 shrink-0">06</span>
+        <span class="flex-1"><span class="block text-xl lg:text-2xl font-semibold tracking-massive mb-1">Solutions de bureau</span><span class="text-sm text-mist">Téléphonie IP, impression, photocopieurs, consommables.</span></span>
+        <span class="text-mist group-hover:text-inkk group-hover:translate-x-1 transition-all duration-300" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="bg-inkk text-paper py-24 lg:py-32" aria-labelledby="h-cas">
+  <div class="max-w-5xl mx-auto px-6">
+    <h2 id="h-cas" class="reveal text-3xl lg:text-5xl font-bold tracking-massive mb-16">Résultats</h2>
+    <div class="grid lg:grid-cols-3 gap-12">
+      <article class="reveal">
+        <p class="text-sm text-neutral-500 mb-4">Industrie — Mohammedia</p>
+        <h3 class="text-xl font-semibold tracking-massive mb-3">Infogérance, 120 postes</h3>
+        <p class="text-sm text-neutral-400 leading-relaxed mb-6">Supervision proactive, renouvellement du parc, hotline dédiée.</p>
+        <p class="text-4xl font-bold tracking-massive">−82&nbsp;%</p><p class="text-sm text-neutral-500">d'incidents bloquants en 12 mois</p>
+      </article>
+      <article class="reveal">
+        <p class="text-sm text-neutral-500 mb-4">Santé — Casablanca</p>
+        <h3 class="text-xl font-semibold tracking-massive mb-3">Sécurisation multisite</h3>
+        <p class="text-sm text-neutral-400 leading-relaxed mb-6">Firewall NG, sauvegarde chiffrée, segmentation, PRA testé.</p>
+        <p class="text-4xl font-bold tracking-massive">0</p><p class="text-sm text-neutral-500">perte de données depuis la refonte</p>
+      </article>
+      <article class="reveal">
+        <p class="text-sm text-neutral-500 mb-4">Services — Casablanca</p>
+        <h3 class="text-xl font-semibold tracking-massive mb-3">Migration M365 + téléphonie</h3>
+        <p class="text-sm text-neutral-400 leading-relaxed mb-6">60 collaborateurs migrés en un week-end, sans interruption.</p>
+        <p class="text-4xl font-bold tracking-massive">−35&nbsp;%</p><p class="text-sm text-neutral-500">de coûts télécoms annuels</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="py-24 lg:py-32" aria-labelledby="h-temoin">
+  <div class="max-w-4xl mx-auto px-6">
+    <h2 id="h-temoin" class="sr-only">Témoignage client</h2>
+    <figure class="reveal">
+      <blockquote class="text-2xl lg:text-4xl font-semibold tracking-massive leading-snug mb-8">«&nbsp;Depuis le contrat d'infogérance, je ne gère plus l'informatique. Les délais sont tenus. La production ne s'arrête plus.&nbsp;»</blockquote>
+      <figcaption class="text-mist">Karim B. — Directeur d'usine, Mohammedia</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section id="contact" class="border-t hairline py-24 lg:py-32" aria-labelledby="h-contact">
+  <div class="max-w-5xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-start">
+    <div class="reveal">
+      <h2 id="h-contact" class="text-3xl lg:text-5xl font-bold tracking-massive mb-6">Un audit.<br>Gratuit. Précis.</h2>
+      <p class="text-mist leading-relaxed mb-10">Rapport de recommandations chiffré sous 5 jours ouvrés. Réponse sous 24&nbsp;h. Sans engagement.</p>
+      <ul class="space-y-3 text-sm">
+        <li><a href="tel:+212523000000" class="border-b hairline hover:border-inkk transition-colors duration-300 pb-0.5">+212 5 23 00 00 00</a></li>
+        <li><a href="mailto:contact@raouia-informatique.ma" class="border-b hairline hover:border-inkk transition-colors duration-300 pb-0.5">contact@raouia-informatique.ma</a></li>
+        <li class="text-mist">Mohammedia — région Casablanca-Settat</li>
+        <li><a href="https://wa.me/212600000000" target="_blank" rel="noopener" class="border-b hairline hover:border-inkk transition-colors duration-300 pb-0.5">WhatsApp Business ↗</a></li>
+      </ul>
+    </div>
+    <form action="/api/demande-audit" method="POST" class="reveal" aria-label="Formulaire de demande d'audit">
+      <div class="space-y-6 mb-9">
+        <div><label for="v4-nom" class="block text-sm font-medium mb-2">Nom complet *</label><input id="v4-nom" name="nom" type="text" required class="w-full bg-transparent border-b hairline focus:border-inkk px-0 py-3 focus:outline-none focus:ring-0 transition-colors duration-300"></div>
+        <div><label for="v4-ent" class="block text-sm font-medium mb-2">Entreprise *</label><input id="v4-ent" name="entreprise" type="text" required class="w-full bg-transparent border-b hairline focus:border-inkk px-0 py-3 focus:outline-none focus:ring-0 transition-colors duration-300"></div>
+        <div><label for="v4-tel" class="block text-sm font-medium mb-2">Téléphone professionnel *</label><input id="v4-tel" name="telephone" type="tel" required class="w-full bg-transparent border-b hairline focus:border-inkk px-0 py-3 focus:outline-none focus:ring-0 transition-colors duration-300"></div>
+        <div><label for="v4-besoin" class="block text-sm font-medium mb-2">Votre besoin principal *</label>
+          <select id="v4-besoin" name="besoin" required class="w-full bg-transparent border-b hairline focus:border-inkk px-0 py-3 focus:outline-none focus:ring-0 transition-colors duration-300">
+            <option value="" disabled selected>Sélectionnez…</option><option value="infogerance">Maintenance / infogérance</option><option value="materiel">Matériel informatique</option><option value="reseaux">Réseaux &amp; cloud</option><option value="cyber">Cybersécurité</option><option value="physique">Vidéosurveillance / accès</option><option value="bureau">Téléphonie / impression</option>
+          </select></div>
+      </div>
+      <span class="mag w-full"><button type="submit" class="pill w-full bg-inkk text-paper font-medium text-lg px-8 py-4 rounded-full">Recevoir mon audit gratuit</button></span>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="border-t hairline">
+  <div class="max-w-5xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-mist">
+    <p>© 2026 Raouia Informatique — V4 Luxe Minimaliste</p>
+    <nav aria-label="Variantes (pied de page)" class="flex gap-5">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-inkk transition-colors duration-300">Hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hover:text-inkk transition-colors duration-300">V1</a>
+      <a href="v2.html" data-nav data-color="#05070F" class="hover:text-inkk transition-colors duration-300">V2</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="hover:text-inkk transition-colors duration-300">V3</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+gsap.registerPlugin(ScrollTrigger);
+var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var wipe=document.getElementById('wipe');
+if(reduce){
+  gsap.set(wipe,{scaleY:0});
+  gsap.set('.blurup,.reveal',{opacity:1,y:0,filter:'blur(0px)'});
+}else{
+  gsap.timeline()
+    .to(wipe,{scaleY:0,duration:.8,ease:'expo.inOut'})
+    .to('.blurup',{opacity:1,y:0,filter:'blur(0px)',stagger:.16,duration:1.3,ease:'expo.out'},'-=.25');
+  ScrollTrigger.batch('.reveal',{start:'top 90%',onEnter:function(els){gsap.to(els,{opacity:1,y:0,stagger:.08,duration:1,ease:'expo.out',overwrite:true});}});
+  gsap.set('.reveal',{y:36});
+}
+document.querySelectorAll('.mag').forEach(function(wrap){
+  var inner=wrap.firstElementChild;
+  var bx=gsap.quickTo(inner,'x',{duration:.45,ease:'power3.out'});
+  var by=gsap.quickTo(inner,'y',{duration:.45,ease:'power3.out'});
+  wrap.addEventListener('mousemove',function(e){
+    if(reduce)return;
+    var r=wrap.getBoundingClientRect();
+    bx((e.clientX-(r.left+r.width/2))*.32);
+    by((e.clientY-(r.top+r.height/2))*.32);
+  });
+  wrap.addEventListener('mouseleave',function(){bx(0);by(0);});
+});
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-counter'),10);
+  var prefix=el.getAttribute('data-prefix')||'';
+  var suffix=el.getAttribute('data-suffix')||'';
+  var obj={v:0};
+  function render(){el.innerHTML=prefix+Math.round(obj.v).toLocaleString('fr-FR')+suffix;}
+  if(reduce){obj.v=target;render();return;}
+  ScrollTrigger.create({trigger:el,start:'top 92%',once:true,onEnter:function(){gsap.to(obj,{v:target,duration:1.5,ease:'expo.out',onUpdate:render});}});
+}
+document.querySelectorAll('[data-counter]').forEach(runCounter);
+document.querySelectorAll('a[data-nav]').forEach(function(a){
+  a.addEventListener('click',function(e){
+    e.preventDefault();
+    var href=a.getAttribute('href');
+    if(reduce){location.href=href;return;}
+    wipe.style.backgroundColor=a.getAttribute('data-color');
+    gsap.set(wipe,{transformOrigin:'bottom'});
+    gsap.to(wipe,{scaleY:1,duration:.55,ease:'expo.inOut',onComplete:function(){location.href=href;}});
+  });
+});
+})();
+</script>
+</body>
+</html>

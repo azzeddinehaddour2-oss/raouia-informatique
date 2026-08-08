@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAOUIA INFORMATIQUE — V2 High-Tech Futuriste</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{void:'#05070F',surface:'#0A1228',line:'#152242',cyan:{DEFAULT:'#22D3EE',dim:'#0E7490'},violet:'#818CF8',mint:'#34D399'},fontFamily:{mono:['"SF Mono"','"Cascadia Code"','Consolas','monospace'],body:['Inter','-apple-system','"Segoe UI"','sans-serif']}}}}
+</script>
+<style>
+body{overflow-x:hidden;background:#05070F}
+#wipe{transform:scaleY(1);transform-origin:top}
+#glow{position:fixed;top:0;left:0;width:640px;height:640px;margin:-320px 0 0 -320px;border-radius:9999px;pointer-events:none;z-index:1;background:radial-gradient(circle,rgba(34,211,238,.14) 0%,rgba(129,140,248,.07) 35%,transparent 70%);will-change:transform}
+.stars{background-image:radial-gradient(1px 1px at 20px 30px,rgba(255,255,255,.35),transparent),radial-gradient(1px 1px at 90px 110px,rgba(34,211,238,.4),transparent),radial-gradient(1.5px 1.5px at 160px 60px,rgba(255,255,255,.25),transparent),radial-gradient(1px 1px at 230px 140px,rgba(129,140,248,.4),transparent);background-size:280px 180px}
+.glass{background:rgba(16,26,53,.45);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid rgba(34,211,238,.15);transform-style:preserve-3d;will-change:transform}
+.tilt-wrap{perspective:1000px}
+.glass .in{transform:translateZ(34px)}
+.wave{position:absolute;left:-40%;width:180%;height:2px;background:linear-gradient(90deg,transparent,rgba(34,211,238,.9),rgba(129,140,248,.9),transparent);filter:drop-shadow(0 0 8px rgba(34,211,238,.8));animation:sweep 7s linear infinite;pointer-events:none}
+@keyframes sweep{0%{transform:translateX(-30%) skewY(-4deg);opacity:0}12%{opacity:1}88%{opacity:1}100%{transform:translateX(30%) skewY(-4deg);opacity:0}}
+.scanline{animation:scan 3.2s ease-in-out infinite}
+@keyframes scan{0%,100%{opacity:.25}50%{opacity:1}}
+.reveal{opacity:0}
+.neon-btn{box-shadow:0 0 18px rgba(34,211,238,.35),inset 0 0 12px rgba(34,211,238,.12);transition:box-shadow .3s ease,transform .3s ease}
+.neon-btn:hover{box-shadow:0 0 34px rgba(34,211,238,.7),inset 0 0 18px rgba(34,211,238,.25);transform:translateY(-2px)}
+.ticker span{display:inline-block;padding:0 2.5rem}
+.ticker-track{display:inline-flex;white-space:nowrap;animation:marquee 26s linear infinite}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.reveal{opacity:1}#glow,.wave{display:none}.ticker-track,.scanline{animation:none}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body class="font-body text-slate-300 antialiased">
+
+<div id="wipe" class="fixed inset-0 z-[100] bg-void pointer-events-none" aria-hidden="true"></div>
+<div id="glow" aria-hidden="true"></div>
+<div class="stars fixed inset-0 pointer-events-none" aria-hidden="true"></div>
+
+<header class="fixed top-0 inset-x-0 z-50 bg-void/60 backdrop-blur-xl border-b border-cyan/10">
+  <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+    <a href="index.html" data-nav data-color="#060B18" class="font-mono text-cyan font-bold tracking-widest" aria-label="Retour au hub">RAOUIA<span class="text-violet">_V2</span></a>
+    <nav aria-label="Variantes" class="flex items-center gap-5 text-sm font-mono">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-cyan transition-colors">./hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hidden sm:inline hover:text-cyan transition-colors">./v1</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="hidden sm:inline hover:text-cyan transition-colors">./v3</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="hidden sm:inline hover:text-cyan transition-colors">./v4</a>
+      <a href="#contact" class="neon-btn border border-cyan/50 text-cyan px-4 py-2 rounded-lg">init_audit()</a>
+    </nav>
+  </div>
+</header>
+
+<main class="relative z-10">
+
+<section class="min-h-screen flex items-center relative overflow-hidden pt-16" aria-labelledby="h1">
+  <div class="wave top-[28%]" aria-hidden="true"></div>
+  <div class="wave top-[62%]" style="animation-delay:3.4s" aria-hidden="true"></div>
+  <div data-parallax="-60" class="absolute -top-24 right-[8%] w-96 h-96 rounded-full bg-violet/10 blur-3xl" aria-hidden="true"></div>
+  <div data-parallax="40" class="absolute bottom-0 left-[4%] w-[28rem] h-[28rem] rounded-full bg-cyan/10 blur-3xl" aria-hidden="true"></div>
+  <div class="max-w-6xl mx-auto px-6 py-24 grid lg:grid-cols-12 gap-12 items-center relative">
+    <div class="lg:col-span-7">
+      <p data-hero class="font-mono text-cyan text-sm mb-6"><span class="scanline">▮</span> system.status: <span class="text-mint">OPERATIONAL</span> — Mohammedia · Casablanca</p>
+      <h1 id="h1" data-hero class="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white leading-[1.08] mb-6">Votre infrastructure IT,<br><span class="bg-gradient-to-r from-cyan to-violet bg-clip-text text-transparent">pilotée depuis le futur.</span></h1>
+      <p data-hero class="text-lg text-slate-400 max-w-xl mb-10 leading-relaxed">Infogérance, réseaux, cloud, cybersécurité, vidéosurveillance et solutions de bureau. Supervision proactive 24/7, SLA mesurés en temps réel.</p>
+      <div data-hero class="flex flex-col sm:flex-row gap-4">
+        <a href="#contact" class="neon-btn inline-flex items-center justify-center gap-2 bg-cyan/10 border border-cyan text-cyan font-semibold px-7 py-3.5 rounded-lg font-mono">&gt; demander_audit</a>
+        <a href="#services" class="inline-flex items-center justify-center border border-slate-600 hover:border-slate-300 text-slate-300 font-semibold px-7 py-3.5 rounded-lg transition-colors duration-200 font-mono">&gt; explorer_services</a>
+      </div>
+    </div>
+    <div data-hero class="lg:col-span-5 tilt-wrap">
+      <div class="glass tilt rounded-2xl p-6 font-mono text-sm">
+        <div class="in">
+          <p class="flex items-center gap-2 mb-4 text-slate-500"><span class="w-3 h-3 rounded-full bg-red-500/70" aria-hidden="true"></span><span class="w-3 h-3 rounded-full bg-yellow-500/70" aria-hidden="true"></span><span class="w-3 h-3 rounded-full bg-mint/70" aria-hidden="true"></span> raouia@noc:~$</p>
+          <p class="text-cyan mb-2">$ raouia scan --infra client</p>
+          <p class="text-slate-400 mb-1">→ postes_supervisés: <span class="text-white" data-counter="1500" data-suffix="+">0</span></p>
+          <p class="text-slate-400 mb-1">→ disponibilité: <span class="text-white" data-counter="99" data-suffix=",5%">0</span></p>
+          <p class="text-slate-400 mb-1">→ intervention_max: <span class="text-white">&lt; <span data-counter="4" data-suffix="h">0</span></span></p>
+          <p class="text-slate-400 mb-3">→ clients_actifs: <span class="text-white" data-counter="200" data-suffix="+">0</span></p>
+          <p class="text-mint">✔ audit gratuit disponible <span class="scanline">▮</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="ticker border-y border-cyan/10 bg-surface/50 py-4 overflow-hidden" aria-hidden="true">
+  <div class="ticker-track font-mono text-sm text-slate-500">
+    <span>UPTIME 99,5%</span><span class="text-cyan">◆</span><span>200+ ENTREPRISES</span><span class="text-violet">◆</span><span>INTERVENTION &lt; 4H</span><span class="text-cyan">◆</span><span>15 ANS D'EXPERTISE</span><span class="text-violet">◆</span><span>SUPERVISION 24/7</span><span class="text-cyan">◆</span>
+    <span>UPTIME 99,5%</span><span class="text-cyan">◆</span><span>200+ ENTREPRISES</span><span class="text-violet">◆</span><span>INTERVENTION &lt; 4H</span><span class="text-cyan">◆</span><span>15 ANS D'EXPERTISE</span><span class="text-violet">◆</span><span>SUPERVISION 24/7</span><span class="text-cyan">◆</span>
+  </div>
+</div>
+
+<section id="services" class="py-24 lg:py-32 relative" aria-labelledby="h-services">
+  <div class="wave top-[45%]" style="animation-delay:1.8s" aria-hidden="true"></div>
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="mb-14 reveal">
+      <p class="font-mono text-cyan text-sm mb-3">// modules_disponibles</p>
+      <h2 id="h-services" class="text-3xl lg:text-5xl font-extrabold text-white">Six modules. Une plateforme de services.</h2>
+    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="font-mono text-cyan text-xs mb-3">[module_01]</p><h3 class="text-xl font-bold text-white mb-3">Matériel &amp; informatique pro</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Postes, portables, stations</li><li>▸ Serveurs &amp; stockage</li><li>▸ Conseil &amp; installation</li></ul></div></article></div>
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="font-mono text-cyan text-xs mb-3">[module_02]</p><h3 class="text-xl font-bold text-white mb-3">Maintenance &amp; infogérance</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Contrats SLA &amp; supervision</li><li>▸ Audit &amp; conseil</li><li>▸ Assurance informatique</li></ul></div></article></div>
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="font-mono text-cyan text-xs mb-3">[module_03]</p><h3 class="text-xl font-bold text-white mb-3">Réseaux, serveurs &amp; cloud</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Wi-Fi professionnel</li><li>▸ Cloud &amp; on-premise</li><li>▸ Microsoft 365 · Workspace</li></ul></div></article></div>
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full border-cyan/40"><div class="in"><p class="font-mono text-mint text-xs mb-3">[module_04 · priorité]</p><h3 class="text-xl font-bold text-white mb-3">Cybersécurité</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Sauvegarde chiffrée</li><li>▸ Firewall nouvelle génération</li><li>▸ PRA testé &amp; documenté</li></ul></div></article></div>
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="font-mono text-cyan text-xs mb-3">[module_05]</p><h3 class="text-xl font-bold text-white mb-3">Sécurité physique</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Caméras IP &amp; vidéosurveillance</li><li>▸ Alarmes anti-intrusion</li><li>▸ Contrôle d'accès &amp; biométrie</li></ul></div></article></div>
+      <div class="tilt-wrap reveal"><article class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="font-mono text-cyan text-xs mb-3">[module_06]</p><h3 class="text-xl font-bold text-white mb-3">Solutions de bureau</h3><ul class="space-y-2 text-sm text-slate-400"><li>▸ Téléphonie IP</li><li>▸ Impression &amp; photocopieurs</li><li>▸ Consommables &amp; parc</li></ul></div></article></div>
+    </div>
+  </div>
+</section>
+
+<section class="py-24 lg:py-32 bg-surface/40 border-y border-cyan/10 relative overflow-hidden" aria-labelledby="h-cas">
+  <div data-parallax="30" class="absolute top-10 right-0 w-80 h-80 rounded-full bg-cyan/5 blur-3xl" aria-hidden="true"></div>
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="mb-14 reveal">
+      <p class="font-mono text-cyan text-sm mb-3">// logs_de_mission</p>
+      <h2 id="h-cas" class="text-3xl lg:text-5xl font-extrabold text-white">Études de cas</h2>
+    </div>
+    <ol class="relative border-l border-cyan/30 space-y-12 ml-3">
+      <li class="reveal pl-8 relative"><span class="absolute -left-[7px] top-1.5 w-3.5 h-3.5 rounded-full bg-cyan shadow-[0_0_12px_rgba(34,211,238,.9)]" aria-hidden="true"></span>
+        <p class="font-mono text-xs text-slate-500 mb-2">mission_01 · industrie · Mohammedia</p>
+        <h3 class="text-xl font-bold text-white mb-2">Infogérance d'un site industriel de 120 postes</h3>
+        <p class="text-slate-400 max-w-2xl mb-3">Supervision proactive, renouvellement du parc, hotline dédiée.</p>
+        <p class="font-mono text-sm"><span class="text-mint">−82%</span> <span class="text-slate-500">incidents bloquants</span> · <span class="text-mint">45min</span> <span class="text-slate-500">prise en charge</span></p></li>
+      <li class="reveal pl-8 relative"><span class="absolute -left-[7px] top-1.5 w-3.5 h-3.5 rounded-full bg-violet shadow-[0_0_12px_rgba(129,140,248,.9)]" aria-hidden="true"></span>
+        <p class="font-mono text-xs text-slate-500 mb-2">mission_02 · santé · Casablanca</p>
+        <h3 class="text-xl font-bold text-white mb-2">Sécurisation post-ransomware d'une clinique</h3>
+        <p class="text-slate-400 max-w-2xl mb-3">Firewall NG, sauvegarde chiffrée externalisée, segmentation, PRA testé.</p>
+        <p class="font-mono text-sm"><span class="text-mint">0</span> <span class="text-slate-500">perte de données</span> · <span class="text-mint">4h</span> <span class="text-slate-500">reprise garantie</span></p></li>
+      <li class="reveal pl-8 relative"><span class="absolute -left-[7px] top-1.5 w-3.5 h-3.5 rounded-full bg-cyan shadow-[0_0_12px_rgba(34,211,238,.9)]" aria-hidden="true"></span>
+        <p class="font-mono text-xs text-slate-500 mb-2">mission_03 · services · Casablanca</p>
+        <h3 class="text-xl font-bold text-white mb-2">Migration M365 + téléphonie IP, 60 collaborateurs</h3>
+        <p class="text-slate-400 max-w-2xl mb-3">Bascule complète en un week-end, sans interruption d'activité.</p>
+        <p class="font-mono text-sm"><span class="text-mint">−35%</span> <span class="text-slate-500">coûts télécoms</span> · <span class="text-mint">0</span> <span class="text-slate-500">jour d'arrêt</span></p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="py-24 lg:py-32" aria-labelledby="h-temoin">
+  <div class="max-w-6xl mx-auto px-6">
+    <h2 id="h-temoin" class="reveal text-3xl lg:text-5xl font-extrabold text-white mb-14">// retours_clients</h2>
+    <div class="grid lg:grid-cols-3 gap-6">
+      <div class="tilt-wrap reveal"><figure class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="text-cyan mb-3" aria-label="5 étoiles">★★★★★</p><blockquote class="text-sm leading-relaxed mb-5">« Depuis le contrat d'infogérance, la production ne s'arrête plus. Les délais annoncés sont tenus. »</blockquote><figcaption class="font-mono text-xs text-slate-500">Karim B. — Directeur d'usine, Mohammedia</figcaption></div></figure></div>
+      <div class="tilt-wrap reveal"><figure class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="text-cyan mb-3" aria-label="5 étoiles">★★★★★</p><blockquote class="text-sm leading-relaxed mb-5">« L'audit a révélé des failles jamais signalées. La refonte sécurité a été menée sans perturber les soins. »</blockquote><figcaption class="font-mono text-xs text-slate-500">Dr Salma L. — Directrice de clinique, Casablanca</figcaption></div></figure></div>
+      <div class="tilt-wrap reveal"><figure class="glass tilt rounded-2xl p-7 h-full"><div class="in"><p class="text-cyan mb-3" aria-label="5 étoiles">★★★★★</p><blockquote class="text-sm leading-relaxed mb-5">« Migration bouclée en un week-end. Le lundi matin, tout fonctionnait. »</blockquote><figcaption class="font-mono text-xs text-slate-500">Youssef E. — Associé gérant, Casablanca</figcaption></div></figure></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="py-24 lg:py-32 relative overflow-hidden" aria-labelledby="h-contact">
+  <div class="wave top-[20%]" style="animation-delay:5s" aria-hidden="true"></div>
+  <div class="max-w-4xl mx-auto px-6">
+    <div class="tilt-wrap reveal">
+      <form action="/api/demande-audit" method="POST" class="glass rounded-2xl p-8 lg:p-10" aria-label="Formulaire de demande d'audit">
+        <p class="font-mono text-cyan text-sm mb-3">$ ./lancer_audit --gratuit</p>
+        <h2 id="h-contact" class="text-3xl lg:text-4xl font-extrabold text-white mb-2">Initialisez votre audit</h2>
+        <p class="text-slate-400 mb-8">Rapport chiffré sous 5 jours ouvrés. Réponse sous 24 h.</p>
+        <div class="grid sm:grid-cols-2 gap-5 mb-5">
+          <div><label for="v2-nom" class="block font-mono text-xs text-cyan mb-2">nom_complet *</label><input id="v2-nom" name="nom" type="text" required class="w-full rounded-lg bg-void/60 border border-cyan/25 px-4 py-3 text-white placeholder:text-slate-600 focus:border-cyan focus:ring-2 focus:ring-cyan/25 focus:outline-none"></div>
+          <div><label for="v2-ent" class="block font-mono text-xs text-cyan mb-2">entreprise *</label><input id="v2-ent" name="entreprise" type="text" required class="w-full rounded-lg bg-void/60 border border-cyan/25 px-4 py-3 text-white focus:border-cyan focus:ring-2 focus:ring-cyan/25 focus:outline-none"></div>
+        </div>
+        <div class="mb-5"><label for="v2-tel" class="block font-mono text-xs text-cyan mb-2">telephone_pro *</label><input id="v2-tel" name="telephone" type="tel" required class="w-full rounded-lg bg-void/60 border border-cyan/25 px-4 py-3 text-white focus:border-cyan focus:ring-2 focus:ring-cyan/25 focus:outline-none"></div>
+        <div class="mb-8"><label for="v2-besoin" class="block font-mono text-xs text-cyan mb-2">module_requis *</label>
+          <select id="v2-besoin" name="besoin" required class="w-full rounded-lg bg-void/60 border border-cyan/25 px-4 py-3 text-white focus:border-cyan focus:ring-2 focus:ring-cyan/25 focus:outline-none">
+            <option value="" disabled selected>select&gt;</option><option value="infogerance">maintenance / infogérance</option><option value="materiel">matériel informatique</option><option value="reseaux">réseaux &amp; cloud</option><option value="cyber">cybersécurité</option><option value="physique">vidéosurveillance / accès</option><option value="bureau">téléphonie / impression</option>
+          </select></div>
+        <button type="submit" class="neon-btn w-full bg-cyan/10 border border-cyan text-cyan font-mono font-bold text-lg px-7 py-4 rounded-lg">&gt; executer_demande()</button>
+        <p class="mt-6 text-center"><a href="https://wa.me/212600000000" target="_blank" rel="noopener" class="font-mono text-sm text-mint hover:text-white transition-colors">ou → canal_whatsapp_business</a></p>
+      </form>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-cyan/10 bg-void">
+  <div class="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 font-mono text-xs text-slate-500">
+    <p>© 2026 RAOUIA_INFORMATIQUE · V2 // Mohammedia</p>
+    <nav aria-label="Variantes (pied de page)" class="flex gap-4">
+      <a href="index.html" data-nav data-color="#060B18" class="hover:text-cyan transition-colors">./hub</a>
+      <a href="v1.html" data-nav data-color="#0B2447" class="hover:text-cyan transition-colors">./v1</a>
+      <a href="v3.html" data-nav data-color="#0E4D45" class="hover:text-cyan transition-colors">./v3</a>
+      <a href="v4.html" data-nav data-color="#FAFAFA" class="hover:text-cyan transition-colors">./v4</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+gsap.registerPlugin(ScrollTrigger);
+var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var wipe=document.getElementById('wipe');
+if(reduce){
+  gsap.set(wipe,{scaleY:0});
+  gsap.set('[data-hero],.reveal',{opacity:1,y:0});
+}else{
+  gsap.timeline()
+    .to(wipe,{scaleY:0,duration:.85,ease:'power4.inOut'})
+    .from('[data-hero]',{y:50,opacity:0,stagger:.13,duration:.9,ease:'power4.out'},'-=.35');
+  ScrollTrigger.batch('.reveal',{start:'top 88%',onEnter:function(els){gsap.to(els,{opacity:1,y:0,stagger:.1,duration:.9,ease:'power4.out',overwrite:true});}});
+  gsap.set('.reveal',{y:50});
+  var glow=document.getElementById('glow');
+  var gx=gsap.quickTo(glow,'x',{duration:.6,ease:'power3.out'});
+  var gy=gsap.quickTo(glow,'y',{duration:.6,ease:'power3.out'});
+  window.addEventListener('mousemove',function(e){gx(e.clientX);gy(e.clientY);});
+  document.querySelectorAll('[data-parallax]').forEach(function(el){
+    gsap.to(el,{y:parseFloat(el.getAttribute('data-parallax')),ease:'none',scrollTrigger:{trigger:el.parentElement,start:'top bottom',end:'bottom top',scrub:1.2}});
+  });
+}
+document.querySelectorAll('.tilt-wrap').forEach(function(wrap){
+  var card=wrap.querySelector('.tilt');
+  if(!card)return;
+  var rx=gsap.quickTo(card,'rotationX',{duration:.5,ease:'power3.out'});
+  var ry=gsap.quickTo(card,'rotationY',{duration:.5,ease:'power3.out'});
+  wrap.addEventListener('mousemove',function(e){
+    if(reduce)return;
+    var r=wrap.getBoundingClientRect();
+    ry(((e.clientX-r.left)/r.width-.5)*16);
+    rx(-((e.clientY-r.top)/r.height-.5)*12);
+  });
+  wrap.addEventListener('mouseleave',function(){rx(0);ry(0);});
+});
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-counter'),10);
+  var suffix=el.getAttribute('data-suffix')||'';
+  var obj={v:0};
+  function render(){el.innerHTML=Math.round(obj.v).toLocaleString('fr-FR')+suffix;}
+  if(reduce){obj.v=target;render();return;}
+  gsap.to(obj,{v:target,duration:1.8,ease:'power2.out',onUpdate:render,delay:.9});
+}
+document.querySelectorAll('[data-counter]').forEach(runCounter);
+document.querySelectorAll('a[data-nav]').forEach(function(a){
+  a.addEventListener('click',function(e){
+    e.preventDefault();
+    var href=a.getAttribute('href');
+    if(reduce){location.href=href;return;}
+    wipe.style.backgroundColor=a.getAttribute('data-color');
+    gsap.set(wipe,{transformOrigin:'bottom'});
+    gsap.to(wipe,{scaleY:1,duration:.6,ease:'power4.inOut',onComplete:function(){location.href=href;}});
+  });
+});
+})();
+</script>
+</body>
+</html>
