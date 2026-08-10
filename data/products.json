@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:17:57",
+  "generated_at": "2026-08-10T14:39:49",
   "count": 2575,
   "products": [
     {
@@ -1620,7 +1620,7 @@
       "ref": "AGR-13-8",
       "designation": "AGRAFES DELTA STAPLES 13/8 5000 PCS",
       "prix": 16.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "AGR-8",
@@ -4308,7 +4308,7 @@
       "ref": "CHP23",
       "designation": "CHEMISE A RABAT PLASTIQUE NOIR",
       "prix": 10.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "CHP-9020",
@@ -5988,7 +5988,8 @@
       "ref": "DS-2CE76K0T",
       "designation": "HIKVISION CAMERA 3K DS-2CE76K0T-EXLMF(2.8MM) DOME 3K COLORVU",
       "prix": 300.0,
-      "stock": 11
+      "stock": 11,
+      "image": "https://assets.hikvision.com/prd/normal/all/image/m000068586/%E6%B5%B7%E8%9E%BA30-D0T-%E6%AD%A3%E9%9D%A2.png"
     },
     {
       "ref": "DS-2CE76KOT",
@@ -6078,7 +6079,8 @@
       "ref": "DS-7616NXI",
       "designation": "HIKVISION DS-7616NXI-K2/16P ENREGISTREUR VIDEO 1U",
       "prix": 2600.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://assets.hikvision.com/prd/public/all/image/m000058884/%E6%B8%B2%E6%9F%93%E5%9B%BE.png"
     },
     {
       "ref": "DSB-083",
@@ -6618,7 +6620,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 885
+      "stock": 874
     },
     {
       "ref": "ENV-A5P",
@@ -7128,7 +7130,8 @@
       "ref": "G3410",
       "designation": "IMPREMANTE PIXMA CANON G3410 TANK MFP WIFI COLOR",
       "prix": 1560.0,
-      "stock": 3
+      "stock": 3,
+      "image": "https://cdn.media.amplience.net/i/canon/pixma_g3410-as-fra_4c70ad9f96f948a8b32187fb69d362d9"
     },
     {
       "ref": "G-5020",
@@ -7650,7 +7653,8 @@
       "ref": "HDWT84",
       "designation": "TOSHIBA DISQUE DUR HDD 3.5 S300 4 TO",
       "prix": 1800.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://storage.toshiba.com/images/chddcore/2025_virtuallabel_front_s300.png"
     },
     {
       "ref": "HE20HF",
@@ -7890,7 +7894,8 @@
       "ref": "HP-226A",
       "designation": "TONER HP 26A CF226A NOIR",
       "prix": 1416.0,
-      "stock": 15
+      "stock": 15,
+      "image": "https://hp.widen.net/content/cdrs78qvaa/webp/cdrs78qvaa.png"
     },
     {
       "ref": "HP-2320",
@@ -7908,7 +7913,8 @@
       "ref": "HP-24POUCE",
       "designation": "Écran 23\" Full HD HP EliteDisplay E233",
       "prix": 1050.0,
-      "stock": 11
+      "stock": 11,
+      "image": "https://hp.widen.net/content/c3gmpyqdzs/png/c3gmpyqdzs.png"
     },
     {
       "ref": "HP250",
@@ -7920,7 +7926,8 @@
       "ref": "HP-270G7",
       "designation": "PC PORTABLE HP I3 250 G7 4GB RAM 256SSD FREEDOS",
       "prix": 4000.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://hp.widen.net/content/pgeykv0p4a/png/pgeykv0p4a.png"
     },
     {
       "ref": "HP-290G",
@@ -7968,7 +7975,8 @@
       "ref": "HP-4102FDW",
       "designation": "HP LaserJet Pro Imprimante MFP 4102fdw",
       "prix": 4700.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://hp.widen.net/content/8prnayppvh/png/8prnayppvh.png"
     },
     {
       "ref": "HP-460",
@@ -8040,7 +8048,8 @@
       "ref": "HP-724",
       "designation": "HP Series 7 Pro 23.8 inch FHD Monitor - 724pf 36M",
       "prix": 2782.5,
-      "stock": 1
+      "stock": 1,
+      "image": "https://hp.widen.net/content/45s7lh499f/png/45s7lh499f.png"
     },
     {
       "ref": "HP72-B",
@@ -8058,7 +8067,8 @@
       "ref": "HP-800-G3",
       "designation": "HP EliteDesk 800 G3 sff Core i5 6500-3200Mhz 256Go SSD",
       "prix": 1500.0,
-      "stock": 5
+      "stock": 5,
+      "image": "https://hp.widen.net/content/jiipvkahau/png/jiipvkahau.png"
     },
     {
       "ref": "HP800G3I5",
@@ -8094,7 +8104,8 @@
       "ref": "HP840G6",
       "designation": "PC PORTABLE HP I5   840G6 8G RAM 256 SSD",
       "prix": 2900.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://hp.widen.net/content/yacpnxmsos/png/yacpnxmsos.png"
     },
     {
       "ref": "HP85A",
@@ -8514,7 +8525,8 @@
       "ref": "IM3251",
       "designation": "IMPRIMANTE EPSON  L3251",
       "prix": 1900.0,
-      "stock": 5
+      "stock": 5,
+      "image": "https://i8.amplience.net/i/epsonemear/l3251_png_l3251"
     },
     {
       "ref": "IMG680",
@@ -8634,7 +8646,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 25
+      "stock": 24
     },
     {
       "ref": "IP-C510",
@@ -9114,7 +9126,8 @@
       "ref": "LEN-27U",
       "designation": "LENOVO Moniteur Legion 27U-10 27'' 24 Mois",
       "prix": 3050.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://p3-ofp.static.pub/ShareResource/ww/visuals/legion-27u-10/Legion-27U-10-list-new.png"
     },
     {
       "ref": "LEN-65W",
@@ -9234,7 +9247,8 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 13
+      "stock": 13,
+      "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png"
     },
     {
       "ref": "LQ200",
@@ -9276,7 +9290,8 @@
       "ref": "LQ-350",
       "designation": "IMPRIMANTE EPSON LQ-350",
       "prix": 1900.0,
-      "stock": 3
+      "stock": 3,
+      "image": "https://i8.amplience.net/i/epsonemear/12058-productpicture-lores-ix-lq-350_main_rns"
     },
     {
       "ref": "LR03-MN2400",
@@ -9444,7 +9459,8 @@
       "ref": "M185",
       "designation": "LOGITECH Wireless Mouse M185 Swift Grey WER Occident Pack",
       "prix": 200.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-top-angle-1.png"
     },
     {
       "ref": "M20",
@@ -9654,7 +9670,8 @@
       "ref": "MF3010",
       "designation": "IMPRIMANTE CANON MF3010 230V i-SENSYS Bundle laser A4",
       "prix": 3600.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://cdn.media.amplience.net/i/canon/mf3010_frt_black_fa2dd4be62184ca2a36fb7a86a9611c1"
     },
     {
       "ref": "MF655CDW",
@@ -9762,7 +9779,8 @@
       "ref": "MK220",
       "designation": "PACK CLAVIE+SOURIS SANS FIL LOGITECH MK220",
       "prix": 350.0,
-      "stock": 7
+      "stock": 7,
+      "image": "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery1.png"
     },
     {
       "ref": "MK270",
@@ -10098,7 +10116,7 @@
       "ref": "NGS",
       "designation": "NGS SOURIS FILAIRE 12000 DPI",
       "prix": 40.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "NIA-Q1",
@@ -10638,7 +10656,7 @@
       "ref": "P-CIN",
       "designation": "POCHETTE CIN PLASTIQUE",
       "prix": 1.0,
-      "stock": 74
+      "stock": 73
     },
     {
       "ref": "P-CJ3",
@@ -12294,7 +12312,8 @@
       "ref": "S25FE-256G",
       "designation": "Samsung Galaxy S25 FE 256Go 8Go RAM",
       "prix": 6800.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731uzkexaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731uzkexaa-548774248?$product-details-jpg$"
     },
     {
       "ref": "S2710A",
@@ -13944,7 +13963,8 @@
       "ref": "TL-WN725N",
       "designation": "TP-LINK 150MBPS TL-WN725N",
       "prix": 130.0,
-      "stock": 10
+      "stock": 10,
+      "image": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg"
     },
     {
       "ref": "TL-WPA4220",
@@ -14256,7 +14276,8 @@
       "ref": "TP-AC1200",
       "designation": "TP-LINK AC1200 WIFI ROUTER C64 SANS FIL GIGABIT 2,4GHz/5GHz NOIR",
       "prix": 600.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://static.tp-link.com/upload/image-line/Archer-C64_1.0_01_large_20251104082944v.jpg"
     },
     {
       "ref": "TP-H8",
@@ -14604,7 +14625,8 @@
       "ref": "V27I",
       "designation": "HP V27i G5 FHD Monitor 12M",
       "prix": 3300.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://hp.widen.net/content/ckjlezh6us/png/ckjlezh6us.png"
     },
     {
       "ref": "V6608",
@@ -14622,7 +14644,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 137
+      "stock": 135
     },
     {
       "ref": "VARTA-AA",

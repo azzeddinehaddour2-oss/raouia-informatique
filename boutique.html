@@ -170,19 +170,30 @@ function badgeStock(stock){
   return '<span class="inline-flex items-center gap-1.5 rounded-btn bg-red-100 text-red-700 text-xs font-semibold px-2.5 py-1"><span class="w-1.5 h-1.5 rounded-full bg-red-600" aria-hidden="true"></span>Rupture de stock</span>';
 }
 
+var ICONE_GENERIQUE_HTML =
+  '<svg class="w-12 h-12 text-neutral-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375C2.754 3.75 2.25 4.254 2.25 4.875v1.5c0 .621.504 1.125 1.125 1.125z"/></svg>';
+
 function creerCarteProduit(produit){
   var article=document.createElement('article');
   article.className='product-card bg-white rounded-card border border-neutral-200 shadow-card overflow-hidden flex flex-col';
+  // Image officielle fabricant (hotlink, vérifiée manuellement) si disponible,
+  // sinon icône générique. En cas d'échec de chargement (lien mort), on
+  // retombe automatiquement sur l'icône générique — jamais de case vide.
+  var visuelHtml = produit.image
+    ? '<img class="w-full h-full object-contain p-2" src="'+escapeHtml(produit.image)+'" alt="'+escapeHtml(produit.designation)+'" loading="lazy">'
+    : ICONE_GENERIQUE_HTML;
   article.innerHTML=
-    '<div class="h-32 bg-neutral-100 flex items-center justify-center">'+
-      '<svg class="w-12 h-12 text-neutral-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375C2.754 3.75 2.25 4.254 2.25 4.875v1.5c0 .621.504 1.125 1.125 1.125z"/></svg>'+
-    '</div>'+
+    '<div class="h-32 bg-neutral-100 flex items-center justify-center overflow-hidden">'+visuelHtml+'</div>'+
     '<div class="p-4 flex flex-col flex-1">'+
       '<p class="text-xs font-mono text-neutral-500 mb-1">'+escapeHtml(produit.ref)+'</p>'+
       '<h3 class="font-semibold text-neutral-900 text-[15px] leading-snug mb-2 flex-1">'+escapeHtml(produit.designation)+'</h3>'+
       '<p class="font-heading font-bold text-primary text-lg mb-3">'+formatPrix(produit.prix)+'</p>'+
       badgeStock(produit.stock)+
     '</div>';
+  var img = article.querySelector('img');
+  if(img){
+    img.addEventListener('error', function(){ img.outerHTML = ICONE_GENERIQUE_HTML; }, {once:true});
+  }
   return article;
 }
 

@@ -75,6 +75,13 @@ CONFIG = {
 REPO_ROOT = Path(__file__).resolve().parent
 OUTPUT_PATH = REPO_ROOT / "data" / "products.json"
 
+# Images produit vérifiées manuellement (référence -> URL image officielle
+# fabricant, hotlink, aucun fichier téléchargé/hébergé ici). Fichier tenu à
+# part de products.json car il n'est PAS régénéré depuis Sage 100 : c'est
+# une donnée éditoriale, maintenue à la main (pilote initial + ajouts
+# ultérieurs), fusionnée dans products.json à chaque synchronisation.
+IMAGES_PATH = REPO_ROOT / "data" / "product_images.json"
+
 # ---------------------------------------------------------------------------
 # REQUÊTE SQL
 # ---------------------------------------------------------------------------
@@ -128,6 +135,22 @@ def build_connection_string() -> str:
     return base + "Trusted_Connection=yes;"
 
 
+def load_image_overrides() -> dict:
+    """Charge data/product_images.json (référence -> {"image": url, ...}).
+
+    Fichier optionnel et maintenu à la main : absence ou erreur de lecture
+    ne doit jamais faire échouer la synchronisation.
+    """
+    if not IMAGES_PATH.exists():
+        return {}
+    try:
+        raw = json.loads(IMAGES_PATH.read_text(encoding="utf-8"))
+        return raw if isinstance(raw, dict) else {}
+    except json.JSONDecodeError as exc:
+        print(f"Avertissement : {IMAGES_PATH.name} illisible ({exc}), ignoré.", file=sys.stderr)
+        return {}
+
+
 def fetch_products_from_sage() -> list[dict]:
     """Se connecte à Sage 100 et retourne la liste des produits/stocks."""
     depot_filter = ""
@@ -145,19 +168,23 @@ def fetch_products_from_sage() -> list[dict]:
         cursor.execute(query, params) if params else cursor.execute(query)
         rows = cursor.fetchall()
 
+    image_overrides = load_image_overrides()
+
     products = []
     for row in rows:
         ref = (row.AR_Ref or "").strip()
         if not ref:
             continue
-        products.append(
-            {
-                "ref": ref,
-                "designation": (row.AR_Design or "").strip(),
-                "prix": float(row.AR_PrixVen) if row.AR_PrixVen is not None else 0.0,
-                "stock": int(row.AS_QteSto) if row.AS_QteSto is not None else 0,
-            }
-        )
+        product = {
+            "ref": ref,
+            "designation": (row.AR_Design or "").strip(),
+            "prix": float(row.AR_PrixVen) if row.AR_PrixVen is not None else 0.0,
+            "stock": int(row.AS_QteSto) if row.AS_QteSto is not None else 0,
+        }
+        image_url = image_overrides.get(ref, {}).get("image")
+        if image_url:
+            product["image"] = image_url
+        products.append(product)
     return products
 
 
