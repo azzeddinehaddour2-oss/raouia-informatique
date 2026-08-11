@@ -6315,14 +6315,14 @@
   "source": "web"
  },
  "HB05": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/fourniture.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "HB07": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/fourniture.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "HB2": {
   "image": "data/placeholders/fourniture.svg",
@@ -7930,9 +7930,9 @@
   "source": "web"
  },
  "M-64GB": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/stockage.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "M6550NW": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Netgear_Gigabit_Switch_5-port.jpg",
@@ -8120,13 +8120,13 @@
   "source": "web"
  },
  "MIC-XELITE": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Falcon_Northwest_Tiki_micro-tower_desktop_PC.png",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Falcon_Northwest_Tiki_micro-tower_desktop_PC.png",
   "source": "web"
  },
  "MIC-XPLUS": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Falcon_Northwest_Tiki_micro-tower_desktop_PC.png",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Falcon_Northwest_Tiki_micro-tower_desktop_PC.png",
   "source": "web"
  },
  "MIL-A4": {
@@ -8290,9 +8290,9 @@
   "source": "web"
  },
  "M-WIN11": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "MX-111": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg",
@@ -8540,19 +8540,19 @@
   "source": "web"
  },
  "OF2019": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "OF2021": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "OF365": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "OFFEP0": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -8560,9 +8560,9 @@
   "source": "web"
  },
  "OFFICE-365": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "OMA-8CM": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FAC_H.E._WRAP_%26_ASSEMBLY%2C_DIAMOND_BEECH_-_DPLA_-_fb5ddab695709b81d84a80fb8e8df558.jpg",
@@ -10645,8 +10645,8 @@
   "source": "placeholder"
  },
  "SGM1": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:JBL_Flip_3_bluetooth_speaker_(DSCF2653).jpg",
   "source": "web"
  },
  "SGS-333": {
@@ -11810,9 +11810,9 @@
   "source": "web"
  },
  "TN-G": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/nettoyage.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "TN-ORG": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -11860,9 +11860,9 @@
   "source": "web"
  },
  "TOR-4": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/nettoyage.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "TOS-19V": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
@@ -12685,14 +12685,14 @@
   "source": "web"
  },
  "WIN11-PRO": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "WIND-2019": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Headphones_on_white_background.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "WN823N": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Netgear_N300_wireless_router_n03.jpg",
