@@ -1,0 +1,538 @@
+[
+  {
+    "family_id": "adaptateur-fich-americaine-3",
+    "base_name": "ADAPTATEUR FICH AMERICAINE 3",
+    "variants": [
+      {
+        "ref": "F-3-B",
+        "variant_label": "Blanc"
+      },
+      {
+        "ref": "F-3-N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "bouteille-d-encre-new-word-t664",
+    "base_name": "BOUTEILLE D'ENCRE NEW WORD T664",
+    "variants": [
+      {
+        "ref": "T664-WC",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "T664-WM",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "T664-WY",
+        "variant_label": "Yellow"
+      }
+    ]
+  },
+  {
+    "family_id": "classeur-sicla",
+    "base_name": "CLASSEUR SICLA",
+    "variants": [
+      {
+        "ref": "SICLA-BLANC",
+        "variant_label": "Blanc"
+      },
+      {
+        "ref": "SICLA-BLEU",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "SICLA-J",
+        "variant_label": "Jaune"
+      },
+      {
+        "ref": "SICLA-R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "SICLA-VT",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "enveloppe-plastique-bouton",
+    "base_name": "ENVELOPPE PLASTIQUE BOUTON",
+    "variants": [
+      {
+        "ref": "ENV-3V",
+        "variant_label": "Vert"
+      },
+      {
+        "ref": "ENV-5R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "ENV-6N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "epson-103-bouteille-d-encre",
+    "base_name": "EPSON 103 BOUTEILLE D'ENCRE",
+    "variants": [
+      {
+        "ref": "103-CY",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "103-M",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "103-N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "103-W",
+        "variant_label": "Noir Word"
+      },
+      {
+        "ref": "103-Y",
+        "variant_label": "Yellow"
+      }
+    ]
+  },
+  {
+    "family_id": "fiche-personnelle",
+    "base_name": "FICHE PERSONNELLE",
+    "variants": [
+      {
+        "ref": "F0005",
+        "variant_label": "Jaune"
+      },
+      {
+        "ref": "F00B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "F00V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "kit-developpeur-512",
+    "base_name": "KIT DEVELOPPEUR 512",
+    "variants": [
+      {
+        "ref": "K-512B",
+        "variant_label": "Black"
+      },
+      {
+        "ref": "K-512C",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "K-512M",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "K-512Y",
+        "variant_label": "Yellow"
+      }
+    ]
+  },
+  {
+    "family_id": "konica-minolta-tn-original",
+    "base_name": "KONICA MINOLTA TN ORIGINAL",
+    "variants": [
+      {
+        "ref": "TN-ORG",
+        "variant_label": "Black"
+      },
+      {
+        "ref": "TN-ORGC",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "TN-ORGM",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "TN-ORGY",
+        "variant_label": "Yellow"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-bic-permanent-2000",
+    "base_name": "MARQUEUR BIC PERMANENT 2000",
+    "variants": [
+      {
+        "ref": "2000B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "2000N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "2000V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-monami",
+    "base_name": "MARQUEUR MONAMI",
+    "variants": [
+      {
+        "ref": "MON-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "MON-N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "MON-R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "MON-V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-monami-pro",
+    "base_name": "MARQUEUR MONAMI PRO",
+    "variants": [
+      {
+        "ref": "PRO-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "PRO-N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "PRO-R",
+        "variant_label": "Rouge"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-rechargable-white-board",
+    "base_name": "MARQUEUR RECHARGABLE WHITE BOARD",
+    "variants": [
+      {
+        "ref": "MRT400B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "MRT400N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "MRT400R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "MRT400V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-rechargeable-memory-m68-pour-tableau",
+    "base_name": "MARQUEUR RECHARGEABLE MEMORY M68 POUR TABLEAU",
+    "variants": [
+      {
+        "ref": "M68-V",
+        "variant_label": "Vert"
+      },
+      {
+        "ref": "M68V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "marqueur-white-board-keyite",
+    "base_name": "MARQUEUR WHITE BOARD KeYiTe",
+    "variants": [
+      {
+        "ref": "WB-105N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "WB-105R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "WB-105V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "porte-document-comix-13-layers",
+    "base_name": "PORTE DOCUMENT COMIX 13 LAYERS",
+    "variants": [
+      {
+        "ref": "PDCB-0027",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "PDCJ-0023",
+        "variant_label": "Jaune"
+      },
+      {
+        "ref": "PDCV-0025",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "porte-document-office-file",
+    "base_name": "PORTE DOCUMENT OFFICE FILE",
+    "variants": [
+      {
+        "ref": "PD-J001",
+        "variant_label": "Jaune"
+      },
+      {
+        "ref": "PD-V002",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "postite-note-info",
+    "base_name": "POSTITE NOTE INFO",
+    "variants": [
+      {
+        "ref": "POS-J",
+        "variant_label": "Jaune"
+      },
+      {
+        "ref": "POS-V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "ralonche-ingelec-3-prises-1713-1n",
+    "base_name": "RALONCHE INGELEC 3 PRISES 1713/1N",
+    "variants": [
+      {
+        "ref": "1713-1N",
+        "variant_label": "Blanc"
+      },
+      {
+        "ref": "1713/N-N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "ralonche-ingelec-4-prises-1714-1",
+    "base_name": "RALONCHE INGELEC 4 PRISES 1714/1",
+    "variants": [
+      {
+        "ref": "1714/1",
+        "variant_label": "Blanc"
+      },
+      {
+        "ref": "1714/1-N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-bic",
+    "base_name": "STYLO BIC",
+    "variants": [
+      {
+        "ref": "BIC-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "BIC-N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "BIC-R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "BIC-V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-bic-cristal",
+    "base_name": "STYLO BIC CRISTAL",
+    "variants": [
+      {
+        "ref": "BIC-CRI-R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "BIC-CRI-V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-bic-cristal-quality-first",
+    "base_name": "STYLO BIC CRISTAL QUALITY FIRST",
+    "variants": [
+      {
+        "ref": "92611-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "92611-N",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "92611-R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "92611-V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-bic-gel-ocity",
+    "base_name": "STYLO BIC GEL-OCITY",
+    "variants": [
+      {
+        "ref": "GEL-OCITY-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "GEL-OCITY-N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-hi-pro-hi2019",
+    "base_name": "STYLO HI-PRO HI2019",
+    "variants": [
+      {
+        "ref": "HI2019-B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "HI2019N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-hi2019",
+    "base_name": "STYLO HI2019",
+    "variants": [
+      {
+        "ref": "HI2019R",
+        "variant_label": "Rouge"
+      },
+      {
+        "ref": "HI2019V",
+        "variant_label": "Vert"
+      }
+    ]
+  },
+  {
+    "family_id": "stylo-smart-650q",
+    "base_name": "STYLO SMART 650Q",
+    "variants": [
+      {
+        "ref": "S650B",
+        "variant_label": "Bleu"
+      },
+      {
+        "ref": "S650N",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "table-stylo-deli-star-avec-stylo",
+    "base_name": "TABLE STYLO DELI STAR AVEC STYLO",
+    "variants": [
+      {
+        "ref": "D-6791",
+        "variant_label": "Noir"
+      },
+      {
+        "ref": "D-6796",
+        "variant_label": "Noir"
+      }
+    ]
+  },
+  {
+    "family_id": "toner-117a-w2070a",
+    "base_name": "TONER 117A W2070A",
+    "variants": [
+      {
+        "ref": "DM-W2030A",
+        "variant_label": "Black"
+      },
+      {
+        "ref": "DM-W2073A",
+        "variant_label": "Magenta"
+      }
+    ]
+  },
+  {
+    "family_id": "toner-canon-067",
+    "base_name": "TONER CANON 067",
+    "variants": [
+      {
+        "ref": "067BK",
+        "variant_label": "Black"
+      },
+      {
+        "ref": "067CY",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "067MG",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "067YL",
+        "variant_label": "Yellow"
+      }
+    ]
+  },
+  {
+    "family_id": "toner-konica-tn227",
+    "base_name": "TONER KONICA TN227",
+    "variants": [
+      {
+        "ref": "TN227-B",
+        "variant_label": "Black"
+      },
+      {
+        "ref": "TN227-C",
+        "variant_label": "Cyan"
+      },
+      {
+        "ref": "TN227-M",
+        "variant_label": "Magenta"
+      },
+      {
+        "ref": "TN227-Y",
+        "variant_label": "Yellow"
+      }
+    ]
+  }
+]
