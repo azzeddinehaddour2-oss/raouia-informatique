@@ -10,14 +10,14 @@
     "source": "placeholder"
   },
   "1214": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "1221": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "1536": {
     "image": "data/placeholders/divers.svg",
@@ -50,9 +50,9 @@
     "source": "placeholder"
   },
   "2587": {
-    "image": "data/placeholders/papier.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Blank_A4_paper.jpg",
+    "source": "web"
   },
   "3310": {
     "image": "data/placeholders/divers.svg",
@@ -115,19 +115,19 @@
     "source": "placeholder"
   },
   "22420": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "33030": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "101368": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "121212": {
     "image": "data/placeholders/divers.svg",
@@ -145,9 +145,9 @@
     "source": "placeholder"
   },
   "151151": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "151515": {
     "image": "data/placeholders/divers.svg",
@@ -155,9 +155,9 @@
     "source": "placeholder"
   },
   "152399": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "161616": {
     "image": "data/placeholders/divers.svg",
@@ -320,19 +320,19 @@
     "source": "web"
   },
   "000001": {
-    "image": "data/placeholders/nettoyage.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Janitor%27s_bucket_with_mop.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Janitor%27s_bucket_with_mop.jpg",
+    "source": "web"
   },
   "000045": {
-    "image": "data/placeholders/nettoyage.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Janitor%27s_bucket_with_mop.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Janitor%27s_bucket_with_mop.jpg",
+    "source": "web"
   },
   "00041007": {
-    "image": "data/placeholders/papier.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Blank_A4_paper.jpg",
+    "source": "web"
   },
   "0012N": {
     "image": "data/placeholders/divers.svg",
@@ -340,84 +340,84 @@
     "source": "placeholder"
   },
   "0323": {
-    "image": "data/placeholders/cable.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cable_USB.jpg",
+    "source": "web"
   },
   "05A": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "0660S": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "067BK": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "067CY": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "067MG": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "067YL": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "100PWR": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "10-100": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Netgear_Gigabit_Switch_5-port.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Netgear_Gigabit_Switch_5-port.jpg",
+    "source": "web"
   },
   "103-CY": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "103-M": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "103-N": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "103-W": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "103-Y": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "107W": {
-    "image": "data/placeholders/imprimante.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_LaserJet_1020_printer.jpg",
+    "source": "web"
   },
   "11IN1": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "11NRT5370": {
     "image": "data/placeholders/divers.svg",
@@ -425,14 +425,14 @@
     "source": "placeholder"
   },
   "11XMZ": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "130HP-BLACK": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "13PRO": {
     "image": "data/placeholders/divers.svg",
@@ -450,9 +450,9 @@
     "source": "placeholder"
   },
   "151A-HP": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "1566N": {
     "image": "data/placeholders/divers.svg",
@@ -510,9 +510,9 @@
     "source": "placeholder"
   },
   "192-A5": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "1T-NVME": {
     "image": "data/placeholders/stockage.svg",
@@ -520,19 +520,19 @@
     "source": "placeholder"
   },
   "2000B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "2000N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "2000V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "203C": {
     "image": "data/placeholders/divers.svg",
@@ -560,29 +560,29 @@
     "source": "placeholder"
   },
   "2300A-B": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "2300R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "2301A-C": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "2302A-Y": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "2303A-M": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "25M3": {
     "image": "data/placeholders/stockage.svg",
@@ -590,14 +590,14 @@
     "source": "placeholder"
   },
   "25WUSB": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "288-A5": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stapler-swingline-red.jpg",
+    "source": "web"
   },
   "2G1S": {
     "image": "data/placeholders/divers.svg",
@@ -605,24 +605,24 @@
     "source": "placeholder"
   },
   "302-C": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "302-N": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "305-N": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Toner.jpg",
+    "source": "web"
   },
   "32HJ": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
+    "source": "web"
   },
   "3440-I5": {
     "image": "data/placeholders/stockage.svg",
