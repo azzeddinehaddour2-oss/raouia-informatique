@@ -460,9 +460,9 @@
   "source": "web"
  },
  "15M/2HD": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Plug-in_power_adapter_USB_for_Apple,_Model_A1300,_by_Flextronics-0812.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Plug-in_power_adapter_USB_for_Apple,_Model_A1300,_by_Flextronics-0812.jpg",
-  "source": "web"
+  "image": "data/placeholders/cable.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "15PRO-512": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png",
@@ -860,9 +860,9 @@
   "source": "web"
  },
  "7650-NVME": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Beige_mini_tower_case.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Beige_mini_tower_case.jpg",
-  "source": "web"
+  "image": "data/placeholders/ordinateur.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "7950-993": {
   "image": "data/placeholders/fourniture.svg",
@@ -2365,9 +2365,9 @@
   "source": "placeholder"
  },
  "BUR001": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gigabyte_GeForce_GV-N710D3-2GL_2_GiB_PCI-Express_Graphics_Card_%28Jigs_Tech%29_002.png",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Gigabyte_GeForce_GV-N710D3-2GL_2_GiB_PCI-Express_Graphics_Card_(Jigs_Tech)_002.png",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "BUR002": {
   "image": "data/placeholders/divers.svg",
@@ -4720,9 +4720,9 @@
   "source": "web"
  },
  "DEL-5560-I7": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Beige_mini_tower_case.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Beige_mini_tower_case.jpg",
-  "source": "web"
+  "image": "data/placeholders/ordinateur.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "DEL-5820": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -4745,9 +4745,9 @@
   "source": "web"
  },
  "DELL-3050-1TB": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Beige_mini_tower_case.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Beige_mini_tower_case.jpg",
-  "source": "web"
+  "image": "data/placeholders/ordinateur.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "DELL3660": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -7090,9 +7090,9 @@
   "source": "web"
  },
  "HV-JS704": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Kensington_Expert_Mouse_Wired_Trackball_64325.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "HY69058": {
   "image": "data/placeholders/divers.svg",
@@ -7425,9 +7425,9 @@
   "source": "web"
  },
  "KCL-02": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/LED_Screen_Computer.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:LED_Screen_Computer.jpg",
-  "source": "web"
+  "image": "data/placeholders/nettoyage.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "KG_LIGHTING": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/LED-E27-Light-Bulb-1134-cropped.jpg",
@@ -10375,9 +10375,9 @@
   "source": "web"
  },
  "SAC-26X17": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E6%BE%B3%E9%96%80%E8%88%AA%E7%A9%BA%E8%A8%AD%E8%A8%88%E7%9A%84%E4%B8%80%E6%AC%A1%E6%80%A7%E8%88%AA%E7%A9%BA%E9%A4%90%E5%85%B7.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:%E6%BE%B3%E9%96%80%E8%88%AA%E7%A9%BA%E8%A8%AD%E8%A8%88%E7%9A%84%E4%B8%80%E6%AC%A1%E6%80%A7%E8%88%AA%E7%A9%BA%E9%A4%90%E5%85%B7.jpg",
-  "source": "web"
+  "image": "data/placeholders/sac.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "SAC-PC": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Falcon_Northwest_Tiki_micro-tower_desktop_PC.png",
@@ -10825,9 +10825,9 @@
   "source": "web"
  },
  "SONY-2": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Kensington_Expert_Mouse_Wired_Trackball_64325.jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "SONY-3.05A": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
@@ -10975,9 +10975,9 @@
   "source": "placeholder"
  },
  "SRS3D": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:JBL_Flip_3_bluetooth_speaker_(DSCF2653).jpg",
-  "source": "web"
+  "image": "data/placeholders/divers.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "SS202": {
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
