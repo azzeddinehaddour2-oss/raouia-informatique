@@ -83,6 +83,39 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-s
     <p id="compteur-resultats" class="text-sm text-neutral-600" aria-live="polite"></p>
   </div>
 
+  <div class="bg-white rounded-card border border-neutral-200 shadow-card p-4 mb-8">
+    <div class="flex flex-col lg:flex-row lg:items-end gap-4">
+      <div class="flex flex-col gap-1.5">
+        <label for="filtre-categorie" class="text-xs font-semibold uppercase tracking-wide text-neutral-600">Catégorie</label>
+        <select id="filtre-categorie" class="rounded-field border border-neutral-200 bg-white px-3 py-2 text-sm focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          <option value="">Toutes les catégories</option>
+        </select>
+      </div>
+      <div class="flex flex-col gap-1.5">
+        <span class="text-xs font-semibold uppercase tracking-wide text-neutral-600">Disponibilité</span>
+        <label class="inline-flex items-center gap-2 text-sm text-neutral-700 h-[38px]">
+          <input id="filtre-en-stock" type="checkbox" class="w-4 h-4 rounded border-neutral-300 text-primary focus:ring-primary/30">
+          En stock uniquement
+        </label>
+      </div>
+      <div class="flex flex-col gap-1.5">
+        <span class="text-xs font-semibold uppercase tracking-wide text-neutral-600">Prix (MAD)</span>
+        <div class="flex items-center gap-2">
+          <input id="filtre-prix-min" type="number" min="0" placeholder="Min" aria-label="Prix minimum"
+            class="w-24 rounded-field border border-neutral-200 bg-white px-3 py-2 text-sm focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+          <span class="text-neutral-400">–</span>
+          <input id="filtre-prix-max" type="number" min="0" placeholder="Max" aria-label="Prix maximum"
+            class="w-24 rounded-field border border-neutral-200 bg-white px-3 py-2 text-sm focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-colors duration-200">
+        </div>
+      </div>
+      <div>
+        <button id="filtre-reinitialiser" type="button" class="text-sm font-semibold text-primary hover:text-accent-hover px-3 py-2 rounded-btn border border-neutral-200 hover:border-primary transition-colors duration-200">
+          Réinitialiser les filtres
+        </button>
+      </div>
+    </div>
+  </div>
+
   <div id="etat-chargement" class="text-center py-16 text-neutral-500">
     Chargement du catalogue...
   </div>
@@ -154,18 +187,28 @@ var etatVide=document.getElementById('etat-vide');
 var grille=document.getElementById('grille-produits');
 var champRecherche=document.getElementById('recherche-produit');
 var compteur=document.getElementById('compteur-resultats');
+var filtreCategorie=document.getElementById('filtre-categorie');
+var filtreEnStock=document.getElementById('filtre-en-stock');
+var filtrePrixMin=document.getElementById('filtre-prix-min');
+var filtrePrixMax=document.getElementById('filtre-prix-max');
+var filtreReinitialiser=document.getElementById('filtre-reinitialiser');
 
 var tousLesProduits=[];
+var articlesAffichables=[]; // produits simples + une carte par famille
 
 function formatPrix(prix){
   var n=Number(prix)||0;
   return n.toLocaleString('fr-MA',{minimumFractionDigits:2,maximumFractionDigits:2})+' MAD';
 }
 
-function badgeStock(stock){
-  var qte=Number(stock)||0;
-  if(qte>0){
-    return '<span class="inline-flex items-center gap-1.5 rounded-btn bg-success/10 text-success text-xs font-semibold px-2.5 py-1"><span class="w-1.5 h-1.5 rounded-full bg-success" aria-hidden="true"></span>En stock'+(qte?' ('+qte+')':'')+'</span>';
+function formatPlagePrix(min,max){
+  if(min===max){return formatPrix(min);}
+  return formatPrix(min)+' – '+formatPrix(max);
+}
+
+function badgeStock(enStock,quantite){
+  if(enStock){
+    return '<span class="inline-flex items-center gap-1.5 rounded-btn bg-success/10 text-success text-xs font-semibold px-2.5 py-1"><span class="w-1.5 h-1.5 rounded-full bg-success" aria-hidden="true"></span>En stock'+(quantite?' ('+quantite+')':'')+'</span>';
   }
   return '<span class="inline-flex items-center gap-1.5 rounded-btn bg-red-100 text-red-700 text-xs font-semibold px-2.5 py-1"><span class="w-1.5 h-1.5 rounded-full bg-red-600" aria-hidden="true"></span>Rupture de stock</span>';
 }
@@ -174,38 +217,101 @@ var ICONE_GENERIQUE_HTML =
   '<svg class="w-12 h-12 text-neutral-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375C2.754 3.75 2.25 4.254 2.25 4.875v1.5c0 .621.504 1.125 1.125 1.125z"/></svg>';
 var IMAGE_GENERIQUE_SRC = './data/placeholders/generique.svg';
 var imagesParRef = {};
+var famillesParRef = {}; // ref -> famille (produit_families.json)
 
-function creerCarteProduit(produit){
-  var article=document.createElement('article');
-  article.className='product-card bg-white rounded-card border border-neutral-200 shadow-card overflow-hidden flex flex-col';
-  // Image officielle fabricant (hotlink, vérifiée manuellement) si disponible,
-  // sinon placeholder par catégorie, sinon icône générique. En cas d'échec de
-  // chargement (lien mort), on retombe automatiquement sur le placeholder
-  // générique via l'attribut onerror — jamais de case vide.
-  var infoImage = imagesParRef[produit.ref];
-  var srcImage = (infoImage && infoImage.image) ? infoImage.image : (produit.image || null);
-  var visuelHtml = srcImage
-    ? '<img class="w-full h-full object-contain p-2" src="'+escapeHtml(srcImage)+'" alt="'+escapeHtml(produit.designation)+'" loading="lazy" onerror="this.onerror=null;this.src=\''+IMAGE_GENERIQUE_SRC+'\';">'
-    : ICONE_GENERIQUE_HTML;
-  article.innerHTML=
-    '<div class="h-32 bg-neutral-100 flex items-center justify-center overflow-hidden">'+visuelHtml+'</div>'+
-    '<div class="p-4 flex flex-col flex-1">'+
-      '<p class="text-xs font-mono text-neutral-500 mb-1">'+escapeHtml(produit.ref)+'</p>'+
-      '<h3 class="font-semibold text-neutral-900 text-[15px] leading-snug mb-2 flex-1">'+escapeHtml(produit.designation)+'</h3>'+
-      '<p class="font-heading font-bold text-primary text-lg mb-3">'+formatPrix(produit.prix)+'</p>'+
-      badgeStock(produit.stock)+
-    '</div>';
-  var img = article.querySelector('img');
-  if(img){
-    img.addEventListener('error', function(){ img.outerHTML = ICONE_GENERIQUE_HTML; }, {once:true});
+// --- Catégorisation ---------------------------------------------------
+// Catégories déduites soit du placeholder attribué au produit (déjà
+// classifié précédemment), soit par mots-clés sur la désignation pour les
+// produits ayant une image "web" (photo réelle) sans placeholder.
+var CATEGORIES_LABELS = {
+  toner:'Toner / cartouches d\'encre', cable:'Câbles', chargeur:'Chargeurs / adaptateurs',
+  imprimante:'Imprimantes', ecran:'Écrans', ordinateur:'Ordinateurs', reseau:'Réseau',
+  papier:'Papeterie', stockage:'Stockage', audio:'Audio', camera:'Caméras / vidéosurveillance',
+  sac:'Sacs / sacoches', batterie:'Batteries / piles', fourniture:'Fournitures de bureau',
+  nettoyage:'Nettoyage', souris:'Souris', clavier:'Claviers', divers:'Divers', autre:'Autre'
+};
+var MOTS_CLES_CATEGORIES = [
+  ['toner',['TONER','CARTOUCHE','BOUTEILLE D\'ENCRE','BOUTEILLE ENCRE','RUBAN ENCREUR','RIBBON']],
+  ['imprimante',['IMPRIMANTE','SCANNER','MULTIFONCTION','PHOTOCOPIEUR','FAX']],
+  ['ecran',['ECRAN','MONITEUR','MONITOR']],
+  ['souris',['SOURIS','MOUSE']],
+  ['clavier',['CLAVIER','KEYBOARD']],
+  ['ordinateur',['ORDINATEUR','LAPTOP','NOTEBOOK','DESKTOP','PC PORTABLE','UNITE CENTRALE','TOUR PC']],
+  ['reseau',['ROUTEUR','SWITCH','MODEM','RESEAU','WIFI','ACCESS POINT','POINT D\'ACCES','RJ45','ANTENNE']],
+  ['stockage',['DISQUE DUR','SSD','HDD','CLE USB','CLÉ USB','CARTE MEMOIRE','CARTE MÉMOIRE','USB FLASH','DISQUE EXTERNE']],
+  ['audio',['CASQUE','ECOUTEUR','ÉCOUTEUR','ENCEINTE','HAUT-PARLEUR','MICRO','SPEAKER','OREILLETTE']],
+  ['camera',['CAMERA','CAMÉRA','WEBCAM','VIDEOSURVEILLANCE','VIDÉOSURVEILLANCE']],
+  ['chargeur',['CHARGEUR','ADAPTATEUR SECTEUR','ADAPTATEUR','ALIMENTATION','POWER SUPPLY']],
+  ['batterie',['BATTERIE','PILE ']],
+  ['sac',['SAC ','SACOCHE','CARTABLE']],
+  ['cable',['CABLE','CÂBLE','HDMI','VGA','RALLONGE','PRISE','RALONCHE']],
+  ['papier',['PAPIER','CANSON','RAME ','ENVELOPPE','CAHIER','CLASSEUR','BLOC NOTE','REGISTRE','AGENDA','PAPETERIE']],
+  ['nettoyage',['NETTOYAGE','SERPILLERE','SERPILLIÈRE','BROSSE','DETERGENT','DÉTERGENT','CHIFFON','DESINFECTANT','DÉSINFECTANT','LINGETTE','EAU DE JAVEL','SAVON']],
+  ['fourniture',['STYLO','MARQUEUR','CRAYON','AGRAFEUSE','TROMBONE','POST-IT','POSTITE','GOMME','REGLE','RÈGLE','CISEAUX','COLLE','SURLIGNEUR','CORRECTEUR','PERFORATRICE']]
+];
+
+function categorieDepuisPlaceholder(srcImage){
+  if(!srcImage){return null;}
+  var m = /placeholders\/([a-z]+)\.svg$/i.exec(srcImage);
+  if(m && CATEGORIES_LABELS.hasOwnProperty(m[1].toLowerCase())){
+    return m[1].toLowerCase();
   }
-  return article;
+  if(m){return 'divers';}
+  return null;
+}
+
+function categorieDepuisDesignation(designation){
+  var d=(designation||'').toUpperCase();
+  for(var i=0;i<MOTS_CLES_CATEGORIES.length;i++){
+    var cat=MOTS_CLES_CATEGORIES[i][0];
+    var mots=MOTS_CLES_CATEGORIES[i][1];
+    for(var j=0;j<mots.length;j++){
+      if(d.indexOf(mots[j])!==-1){return cat;}
+    }
+  }
+  return 'autre';
+}
+
+function categoriserProduit(produit){
+  var infoImage = imagesParRef[produit.ref];
+  var srcImage = infoImage && infoImage.image;
+  var cat = categorieDepuisPlaceholder(srcImage);
+  if(cat){return cat;}
+  return categorieDepuisDesignation(produit.designation);
 }
 
 function escapeHtml(str){
   var div=document.createElement('div');
   div.textContent=str==null?'':String(str);
   return div.innerHTML;
+}
+
+// --- Construction des cartes -------------------------------------------
+
+function creerCarteArticle(article){
+  var lien=document.createElement('a');
+  lien.href='produit.html?ref='+encodeURIComponent(article.refPrincipale);
+  lien.className='product-card bg-white rounded-card border border-neutral-200 shadow-card overflow-hidden flex flex-col';
+  var visuelHtml = article.image
+    ? '<img class="w-full h-full object-contain p-2" src="'+escapeHtml(article.image)+'" alt="'+escapeHtml(article.designation)+'" loading="lazy">'
+    : ICONE_GENERIQUE_HTML;
+  var badgeFamilleHtml = article.estFamille
+    ? '<span class="inline-flex items-center gap-1.5 rounded-btn bg-primary/10 text-primary text-xs font-semibold px-2.5 py-1 mb-2 w-fit">'+article.nbVariantes+' variantes disponibles</span>'
+    : '';
+  lien.innerHTML=
+    '<div class="h-32 bg-neutral-100 flex items-center justify-center overflow-hidden">'+visuelHtml+'</div>'+
+    '<div class="p-4 flex flex-col flex-1">'+
+      '<p class="text-xs font-mono text-neutral-500 mb-1">'+escapeHtml(article.refPrincipale)+'</p>'+
+      '<h3 class="font-semibold text-neutral-900 text-[15px] leading-snug mb-2 flex-1">'+escapeHtml(article.designation)+'</h3>'+
+      badgeFamilleHtml+
+      '<p class="font-heading font-bold text-primary text-lg mb-3">'+formatPlagePrix(article.prixMin,article.prixMax)+'</p>'+
+      badgeStock(article.enStock,article.stockTotal)+
+    '</div>';
+  var img = lien.querySelector('img');
+  if(img){
+    img.addEventListener('error', function(){ img.outerHTML = ICONE_GENERIQUE_HTML; }, {once:true});
+  }
+  return lien;
 }
 
 function afficherProduits(liste){
@@ -219,27 +325,135 @@ function afficherProduits(liste){
   etatVide.classList.add('hidden');
   grille.classList.remove('hidden');
   var frag=document.createDocumentFragment();
-  liste.forEach(function(produit){
-    frag.appendChild(creerCarteProduit(produit));
+  liste.forEach(function(article){
+    frag.appendChild(creerCarteArticle(article));
   });
   grille.appendChild(frag);
   compteur.textContent=liste.length+' produit'+(liste.length>1?'s':'');
 }
 
-function filtrerProduits(terme){
-  var t=terme.trim().toLowerCase();
-  if(!t){return tousLesProduits;}
-  return tousLesProduits.filter(function(p){
-    return (p.designation||'').toLowerCase().indexOf(t)!==-1 ||
-           (p.ref||'').toLowerCase().indexOf(t)!==-1;
+// --- Construction des articles affichables (regroupement familles) -----
+
+function construireArticlesAffichables(){
+  var refsDejaTraitees={};
+  var articles=[];
+
+  tousLesProduits.forEach(function(produit){
+    if(refsDejaTraitees[produit.ref]){return;}
+
+    var famille=famillesParRef[produit.ref];
+    if(famille && famille.variants && famille.variants.length>1){
+      // Une seule carte pour toute la famille, basée sur la première variante
+      // rencontrée dans l'ordre de products.json.
+      var produitsVariantes=[];
+      famille.variants.forEach(function(v){
+        refsDejaTraitees[v.ref]=true;
+      });
+      famille.variants.forEach(function(v){
+        var p=produitsParRef[v.ref];
+        if(p){produitsVariantes.push(p);}
+      });
+      if(produitsVariantes.length===0){return;}
+
+      var prix=produitsVariantes.map(function(p){return Number(p.prix)||0;});
+      var stockTotal=produitsVariantes.reduce(function(acc,p){return acc+(Number(p.stock)||0);},0);
+      var enStock=produitsVariantes.some(function(p){return (Number(p.stock)||0)>0;});
+      var refImage=produit.ref; // première variante rencontrée = celle utilisée comme ref principale
+      var infoImage=imagesParRef[refImage];
+      var image=(infoImage && infoImage.image)?infoImage.image:null;
+
+      articles.push({
+        estFamille:true,
+        refPrincipale:refImage,
+        designation:famille.base_name,
+        image:image,
+        prixMin:Math.min.apply(null,prix),
+        prixMax:Math.max.apply(null,prix),
+        stockTotal:stockTotal,
+        enStock:enStock,
+        nbVariantes:produitsVariantes.length,
+        categorie:categoriserProduit(produit)
+      });
+    } else {
+      refsDejaTraitees[produit.ref]=true;
+      var infoImageP=imagesParRef[produit.ref];
+      var imageP=(infoImageP && infoImageP.image)?infoImageP.image:null;
+      var stock=Number(produit.stock)||0;
+      articles.push({
+        estFamille:false,
+        refPrincipale:produit.ref,
+        designation:produit.designation,
+        image:imageP,
+        prixMin:Number(produit.prix)||0,
+        prixMax:Number(produit.prix)||0,
+        stockTotal:stock,
+        enStock:stock>0,
+        nbVariantes:1,
+        categorie:categoriserProduit(produit)
+      });
+    }
+  });
+
+  return articles;
+}
+
+function peuplerFiltreCategories(){
+  var categoriesPresentes={};
+  articlesAffichables.forEach(function(a){categoriesPresentes[a.categorie]=true;});
+  var cles=Object.keys(categoriesPresentes).sort(function(a,b){
+    return (CATEGORIES_LABELS[a]||a).localeCompare(CATEGORIES_LABELS[b]||b,'fr');
+  });
+  cles.forEach(function(cle){
+    var option=document.createElement('option');
+    option.value=cle;
+    option.textContent=CATEGORIES_LABELS[cle]||cle;
+    filtreCategorie.appendChild(option);
   });
 }
 
-if(champRecherche){
-  champRecherche.addEventListener('input',function(){
-    afficherProduits(filtrerProduits(champRecherche.value));
+// --- Filtrage combiné ----------------------------------------------------
+
+function appliquerFiltres(){
+  var terme=(champRecherche.value||'').trim().toLowerCase();
+  var categorie=filtreCategorie.value;
+  var enStockUniquement=filtreEnStock.checked;
+  var prixMin=filtrePrixMin.value!==''?Number(filtrePrixMin.value):null;
+  var prixMax=filtrePrixMax.value!==''?Number(filtrePrixMax.value):null;
+
+  var resultat=articlesAffichables.filter(function(a){
+    if(terme){
+      var correspondTexte=(a.designation||'').toLowerCase().indexOf(terme)!==-1 ||
+                           (a.refPrincipale||'').toLowerCase().indexOf(terme)!==-1;
+      if(!correspondTexte){return false;}
+    }
+    if(categorie && a.categorie!==categorie){return false;}
+    if(enStockUniquement && !a.enStock){return false;}
+    if(prixMin!==null && a.prixMax<prixMin){return false;}
+    if(prixMax!==null && a.prixMin>prixMax){return false;}
+    return true;
+  });
+
+  afficherProduits(resultat);
+}
+
+[champRecherche,filtreCategorie,filtreEnStock,filtrePrixMin,filtrePrixMax].forEach(function(el){
+  if(!el){return;}
+  var evenement = (el.type==='checkbox'||el.tagName==='SELECT') ? 'change' : 'input';
+  el.addEventListener(evenement, appliquerFiltres);
+});
+
+if(filtreReinitialiser){
+  filtreReinitialiser.addEventListener('click', function(){
+    champRecherche.value='';
+    filtreCategorie.value='';
+    filtreEnStock.checked=false;
+    filtrePrixMin.value='';
+    filtrePrixMax.value='';
+    appliquerFiltres();
   });
 }
+
+var produitsParRef={};
 
 Promise.all([
   fetch('./data/products.json',{cache:'no-store'}).then(function(res){
@@ -252,14 +466,31 @@ Promise.all([
   }).catch(function(err){
     console.warn('Chargement des visuels indisponible, poursuite sans images :',err);
     return {};
+  }),
+  fetch('./data/product_families.json',{cache:'no-store'}).then(function(res){
+    if(!res.ok){throw new Error('HTTP '+res.status);}
+    return res.json();
+  }).catch(function(err){
+    console.warn('Chargement des familles indisponible, poursuite sans regroupement :',err);
+    return [];
   })
 ])
   .then(function(results){
     var data=results[0];
     imagesParRef=results[1]||{};
+    var familles=results[2]||[];
+
     tousLesProduits=Array.isArray(data.products)?data.products:[];
+    tousLesProduits.forEach(function(p){produitsParRef[p.ref]=p;});
+    familles.forEach(function(fam){
+      fam.variants.forEach(function(v){famillesParRef[v.ref]=fam;});
+    });
+
+    articlesAffichables=construireArticlesAffichables();
+    peuplerFiltreCategories();
+
     etatChargement.classList.add('hidden');
-    afficherProduits(tousLesProduits);
+    afficherProduits(articlesAffichables);
   })
   .catch(function(err){
     console.error('Erreur de chargement du catalogue :',err);
