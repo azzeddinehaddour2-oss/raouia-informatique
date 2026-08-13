@@ -415,9 +415,9 @@
     "source": "web"
   },
   "11IN1": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "11NRT5370": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -885,9 +885,9 @@
     "source": "web"
   },
   "8IN1": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "90NR0LR1-M00AM0": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -895,9 +895,9 @@
     "source": "web"
   },
   "9152A": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "92611-B": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
@@ -935,8 +935,8 @@
     "source": "web"
   },
   "9PX2200IRT2U": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "9U66": {
@@ -1545,8 +1545,8 @@
     "source": "placeholder"
   },
   "APC-3000VA": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "APLX-75-NA": {
@@ -1570,8 +1570,8 @@
     "source": "web"
   },
   "ARCAS-800MAH": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "AR-CF210": {
@@ -4375,9 +4375,9 @@
     "source": "web"
   },
   "CS200": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "CS-991ESPLUS": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sharp_Scientific_Calculator.jpg",
@@ -4610,8 +4610,8 @@
     "source": "web"
   },
   "D900": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "DA305": {
@@ -4830,9 +4830,9 @@
     "source": "web"
   },
   "DIS-HDMI": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "DISP-1.5M": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -5195,8 +5195,8 @@
     "source": "web"
   },
   "DS-UPS1000": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "DT-012": {
@@ -5205,8 +5205,8 @@
     "source": "web"
   },
   "DUR-13": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "DUR-CR2016": {
@@ -5320,13 +5320,13 @@
     "source": "web"
   },
   "E910KVA": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "EASY-UPS": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "EATON-3000VA": {
@@ -5500,8 +5500,8 @@
     "source": "web"
   },
   "EL650FR": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "EL800USBFR": {
@@ -5665,9 +5665,9 @@
     "source": "placeholder"
   },
   "EP-LQ2190": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "EPR180": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/LED_Screen_Computer.jpg",
@@ -6015,8 +6015,8 @@
     "source": "web"
   },
   "G2032": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "G-20X20": {
@@ -6310,8 +6310,8 @@
     "source": "placeholder"
   },
   "HANZ-6LR61": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "HB05": {
@@ -6445,9 +6445,9 @@
     "source": "web"
   },
   "HDM-VG": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HDTB510MK3A": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -6595,9 +6595,9 @@
     "source": "placeholder"
   },
   "HP/TB": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-100": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg",
@@ -6745,23 +6745,23 @@
     "source": "web"
   },
   "HP-712B": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_Black_Print_Cartridge_45-5062.jpg",
     "source": "web"
   },
   "HP-712C": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_Black_Print_Cartridge_45-5062.jpg",
     "source": "web"
   },
   "HP-712M": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_Black_Print_Cartridge_45-5062.jpg",
     "source": "web"
   },
   "HP-712Y": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_Black_Print_Cartridge_45-5062.jpg",
     "source": "web"
   },
   "HP72-B": {
@@ -7290,8 +7290,8 @@
     "source": "web"
   },
   "IT-NANO": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/UPS_-_uninterruptible_power_supply.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:UPS_-_uninterruptible_power_supply.JPG",
     "source": "web"
   },
   "IX894": {
@@ -7530,8 +7530,8 @@
     "source": "web"
   },
   "KO-AAAX4": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "KONICA-458": {
@@ -7730,9 +7730,9 @@
     "source": "web"
   },
   "LOG-H2": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LQ200": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg",
@@ -7745,14 +7745,14 @@
     "source": "web"
   },
   "LQ-2090": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LQ-2090-PR": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LQ-2190": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SilverCreations_-_model_%22sceyeX%22_10MP_Document_Scanner_03-2013.jpg",
@@ -7760,9 +7760,9 @@
     "source": "web"
   },
   "LQ300/350": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LR03-MN2400": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
@@ -7830,14 +7830,14 @@
     "source": "web"
   },
   "L-TJ": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LX-350": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "M0002": {
     "image": "data/placeholders/divers.svg",
@@ -8015,8 +8015,8 @@
     "source": "web"
   },
   "MAXL-ALK9V": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "MB005": {
@@ -8230,8 +8230,8 @@
     "source": "web"
   },
   "MR-3040": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Netgear_N300_wireless_router_n03.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Netgear_N300_wireless_router_n03.jpg",
     "source": "web"
   },
   "MR35TU3": {
@@ -9020,13 +9020,13 @@
     "source": "web"
   },
   "PG-1220": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "PG-1616": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "PG-511": {
@@ -9080,13 +9080,13 @@
     "source": "web"
   },
   "PKO-SH": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "PKO-XT": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Laptop_battery%2C_Dell_laptop_42_Wh.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_battery,_Dell_laptop_42_Wh.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
     "source": "web"
   },
   "PLA05": {
@@ -9875,9 +9875,9 @@
     "source": "web"
   },
   "RC-680": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "RC-80/80": {
     "image": "data/placeholders/divers.svg",
@@ -9960,9 +9960,9 @@
     "source": "web"
   },
   "REO-009": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_laser_toner_cartridge_front_view.jpg",
-    "source": "web"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "REVA00": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -11305,14 +11305,14 @@
     "source": "web"
   },
   "TAP-CUIR": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TAP-WLD": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TAR-A4": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -11875,9 +11875,9 @@
     "source": "web"
   },
   "TP-002": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TP-2": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -11885,9 +11885,9 @@
     "source": "web"
   },
   "TP-H8": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TR-055": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -11910,9 +11910,9 @@
     "source": "web"
   },
   "TS-DELL": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logitech_M210-1677.jpg",
-    "source": "web"
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TV005": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nespresso_paper_pods_and_original_compared_%282024%29.jpg",
@@ -11975,9 +11975,9 @@
     "source": "web"
   },
   "TYPE-CTO7P": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "U10520": {
     "image": "data/placeholders/fourniture.svg",
@@ -12120,9 +12120,9 @@
     "source": "web"
   },
   "USB-RJ45": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
-    "source": "web"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "USB-RT5370": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Netgear_Gigabit_Switch_5-port.jpg",
