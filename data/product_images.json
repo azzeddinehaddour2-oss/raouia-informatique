@@ -145,9 +145,9 @@
     "source": "placeholder"
   },
   "151151": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "151515": {
     "image": "data/placeholders/divers.svg",
@@ -155,9 +155,9 @@
     "source": "placeholder"
   },
   "152399": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "161616": {
     "image": "data/placeholders/divers.svg",
@@ -425,9 +425,9 @@
     "source": "web"
   },
   "11XMZ": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "130HP-BLACK": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -520,19 +520,19 @@
     "source": "web"
   },
   "2000B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "2000N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "2000V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "203C": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hole_Puncher_with_Paper_positioner.jpg",
@@ -565,9 +565,9 @@
     "source": "web"
   },
   "2300R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "2301A-C": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -630,9 +630,9 @@
     "source": "web"
   },
   "351-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "3540-I5": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laptop_computer.jpg",
@@ -670,9 +670,9 @@
     "source": "web"
   },
   "4007BB": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "4115N": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Schuko_power_strip_with_extension_cord_for_6_sockets.JPG",
@@ -880,9 +880,9 @@
     "source": "placeholder"
   },
   "850Q": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "8IN1": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hewlett-Packard_AC_Power_Adapter_C6409-60014_-_board-4317.jpg",
@@ -900,24 +900,24 @@
     "source": "web"
   },
   "92611-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "92611-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "92611-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "92611-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "933XL": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
@@ -1035,9 +1035,9 @@
     "source": "web"
   },
   "A239": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "A25-128": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png",
@@ -1475,9 +1475,9 @@
     "source": "web"
   },
   "AGS005": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "AH-0084": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
@@ -1985,49 +1985,49 @@
     "source": "placeholder"
   },
   "BIC-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIC-BV": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "BIC-CRI-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIC-CRI-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BICFN": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIC-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIC-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIC-RV": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "BIC-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BIM": {
     "image": "data/placeholders/divers.svg",
@@ -2065,24 +2065,24 @@
     "source": "placeholder"
   },
   "BL-EXP": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BL-G2-7-8": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BL-G2-7-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BL-G2-7-G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "BL-G2-7-R": {
     "image": "data/placeholders/fourniture.svg",
@@ -2360,9 +2360,9 @@
     "source": "web"
   },
   "BULL-60G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "BUR001": {
     "image": "data/placeholders/divers.svg",
@@ -2450,14 +2450,14 @@
     "source": "web"
   },
   "C180B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "C-180G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "C18-I": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -2485,9 +2485,9 @@
     "source": "web"
   },
   "C200": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "C200041380": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -2625,9 +2625,9 @@
     "source": "web"
   },
   "C-556": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "C5VN": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -3035,14 +3035,14 @@
     "source": "web"
   },
   "CB-50G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CB-C20050": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CB-C224": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Samsung_laser_toner_cartridge_front_view.jpg",
@@ -3070,9 +3070,9 @@
     "source": "placeholder"
   },
   "CC-180G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CC-2008": {
     "image": "data/placeholders/divers.svg",
@@ -3085,9 +3085,9 @@
     "source": "web"
   },
   "CC-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CC-COAXIAL": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -3100,9 +3100,9 @@
     "source": "web"
   },
   "CCJ-0017": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CCL-049": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
@@ -3120,9 +3120,9 @@
     "source": "placeholder"
   },
   "CCR-0018": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CD_HDMI-1.5": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -3325,19 +3325,19 @@
     "source": "web"
   },
   "CEC025": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CEC027": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CEC041": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CEC049": {
     "image": "data/placeholders/fourniture.svg",
@@ -3570,14 +3570,14 @@
     "source": "web"
   },
   "CH180": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CH200": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CH200W": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -3865,9 +3865,9 @@
     "source": "placeholder"
   },
   "CL_A5": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CL-006": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Backlit_keyboard.jpg",
@@ -3880,9 +3880,9 @@
     "source": "web"
   },
   "CL-2C": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CL-305": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
@@ -3890,9 +3890,9 @@
     "source": "web"
   },
   "CLA-4CM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CLE16G": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -3920,9 +3920,9 @@
     "source": "placeholder"
   },
   "CL-OMA": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "CMG-13521": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg",
@@ -3970,9 +3970,9 @@
     "source": "placeholder"
   },
   "COL-01": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "COLL-1L": {
     "image": "data/placeholders/fourniture.svg",
@@ -3990,9 +3990,9 @@
     "source": "web"
   },
   "COM-40M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "COMNET-0101": {
     "image": "data/placeholders/divers.svg",
@@ -5900,24 +5900,24 @@
     "source": "web"
   },
   "FBC-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "FBC-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "FBC-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "FBC-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "FBM2-125-24": {
     "image": "data/placeholders/fourniture.svg",
@@ -6535,9 +6535,9 @@
     "source": "web"
   },
   "HIGHPER-CN": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "HIK-256": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -7815,9 +7815,9 @@
     "source": "web"
   },
   "LT6011": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Permanent_marker_pens.jpg",
+    "source": "web"
   },
   "LT-6011": {
     "image": "data/placeholders/fourniture.svg",
@@ -9930,9 +9930,9 @@
     "source": "placeholder"
   },
   "REF3008": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "REF-648": {
     "image": "data/placeholders/divers.svg",
@@ -10490,9 +10490,9 @@
     "source": "placeholder"
   },
   "SB-40M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "SC-002": {
     "image": "data/placeholders/divers.svg",
@@ -10640,9 +10640,9 @@
     "source": "placeholder"
   },
   "SG-40M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
+    "source": "web"
   },
   "SGM1": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg",
