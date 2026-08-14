@@ -15,9 +15,9 @@
     "source": "web"
   },
   "1221": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Colored_pencils_chevre.jpg",
+    "source": "web"
   },
   "1536": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Schuko_power_strip_with_extension_cord_for_6_sockets.JPG",
@@ -90,9 +90,9 @@
     "source": "web"
   },
   "8131": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Plastic_pencil_sharpener.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Plastic_pencil_sharpener.jpg",
+    "source": "web"
   },
   "8912": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ink_stamp_detail%2C_Polish_passport_issued_at_Danzing%2C_Gdansk_%28cropped%29.jpg",
@@ -415,9 +415,9 @@
     "source": "web"
   },
   "11IN1": {
-    "image": "data/placeholders/cable.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source": "web"
   },
   "11NRT5370": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -535,9 +535,9 @@
     "source": "web"
   },
   "203C": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Push-pin-tack_colored_29973-480x360_%284905243184%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Push-pin-tack_colored_29973-480x360_(4905243184).jpg",
+    "source": "web"
   },
   "20618-2P": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Schuko_power_strip_with_extension_cord_for_6_sockets.JPG",
@@ -600,9 +600,9 @@
     "source": "web"
   },
   "2G1S": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Netgear_Gigabit_Switch_5-port.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Netgear_Gigabit_Switch_5-port.jpg",
+    "source": "web"
   },
   "302-C": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
@@ -690,9 +690,9 @@
     "source": "web"
   },
   "4326-4": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Keychain.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Keychain.jpg",
+    "source": "web"
   },
   "46-C": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HP_Black_Print_Cartridge_45-5062.jpg",
@@ -860,9 +860,9 @@
     "source": "web"
   },
   "7650-NVME": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source": "web"
   },
   "7950-993": {
     "image": "data/placeholders/fourniture.svg",
@@ -885,9 +885,9 @@
     "source": "web"
   },
   "8IN1": {
-    "image": "data/placeholders/cable.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source": "web"
   },
   "90NR0LR1-M00AM0": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -1520,14 +1520,14 @@
     "source": "placeholder"
   },
   "ALERT-4G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Solar_Powered_4G_PTZ_CCTV_Camera_Installation_Chennai.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Solar_Powered_4G_PTZ_CCTV_Camera_Installation_Chennai.jpg",
+    "source": "web"
   },
   "AM-12P": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/An_experiment_with_magnets_%2815763981894%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:An_experiment_with_magnets_(15763981894).jpg",
+    "source": "web"
   },
   "AP-015": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
@@ -1810,9 +1810,9 @@
     "source": "web"
   },
   "B8-309": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tulsi_Bhagat_Wikimania_Singapore_ID_lanyard_162837.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tulsi_Bhagat_Wikimania_Singapore_ID_lanyard_162837.jpg",
+    "source": "web"
   },
   "B-85MM": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FAC_H.E._WRAP_%26_ASSEMBLY%2C_DIAMOND_BEECH_-_DPLA_-_fb5ddab695709b81d84a80fb8e8df558.jpg",
@@ -1905,9 +1905,9 @@
     "source": "web"
   },
   "BC-0977": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Binder_clips.JPG",
+    "source": "web"
   },
   "BC-100": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FAC_H.E._WRAP_%26_ASSEMBLY%2C_DIAMOND_BEECH_-_DPLA_-_fb5ddab695709b81d84a80fb8e8df558.jpg",
@@ -3900,24 +3900,24 @@
     "source": "web"
   },
   "CLIPS-19M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Binder_clips.JPG",
+    "source": "web"
   },
   "CLIPS-25M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Binder_clips.JPG",
+    "source": "web"
   },
   "CLIPS-32M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Binder_clips.JPG",
+    "source": "web"
   },
   "CLIPS-41M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Binder_clips.JPG",
+    "source": "web"
   },
   "CL-OMA": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
@@ -4065,9 +4065,9 @@
     "source": "placeholder"
   },
   "CO-W01": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/InFocus_IN34.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:InFocus_IN34.jpg",
+    "source": "web"
   },
   "CP3M": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -4720,9 +4720,9 @@
     "source": "web"
   },
   "DEL-5560-I7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source": "web"
   },
   "DEL-5820": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -4745,9 +4745,9 @@
     "source": "web"
   },
   "DELL-3050-1TB": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Dell_Latitude_E6410_laptop_with_Kiwix.jpg",
+    "source": "web"
   },
   "DELL3660": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -5335,9 +5335,9 @@
     "source": "web"
   },
   "EB-FH52": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/InFocus_IN34.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:InFocus_IN34.jpg",
+    "source": "web"
   },
   "EC-001": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
@@ -6030,9 +6030,9 @@
     "source": "web"
   },
   "G22": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "G-5020": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/EFTA00001338_-_Cluttered_office_desk_features_a_coiled_telephone_cord_papers_a_sticky_note_reading_XEU_NDP_and_various_bottles_and_equipment.jpg",
@@ -6040,9 +6040,9 @@
     "source": "web"
   },
   "G54": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "GAZ-110X220": {
     "image": "data/placeholders/fourniture.svg",
@@ -6205,19 +6205,19 @@
     "source": "placeholder"
   },
   "GOM402": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "GOM-M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "GP-001": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "GRP2601": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/EFTA00001338_-_Cluttered_office_desk_features_a_coiled_telephone_cord_papers_a_sticky_note_reading_XEU_NDP_and_various_bottles_and_equipment.jpg",
@@ -7120,9 +7120,9 @@
     "source": "web"
   },
   "ID-CARD": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tulsi_Bhagat_Wikimania_Singapore_ID_lanyard_162837.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tulsi_Bhagat_Wikimania_Singapore_ID_lanyard_162837.jpg",
+    "source": "web"
   },
   "IDS-7204": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/CCTV_dome_camera_subway_Rotterdam.jpg",
@@ -7730,9 +7730,9 @@
     "source": "web"
   },
   "LOG-H2": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "LQ200": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg",
@@ -7985,9 +7985,9 @@
     "source": "placeholder"
   },
   "MA002-12": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "MAC-45W": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -8020,9 +8020,9 @@
     "source": "web"
   },
   "MB005": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:WikiCup_Trophy_Gold.png",
+    "source": "web"
   },
   "MBB-001": {
     "image": "data/placeholders/divers.svg",
@@ -8040,9 +8040,9 @@
     "source": "web"
   },
   "MD005": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:WikiCup_Trophy_Gold.png",
+    "source": "web"
   },
   "MD-6820": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
@@ -8605,9 +8605,9 @@
     "source": "web"
   },
   "P-0026": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "P005": {
     "image": "data/placeholders/fourniture.svg",
@@ -8990,9 +8990,9 @@
     "source": "web"
   },
   "PE-004": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Push-pin-tack_colored_29973-480x360_%284905243184%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Push-pin-tack_colored_29973-480x360_(4905243184).jpg",
+    "source": "web"
   },
   "PER-B501": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hole_Puncher_with_Paper_positioner.jpg",
@@ -9045,9 +9045,9 @@
     "source": "placeholder"
   },
   "P-HAN": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Push-pin-tack_colored_29973-480x360_%284905243184%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Push-pin-tack_colored_29973-480x360_(4905243184).jpg",
+    "source": "web"
   },
   "PI-12PRO": {
     "image": "data/placeholders/fourniture.svg",
@@ -9160,9 +9160,9 @@
     "source": "web"
   },
   "POR-CLE": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Keychain.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Keychain.jpg",
+    "source": "web"
   },
   "POS-CV": {
     "image": "data/placeholders/divers.svg",
@@ -9215,9 +9215,9 @@
     "source": "web"
   },
   "PPCX-3547": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Push-pin-tack_colored_29973-480x360_%284905243184%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Push-pin-tack_colored_29973-480x360_(4905243184).jpg",
+    "source": "web"
   },
   "PPJ931-3": {
     "image": "data/placeholders/fourniture.svg",
@@ -10029,9 +10029,9 @@
     "source": "web"
   },
   "RJ45": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ethernet_RJ45_connector_p1160054.jpg",
+    "source": "web"
   },
   "RJ45-3M": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -11244,9 +11244,9 @@
     "source": "web"
   },
   "TA-033": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TA-321": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -11259,14 +11259,14 @@
     "source": "web"
   },
   "TAB-028": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TAB-0628": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TAB-120/90": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Blank_whiteboard.JPG",
@@ -11304,14 +11304,14 @@
     "source": "web"
   },
   "TAP-CUIR": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "TAP-WLD": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "TAR-A4": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -11319,9 +11319,9 @@
     "source": "web"
   },
   "TB-028": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TB10": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lever_arch_file.jpg",
@@ -11339,14 +11339,14 @@
     "source": "web"
   },
   "TBA-02110": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TBA-0625": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TB-EMC0522": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -11354,14 +11354,14 @@
     "source": "web"
   },
   "TBGA-6401": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "TB-GX33": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paperclip_1900.jpg",
+    "source": "web"
   },
   "T-BLEU": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ink_stamp_detail%2C_Polish_passport_issued_at_Danzing%2C_Gdansk_%28cropped%29.jpg",
@@ -11464,9 +11464,9 @@
     "source": "web"
   },
   "TCR8116": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Plastic_pencil_sharpener.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Plastic_pencil_sharpener.jpg",
+    "source": "web"
   },
   "TDB-0821": {
     "image": "data/placeholders/divers.svg",
@@ -11499,9 +11499,9 @@
     "source": "placeholder"
   },
   "TG": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:WikiCup_Trophy_Gold.png",
+    "source": "web"
   },
   "TH318": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Assorted_colorful_markers_arranged_neatly_in_a_container_on_a_windowsill_during_daylight_hours.jpg",
@@ -11634,14 +11634,14 @@
     "source": "web"
   },
   "TM": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:WikiCup_Trophy_Gold.png",
+    "source": "web"
   },
   "TM005": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Apsco_Vacuhold_pencil_sharpener_13.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Apsco_Vacuhold_pencil_sharpener_13.jpg",
+    "source": "web"
   },
   "TMI-AG10": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Battery-lithium-cr2032.jpg",
@@ -11874,9 +11874,9 @@
     "source": "web"
   },
   "TP-002": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "TP-2": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -11884,9 +11884,9 @@
     "source": "web"
   },
   "TP-H8": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "TR-055": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -11909,9 +11909,9 @@
     "source": "web"
   },
   "TS-DELL": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg",
+    "source": "web"
   },
   "TV005": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nespresso_paper_pods_and_original_compared_%282024%29.jpg",
@@ -11974,9 +11974,9 @@
     "source": "web"
   },
   "TYPE-CTO7P": {
-    "image": "data/placeholders/cable.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:USB-C_Digital_AV_Multiport_Adapter.jpeg",
+    "source": "web"
   },
   "U10520": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
@@ -12119,9 +12119,9 @@
     "source": "web"
   },
   "USB-RJ45": {
-    "image": "data/placeholders/cable.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ethernet_RJ45_connector_p1160054.jpg",
+    "source": "web"
   },
   "USB-RT5370": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Netgear_Gigabit_Switch_5-port.jpg",
@@ -12779,9 +12779,9 @@
     "source": "web"
   },
   "XO-3459": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Suna_rubber_eraser_%28MONO%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Suna_rubber_eraser_(MONO).jpg",
+    "source": "web"
   },
   "XO-4241": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wheelie_bins_and_a_litter_bin%2C_Abersychan_-_geograph.org.uk_-_4678432.jpg",
