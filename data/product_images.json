@@ -3975,9 +3975,9 @@
   "source": "web"
  },
  "COLL-1L": {
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Plastic_pencil_sharpener.jpg",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Plastic_pencil_sharpener.jpg",
-  "source": "web"
+  "image": "data/placeholders/fourniture.svg",
+  "source_page": null,
+  "source": "placeholder"
  },
  "COL-PIS": {
   "image": "data/placeholders/fourniture.svg",
