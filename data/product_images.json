@@ -1800,9 +1800,9 @@
     "source": "web"
   },
   "B-6M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "B701": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hole_Puncher_with_Paper_positioner.jpg",
@@ -1820,24 +1820,24 @@
     "source": "web"
   },
   "B-9MM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BA-17M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BA-18M": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BAB-18M": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BAD-GM": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/PERCo_CR11_Time_and_Attendance_terminal.jpg",
@@ -1845,9 +1845,9 @@
     "source": "web"
   },
   "BAG-4MM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BAHIA": {
     "image": "data/placeholders/divers.svg",
@@ -1935,19 +1935,19 @@
     "source": "placeholder"
   },
   "BG-10M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BG-12M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BG-7M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "BH-09": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Headphones_on_white_background.jpg",
@@ -6480,34 +6480,34 @@
     "source": "placeholder"
   },
   "HI2015_P": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI2015_V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI-2015BC": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI-2015M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI-2015O": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI-2015R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "HI2019-B": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
@@ -8165,19 +8165,19 @@
     "source": "web"
   },
   "MONAMI-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "MONAMI-M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "MONAMI-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "MON-B": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
@@ -10289,9 +10289,9 @@
     "source": "web"
   },
   "S-4C": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "S-4U500": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HuaweiRH2288HV2.JPG",
@@ -10759,9 +10759,9 @@
     "source": "placeholder"
   },
   "SL-1M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "SL-AT21": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/VESA_Mount_Adapter.svg",
@@ -10774,9 +10774,9 @@
     "source": "web"
   },
   "SM-001": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "SM4K104": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -10794,9 +10794,9 @@
     "source": "web"
   },
   "SMV-001": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "SN-40M": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
@@ -10854,29 +10854,29 @@
     "source": "web"
   },
   "SP-10M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-12": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP14": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-16MM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-18M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-1TB-A55": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -10884,19 +10884,19 @@
     "source": "web"
   },
   "SP-21M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-22M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-25": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-250ML": {
     "image": "data/placeholders/divers.svg",
@@ -10904,14 +10904,14 @@
     "source": "placeholder"
   },
   "SP-26M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-38M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-512G": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -10919,24 +10919,24 @@
     "source": "web"
   },
   "SP-51M": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-6MM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SP-8MM": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SPIM1": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Coil_binding.jpg",
+    "source": "web"
   },
   "SPM0296": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -10984,9 +10984,9 @@
     "source": "web"
   },
   "SSD-001": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "SSD1TB_S": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -11014,14 +11014,14 @@
     "source": "web"
   },
   "ST005": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "ST-07": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "ST-3": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
@@ -11029,9 +11029,9 @@
     "source": "web"
   },
   "ST66": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "STAP-G1": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg",
@@ -11039,9 +11039,9 @@
     "source": "web"
   },
   "ST-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+    "source": "web"
   },
   "S-THE": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Condiment_sachets_at_Sainsbury%27s%2C_Chingford%2C_London%2C_England_1.jpg",
