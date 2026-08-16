@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:00:02",
-  "count": 2575,
+  "generated_at": "2026-08-16T07:00:02",
+  "count": 2576,
   "products": [
     {
       "ref": "000001",
@@ -469,14 +469,14 @@
       "designation": "PLASTIFICATION A4 216x303MM 125MIC MEMORY - 216125",
       "prix": 140.0,
       "stock": -4,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "216175",
       "designation": "PLASTIFICATION A4 216x303MM 175MIC MEMORY - 216175",
       "prix": 220.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "21KC0017FE",
@@ -784,7 +784,7 @@
       "designation": "PPAIER CONSSON COLEUR 24/32 200G",
       "prix": 15.0,
       "stock": 11,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "530A",
@@ -1022,7 +1022,7 @@
       "designation": "DISQUE MOUCHARD VEEDER-ROOT 180km/h",
       "prix": 180.0,
       "stock": 55,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/W1373-DisqueChronotachygraphique.jpg"
     },
     {
       "ref": "80V",
@@ -1077,7 +1077,7 @@
       "designation": "RLX ETIQUETEUSE MEMORY 21*12MM-- 1000RLX/CTN",
       "prix": 5.0,
       "stock": 70,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Adhesive_tapes_clear.JPG"
     },
     {
       "ref": "90NR0LR1-M00AM0",
@@ -1231,14 +1231,14 @@
       "designation": "AUTOCOLLANTES 100 FEUILLES A4 105*57mm",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/35_adhesive_labels_-_A.jpg"
     },
     {
       "ref": "A-1281",
       "designation": "AUTOCOLLANTES 100 FEUILLES A 21*29.7",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/35_adhesive_labels_-_A.jpg"
     },
     {
       "ref": "A1282",
@@ -1378,7 +1378,7 @@
       "designation": "PVC COUVERTURE TRANSPARANT CASBER A4-150",
       "prix": 80.0,
       "stock": 5,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "A4-OMA",
@@ -1588,7 +1588,7 @@
       "designation": "AILLE CRYON ACIER",
       "prix": 1.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "AC-AMR",
@@ -1944,8 +1944,8 @@
       "ref": "AIN001",
       "designation": "CD-R ANGTE 50 700MB + POSHETTE",
       "prix": 6.0,
-      "stock": 39,
-      "image": "data/placeholders/divers.svg"
+      "stock": 38,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/DVD.png"
     },
     {
       "ref": "AIO-I7",
@@ -1980,7 +1980,7 @@
       "designation": "ALBUM 160 CARTE DE VISITE / DELI",
       "prix": 72.0,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ALERT-4G",
@@ -2015,7 +2015,7 @@
       "designation": "AGENDA POWER BANK",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "APC-3000VA",
@@ -2379,7 +2379,7 @@
       "designation": "BAGUETTES CROWN BINDER 6 mm",
       "prix": 1.0,
       "stock": 100,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "B701",
@@ -2407,28 +2407,28 @@
       "designation": "BAGUETTES CROWN BINDER 9 mm NOIR",
       "prix": 1.2,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BA-17M",
       "designation": "BAGUETTES CROWN BINDER 17 mm BLANCHE/NOIR",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BA-18M",
       "designation": "BAGUETTES 18 mm NOIR",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BAB-18M",
       "designation": "BAGUETTE 18 MM  BLANC",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BAD-GM",
@@ -2442,7 +2442,7 @@
       "designation": "BAGUETTES CROWN BINDER 4 mm NOIR",
       "prix": 1.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BAHIA",
@@ -2540,14 +2540,14 @@
       "designation": "BON DE COMMANDE 2 EXP",
       "prix": 18.0,
       "stock": 8,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "BC-5671",
       "designation": "BLOC CUBE BLANC AVEC SUPPORT",
       "prix": 25.0,
       "stock": 28,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BC-90X90",
@@ -2561,28 +2561,28 @@
       "designation": "BLOC STENO A4",
       "prix": 15.0,
       "stock": 9,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Notebook_spiral.jpg"
     },
     {
       "ref": "BG-10M",
       "designation": "BAGUETTES CROWN BINDER 10 mm NOIR",
       "prix": 0.0,
       "stock": 99,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BG-12M",
       "designation": "BAGUETTES CROWN BINDER 12 mm",
       "prix": 1.2,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BG-7M",
       "designation": "BAGUETTES CROWN BINDER 7 mm",
       "prix": 1.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "BH-09",
@@ -2624,7 +2624,7 @@
       "designation": "Crayon tracage BIG",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "BIC-1L",
@@ -2715,7 +2715,7 @@
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
       "stock": 10,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "BL0022",
@@ -2743,7 +2743,7 @@
       "designation": "BLOC NOTE A5 PERSONNALISE AVEC POWER BANK",
       "prix": 460.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Notebook_spiral.jpg"
     },
     {
       "ref": "BL-EXP",
@@ -2792,7 +2792,7 @@
       "designation": "BLOC CUBE OFFICE 5 COULEURS 85*85 AVEC SUPPORT",
       "prix": 35.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BLOA4S",
@@ -2904,28 +2904,28 @@
       "designation": "BLOC NOTES A4 100P",
       "prix": 17.0,
       "stock": 2,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BNG-009",
       "designation": "BLOC NOTES A4 140P",
       "prix": 17.0,
       "stock": 5,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BNR-1521",
       "designation": "BLOC NOTE ROSE A5",
       "prix": 10.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BNS-006",
       "designation": "BLOC NOTE STENO 80g",
       "prix": 12.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "BO25",
@@ -3121,14 +3121,14 @@
       "designation": "PINCE A CLIP EN METAL 25MM NOIR BOSTON BS2419",
       "prix": 1.2,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG"
     },
     {
       "ref": "BS3224",
       "designation": "PINCE A CLIP EN METAL 41MM NOIR BOSTON BS3224",
       "prix": 2.5,
       "stock": 3,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binder_clips.JPG"
     },
     {
       "ref": "BSU-25",
@@ -3212,7 +3212,7 @@
       "designation": "Conteneurs d'archives avec couvercle en carton",
       "prix": 52.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FAC_H.E._WRAP_%26_ASSEMBLY%2C_DIAMOND_BEECH_-_DPLA_-_fb5ddab695709b81d84a80fb8e8df558.jpg"
     },
     {
       "ref": "BUTEL001",
@@ -3337,7 +3337,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 30.0,
-      "stock": 39,
+      "stock": 50,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
@@ -3415,7 +3415,7 @@
       "designation": "CROWN COUVERTURE CHROMOLUX 250G",
       "prix": 80.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "C250-I",
@@ -3443,7 +3443,7 @@
       "designation": "COUVERTURE CHROMOLUX 300G 100F",
       "prix": 80.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "C300I",
@@ -3548,7 +3548,7 @@
       "designation": "CHAHIER DE NOTES 5 SUJETS 21x29,7 240P",
       "prix": 80.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Notebook_spiral.jpg"
     },
     {
       "ref": "C-87W",
@@ -3618,7 +3618,7 @@
       "designation": "COUVERTURE CARTONNÉE A4 100 FEUILLES WAD DAHAB",
       "prix": 80.0,
       "stock": 20,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "CA80",
@@ -3631,7 +3631,7 @@
       "ref": "CA95014",
       "designation": "CABLE USB IPHONE",
       "prix": 100.0,
-      "stock": 21,
+      "stock": 20,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg"
     },
     {
@@ -4177,7 +4177,7 @@
       "ref": "CC-B",
       "designation": "CHEMISE BULLE COULEUR DETAIL",
       "prix": 1.0,
-      "stock": 94,
+      "stock": 92,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
@@ -4367,7 +4367,7 @@
       "designation": "CD-R ANGTE 50 700MB 80MIN",
       "prix": 5.0,
       "stock": 177,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/DVD.png"
     },
     {
       "ref": "CD90W",
@@ -4535,14 +4535,14 @@
       "designation": "Enveloppe blanche 10 x 21 cm",
       "prix": 0.8,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "CEC051",
       "designation": "Enveloppe A4+   26*36",
       "prix": 3.6,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "CEC083",
@@ -4843,7 +4843,7 @@
       "designation": "CHRGEUR HP ORIGINAL TET BLEU",
       "prix": 300.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg"
     },
     {
       "ref": "CH135",
@@ -4856,14 +4856,14 @@
       "ref": "CH180",
       "designation": "CHEMISE CARTONNEE CHRONO MULTICOLOR 180G",
       "prix": 80.0,
-      "stock": 7,
+      "stock": 16,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 137,
+      "stock": 136,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
@@ -5368,7 +5368,7 @@
       "designation": "POSTITE MULTICOULEUR 4 COULEURS 76*76  S1-3",
       "prix": 8.0,
       "stock": 31,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "CN-652",
@@ -5459,7 +5459,7 @@
       "designation": "CONSTAT AIMIABLE D'ACCIDENT DE VOITURE",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "CON-B",
@@ -5529,21 +5529,21 @@
       "designation": "COSTAT AMIABLE D'ACCIDENT AUTOMOBILE",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "COUV-TG",
       "designation": "COUVERTURE TRANSPARENTE GRANDE",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "COV-A4",
       "designation": "COUVERTURE GRAND CAHIER 21*29",
       "prix": 3.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "CO-W01",
@@ -5564,14 +5564,14 @@
       "designation": "CHEMISE PLASTIFIEE EXPRESS X0-4548",
       "prix": 3.0,
       "stock": 151,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "CP-7-12",
       "designation": "CRAYONS COULEURS FANST  MA 12 CL",
       "prix": 18.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "CP-96P",
@@ -5585,7 +5585,7 @@
       "designation": "COUVERTURE PETIT CAHIER 17*22",
       "prix": 2.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "CPPC-001",
@@ -5599,7 +5599,7 @@
       "designation": "CPU COOLER VENTULATEUR PC",
       "prix": 60.0,
       "stock": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gigabyte_GeForce_GV-N710D3-2GL_2_GiB_PCI-Express_Graphics_Card_%28Jigs_Tech%29_002.png"
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "CPU-15",
@@ -6005,7 +6005,7 @@
       "designation": "SHOW CSL-6106 Ceiling Speaker",
       "prix": 250.0,
       "stock": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "CSP-2M",
@@ -6201,7 +6201,7 @@
       "designation": "DISQUE MOUCHARD 125P",
       "prix": 75.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/W1373-DisqueChronotachygraphique.jpg"
     },
     {
       "ref": "D-1610",
@@ -6607,7 +6607,7 @@
       "designation": "DISQUE MOUCHARD",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/W1373-DisqueChronotachygraphique.jpg"
     },
     {
       "ref": "DISHD15",
@@ -7153,7 +7153,7 @@
       "designation": "DISTRIBUTEUR DE TROMBONES EXPRESS X0-1295",
       "prix": 60.0,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paperclip_1900.jpg"
     },
     {
       "ref": "DUR-13",
@@ -7188,7 +7188,7 @@
       "designation": "DOSSIERS VERTS POUR LE COLLEGE",
       "prix": 3.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "DV411",
@@ -7201,8 +7201,8 @@
       "ref": "DVD",
       "designation": "DVD-R 16X + POSHETTE",
       "prix": 10.0,
-      "stock": 36,
-      "image": "data/placeholders/divers.svg"
+      "stock": 34,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/DVD.png"
     },
     {
       "ref": "DVD-85",
@@ -7216,7 +7216,7 @@
       "designation": "DVD-R 16X  4.7GB 120MIN",
       "prix": 10.0,
       "stock": 9,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/DVD.png"
     },
     {
       "ref": "DVR-4CH",
@@ -7265,14 +7265,14 @@
       "designation": "CHEMISE A CONE PLASTIQUE COMIX E310",
       "prix": 5.0,
       "stock": 3,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E320",
       "designation": "CHEMISE OUVERT DE 2 COTE BOSTON --250//500PCS/CTN",
       "prix": 3.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E-5015",
@@ -7286,28 +7286,28 @@
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON VERT  5557",
       "prix": 6.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E-5557J",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON JAUNE 5557J",
       "prix": 6.0,
       "stock": 9,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E-5557R",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON ROUGE 5557R",
       "prix": 6.0,
       "stock": 9,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E-5557T",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON TRANSPARANT 5557",
       "prix": 6.0,
       "stock": 4,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "E620",
@@ -7524,14 +7524,14 @@
       "designation": "CHEMISE PERFOREE HI-PRO 80MIC R:EH303A8",
       "prix": 150.0,
       "stock": 8,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "EH303-B",
       "designation": "CHEMISE PERFOREE BOSTON 40MIC EH303",
       "prix": 70.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "EH303R",
@@ -7622,112 +7622,112 @@
       "designation": "ENVELOPPE PLASTIQUE BOUTON ROSE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
       "stock": 1015,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-229/324",
       "designation": "ENVELOPPES KRAFT POCHETTES 229*324 MM A4",
       "prix": 3.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
       "stock": 10,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-25/35",
       "designation": "ENVELOPPE OMA POCHETTE JAUNE 250/350",
       "prix": 4.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-37/45",
       "designation": "ENVELOPPES GAZELLE POCHETTE A3+ 370*450 MM",
       "prix": 7.0,
       "stock": 100,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-3746",
       "designation": "ENVELOPPE POCHETTE BLANC 37*46",
       "prix": 6.0,
       "stock": 100,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-3V",
       "designation": "ENVELOPPE PLASTIQUE BOUTON VERT",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-4O",
       "designation": "ENVELOPPE PLASTIQUE BOUTON ORANGE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-5R",
       "designation": "ENVELOPPE PLASTIQUE BOUTON ROUGE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-6N",
       "designation": "ENVELOPPE PLASTIQUE BOUTON NOIR",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
       "stock": 28,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ENV-A4+",
       "designation": "ENVELOPPES  KRAFT A4+  260*360 GAZELLE",
       "prix": 3.0,
       "stock": 545,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-A4+GAZ",
       "designation": "ENVELOPPE POCHETTE A4+ BLANC 260*360 GAZELLE",
       "prix": 3.5,
       "stock": 443,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-A4B",
       "designation": "ENVELOPPES POCHETTE A4  229*324 mm",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
       "stock": 872,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "ENV-A5P",
@@ -7839,7 +7839,7 @@
       "designation": "POCHETTE EQUERRE N°519",
       "prix": 15.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "ER-15",
@@ -7930,14 +7930,14 @@
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
       "stock": 1018,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "EV33",
       "designation": "ENVELOPPES OMA JAUNE V  22*330 MM",
       "prix": 2.0,
       "stock": 200,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "EVOLVE2",
@@ -8161,35 +8161,35 @@
       "designation": "DISQUE MOUCHARD FBM 125km/h 100p",
       "prix": 150.0,
       "stock": 7,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/W1373-DisqueChronotachygraphique.jpg"
     },
     {
       "ref": "FCJ-0011",
       "designation": "FICHE A4 CARTONNEE PETIT CARREAU JAUNE",
       "prix": 1.0,
       "stock": 100,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "FCR-0014",
       "designation": "FICHE A4 CARTONNEE PETIT CARREAU ROSE",
       "prix": 1.0,
       "stock": 100,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "FCT-1321",
       "designation": "FACTURE 13.5x21",
       "prix": 12.0,
       "stock": 10,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "FCV-0015",
       "designation": "FICHE A4 CARTONNE PETIT CARREAU VERT",
       "prix": 1.0,
       "stock": 100,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "FD-A5",
@@ -8343,7 +8343,7 @@
       "designation": "ENVELOPPE BLANCHE SF 110*220 GAZELLE",
       "prix": 30.0,
       "stock": 7,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "GAZ-20MM",
@@ -8356,8 +8356,8 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 752,
-      "image": "data/placeholders/fourniture.svg"
+      "stock": 746,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "G-CF279",
@@ -8721,21 +8721,21 @@
       "designation": "MECHANICAL PENCIL MICRO HB0.5 (20 Pcs tube)",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "HB07",
       "designation": "MECHANICAL PENCIL MICRO HB0.7 (20 Pcs tube)",
       "prix": 6.0,
       "stock": 13,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "HB2",
       "designation": "CRAYON HB 2 PENCIL",
       "prix": 2.0,
       "stock": 432,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "HD330",
@@ -8959,42 +8959,42 @@
       "designation": "STYLO HI/2015 PISTACHE",
       "prix": 10.0,
       "stock": 8,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI2015_V",
       "designation": "STYLO HI/2015 VIOLET",
       "prix": 10.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI-2015BC",
       "designation": "STYLO HI/2015 BLEU CIEL",
       "prix": 10.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI-2015M",
       "designation": "STYLO HI/2015 MARRON",
       "prix": 10.0,
       "stock": 18,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI-2015O",
       "designation": "STYLO HI/2015 ORANGE",
       "prix": 10.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI-2015R",
       "designation": "STYLO HI/2015 ROSE",
       "prix": 10.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "HI2019-B",
@@ -9113,7 +9113,7 @@
       "designation": "PORTE CACHET HANLIN 6P 1 ETAGE",
       "prix": 40.0,
       "stock": 3,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rubber_stamp_printy_dater.jpg"
     },
     {
       "ref": "HP/TB",
@@ -9127,14 +9127,14 @@
       "designation": "HP Wired Mouse 100",
       "prix": 120.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg"
     },
     {
       "ref": "HP1000",
       "designation": "HP Wired Mouse 1000",
       "prix": 150.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg"
     },
     {
       "ref": "HP-106A",
@@ -9890,7 +9890,7 @@
       "designation": "STYLO COULEUR GEL CRELANDO",
       "prix": 2.0,
       "stock": 148,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "IBM-16V",
@@ -9960,21 +9960,21 @@
       "designation": "IMPRESSION COULEUR A5",
       "prix": 2.0,
       "stock": 384,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg"
     },
     {
       "ref": "IMP-C2026",
       "designation": "IMPRESSION/PHOTOCOPIE COULEUR",
       "prix": 0.6,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg"
     },
     {
       "ref": "IMP-N2026",
       "designation": "IMPRESSION/PHOTOCOPIE NOIRE",
       "prix": 0.06,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg"
     },
     {
       "ref": "IN01",
@@ -10015,7 +10015,7 @@
       "ref": "INT-S12",
       "designation": "INTERCLAIRES CARTONE SICLA (1-12)",
       "prix": 30.0,
-      "stock": 36,
+      "stock": 56,
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lever_arch_file.jpg"
     },
     {
@@ -10078,7 +10078,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 24,
+      "stock": 23,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg"
     },
     {
@@ -10128,7 +10128,7 @@
       "designation": "STYLO BIC CRISTAL UP BLEU",
       "prix": 2.0,
       "stock": 225,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "IT-001",
@@ -10583,7 +10583,7 @@
       "designation": "LED CONTROLLER JALED 1500W",
       "prix": 0.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/LED-E27-Light-Bulb-1134-cropped.jpg"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "L-C310",
@@ -10771,7 +10771,7 @@
       "ref": "LOG-H2",
       "designation": "TAPIS DE SOURIS LOGITECH H-2",
       "prix": 25.0,
-      "stock": 3,
+      "stock": 1,
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg"
     },
     {
@@ -10975,7 +10975,7 @@
       "designation": "ALBUM CARTE DE VISITE POUR 288 / MEMORY-12288",
       "prix": 80.0,
       "stock": 2,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "M-13521",
@@ -11087,14 +11087,14 @@
       "designation": "PAQUET STYLO FEUTRE 12 COULEURS  MEMORY 6628",
       "prix": 18.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Assorted_colorful_markers_arranged_neatly_in_a_container_on_a_windowsill_during_daylight_hours.jpg"
     },
     {
       "ref": "M6700/13",
       "designation": "CRAYONS PLASTIQUE 12 COULEUR  /6800-12",
       "prix": 10.0,
       "stock": 4,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "M68-R",
@@ -11129,7 +11129,7 @@
       "designation": "LOGITECH Mouse M90 (Mouton-Boat) Noire",
       "prix": 60.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg"
     },
     {
       "ref": "M910X",
@@ -11199,7 +11199,7 @@
       "designation": "Médaille Bronze",
       "prix": 15.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png"
+      "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MBB-001",
@@ -11227,7 +11227,7 @@
       "designation": "Médaille Argenté",
       "prix": 15.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/WikiCup_Trophy_Gold.png"
+      "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MD-6820",
@@ -11248,7 +11248,7 @@
       "designation": "CHEMISE BULLE ROLLING 21*31 60g",
       "prix": 50.0,
       "stock": 2,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "MEF21",
@@ -11381,7 +11381,7 @@
       "designation": "MINI AGENDA EN COULEUR SIMPLE",
       "prix": 10.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg"
     },
     {
       "ref": "MK120",
@@ -11416,21 +11416,21 @@
       "designation": "STYLO MONAMI BLEU CIEL",
       "prix": 2.0,
       "stock": 29,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "MONAMI-M",
       "designation": "STYLO MONAMI MARRON",
       "prix": 2.0,
       "stock": 10,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "MONAMI-V",
       "designation": "STYLO MONAMI VERT",
       "prix": 2.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "MON-B",
@@ -11577,7 +11577,7 @@
       "designation": "MARQEUR KEYITE MS8802",
       "prix": 8.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Assorted_colorful_markers_arranged_neatly_in_a_container_on_a_windowsill_during_daylight_hours.jpg"
     },
     {
       "ref": "MTK04",
@@ -11724,7 +11724,7 @@
       "designation": "SUPPORT COOLING PAD NB-086",
       "prix": 67.0,
       "stock": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gigabyte_GeForce_GV-N710D3-2GL_2_GiB_PCI-Express_Graphics_Card_%28Jigs_Tech%29_002.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Trust_Notebook_Cooling_Stand_Xtreme.jpg"
     },
     {
       "ref": "NEO-50Q-G5",
@@ -11808,7 +11808,7 @@
       "designation": "GOMMETTES ITEM NO:380",
       "prix": 15.0,
       "stock": 7,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/35_adhesive_labels_-_A.jpg"
     },
     {
       "ref": "NOK-105",
@@ -11983,7 +11983,7 @@
       "designation": "ENVELOPPES OMA POCHETTE BLANC A3+ 305*406 MM",
       "prix": 3.0,
       "stock": 320,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/5-digit_Envelope.jpg"
     },
     {
       "ref": "OMNIA-A4",
@@ -12165,7 +12165,7 @@
       "designation": "SAC POUBELLE 30L*40 SACHETS",
       "prix": 20.0,
       "stock": 8,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wheelie_bins_and_a_litter_bin%2C_Abersychan_-_geograph.org.uk_-_4678432.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Plastic_Bag_Recycling_in_a_Home.jpg"
     },
     {
       "ref": "P-4F",
@@ -12270,7 +12270,7 @@
       "designation": "KEYWIN GAMING MOUSE PAD X-7",
       "prix": 120.0,
       "stock": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kensington_Expert_Mouse_Wired_Trackball_64325.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HP_mouse_and_mousepad_20060803.jpg"
     },
     {
       "ref": "PANASONIC",
@@ -12333,7 +12333,7 @@
       "designation": "CRAYONS COULEURS 24  Y.PLUS+      NO.PC1104/1",
       "prix": 45.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "PC-210",
@@ -12508,7 +12508,7 @@
       "designation": "PIECE DE CAISSE DEPENSES PC900",
       "prix": 30.0,
       "stock": 10,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "PDCB-0027",
@@ -12641,7 +12641,7 @@
       "designation": "PHOTOCOPIE NOIR A4",
       "prix": 0.5,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg"
     },
     {
       "ref": "P-HAN",
@@ -12830,35 +12830,35 @@
       "designation": "POSTITE NOTE INFO JAUNE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "POS-OR",
       "designation": "POSTITE NOTE INFO ORANGE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "POS-R",
       "designation": "POSTITE NOTE INFO ROSE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "POS-V",
       "designation": "POSTITE NOTE INFO VERT",
       "prix": 8.0,
       "stock": 3,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "PP-0013",
       "designation": "POCHETTES A PLASTIFIER A4 125MIC",
       "prix": 220.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "PP005",
@@ -12892,7 +12892,7 @@
       "ref": "PPJ931-3",
       "designation": "CHEMISE PERFORE ECOLO PPJ931-3",
       "prix": 70.0,
-      "stock": 7,
+      "stock": 17,
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
@@ -12900,7 +12900,7 @@
       "designation": "POCHETTES A PLASTIFIER A3",
       "prix": 300.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "PPO",
@@ -13208,7 +13208,7 @@
       "designation": "PIECE DE CAISSE RECETTES PC900",
       "prix": 30.0,
       "stock": 8,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "PRB-2",
@@ -13313,7 +13313,7 @@
       "designation": "COUVERTURES PVC TRANSPARENT A4 EXPRESS XO-2827",
       "prix": 80.0,
       "stock": 5,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "PTB-031",
@@ -13327,7 +13327,7 @@
       "designation": "PORTE TROMBONNES MAGNETIQUE BOSTON B0027",
       "prix": 30.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stapler-swingline-red.jpg"
     },
     {
       "ref": "PTM-0028",
@@ -13376,7 +13376,7 @@
       "designation": "COUVERTURES PVC TRANSPARENT A3 EXPRESS XO-2841",
       "prix": 100.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "PW-100",
@@ -13432,14 +13432,14 @@
       "designation": "CRAYON A PAPPIER BLANC PX1202 v.plus+",
       "prix": 3.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
       "stock": 118,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "Q8848-60001",
@@ -13502,7 +13502,7 @@
       "designation": "QUITTANCE DE LOYER",
       "prix": 12.0,
       "stock": 27,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "R002",
@@ -13558,7 +13558,7 @@
       "designation": "MARQUEUR FABER-CASTELL NOIR R°154499",
       "prix": 12.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Whiteboard_marker_and_eraser.jpg"
     },
     {
       "ref": "R-180G",
@@ -13599,7 +13599,7 @@
       "ref": "R2MM",
       "designation": "REGISTRE NOIR 2 MM",
       "prix": 25.0,
-      "stock": 2,
+      "stock": 12,
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lever_arch_file.jpg"
     },
     {
@@ -13663,7 +13663,7 @@
       "designation": "MARQUEUR FABER-CASTELL NOIR R°555999",
       "prix": 12.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Whiteboard_marker_and_eraser.jpg"
     },
     {
       "ref": "R55GS",
@@ -13727,6 +13727,12 @@
       "prix": 20.0,
       "stock": 0,
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png"
+    },
+    {
+      "ref": "RABAT_P_V",
+      "designation": "chemise a rabat plastique imik import vert",
+      "prix": 10.0,
+      "stock": 5
     },
     {
       "ref": "RAM04",
@@ -13866,7 +13872,7 @@
       "designation": "PIECE DE CAISSE DEPENSES F2000",
       "prix": 30.0,
       "stock": 9,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "REF1296",
@@ -13901,7 +13907,7 @@
       "designation": "CHEMISE OUVERT DE 2 COTE BOSTON 150MIC 31X22 CM",
       "prix": 3.0,
       "stock": 138,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg"
     },
     {
       "ref": "REG-1M",
@@ -14125,7 +14131,7 @@
       "designation": "REGISTRE DE PAIE",
       "prix": 30.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg"
     },
     {
       "ref": "RPF-0034",
@@ -14181,7 +14187,7 @@
       "designation": "REPERTOIRE TELEPHONIQUE A4",
       "prix": 95.0,
       "stock": 20,
-      "image": "data/placeholders/papier.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Notebook_spiral.jpg"
     },
     {
       "ref": "RT-1199",
@@ -14398,7 +14404,7 @@
       "designation": "STYLO BIC 4C",
       "prix": 15.0,
       "stock": 16,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "S-4U500",
@@ -14482,14 +14488,14 @@
       "designation": "CRAYONS DE COULEURS 12  SMART  6700/12",
       "prix": 8.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "S703-12",
       "designation": "CRAYONS COULEURS SMART  MA 12 CL",
       "prix": 18.0,
       "stock": 5,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "S770",
@@ -14664,7 +14670,7 @@
       "designation": "STYLO+BOITE",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SB112",
@@ -14797,7 +14803,7 @@
       "designation": "MARQUEUR  STYLO PILOT",
       "prix": 25.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Assorted_colorful_markers_arranged_neatly_in_a_container_on_a_windowsill_during_daylight_hours.jpg"
     },
     {
       "ref": "SD005",
@@ -14923,7 +14929,7 @@
       "designation": "BOITE DE CLASSEMENT EN SIMILI RAYÉ SICLA 8 CM",
       "prix": 80.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/FAC_H.E._WRAP_%26_ASSEMBLY%2C_DIAMOND_BEECH_-_DPLA_-_fb5ddab695709b81d84a80fb8e8df558.jpg"
     },
     {
       "ref": "SICLA-2AN",
@@ -15034,7 +15040,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1417,
+      "stock": 1416,
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kangso_Mineral_Water_Bottling_Factory_-_05.jpg"
     },
     {
@@ -15056,7 +15062,7 @@
       "designation": "STYLO CELLO SLIMO NOIR",
       "prix": 2.0,
       "stock": 4,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SL-AT21",
@@ -15077,7 +15083,7 @@
       "designation": "STYLO MARQUE ANONYME EMBALLAGE GRIS SM-001",
       "prix": 6.0,
       "stock": 191,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SM4K104",
@@ -15105,7 +15111,7 @@
       "designation": "STYLO SMART VERT",
       "prix": 2.0,
       "stock": 100,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SN-40M",
@@ -15189,35 +15195,35 @@
       "designation": "SPIRAL DE RELIURE 10 MM",
       "prix": 0.9,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-12",
       "designation": "SPIRAL DE RELIURE 12 MM",
       "prix": 0.95,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP14",
       "designation": "SPIRAL DE RELIURE 14 MM",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-16MM",
       "designation": "SPIRAL DE RELIURE 16 MM",
       "prix": 1.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-18M",
       "designation": "SPIRAL DE RELIURE 18 MM",
       "prix": 1.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-1TB-A55",
@@ -15231,21 +15237,21 @@
       "designation": "SPIRAL DE RELIURE 21 MM",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-22M",
       "designation": "SPIRAL DE RELIURE 22 MM",
       "prix": 2.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-25",
       "designation": "SPIRAL DE RELIURE 25 MM",
       "prix": 2.6,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-250ML",
@@ -15259,14 +15265,14 @@
       "designation": "SPIRAL DE RELIURE 26 MM",
       "prix": 2.6,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-38M",
       "designation": "SPIRAL DE RELIURE 38 MM",
       "prix": 3.5,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-512G",
@@ -15280,28 +15286,28 @@
       "designation": "SPIRAL DE RELIURE 51 MM",
       "prix": 5.0,
       "stock": 6,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-6MM",
       "designation": "SPIRAL DE RELIURE 6 MM",
       "prix": 1.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SP-8MM",
       "designation": "SPIRAL DE RELIURE 8 MM",
       "prix": 0.8,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SPIM1",
       "designation": "SPIRAL METALLIQUE S7/16 100P",
       "prix": 250.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coil_binding.jpg"
     },
     {
       "ref": "SPM0296",
@@ -15371,7 +15377,7 @@
       "designation": "STYLO SMART VERT DETAIL",
       "prix": 2.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SSD1TB_S",
@@ -15413,14 +15419,14 @@
       "designation": "STYLO MARQUE ANONYME EMBALLAGE ROUGE",
       "prix": 5.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "ST-07",
       "designation": "STYLO FRIXION PILOT BLEU  07",
       "prix": 15.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "ST-3",
@@ -15434,7 +15440,7 @@
       "designation": "STYLO METAL",
       "prix": 24.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "STAP-G1",
@@ -15448,7 +15454,7 @@
       "designation": "Stylo à bille classique bleu sur fond noir",
       "prix": 10.0,
       "stock": 20,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "S-THE",
@@ -15462,7 +15468,7 @@
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
       "stock": 34,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stack_of_four_sticky_notes.jpg"
     },
     {
       "ref": "STOCK2026F",
@@ -15490,7 +15496,7 @@
       "designation": "Stylo personnalisé",
       "prix": 10.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ballpoint_Pen_DS.jpg"
     },
     {
       "ref": "SUP-3",
@@ -16050,21 +16056,21 @@
       "designation": "TAPE DISENSER BOSTON NO.821",
       "prix": 40.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tape-dispenser.jpg"
     },
     {
       "ref": "TDD-0815",
       "designation": "TAPE DISPENSER DELI NO.815",
       "prix": 70.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tape-dispenser.jpg"
     },
     {
       "ref": "TDG-0181",
       "designation": "TAPE DISENSER GUANGSHENG S181",
       "prix": 70.0,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tape-dispenser.jpg"
     },
     {
       "ref": "TED416G",
@@ -17583,14 +17589,14 @@
       "designation": "MARQUEUR WHITE BOARD KeYiTe ROUGE",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Whiteboard_marker_and_eraser.jpg"
     },
     {
       "ref": "WB-105V",
       "designation": "MARQUEUR WHITE BOARD KeYiTe VERT",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Whiteboard_marker_and_eraser.jpg"
     },
     {
       "ref": "W-CE278",
@@ -17835,7 +17841,7 @@
       "designation": "MARQEUR XSG DOUBLE COULEUR (BLEU MARRON) X-1088",
       "prix": 10.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Assorted_colorful_markers_arranged_neatly_in_a_container_on_a_windowsill_during_daylight_hours.jpg"
     },
     {
       "ref": "XEROX",
@@ -17856,7 +17862,7 @@
       "designation": "CRAYONS DE COULEURS ARTISTA",
       "prix": 18.0,
       "stock": 0,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "XJ-4845",
@@ -18003,7 +18009,7 @@
       "designation": "PAQUET CRAYONS COULEUR Y-PLUS 12 Pcs / Z009",
       "prix": 25.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Colored_pencils_chevre.jpg"
     },
     {
       "ref": "Z6G4",
