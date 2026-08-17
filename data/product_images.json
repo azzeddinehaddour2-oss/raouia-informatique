@@ -955,9 +955,9 @@
     "source": "placeholder"
   },
   "A05S": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05s-black-128gb-sm-a057fzkgmea/",
+    "source": "web"
   },
   "A065R01DL": {
     "image": "data/placeholders/chargeur.svg",
@@ -1000,9 +1000,9 @@
     "source": "placeholder"
   },
   "A16-128": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a165mzkglte/gallery/latin-en-galaxy-a16-sm-a165-sm-a165mzkglte-544288525?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a16-black-128gb-sm-a165mzkglte/",
+    "source": "web"
   },
   "A1703": {
     "image": "data/placeholders/cable.svg",
@@ -1040,9 +1040,9 @@
     "source": "placeholder"
   },
   "A25-128": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256ezkdmea/",
+    "source": "web"
   },
   "A25-256": {
     "image": "data/placeholders/divers.svg",
@@ -1115,9 +1115,9 @@
     "source": "placeholder"
   },
   "A55-256": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/sg/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxsp/",
+    "source": "web"
   },
   "A56_256": {
     "image": "data/placeholders/divers.svg",
@@ -10384,14 +10384,14 @@
     "source": "placeholder"
   },
   "SAM-A05-64G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05-black-64gb-sm-a055fzkdmea/",
+    "source": "web"
   },
   "SAM-A15-128G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdmea/",
+    "source": "web"
   },
   "SAM-A26-128G": {
     "image": "data/placeholders/divers.svg",
