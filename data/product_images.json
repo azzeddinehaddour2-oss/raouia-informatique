@@ -400,14 +400,14 @@
     "source": "placeholder"
   },
   "103-W": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i8.amplience.net/i/epsonemear/103_k_bottle_cis_front-3d_png?fmt=auto",
+    "source_page": "https://www.epson.eu/en_EU/products/ink-and-paper/ink-consumables/103-ecotank-black-ink-bottle/p/22804",
+    "source": "web"
   },
   "103-Y": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i8.amplience.net/i/epsonemear/103_y_bottle_cis_front-3d_png?fmt=auto",
+    "source_page": "https://www.epson.eu/en_EU/products/ink-and-paper/ink-consumables/103-ecotank-yellow-ink-bottle/p/22807",
+    "source": "web"
   },
   "107W": {
     "image": "data/placeholders/imprimante.svg",
