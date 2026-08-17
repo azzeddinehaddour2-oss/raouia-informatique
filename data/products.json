@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:54:12",
+  "generated_at": "2026-08-18T00:49:13",
   "count": 2582,
   "products": [
     {
@@ -1344,7 +1344,7 @@
       "designation": "Samsung Galaxy A35 5G 256GB 8Go RAM",
       "prix": 3500.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a356ezkglte/gallery/latin-en-galaxy-a35-5g-sm-a356-500302-sm-a356ezkglte-540451378?$1164_776_PNG$"
     },
     {
       "ref": "A35-128G",
