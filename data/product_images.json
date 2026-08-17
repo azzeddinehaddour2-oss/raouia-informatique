@@ -8660,9 +8660,9 @@
     "source": "placeholder"
   },
   "P2222H": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2222h/media-gallery/peripherals_monitor_p2222h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=820&qlt=100,1&resMode=sharp2&size=820,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-p2222h/apd/210-bbbw/monitors-monitor-accessories",
+    "source": "web"
   },
   "P2250": {
     "image": "data/placeholders/divers.svg",
@@ -8675,9 +8675,9 @@
     "source": "placeholder"
   },
   "P2422H": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2422h/media-gallery/peripherals_monitor_p2422h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=808&qlt=100,1&resMode=sharp2&size=808,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-p2422h/apd/210-bbcc/monitors-monitor-accessories",
+    "source": "web"
   },
   "P2500": {
     "image": "data/placeholders/imprimante.svg",
@@ -8690,9 +8690,9 @@
     "source": "placeholder"
   },
   "P2725": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2725h/media-gallery/monitor-p2725h-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=907&qlt=100,1&resMode=sharp2&size=907,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-pro-27-plus-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories",
+    "source": "web"
   },
   "P-3": {
     "image": "data/placeholders/divers.svg",
@@ -10609,9 +10609,9 @@
     "source": "placeholder"
   },
   "SE2222H": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2222h/media-gallery/se2222h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-se2222h/apd/210-ayyq/monitors-monitor-accessories",
+    "source": "web"
   },
   "SE2422": {
     "image": "data/placeholders/ecran.svg",
@@ -10619,19 +10619,19 @@
     "source": "placeholder"
   },
   "SE2425H": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2425h/media-gallery/monitor-dell-se2425h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=893&qlt=100,1&resMode=sharp2&size=893,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-se2425h/apd/210-bnhq/monitors-monitor-accessories",
+    "source": "web"
   },
   "SE2722H": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2722h/media-gallery/se2722h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2722h/apd/210-ayyh/monitors-monitor-accessories",
+    "source": "web"
   },
   "SE2725": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2725h/media-gallery/monitor-dell-se2725h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=929&qlt=100,1&resMode=sharp2&size=929,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2725h/apd/210-bnhr/monitors-monitor-accessories",
+    "source": "web"
   },
   "SF-4007": {
     "image": "data/placeholders/fourniture.svg",
