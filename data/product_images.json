@@ -12843,11 +12843,6 @@
     "source_page": "https://commons.wikimedia.org/wiki/File:Brillo_Pads_(17270218761).jpg",
     "source": "web"
   },
-  "YUCUN-512GB": {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
-    "source": "web"
-  },
   "YX-991ES": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sharp_Scientific_Calculator.jpg",
     "source_page": "https://commons.wikimedia.org/wiki/File:Sharp_Scientific_Calculator.jpg",
@@ -12871,6 +12866,16 @@
   "ZK40_PRO": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/PERCo_CR11_Time_and_Attendance_terminal.jpg",
     "source_page": "https://commons.wikimedia.org/wiki/File:PERCo_CR11_Time_and_Attendance_terminal.jpg",
+    "source": "web"
+  },
+  "840G8_10EM": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laptop_computer.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Laptop_computer.jpg",
+    "source": "web"
+  },
+  "RABAT_P_V": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manila_folder.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manila_folder.jpg",
     "source": "web"
   }
 }
