@@ -3,3 +3,5 @@ sync_stock.log
 __pycache__/
 *.pyc
 .env
+.claude/settings.local.json
+scripts/photos_audit_cycle.log

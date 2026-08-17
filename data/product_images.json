@@ -210,9 +210,9 @@
     "source": "placeholder"
   },
   "HP-270G7": {
-    "image": "https://hp.widen.net/content/pgeykv0p4a/png/pgeykv0p4a.png",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-250-g7-notebook-pc/24381316",
-    "source": "web"
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP840G6": {
     "image": "https://hp.widen.net/content/yacpnxmsos/png/yacpnxmsos.png",
@@ -235,9 +235,9 @@
     "source": "web"
   },
   "LEN-27U": {
-    "image": "https://p3-ofp.static.pub/ShareResource/ww/visuals/legion-27u-10/Legion-27U-10-list-new.png",
-    "source_page": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/67d1gac1us",
-    "source": "web"
+    "image": "data/placeholders/ecran.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "V27I": {
     "image": "https://hp.widen.net/content/ckjlezh6us/png/ckjlezh6us.png",
