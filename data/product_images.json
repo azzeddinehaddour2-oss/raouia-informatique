@@ -2170,9 +2170,9 @@
     "source": "placeholder"
   },
   "BNC02": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/BNC_connector_20050720_001.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:BNC_connector_20050720_001.jpg",
+    "source": "web"
   },
   "BNG-008": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stationery_Wholesale_Shop_notebooks.jpg",
@@ -4100,9 +4100,9 @@
     "source": "web"
   },
   "CPU": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CPU-cooler-14_hg.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CPU-cooler-14_hg.jpg",
+    "source": "web"
   },
   "CPU-15": {
     "image": "data/placeholders/divers.svg",
@@ -4255,9 +4255,9 @@
     "source": "web"
   },
   "CRJ45": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Commercial_RJ45_wall_socket_internals.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Commercial_RJ45_wall_socket_internals.jpg",
+    "source": "web"
   },
   "C-RJ45": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -4450,9 +4450,9 @@
     "source": "placeholder"
   },
   "CU002": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Klappbarer_Einmall%C3%B6ffel%2C_1.jpeg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Klappbarer_Einmall%C3%B6ffel%2C_1.jpeg",
+    "source": "web"
   },
   "CU-60ARL": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -4470,9 +4470,9 @@
     "source": "web"
   },
   "CUI-PM": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Klappbarer_Einmall%C3%B6ffel%2C_1.jpeg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Klappbarer_Einmall%C3%B6ffel%2C_1.jpeg",
+    "source": "web"
   },
   "C-USB": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Backlit_keyboard.jpg",
@@ -5045,9 +5045,9 @@
     "source": "web"
   },
   "DS-240V": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Notebook-Computer-AC-Adapter.jpg",
+    "source": "web"
   },
   "DS-2CD1053G0": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/IP_camera_Ethernet_power.jpg",
@@ -7090,9 +7090,9 @@
     "source": "web"
   },
   "HV-JS704": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Trust_GM-1500_gamepad_controller_1.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Trust_GM-1500_gamepad_controller_1.jpg",
+    "source": "web"
   },
   "HY69058": {
     "image": "data/placeholders/divers.svg",
@@ -7145,9 +7145,9 @@
     "source": "web"
   },
   "IMG680": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Power_bank.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Power_bank.JPG",
+    "source": "web"
   },
   "IMP8919": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rubber_stamp_printy_dater.jpg",
@@ -7520,9 +7520,9 @@
     "source": "web"
   },
   "KMT-003": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Trust_GM-1500_gamepad_controller_1.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Trust_GM-1500_gamepad_controller_1.jpg",
+    "source": "web"
   },
   "KM-TN322": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -8115,9 +8115,9 @@
     "source": "web"
   },
   "MICR-SF": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telephone_Headset.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Telephone_Headset.jpg",
+    "source": "web"
   },
   "MIC-XELITE": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laptop_computer.jpg",
@@ -8200,9 +8200,9 @@
     "source": "web"
   },
   "MP02": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Thermal_Lamination_Machine.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Thermal_Lamination_Machine.jpg",
+    "source": "web"
   },
   "MP-120MG": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg",
@@ -8610,9 +8610,9 @@
     "source": "web"
   },
   "P005": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pen_Cup.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pen_Cup.jpg",
+    "source": "web"
   },
   "P1000": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -9035,9 +9035,9 @@
     "source": "web"
   },
   "PGI-520BK": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Daiso_Ink_Cartridge.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Daiso_Ink_Cartridge.jpg",
+    "source": "web"
   },
   "PH-001": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HP_LaserJet_1020_printer.jpg",
@@ -9100,9 +9100,9 @@
     "source": "web"
   },
   "PM193": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pen_Cup.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pen_Cup.jpg",
+    "source": "web"
   },
   "PM-33": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Macey_Vertical_Filing_Cabinet_1903.jpg",
@@ -9460,9 +9460,9 @@
     "source": "web"
   },
   "PRM11": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pen_Cup.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pen_Cup.jpg",
+    "source": "web"
   },
   "PRO-B": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Permanent_marker_pens.jpg",
@@ -9735,9 +9735,9 @@
     "source": "web"
   },
   "R32304": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Honeywell_4600g-8661.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Honeywell_4600g-8661.jpg",
+    "source": "web"
   },
   "R350": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HuaweiRH2288HV2.JPG",
@@ -10054,9 +10054,9 @@
     "source": "web"
   },
   "RM70V": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
+    "source": "web"
   },
   "RN": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Squeegee_Unger_2.jpg",
@@ -10094,9 +10094,9 @@
     "source": "placeholder"
   },
   "RP-001": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_battery.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:AA_battery.png",
+    "source": "web"
   },
   "RP-007": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -10259,9 +10259,9 @@
     "source": "web"
   },
   "S2710A": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source": "web"
   },
   "S300-6TB": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
@@ -10279,9 +10279,9 @@
     "source": "web"
   },
   "S340": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source": "web"
   },
   "S3508D": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blank_A4_paper.jpg",
@@ -10394,9 +10394,9 @@
     "source": "web"
   },
   "SAM-A26-128G": {
-    "image": "data/placeholders/divers.svg",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731uzkexaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731uzkexaa-548774248?$product-details-jpg$",
     "source_page": null,
-    "source": "placeholder"
+    "source": "web"
   },
   "SAM-A34-128G": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png",
@@ -10434,9 +10434,9 @@
     "source": "web"
   },
   "SAM-S25-ULTRA-256G": {
-    "image": "data/placeholders/divers.svg",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731uzkexaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731uzkexaa-548774248?$product-details-jpg$",
     "source_page": null,
-    "source": "placeholder"
+    "source": "web"
   },
   "SAMS-526G": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png",
@@ -10584,9 +10584,9 @@
     "source": "web"
   },
   "SD108P": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:EFTA00002177_-_Black_ATIVA_paper_shredder_filled_with_shredded_white_paper_on_wooden_floor.jpg",
+    "source": "web"
   },
   "S-DELL": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logitech_M210-1677.jpg",
@@ -10649,9 +10649,9 @@
     "source": "web"
   },
   "SGS-333": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telephone_Headset.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Telephone_Headset.jpg",
+    "source": "web"
   },
   "SHREDDERS": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/2020_pair_of_Westcott_scissors_stainless_steel.jpg",
@@ -10824,9 +10824,9 @@
     "source": "web"
   },
   "SONY-2": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Trust_GM-1500_gamepad_controller_1.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Trust_GM-1500_gamepad_controller_1.jpg",
+    "source": "web"
   },
   "SONY-3.05A": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notebook-Computer-AC-Adapter.jpg",
@@ -11574,9 +11574,9 @@
     "source": "web"
   },
   "TITAN_DL": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Schneider_Electric_PIR_motion_detector.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Schneider_Electric_PIR_motion_detector.JPG",
+    "source": "web"
   },
   "TK-1110": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toner.jpg",
@@ -11989,9 +11989,9 @@
     "source": "web"
   },
   "U-892": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shure_Wireless_Microphone_SM58.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Shure_Wireless_Microphone_SM58.jpg",
+    "source": "web"
   },
   "UB500": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
@@ -12249,9 +12249,9 @@
     "source": "web"
   },
   "VI3000_": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/256GB_2230_NVME_SSD_1.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:256GB_2230_NVME_SSD_1.jpg",
+    "source": "web"
   },
   "VI-C510": {
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cable_USB.jpg",
