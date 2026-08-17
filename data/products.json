@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:54:31",
+  "generated_at": "2026-08-17T21:54:12",
   "count": 2582,
   "products": [
     {
@@ -126,14 +126,14 @@
       "designation": "EPSON 103 BOUTEILLE D'ENCRE NOIR WORD",
       "prix": 75.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://i8.amplience.net/i/epsonemear/103_k_bottle_cis_front-3d_png?fmt=auto"
     },
     {
       "ref": "103-Y",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE YELLOW",
       "prix": 150.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://i8.amplience.net/i/epsonemear/103_y_bottle_cis_front-3d_png?fmt=auto"
     },
     {
       "ref": "107W",
