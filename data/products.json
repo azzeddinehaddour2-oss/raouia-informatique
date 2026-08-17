@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:56:19",
+  "generated_at": "2026-08-17T18:55:36",
   "count": 2582,
   "products": [
     {
@@ -12134,7 +12134,7 @@
       "designation": "Dell 22 Monitor - P2222H - 54.6cm (21.5\") 36M P2222H",
       "prix": 2000.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2222h/media-gallery/peripherals_monitor_p2222h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=820&qlt=100,1&resMode=sharp2&size=820,804&chrss=full"
     },
     {
       "ref": "P2250",
@@ -12155,7 +12155,7 @@
       "designation": "Dell 24 Monitor - P2422H - 60.5cm (23.8\") 36M",
       "prix": 1800.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2422h/media-gallery/peripherals_monitor_p2422h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=808&qlt=100,1&resMode=sharp2&size=808,804&chrss=full"
     },
     {
       "ref": "P2500",
@@ -12176,7 +12176,7 @@
       "designation": "Dell 27 Monitor - P2725H, 68.6cm (27.0\") 36M",
       "prix": 2200.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2725h/media-gallery/monitor-p2725h-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=907&qlt=100,1&resMode=sharp2&size=907,804&chrss=full"
     },
     {
       "ref": "P-3",
@@ -14878,7 +14878,7 @@
       "designation": "DELL 22 MONITOR-SE2222H-54.5cm",
       "prix": 1690.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2222h/media-gallery/se2222h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full"
     },
     {
       "ref": "SE2422",
@@ -14892,21 +14892,21 @@
       "designation": "Dell 24 Monitor-SE2425H- 60.5cm (23.8\") 36M",
       "prix": 1500.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2425h/media-gallery/monitor-dell-se2425h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=893&qlt=100,1&resMode=sharp2&size=893,804&chrss=full"
     },
     {
       "ref": "SE2722H",
       "designation": "Dell SE2722H - LED monitor - Full HD (1080p) - 27\" 36M",
       "prix": 2100.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2722h/media-gallery/se2722h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full"
     },
     {
       "ref": "SE2725",
       "designation": "Dell 27 Monitor - SE2725H - 68.5cm (27) Full HD (1080p) 1920 x 1080 3",
       "prix": 1600.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2725h/media-gallery/monitor-dell-se2725h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=929&qlt=100,1&resMode=sharp2&size=929,804&chrss=full"
     },
     {
       "ref": "SF-4007",
