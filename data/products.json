@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:16:16",
+  "generated_at": "2026-08-17T16:42:38",
   "count": 2582,
   "products": [
     {
@@ -231,7 +231,7 @@
       "designation": "TP-LINK 150MBPS NANO USB ADAPTER",
       "prix": 130.0,
       "stock": 0,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg"
     },
     {
       "ref": "151151",
@@ -644,7 +644,7 @@
       "designation": "DELL Latitude 3440 i5-1335U 14\"FHD 8 Go 512 Go SSD Win 10",
       "prix": 9440.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-3440-laptop/media-gallery/notebook-latitude-14-3440-nt-uma-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=900&wid=900&qlt=100,1&resMode=sharp2&size=900,900&chrss=full"
     },
     {
       "ref": "351-V",
@@ -9253,7 +9253,7 @@
       "designation": "PC PORTABLE HP I3 250 G7 4GB RAM 256SSD FREEDOS",
       "prix": 4000.0,
       "stock": 1,
-      "image": "https://hp.widen.net/content/pgeykv0p4a/png/pgeykv0p4a.png"
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "HP-290G",
@@ -10664,7 +10664,7 @@
       "designation": "LENOVO Moniteur Legion 27U-10 27'' 24 Mois",
       "prix": 3050.0,
       "stock": 2,
-      "image": "https://p3-ofp.static.pub/ShareResource/ww/visuals/legion-27u-10/Legion-27U-10-list-new.png"
+      "image": "data/placeholders/ecran.svg"
     },
     {
       "ref": "LEN-65W",

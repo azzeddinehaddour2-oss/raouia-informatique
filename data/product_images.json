@@ -445,9 +445,9 @@
     "source": "placeholder"
   },
   "150MBPS": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/",
+    "source": "web"
   },
   "151A-HP": {
     "image": "data/placeholders/toner.svg",
@@ -625,9 +625,9 @@
     "source": "placeholder"
   },
   "3440-I5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-3440-laptop/media-gallery/notebook-latitude-14-3440-nt-uma-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=900&wid=900&qlt=100,1&resMode=sharp2&size=900,900&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3440-laptop/spd/latitude-14-3440-laptop",
+    "source": "web"
   },
   "351-V": {
     "image": "data/placeholders/fourniture.svg",
