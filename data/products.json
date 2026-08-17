@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:55:36",
+  "generated_at": "2026-08-17T19:54:31",
   "count": 2582,
   "products": [
     {
@@ -1197,7 +1197,7 @@
       "designation": "SAMSUNG GALAXY A05S 6G/128",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$"
     },
     {
       "ref": "A065R01DL",
@@ -1260,7 +1260,7 @@
       "designation": "SAMSUNG GALAXY A16 4+128GB",
       "prix": 1750.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a165mzkglte/gallery/latin-en-galaxy-a16-sm-a165-sm-a165mzkglte-544288525?$1164_776_PNG$"
     },
     {
       "ref": "A1703",
@@ -1316,7 +1316,7 @@
       "designation": "SAMSUNG GALAXY A25 128GB",
       "prix": 2500.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$"
     },
     {
       "ref": "A25-256",
@@ -1421,7 +1421,7 @@
       "designation": "SAMSUNG GALAXY A55 5G 8+256GB",
       "prix": 4200.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$"
     },
     {
       "ref": "A56_256",
@@ -14563,14 +14563,14 @@
       "designation": "SAMSUNG Smartphone A05 6.7 Helio G85 4Go 64Go Android 4G",
       "prix": 1190.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$"
     },
     {
       "ref": "SAM-A15-128G",
       "designation": "SAMSUNG Smartphone A15 6.5\" MT6789V/CD 4Go 128G Android 4G",
       "prix": 1860.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$"
     },
     {
       "ref": "SAM-A26-128G",
