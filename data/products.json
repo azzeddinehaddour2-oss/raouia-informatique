@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:42:38",
+  "generated_at": "2026-08-17T16:54:16",
   "count": 2582,
   "products": [
     {
@@ -658,7 +658,7 @@
       "designation": "DELL Latitude 3540 i5-1335U 15,6\"FHD 8Go 512Go SSD Win 10",
       "prix": 9350.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-3540-laptop/media-gallery/notebook-latitude-15-3540-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full"
     },
     {
       "ref": "369N",
@@ -686,7 +686,7 @@
       "designation": "DELL Vostro 3910 TWR i3-12100 8Go 256Go SSD Freedos 12M",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/stockage.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/vostro-desktops/vostro-3910-tower/media-gallery/black-noodd-nomcr/desktop-dv3910-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full"
     },
     {
       "ref": "3A-852",

@@ -635,9 +635,9 @@
     "source": "placeholder"
   },
   "3540-I5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-3540-laptop/media-gallery/notebook-latitude-15-3540-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3540-laptop/spd/latitude-15-3540-laptop",
+    "source": "web"
   },
   "369N": {
     "image": "data/placeholders/fourniture.svg",
@@ -655,9 +655,9 @@
     "source": "placeholder"
   },
   "3910TWR": {
-    "image": "data/placeholders/stockage.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/vostro-desktops/vostro-3910-tower/media-gallery/black-noodd-nomcr/desktop-dv3910-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/desktops/tower/spd/vostro-3910-desktop",
+    "source": "web"
   },
   "3A-852": {
     "image": "data/placeholders/fourniture.svg",
