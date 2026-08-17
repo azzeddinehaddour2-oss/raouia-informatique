@@ -1205,14 +1205,14 @@
     "source": "placeholder"
   },
   "AC1200-C54": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/Archer-C54_UN_1.0_01_large_1593402529208i.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c54/",
+    "source": "web"
   },
   "AC1200-C6U": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/1large_1591842367235B.jpg",
+    "source_page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-c6u/",
+    "source": "web"
   },
   "AC1300": {
     "image": "data/placeholders/chargeur.svg",
@@ -1220,9 +1220,9 @@
     "source": "placeholder"
   },
   "AC1350": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/upload/image-line/EAP225_EU_4.20_overview_01_large_20260326093158h.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/omada-wifi-ceiling-mount/eap225/",
+    "source": "web"
   },
   "AC-70W": {
     "image": "data/placeholders/chargeur.svg",
@@ -1230,9 +1230,9 @@
     "source": "placeholder"
   },
   "AC750": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/Archer_C20(UN)3.0%EF%BC%8D960x720px-00_1490594607274g.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c20/",
+    "source": "web"
   },
   "ACA-01": {
     "image": "data/placeholders/divers.svg",
@@ -7780,14 +7780,14 @@
     "source": "placeholder"
   },
   "LS1005": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/LS1005_01_large_1563262851927i.jpg",
+    "source_page": "https://www.tp-link.com/en/business-networking/soho-switch-unmanaged/ls1005/",
+    "source": "web"
   },
   "LS1005G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/LS1005G_01_large_1564574076894y.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/5-port-switch/ls1005g/",
+    "source": "web"
   },
   "LS1008": {
     "image": "data/placeholders/divers.svg",
@@ -8225,14 +8225,14 @@
     "source": "placeholder"
   },
   "MR3020": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/res/images/products/large/TL-MR3020-01.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/5g-4g-router/tl-mr3020/",
+    "source": "web"
   },
   "MR-3040": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/res/images/products/large/TL-MR3040-01.jpg",
+    "source_page": "https://www.tp-link.com/lk/home-networking/3g-4g-router/tl-mr3040/",
+    "source": "web"
   },
   "MR35TU3": {
     "image": "data/placeholders/stockage.svg",
@@ -11614,24 +11614,24 @@
     "source": "placeholder"
   },
   "TL-SF1024D": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/TL-SF1024D_UN_3.0_01_large_1508816868504j.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sf1024d/",
+    "source": "web"
   },
   "TLSG1024D": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/TL-SG1024D_UN_6.0_01_1499780156098y.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sg1024d/",
+    "source": "web"
   },
   "TL-WA855RE": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/TL-WA855RE_US_2.0_01_large_1559790938633t.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/range-extender/tl-wa855re/",
+    "source": "web"
   },
   "TL-WPA4220": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/TL-WPA4220_US_5.0_01_large_1600425370657d.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/powerline/tl-wpa4220/",
+    "source": "web"
   },
   "TM": {
     "image": "data/placeholders/divers.svg",
@@ -11994,9 +11994,9 @@
     "source": "placeholder"
   },
   "UB500": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/upload/image-line/UB500_UN_3.0_overview_01_large_20250624030858j.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/ub500/",
+    "source": "web"
   },
   "UCM6302A": {
     "image": "data/placeholders/divers.svg",
@@ -12269,9 +12269,9 @@
     "source": "placeholder"
   },
   "VR600": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/Archer-VR600-01_1486950775038l.jpg",
+    "source_page": "https://www.tp-link.com/baltic/home-networking/3g-4g-router/archer-vr600/",
+    "source": "web"
   },
   "VU250": {
     "image": "data/placeholders/stockage.svg",
@@ -12694,9 +12694,9 @@
     "source": "placeholder"
   },
   "WN823N": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://static.tp-link.com/res/images/products/large/TL-WN823N-01.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn823n/",
+    "source": "web"
   },
   "WOR-211A": {
     "image": "data/placeholders/toner.svg",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:54:16",
+  "generated_at": "2026-08-17T17:07:09",
   "count": 2582,
   "products": [
     {
@@ -1547,14 +1547,14 @@
       "designation": "TP-LINK AC1200 WIFI ROUTER C54 SANS FIL GIGABIT 2,4GHz/5GHz NOIR",
       "prix": 450.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/Archer-C54_UN_1.0_01_large_1593402529208i.jpg"
     },
     {
       "ref": "AC1200-C6U",
       "designation": "TP-LINK AC1200 WIFI ROUTER C6U WIRELESS GIGABIT ROUTER",
       "prix": 450.0,
       "stock": 1,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/1large_1591842367235B.jpg"
     },
     {
       "ref": "AC1300",
@@ -1568,7 +1568,7 @@
       "designation": "TP-LINK AC1350 EAP225 ROUTEUR SANS FIL GIGABIT 2,4GHz/5GHz BLANC",
       "prix": 1800.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/upload/image-line/EAP225_EU_4.20_overview_01_large_20260326093158h.jpg"
     },
     {
       "ref": "AC-70W",
@@ -1582,7 +1582,7 @@
       "designation": "TP-LINK ARCHER C20 AC750 Dual-Band wireless Router",
       "prix": 350.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/Archer_C20(UN)3.0%EF%BC%8D960x720px-00_1490594607274g.jpg"
     },
     {
       "ref": "ACA-01",
@@ -5137,7 +5137,7 @@
       "ref": "CI-001",
       "designation": "CABLE IMPRIMANTE 1M",
       "prix": 30.0,
-      "stock": 1,
+      "stock": 0,
       "image": "data/placeholders/imprimante.svg"
     },
     {
@@ -7174,7 +7174,7 @@
       "ref": "DUR-CR2032",
       "designation": "PILLE DURACELL CR2032 PACK & BATTERY",
       "prix": 40.0,
-      "stock": 15,
+      "stock": 14,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -10881,14 +10881,14 @@
       "designation": "TP-LINK 5-PORT LS1005 10/100MBPS",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/LS1005_01_large_1563262851927i.jpg"
     },
     {
       "ref": "LS1005G",
       "designation": "TP-LINK 5 PORT LS1005G GIGABIT",
       "prix": 300.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/LS1005G_01_large_1564574076894y.jpg"
     },
     {
       "ref": "LS1008",
@@ -11525,14 +11525,14 @@
       "designation": "TP-LINKSHARE 3G/4G   TL-MR3020",
       "prix": 450.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/res/images/products/large/TL-MR3020-01.jpg"
     },
     {
       "ref": "MR-3040",
       "designation": "TP-LINK PORTABLE BATTERY POWERED MR3040",
       "prix": 350.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/res/images/products/large/TL-MR3040-01.jpg"
     },
     {
       "ref": "MR35TU3",
@@ -16285,21 +16285,21 @@
       "designation": "TP-LINK TL-SF1024D COMMUTATEUR RESEAU NON-GERE FAST ETHERNET 10/100 N",
       "prix": 500.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/TL-SF1024D_UN_3.0_01_large_1508816868504j.jpg"
     },
     {
       "ref": "TLSG1024D",
       "designation": "TP-LINK 24PORT TLSG1024D NON GERE GIGABIT ETHERNET 10/100/1000",
       "prix": 1130.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/TL-SG1024D_UN_6.0_01_1499780156098y.jpg"
     },
     {
       "ref": "TL-WA855RE",
       "designation": "TP-LINK TL-WA855RE V4 PROLONGATEUR RESEAU BLANC 10-100 MBIT/S",
       "prix": 350.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/TL-WA855RE_US_2.0_01_large_1559790938633t.jpg"
     },
     {
       "ref": "TL-WN725N",
@@ -16313,7 +16313,7 @@
       "designation": "TP-LINK TL-WPA4220CPL AV600 POWERLINE WIFI",
       "prix": 560.0,
       "stock": 2,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/TL-WPA4220_US_5.0_01_large_1600425370657d.jpg"
     },
     {
       "ref": "TM",
@@ -16831,7 +16831,7 @@
       "designation": "TP-LINK UB500 Bluetooth 5.0 Nano USB",
       "prix": 100.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/upload/image-line/UB500_UN_3.0_overview_01_large_20250624030858j.jpg"
     },
     {
       "ref": "UCM6302A",
@@ -17223,7 +17223,7 @@
       "designation": "TP LINK AC1600 WIRELESS MODEM ROUTER VR600",
       "prix": 850.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://static.tp-link.com/Archer-VR600-01_1486950775038l.jpg"
     },
     {
       "ref": "VU250",
@@ -17818,7 +17818,7 @@
       "designation": "TP-LINK 300MBPS TL-WN823N",
       "prix": 140.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/res/images/products/large/TL-WN823N-01.jpg"
     },
     {
       "ref": "WOR-211A",
