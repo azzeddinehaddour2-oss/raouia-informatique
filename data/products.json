@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:07:09",
+  "generated_at": "2026-08-17T17:56:19",
   "count": 2582,
   "products": [
     {
@@ -3359,7 +3359,7 @@
       "ref": "C200041390",
       "designation": "PAPIER CANSON ROUGE A2-C200041390",
       "prix": 8.0,
-      "stock": 90,
+      "stock": 89,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -6265,14 +6265,14 @@
       "designation": "DELL Latitude 5440 i5-1355U 14 FHD 16Go 512 SSD",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full"
     },
     {
       "ref": "D5440I7",
       "designation": "DELL Latitude 5440 i7-1365U 14\"FHD 16 Go 512 Go SSD Win11 PRO 36M",
       "prix": 13550.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full"
     },
     {
       "ref": "D5540-I5",
@@ -6496,7 +6496,7 @@
       "designation": "DELL 27 MONITOR-P2722H-68.6cm (27\") 36M",
       "prix": 3000.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2722h/media-gallery/peripherals_monitor_p2722h_gallery_2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full"
     },
     {
       "ref": "DELL-3050-1TB",
@@ -6685,7 +6685,7 @@
       "designation": "DELL Latitude 5440 i5-1335U 14\"FHD 16Go 512GO SSD  Win11 PRO+OFFICE",
       "prix": 9100.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full"
     },
     {
       "ref": "DL-S501",
@@ -10895,7 +10895,7 @@
       "designation": "TP-LINK LS1008 NON-GERE FASTS ETHERNET 10/100 BLANC 8-PORT",
       "prix": 150.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://static.tp-link.com/LS1008_large_1564370488880d.jpg"
     },
     {
       "ref": "LS2001",
@@ -11427,7 +11427,7 @@
       "designation": "PACK CLAVIER SOURIS SANS FIL LOGITECH WIRELESS MK270",
       "prix": 400.0,
       "stock": 0,
-      "image": "data/placeholders/clavier.svg"
+      "image": "https://resource.logitech.com/w_1200,h_1200,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-1-new.png"
     },
     {
       "ref": "MNR-068",
