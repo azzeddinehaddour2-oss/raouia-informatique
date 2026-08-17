@@ -1060,9 +1060,9 @@
     "source": "placeholder"
   },
   "A35/256G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a356ezkglte/gallery/latin-en-galaxy-a35-5g-sm-a356-500302-sm-a356ezkglte-540451378?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-256gb-sm-a356ezkglte/",
+    "source": "web"
   },
   "A35-128G": {
     "image": "data/placeholders/divers.svg",
