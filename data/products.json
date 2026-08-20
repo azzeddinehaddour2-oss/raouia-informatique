@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:49:13",
+  "generated_at": "2026-08-20T07:00:02",
   "count": 2582,
   "products": [
     {
@@ -391,7 +391,7 @@
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
-      "stock": 67,
+      "stock": 66,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -447,7 +447,7 @@
       "ref": "20CM",
       "designation": "REGLE 20C MEXPRESS",
       "prix": 2.0,
-      "stock": 36,
+      "stock": 35,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2533,7 +2533,7 @@
       "ref": "BC-100",
       "designation": "BOITE ARCHIVE CARTONE MM100",
       "prix": 7.0,
-      "stock": 21,
+      "stock": 6,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2638,7 +2638,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 49,
+      "stock": 199,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -3562,7 +3562,7 @@
       "ref": "C-8913",
       "designation": "CACHET TRODAT 8913",
       "prix": 120.0,
-      "stock": 3,
+      "stock": 2,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -4010,7 +4010,7 @@
       "ref": "CART-G",
       "designation": "CARTABLE GRIS",
       "prix": 150.0,
-      "stock": 2,
+      "stock": 4,
       "image": "data/placeholders/sac.svg"
     },
     {
@@ -7727,7 +7727,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 872,
+      "stock": 871,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7783,7 +7783,7 @@
       "ref": "ENV-P",
       "designation": "ENVELOPPES KRAFT JAUNE MINI POCHETTE",
       "prix": 1.0,
-      "stock": 78,
+      "stock": -22,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8035,7 +8035,7 @@
       "ref": "F00R",
       "designation": "FICHE PERSONNELLE ROUSE",
       "prix": 3.0,
-      "stock": 106,
+      "stock": 6,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -8363,7 +8363,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 745,
+      "stock": 744,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -9888,7 +9888,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 252,
+      "stock": 251,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -11720,7 +11720,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 84,
+      "stock": 74,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -12728,7 +12728,7 @@
       "ref": "PKO-XT",
       "designation": "PILLE KODAK XTRALIFE ALKALINE AAx4",
       "prix": 5.0,
-      "stock": 19,
+      "stock": 2,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -13463,7 +13463,7 @@
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
-      "stock": 118,
+      "stock": 117,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -14975,7 +14975,7 @@
       "ref": "SICLA-BLEU",
       "designation": "CLASSEUR SICLA BLEU",
       "prix": 25.0,
-      "stock": 7,
+      "stock": 6,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -15066,7 +15066,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1416,
+      "stock": 1414,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15941,7 +15941,7 @@
       "ref": "T-C10",
       "designation": "CABLE TYPE C TYPE C",
       "prix": 30.0,
-      "stock": 13,
+      "stock": 12,
       "image": "data/placeholders/cable.svg"
     },
     {
@@ -16879,7 +16879,7 @@
       "ref": "UHU-8",
       "designation": "UHU STIC 8,2G",
       "prix": 8.0,
-      "stock": 69,
+      "stock": 68,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -16914,7 +16914,7 @@
       "ref": "USB-2.0",
       "designation": "CABLE USB 2.0 IAFAN MAL FEMELLE",
       "prix": 30.0,
-      "stock": 11,
+      "stock": 10,
       "image": "data/placeholders/cable.svg"
     },
     {
@@ -17558,7 +17558,7 @@
       "ref": "W2410A",
       "designation": "TONER 216A NOIR WORD W2410A",
       "prix": 300.0,
-      "stock": 6,
+      "stock": 3,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -17572,28 +17572,28 @@
       "ref": "W2411A_CARR",
       "designation": "TONER 216Z CYAN CARRERA W2411A",
       "prix": 300.0,
-      "stock": 1,
+      "stock": 0,
       "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "W2412A",
       "designation": "TONER 216A YELLOW WORD W2412A",
       "prix": 300.0,
-      "stock": 2,
+      "stock": 1,
       "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "W2412A_CARR",
       "designation": "TONER 216Z YELLOW CARRERA W2412A",
       "prix": 300.0,
-      "stock": 2,
+      "stock": 1,
       "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "W2413A_CARR",
       "designation": "TONER 216Z MAGENTA CARRERA W2413A",
       "prix": 300.0,
-      "stock": 1,
+      "stock": 0,
       "image": "data/placeholders/toner.svg"
     },
     {
