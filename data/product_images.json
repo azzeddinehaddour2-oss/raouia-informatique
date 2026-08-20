@@ -6610,9 +6610,9 @@
     "source": "placeholder"
   },
   "HP-106A": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/xsft2smw0x/png/xsft2smw0x.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-106a-black-original-laser-toner-cartridge-w1106a.html",
+    "source": "web"
   },
   "HP-107A": {
     "image": "data/placeholders/imprimante.svg",
@@ -6800,9 +6800,9 @@
     "source": "placeholder"
   },
   "HP85A": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/2jqhe9hjrk/png/2jqhe9hjrk.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html",
+    "source": "web"
   },
   "HP-8G": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6835,9 +6835,9 @@
     "source": "placeholder"
   },
   "HPB-17": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/tuo4ubyyxe/png/tuo4ubyyxe.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-cyan-original-laser-toner-cartridge-w2071a.html",
+    "source": "web"
   },
   "HPB-207": {
     "image": "data/placeholders/toner.svg",
@@ -6895,9 +6895,9 @@
     "source": "placeholder"
   },
   "HPJ-17": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/aihmmp73kd/png/aihmmp73kd.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-yellow-original-laser-toner-cartridge-w2072a.html",
+    "source": "web"
   },
   "HPJ-203": {
     "image": "data/placeholders/toner.svg",
@@ -6930,14 +6930,14 @@
     "source": "placeholder"
   },
   "HPN-05": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/mrnp8zdvcm/png/mrnp8zdvcm.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html",
+    "source": "web"
   },
   "HPN-117": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/s0xovqxaxj/png/s0xovqxaxj.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-black-original-laser-toner-cartridge-w2070a.html",
+    "source": "web"
   },
   "HPN-12": {
     "image": "data/placeholders/toner.svg",
@@ -7010,9 +7010,9 @@
     "source": "placeholder"
   },
   "HPR-17": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/vjwz9tnz9e/png/vjwz9tnz9e.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-magenta-original-laser-toner-cartridge-w2073a.html",
+    "source": "web"
   },
   "HPR-203": {
     "image": "data/placeholders/toner.svg",
