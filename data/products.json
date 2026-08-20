@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:00:02",
+  "generated_at": "2026-08-21T00:12:27",
   "count": 2582,
   "products": [
     {
@@ -2638,7 +2638,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 199,
+      "stock": 193,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2715,7 +2715,7 @@
       "ref": "BL-001",
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
-      "stock": 10,
+      "stock": 6,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -4178,7 +4178,7 @@
       "ref": "CC-B",
       "designation": "CHEMISE BULLE COULEUR DETAIL",
       "prix": 1.0,
-      "stock": 92,
+      "stock": 82,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4367,7 +4367,7 @@
       "ref": "CD-700MB",
       "designation": "CD-R ANGTE 50 700MB 80MIN",
       "prix": 5.0,
-      "stock": 177,
+      "stock": 174,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -4864,7 +4864,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 135,
+      "stock": 134,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8349,7 +8349,7 @@
       "ref": "GAZ-110X220",
       "designation": "ENVELOPPE BLANCHE SF 110*220 GAZELLE",
       "prix": 30.0,
-      "stock": 7,
+      "stock": 6,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -9148,7 +9148,7 @@
       "designation": "TONER HP 106A W1106A NOIR",
       "prix": 700.0,
       "stock": 9,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/xsft2smw0x/png/xsft2smw0x.png"
     },
     {
       "ref": "HP-107A",
@@ -9469,7 +9469,7 @@
       "designation": "HP 85A Black Original LaserJet Toner CartridgeHP LJ P1102/P1104/P1106",
       "prix": 950.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/2jqhe9hjrk/png/2jqhe9hjrk.png"
     },
     {
       "ref": "HP-8G",
@@ -9518,7 +9518,7 @@
       "designation": "HP 117A Cyan Original Laser Toner Cartridge 700 Pages pour HP 150/178",
       "prix": 778.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/tuo4ubyyxe/png/tuo4ubyyxe.png"
     },
     {
       "ref": "HPB-207",
@@ -9602,7 +9602,7 @@
       "designation": "HP 117A Yellow Original Laser Toner Cartridge 700 Pages W2072A",
       "prix": 778.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/aihmmp73kd/png/aihmmp73kd.png"
     },
     {
       "ref": "HPJ-203",
@@ -9651,14 +9651,14 @@
       "designation": "TONER HP 05A NOIR",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/mrnp8zdvcm/png/mrnp8zdvcm.png"
     },
     {
       "ref": "HPN-117",
       "designation": "HP 117A Black Original Laser Toner Cartridge 700 Pages W2070A",
       "prix": 678.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/s0xovqxaxj/png/s0xovqxaxj.png"
     },
     {
       "ref": "HPN-12",
@@ -9763,7 +9763,7 @@
       "designation": "HP 117A Magenta Original Laser Toner Cartridge 700Pages W2073A",
       "prix": 778.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/vjwz9tnz9e/png/vjwz9tnz9e.png"
     },
     {
       "ref": "HPR-203",
@@ -10091,7 +10091,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 23,
+      "stock": 22,
       "image": "data/placeholders/cable.svg"
     },
     {
@@ -15066,7 +15066,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1414,
+      "stock": 1413,
       "image": "data/placeholders/divers.svg"
     },
     {
