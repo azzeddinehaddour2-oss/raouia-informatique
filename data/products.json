@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T07:00:02",
-  "count": 2582,
+  "generated_at": "2026-08-26T07:00:02",
+  "count": 2584,
   "products": [
     {
       "ref": "000001",
@@ -143,6 +143,12 @@
       "image": "data/placeholders/imprimante.svg"
     },
     {
+      "ref": "11027",
+      "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210x148 mm  PAPILLON",
+      "prix": 120.0,
+      "stock": 1
+    },
+    {
       "ref": "1111",
       "designation": "1111",
       "prix": 0.0,
@@ -167,7 +173,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 20,
+      "stock": 19,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -1511,7 +1517,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": 32,
+      "stock": 30,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -1707,7 +1713,7 @@
       "ref": "AD-A4",
       "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210*297",
       "prix": 120.0,
-      "stock": 0,
+      "stock": 5,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -1903,7 +1909,7 @@
       "ref": "AGR-8",
       "designation": "AGRAFES BOSTON 1000 PIECES 8/4",
       "prix": 6.0,
-      "stock": 12,
+      "stock": 72,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -3296,7 +3302,7 @@
       "ref": "C-180G",
       "designation": "CHEMISE CARTONNEE MULTICOULEUR 180g",
       "prix": 85.0,
-      "stock": 11,
+      "stock": 21,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -3338,7 +3344,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 30.0,
-      "stock": 50,
+      "stock": 59,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4157,7 +4163,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 0,
+      "stock": 99,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4178,7 +4184,7 @@
       "ref": "CC-B",
       "designation": "CHEMISE BULLE COULEUR DETAIL",
       "prix": 1.0,
-      "stock": 82,
+      "stock": 81,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4857,14 +4863,14 @@
       "ref": "CH180",
       "designation": "CHEMISE CARTONNEE CHRONO MULTICOLOR 180G",
       "prix": 80.0,
-      "stock": 16,
+      "stock": 26,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 134,
+      "stock": 132,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7629,7 +7635,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 1015,
+      "stock": 1013,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7727,7 +7733,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 871,
+      "stock": 869,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8363,7 +8369,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 744,
+      "stock": 743,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -9168,7 +9174,7 @@
       "ref": "HP-145N",
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
-      "stock": 9,
+      "stock": 2,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -10028,7 +10034,7 @@
       "ref": "INT-S12",
       "designation": "INTERCLAIRES CARTONE SICLA (1-12)",
       "prix": 30.0,
-      "stock": 56,
+      "stock": 76,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -13848,7 +13854,7 @@
       "ref": "RC-80/80",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80/80",
       "prix": 12.0,
-      "stock": 61,
+      "stock": 51,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15864,7 +15870,7 @@
       "ref": "TAR-A4",
       "designation": "RAMETTE PAPIER TARGET A4",
       "prix": 50.0,
-      "stock": 8,
+      "stock": 7,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -17931,6 +17937,12 @@
       "image": "data/placeholders/papier.svg"
     },
     {
+      "ref": "XO-035",
+      "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210x148 mm",
+      "prix": 120.0,
+      "stock": 4
+    },
+    {
       "ref": "XO-2353",
       "designation": "SCOTCH BUREAU MOYEN EXPRESS XO-2353",
       "prix": 4.0,
@@ -17962,14 +17974,14 @@
       "ref": "XO-4487",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4487",
       "prix": 70.0,
-      "stock": 2,
+      "stock": 8,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "XO-4494",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4494",
       "prix": 70.0,
-      "stock": 0,
+      "stock": 2,
       "image": "data/placeholders/papier.svg"
     },
     {
