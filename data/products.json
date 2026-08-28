@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:00:02",
+  "generated_at": "2026-08-28T07:00:02",
   "count": 2584,
   "products": [
     {
@@ -390,14 +390,14 @@
       "ref": "2000B",
       "designation": "MARQUEUR BIC PERMANENT 2000 BLEU",
       "prix": 10.0,
-      "stock": 27,
+      "stock": 25,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
-      "stock": 66,
+      "stock": 59,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -467,7 +467,7 @@
       "ref": "211020",
       "designation": "SUPER GLUE MAXI FIX",
       "prix": 10.0,
-      "stock": 1,
+      "stock": 0,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -516,7 +516,7 @@
       "ref": "2300R",
       "designation": "MARQUEUR BIC PERMANENT 2300 ROUGE",
       "prix": 10.0,
-      "stock": 46,
+      "stock": 44,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -789,7 +789,7 @@
       "ref": "517-306",
       "designation": "PPAIER CONSSON COLEUR 24/32 200G",
       "prix": 15.0,
-      "stock": 11,
+      "stock": 10,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -1951,7 +1951,7 @@
       "ref": "AIN001",
       "designation": "CD-R ANGTE 50 700MB + POSHETTE",
       "prix": 6.0,
-      "stock": 38,
+      "stock": 37,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2644,7 +2644,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 193,
+      "stock": 192,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2658,7 +2658,7 @@
       "ref": "BIC-CRI-R",
       "designation": "STYLO BIC CRISTAL ROUGE",
       "prix": 2.0,
-      "stock": 2,
+      "stock": 1,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2721,7 +2721,7 @@
       "ref": "BL-001",
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
-      "stock": 6,
+      "stock": 4,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2854,7 +2854,7 @@
       "ref": "BL-WN300AX",
       "designation": "LB-LINK AX300 WIFI 6 HIGH GAIN USB ADAPTER BL-WN300AX",
       "prix": 100.0,
-      "stock": 10,
+      "stock": 9,
       "image": "data/placeholders/reseau.svg"
     },
     {
@@ -3092,7 +3092,7 @@
       "ref": "BRO168",
       "designation": "BROSSE POUR TABLEAU N°168",
       "prix": 7.0,
-      "stock": 12,
+      "stock": 11,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -3344,7 +3344,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 30.0,
-      "stock": 59,
+      "stock": 58,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -3505,7 +3505,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 28,
+      "stock": 27,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -3624,7 +3624,7 @@
       "ref": "C-A4",
       "designation": "COUVERTURE CARTONNÉE A4 100 FEUILLES WAD DAHAB",
       "prix": 80.0,
-      "stock": 20,
+      "stock": 19,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -4113,8 +4113,8 @@
     {
       "ref": "CB-50G",
       "designation": "CHEMISE BULLE MED PAPER 21*31 50g  250 PIECE",
-      "prix": 0.0,
-      "stock": 6,
+      "prix": 40.0,
+      "stock": 5,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4163,7 +4163,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 99,
+      "stock": 98,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -4863,14 +4863,14 @@
       "ref": "CH180",
       "designation": "CHEMISE CARTONNEE CHRONO MULTICOLOR 180G",
       "prix": 80.0,
-      "stock": 26,
+      "stock": 25,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 132,
+      "stock": 130,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5584,7 +5584,7 @@
       "ref": "CP-96P",
       "designation": "CAHIER PIQUE 96 PAGES",
       "prix": 5.0,
-      "stock": 29,
+      "stock": 28,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5997,7 +5997,7 @@
       "ref": "CS-991ESPLUS",
       "designation": "CALCULATRICE SCIENTIFIQUE CATIGA CS-991ES PLUS",
       "prix": 150.0,
-      "stock": 3,
+      "stock": 2,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -6242,7 +6242,7 @@
       "ref": "D-30102",
       "designation": "CLAVIER ARABE PELIKAN",
       "prix": 10.0,
-      "stock": 43,
+      "stock": 42,
       "image": "data/placeholders/clavier.svg"
     },
     {
@@ -7635,7 +7635,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 1013,
+      "stock": 1011,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7705,7 +7705,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 28,
+      "stock": 26,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7733,7 +7733,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 869,
+      "stock": 867,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8125,7 +8125,7 @@
       "ref": "FB589150",
       "designation": "PATAFIX FABER-CASTELL 589150",
       "prix": 20.0,
-      "stock": 13,
+      "stock": 12,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -8369,7 +8369,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 743,
+      "stock": 741,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -9013,14 +9013,14 @@
       "ref": "HI2019-B",
       "designation": "STYLO HI-PRO HI2019 BLEU",
       "prix": 10.0,
-      "stock": 20,
+      "stock": 19,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "HI2019N",
       "designation": "STYLO HI-PRO HI2019 NOIR",
       "prix": 10.0,
-      "stock": 166,
+      "stock": 165,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -9894,7 +9894,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 251,
+      "stock": 250,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -10097,7 +10097,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 22,
+      "stock": 21,
       "image": "data/placeholders/cable.svg"
     },
     {
@@ -10524,7 +10524,7 @@
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 6,
+      "stock": 5,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -11208,7 +11208,7 @@
       "ref": "MAR-A4",
       "designation": "RAMETTE PAPIER MARAM A4 80G",
       "prix": 50.0,
-      "stock": 31,
+      "stock": 28,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -11467,7 +11467,7 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 211,
+      "stock": 210,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -11481,14 +11481,14 @@
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 136,
+      "stock": 135,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": 120,
+      "stock": 119,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -11838,7 +11838,7 @@
       "ref": "NO380",
       "designation": "GOMMETTES ITEM NO:380",
       "prix": 15.0,
-      "stock": 7,
+      "stock": 6,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -11929,7 +11929,7 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 1,
+      "stock": 0,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -12362,8 +12362,8 @@
     {
       "ref": "PC1104/1",
       "designation": "CRAYONS COULEURS 24  Y.PLUS+      NO.PC1104/1",
-      "prix": 45.0,
-      "stock": 6,
+      "prix": 25.0,
+      "stock": 5,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -12377,14 +12377,14 @@
       "ref": "PC-24/32",
       "designation": "PAPIER CONSSON BLANC 24/32",
       "prix": 14.0,
-      "stock": 5,
+      "stock": 4,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "PC-5STAR",
       "designation": "PAPIER CONSSON COLEUR 24/32 240G",
       "prix": 18.0,
-      "stock": 7,
+      "stock": 6,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -13315,7 +13315,7 @@
       "ref": "PS-E26",
       "designation": "ECOUTEUR PLUSTAR NORMAL PS-E26",
       "prix": 50.0,
-      "stock": 3,
+      "stock": 2,
       "image": "data/placeholders/audio.svg"
     },
     {
@@ -13469,7 +13469,7 @@
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
-      "stock": 117,
+      "stock": 115,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -13637,7 +13637,7 @@
       "ref": "R30CM",
       "designation": "REGLE 30CM CETVEL ARK",
       "prix": 5.0,
-      "stock": 22,
+      "stock": 21,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -13763,7 +13763,7 @@
       "ref": "RABAT_P_V",
       "designation": "chemise a rabat plastique imik import vert",
       "prix": 10.0,
-      "stock": 5,
+      "stock": 4,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -14505,7 +14505,7 @@
       "ref": "S650B",
       "designation": "STYLO SMART  650Q BLEU",
       "prix": 2.0,
-      "stock": 1000,
+      "stock": 999,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -14729,7 +14729,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 6,
+      "stock": 5,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -15072,7 +15072,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1413,
+      "stock": 1401,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15499,7 +15499,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 34,
+      "stock": 33,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15793,7 +15793,7 @@
       "ref": "TAB-028",
       "designation": "TROMBONNES EN ACIER BOSTON 100 PIECES UNITE 28mm 2111",
       "prix": 6.0,
-      "stock": 20,
+      "stock": 19,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15870,7 +15870,7 @@
       "ref": "TAR-A4",
       "designation": "RAMETTE PAPIER TARGET A4",
       "prix": 50.0,
-      "stock": 7,
+      "stock": 5,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -16206,7 +16206,7 @@
       "ref": "TIMBRE",
       "designation": "DROIT DE TIMBRE",
       "prix": 0.0,
-      "stock": 80,
+      "stock": 85,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -16633,7 +16633,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 16,
+      "stock": 15,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -16864,14 +16864,14 @@
       "ref": "UHU-21",
       "designation": "UHU STIC 21G",
       "prix": 15.0,
-      "stock": 53,
+      "stock": 51,
       "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "UHU-35C",
       "designation": "UHU TUBE 13 (35 CC)",
       "prix": 13.0,
-      "stock": 19,
+      "stock": 17,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -17102,7 +17102,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 135,
+      "stock": 125,
       "image": "data/placeholders/papier.svg"
     },
     {
