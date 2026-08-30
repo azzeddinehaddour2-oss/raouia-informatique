@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T07:00:02",
-  "count": 2584,
+  "generated_at": "2026-08-30T07:00:02",
+  "count": 2612,
   "products": [
     {
       "ref": "000001",
@@ -464,6 +464,12 @@
       "image": "data/placeholders/divers.svg"
     },
     {
+      "ref": "20W-USB-C",
+      "designation": "CHARGUR APPLE 20W USB-C",
+      "prix": 70.0,
+      "stock": 10
+    },
+    {
       "ref": "211020",
       "designation": "SUPER GLUE MAXI FIX",
       "prix": 10.0,
@@ -560,6 +566,18 @@
       "prix": 1500.0,
       "stock": 0,
       "image": "data/placeholders/stockage.svg"
+    },
+    {
+      "ref": "25W-QC3.0",
+      "designation": "CHARGEUR BRUDER 25W  USB-TYPE C QC3.0",
+      "prix": 90.0,
+      "stock": 10
+    },
+    {
+      "ref": "25W-TC",
+      "designation": "ADAPTER BRUDER 25W TYPE C",
+      "prix": 60.0,
+      "stock": 10
     },
     {
       "ref": "25WUSB",
@@ -1276,6 +1294,12 @@
       "image": "data/placeholders/cable.svg"
     },
     {
+      "ref": "A1748",
+      "designation": "ECOUTEUR IPHONE A1748",
+      "prix": 60.0,
+      "stock": 5
+    },
+    {
       "ref": "A1830",
       "designation": "RUBAN ADHESIF 18MM*30MM BOSTON---480PCS/CTN A1830",
       "prix": 5.0,
@@ -1330,6 +1354,12 @@
       "prix": 0.0,
       "stock": 0,
       "image": "data/placeholders/divers.svg"
+    },
+    {
+      "ref": "A2561",
+      "designation": "CABLE TYPE-C IPHONE A2561",
+      "prix": 20.0,
+      "stock": 8
     },
     {
       "ref": "A303",
@@ -1608,7 +1638,7 @@
       "ref": "ACE-10L",
       "designation": "EAU JAVEL ACE 10L",
       "prix": 75.0,
-      "stock": 10,
+      "stock": 4,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2609,7 +2639,7 @@
       "ref": "BH-C224",
       "designation": "DRUM BIZHUB BH C224/454",
       "prix": 300.0,
-      "stock": 8,
+      "stock": 7,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -2644,7 +2674,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 192,
+      "stock": 191,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2686,7 +2716,7 @@
       "ref": "BIC-R",
       "designation": "STYLO BIC ROUGE",
       "prix": 1.5,
-      "stock": 622,
+      "stock": 621,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2700,7 +2730,7 @@
       "ref": "BIC-V",
       "designation": "STYLO BIC VERT",
       "prix": 1.5,
-      "stock": 513,
+      "stock": 512,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2739,6 +2769,12 @@
       "image": "data/placeholders/divers.svg"
     },
     {
+      "ref": "BL-A10",
+      "designation": "CASQUE BRUDER RF BL-A10",
+      "prix": 170.0,
+      "stock": 1
+    },
+    {
       "ref": "BL-A11",
       "designation": "Wireless Headphones Bruder BL-A11",
       "prix": 200.0,
@@ -2751,6 +2787,12 @@
       "prix": 460.0,
       "stock": 0,
       "image": "data/placeholders/papier.svg"
+    },
+    {
+      "ref": "BL-A6",
+      "designation": "CASQUE BRUDER RF BL-A6",
+      "prix": 160.0,
+      "stock": 1
     },
     {
       "ref": "BL-EXP",
@@ -3019,6 +3061,18 @@
       "image": "data/placeholders/divers.svg"
     },
     {
+      "ref": "BR-002",
+      "designation": "CABLE TYPE-C TYPE-C  BRUDER BR-002",
+      "prix": 40.0,
+      "stock": 20
+    },
+    {
+      "ref": "BR-008",
+      "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
+      "prix": 50.0,
+      "stock": 19
+    },
+    {
       "ref": "BR-01",
       "designation": "ECOUTEUR IPHONE STEREO BRUDER BR:01",
       "prix": 50.0,
@@ -3031,6 +3085,12 @@
       "prix": 40.0,
       "stock": 7,
       "image": "data/placeholders/cable.svg"
+    },
+    {
+      "ref": "BR-03",
+      "designation": "CABLE USB TYPE-C BRUDER BR-03",
+      "prix": 25.0,
+      "stock": 20
     },
     {
       "ref": "BR07",
@@ -3047,11 +3107,23 @@
       "image": "data/placeholders/fourniture.svg"
     },
     {
+      "ref": "BR-AC-024-025",
+      "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
+      "prix": 50.0,
+      "stock": 30
+    },
+    {
       "ref": "BRC02",
       "designation": "CHARGEUR BRUDRE TYPE-C USB BR:C02",
       "prix": 70.0,
       "stock": 0,
       "image": "data/placeholders/chargeur.svg"
+    },
+    {
+      "ref": "BR-C03",
+      "designation": "CHARGEUR BRUDER 27W TYPE C BR-C03",
+      "prix": 80.0,
+      "stock": 10
     },
     {
       "ref": "BR-C04",
@@ -3115,6 +3187,12 @@
       "prix": 150.0,
       "stock": 0,
       "image": "data/placeholders/audio.svg"
+    },
+    {
+      "ref": "BRW-04",
+      "designation": "POWER BANK BRW-04 20000 mAh bruder",
+      "prix": 300.0,
+      "stock": 2
     },
     {
       "ref": "BS1212",
@@ -3204,7 +3282,7 @@
       "ref": "BUR005",
       "designation": "FLUORESCENT 4 COULEURS HIGH LIGHTER A-811",
       "prix": 25.0,
-      "stock": 30,
+      "stock": 26,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -3344,7 +3422,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 30.0,
-      "stock": 58,
+      "stock": 56,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -3491,7 +3569,7 @@
       "ref": "C368-C308",
       "designation": "Corona Roller 368/C308",
       "prix": 250.0,
-      "stock": 7,
+      "stock": 6,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -3589,7 +3667,7 @@
       "ref": "CA_A3",
       "designation": "CASQUE BRUDER RF BL-A3",
       "prix": 150.0,
-      "stock": 0,
+      "stock": 1,
       "image": "data/placeholders/audio.svg"
     },
     {
@@ -4163,7 +4241,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 98,
+      "stock": 93,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5140,6 +5218,12 @@
       "image": "data/placeholders/chargeur.svg"
     },
     {
+      "ref": "CH-X3",
+      "designation": "CHARGEUR BRUDER 3.1A TYPE C-USB CH-X3",
+      "prix": 50.0,
+      "stock": 10
+    },
+    {
       "ref": "CI-001",
       "designation": "CABLE IMPRIMANTE 1M",
       "prix": 30.0,
@@ -5584,7 +5668,7 @@
       "ref": "CP-96P",
       "designation": "CAHIER PIQUE 96 PAGES",
       "prix": 5.0,
-      "stock": 28,
+      "stock": 8,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5745,7 +5829,7 @@
       "ref": "CR-368",
       "designation": "Cleaning Roller-Spiral 368",
       "prix": 150.0,
-      "stock": 8,
+      "stock": 6,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -7705,7 +7789,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 26,
+      "stock": 25,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7740,7 +7824,7 @@
       "ref": "ENV-A5P",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 175*254",
       "prix": 1.5,
-      "stock": 277,
+      "stock": 177,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7789,14 +7873,14 @@
       "ref": "ENV-P",
       "designation": "ENVELOPPES KRAFT JAUNE MINI POCHETTE",
       "prix": 1.0,
-      "stock": -22,
+      "stock": 78,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 590,
+      "stock": 588,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7859,7 +7943,7 @@
       "ref": "ESS-02",
       "designation": "PAPIER ESSUIE MAIN 1K",
       "prix": 45.0,
-      "stock": 12,
+      "stock": 0,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -7936,14 +8020,14 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1018,
+      "stock": 1168,
       "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "EV33",
       "designation": "ENVELOPPES OMA JAUNE V  22*330 MM",
       "prix": 2.0,
-      "stock": 200,
+      "stock": 198,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8050,6 +8134,12 @@
       "prix": 3.0,
       "stock": 100,
       "image": "data/placeholders/divers.svg"
+    },
+    {
+      "ref": "F01",
+      "designation": "TELEPHONE AMG F01",
+      "prix": 160.0,
+      "stock": 5
     },
     {
       "ref": "F31428",
@@ -8327,7 +8417,7 @@
       "ref": "G22",
       "designation": "GOMME HI PRO ART°G22",
       "prix": 6.0,
-      "stock": 34,
+      "stock": 24,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -9108,6 +9198,12 @@
       "image": "data/placeholders/cable.svg"
     },
     {
+      "ref": "HL-02",
+      "designation": "SUPPORT TELE HL-02",
+      "prix": 50.0,
+      "stock": 5
+    },
+    {
       "ref": "HL-05",
       "designation": "SUPORT TELE HL-05",
       "prix": 50.0,
@@ -9118,7 +9214,7 @@
       "ref": "HL-06",
       "designation": "SUPIRT TELE HL-06 /05",
       "prix": 60.0,
-      "stock": 0,
+      "stock": 7,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -9814,6 +9910,12 @@
       "image": "data/placeholders/souris.svg"
     },
     {
+      "ref": "HS-012",
+      "designation": "ECOUTEUR TYPE-C HS-012 PLUSTAR",
+      "prix": 40.0,
+      "stock": 19
+    },
+    {
       "ref": "HS-020",
       "designation": "ECOUTEUR TYPE-C HS-020 PLUSTAR",
       "prix": 50.0,
@@ -9894,7 +9996,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 250,
+      "stock": 249,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -10115,11 +10217,23 @@
       "image": "data/placeholders/divers.svg"
     },
     {
+      "ref": "IP-D26",
+      "designation": "CHARGEUR IPGOLD 30W TYPE C IP-D26",
+      "prix": 70.0,
+      "stock": 10
+    },
+    {
       "ref": "IP-D29",
       "designation": "CHARGEUR TYPE C IP-D29 IP GOLD",
       "prix": 30.0,
       "stock": 34,
       "image": "data/placeholders/chargeur.svg"
+    },
+    {
+      "ref": "IP-D37",
+      "designation": "CHARGEUR IPGOLD 65W TYPE C IP-D37",
+      "prix": 80.0,
+      "stock": 10
     },
     {
       "ref": "IP-G",
@@ -10216,7 +10330,7 @@
       "ref": "JAVEL",
       "designation": "JAVEL",
       "prix": 0.0,
-      "stock": 242,
+      "stock": 233,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -10239,6 +10353,30 @@
       "prix": 0.0,
       "stock": 0,
       "image": "data/placeholders/divers.svg"
+    },
+    {
+      "ref": "JW-215",
+      "designation": "SOURIS JEQANG JW-215",
+      "prix": 70.0,
+      "stock": 5
+    },
+    {
+      "ref": "JW-330",
+      "designation": "SOURIS JEQANG 4D JW-330",
+      "prix": 100.0,
+      "stock": 5
+    },
+    {
+      "ref": "JW-AP02",
+      "designation": "SOURIS JEQANG JW-AP02",
+      "prix": 80.0,
+      "stock": 5
+    },
+    {
+      "ref": "K007",
+      "designation": "Vacuum Suction Magnetic Bracket K007",
+      "prix": 50.0,
+      "stock": 5
     },
     {
       "ref": "K07",
@@ -10517,7 +10655,7 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 10,
+      "stock": 9,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -11740,7 +11878,7 @@
       "ref": "NB-0009",
       "designation": "CHARGEUR SAMSUNG ADAPTER 35W USB-TYPE C",
       "prix": 80.0,
-      "stock": 1,
+      "stock": 2,
       "image": "data/placeholders/chargeur.svg"
     },
     {
@@ -12125,7 +12263,7 @@
       "ref": "P-20W",
       "designation": "POWER BANK BRW-03 10000 mAh bruder",
       "prix": 200.0,
-      "stock": 0,
+      "stock": 2,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -12167,7 +12305,7 @@
       "ref": "P2500",
       "designation": "IMPRIMANTE PANTUM P2500/P2200 BLACK",
       "prix": 1300.0,
-      "stock": 5,
+      "stock": 4,
       "image": "data/placeholders/imprimante.svg"
     },
     {
@@ -12734,8 +12872,20 @@
       "ref": "PKO-XT",
       "designation": "PILLE KODAK XTRALIFE ALKALINE AAx4",
       "prix": 5.0,
-      "stock": 2,
+      "stock": 1,
       "image": "data/placeholders/divers.svg"
+    },
+    {
+      "ref": "PL-305-PD",
+      "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-305 PD",
+      "prix": 30.0,
+      "stock": 15
+    },
+    {
+      "ref": "PL-306-PD",
+      "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-306 PD",
+      "prix": 30.0,
+      "stock": 20
     },
     {
       "ref": "PLA05",
@@ -12895,7 +13045,7 @@
       "ref": "PP005",
       "designation": "PAPIER HYGIENIQUE",
       "prix": 20.0,
-      "stock": 288,
+      "stock": 216,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -13399,7 +13549,7 @@
       "ref": "PV-AAA",
       "designation": "PILLE VARTA AAA",
       "prix": 5.0,
-      "stock": 36,
+      "stock": 26,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -13469,7 +13619,7 @@
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
-      "stock": 115,
+      "stock": 102,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -14565,6 +14715,18 @@
       "image": "data/placeholders/ordinateur.svg"
     },
     {
+      "ref": "SAM-25W",
+      "designation": "CHARGEUR SAMSUNG 25W TYPE C",
+      "prix": 80.0,
+      "stock": 1
+    },
+    {
+      "ref": "SAM-45W",
+      "designation": "CHARGEUR SAMSUNG 45W TYPE C",
+      "prix": 100.0,
+      "stock": 10
+    },
+    {
       "ref": "SAM-A05-64G",
       "designation": "SAMSUNG Smartphone A05 6.7 Helio G85 4Go 64Go Android 4G",
       "prix": 1190.0,
@@ -14687,7 +14849,7 @@
       "ref": "SAV-DC5L",
       "designation": "SAVON LIQUIDE DOVE CREME 5 L",
       "prix": 60.0,
-      "stock": 40,
+      "stock": 35,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15072,7 +15234,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1401,
+      "stock": 1397,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15898,7 +16060,7 @@
       "ref": "TB301",
       "designation": "APPAREIL TELEPHONE FIX TELEFUNKEN TB301",
       "prix": 250.0,
-      "stock": 3,
+      "stock": 2,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -16661,7 +16823,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 4,
+      "stock": 25,
       "image": "data/placeholders/souris.svg"
     },
     {
@@ -16864,14 +17026,14 @@
       "ref": "UHU-21",
       "designation": "UHU STIC 21G",
       "prix": 15.0,
-      "stock": 51,
+      "stock": 41,
       "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "UHU-35C",
       "designation": "UHU TUBE 13 (35 CC)",
       "prix": 13.0,
-      "stock": 17,
+      "stock": 14,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -16994,6 +17156,12 @@
       "image": "data/placeholders/chargeur.svg"
     },
     {
+      "ref": "USB-C-1M",
+      "designation": "CABLE TYPE-C TYPE-C 1M",
+      "prix": 20.0,
+      "stock": 8
+    },
+    {
       "ref": "USB-C-20W",
       "designation": "ADAPTATEUE USB -C 20W POWER  ORIGINAL",
       "prix": 280.0,
@@ -17109,7 +17277,7 @@
       "ref": "VARTA-AA",
       "designation": "PILE VARTA AA",
       "prix": 5.0,
-      "stock": 28,
+      "stock": 18,
       "image": "data/placeholders/batterie.svg"
     },
     {
@@ -17974,7 +18142,7 @@
       "ref": "XO-4487",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4487",
       "prix": 70.0,
-      "stock": 8,
+      "stock": 6,
       "image": "data/placeholders/papier.svg"
     },
     {
