@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:29:49",
+  "generated_at": "2026-08-31T15:35:13",
   "count": 2615,
   "products": [
     {
@@ -279,7 +279,8 @@
       "ref": "16DDR4",
       "designation": "SYNOLOGY Mémoire 16GB D4ECSO-2666 12M",
       "prix": 1200.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/711Xzref8yL._AC_SL1500_.jpg"
     },
     {
       "ref": "16PRO-256G",
@@ -684,7 +685,8 @@
       "ref": "4TB-SATA",
       "designation": "SYNOLOGY Disque 4TB SATA 3,5'' Série HAT5300 7.2k 36M",
       "prix": 2215.5,
-      "stock": 1
+      "stock": 1,
+      "image": "https://m.media-amazon.com/images/I/71Dlzd5MWGL._AC_SL1500_.jpg"
     },
     {
       "ref": "4U-W-D-LINK",
@@ -1593,7 +1595,8 @@
       "ref": "AES256",
       "designation": "TRANSCEND ESD270C PORT ABLE SSD 1TB AES256",
       "prix": 1300.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/71Y0E-rQR8L._AC_SL1500_.jpg"
     },
     {
       "ref": "AF-1.2X80",
@@ -6410,7 +6413,8 @@
       "ref": "EATON-3000VA",
       "designation": "Eaton 9SX 3000VA/2700W 2 ans",
       "prix": 0.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/71cjJaewtjL._AC_SL1500_.jpg"
     },
     {
       "ref": "EB-FH52",
@@ -10157,7 +10161,8 @@
       "ref": "MS105GP",
       "designation": "Mercusys MS105GP 5-Port Gigabit PoE+ Unmanaged Destktop Switch 4xPoE+",
       "prix": 375.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://m.media-amazon.com/images/I/61mrwkQXW9L._AC_SL1500_.jpg"
     },
     {
       "ref": "MS111",
@@ -12508,7 +12513,8 @@
       "ref": "S108",
       "designation": "TENDA 8-PORT 10/100MBPS DESKTOP SWITCH",
       "prix": 150.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/51VtN6FwWZL._AC_SL1500_.jpg"
     },
     {
       "ref": "S10FE_CLAVIER",
