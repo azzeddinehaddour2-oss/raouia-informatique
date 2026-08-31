@@ -8120,14 +8120,14 @@
     "source": "placeholder"
   },
   "MIC-XELITE": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/417NlZLDLTL._AC_SL1000_.jpg",
+    "source_page": "https://www.amazon.com/Microsoft-Surface-Pro-Touchscreen-AI-Enhanced/dp/B0DLXZ165X",
+    "source": "web"
   },
   "MIC-XPLUS": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61DcE1kbccL._AC_SL1280_.jpg",
+    "source_page": "https://www.amazon.com/Microsoft-Surface-Pro-11-Touchscreen/dp/B0DLBT8PMN",
+    "source": "web"
   },
   "MIL-A4": {
     "image": "data/placeholders/papier.svg",
