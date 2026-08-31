@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:08:03",
+  "generated_at": "2026-08-31T14:34:34",
   "count": 2615,
   "products": [
     {
@@ -10939,7 +10939,7 @@
       "designation": "LOCATION IMPRIMANTE EPSON LX-350",
       "prix": 138.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "https://i8.amplience.net/i/epsonemear/lxs350_front-png"
     },
     {
       "ref": "LO_P2035",
@@ -14478,7 +14478,7 @@
       "designation": "Samsung Clavier Book Cover pour Galaxy Tab S10 FE+ (EF-DX620BBFGBE)",
       "prix": 1400.0,
       "stock": 1,
-      "image": "data/placeholders/clavier.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$"
     },
     {
       "ref": "S10FE128",
@@ -16135,7 +16135,7 @@
       "designation": "CHARGEUR DELL TYPE C 130W ORIGINAL",
       "prix": 600.0,
       "stock": 0,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/adapters/dell-130w-usb-c-adapter/media-gallery/adapter-dell-130w-usbc-bk-gallery-1.psd?fmt=png-alpha&wid=1200&hei=630"
     },
     {
       "ref": "T-C454",
@@ -17094,7 +17094,7 @@
       "designation": "ADAPTATEUR TYPE-C 15W SAMSUNG EP-T1510",
       "prix": 70.0,
       "stock": 0,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t1510nbegus/gallery/us-15w-power-adapter-ep-t1510-ep-t1510nbegus-550586400?$product-details-jpg$"
     },
     {
       "ref": "USB-2.0",
