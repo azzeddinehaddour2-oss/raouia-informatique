@@ -15,9 +15,9 @@
     "source": "placeholder"
   },
   "1221": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61qmKzXBr3L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Crayon-graphite-lartiste-Faber-Castell-Goldfaber/dp/B003IGLTTE",
+    "source": "web"
   },
   "1536": {
     "image": "data/placeholders/divers.svg",
@@ -465,9 +465,9 @@
     "source": "placeholder"
   },
   "15PRO-512": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/81UKVHM77GL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/Apple-iPhone-15-Pro-Max/dp/B0CMZH1SGK",
+    "source": "web"
   },
   "16DDR4": {
     "image": "https://m.media-amazon.com/images/I/711Xzref8yL._AC_SL1500_.jpg",
@@ -475,9 +475,9 @@
     "source": "web"
   },
   "16PRO-256G": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61Ms0lWjDgL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/iPhone-Pro-256GB-Black-Titanium/dp/B0DHT1DDXR",
+    "source": "web"
   },
   "1713/N-N": {
     "image": "data/placeholders/divers.svg",
@@ -520,9 +520,9 @@
     "source": "placeholder"
   },
   "2000B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71XQYxdC-tL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/820914-B-Marking-ECOlutions-Marqueurs-Permanents/dp/B001JK8476",
+    "source": "web"
   },
   "2000N": {
     "image": "data/placeholders/fourniture.svg",
@@ -530,9 +530,9 @@
     "source": "placeholder"
   },
   "2000V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71L-Qn8nGDL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/BIC-820912-Marqueur-permanent-Marking/dp/B001JK62ZM",
+    "source": "web"
   },
   "203C": {
     "image": "data/placeholders/fourniture.svg",
@@ -1985,9 +1985,9 @@
     "source": "placeholder"
   },
   "BIC-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007X4ZWK4",
+    "source": "web"
   },
   "BIC-BV": {
     "image": "data/placeholders/fourniture.svg",
@@ -1995,14 +1995,14 @@
     "source": "placeholder"
   },
   "BIC-CRI-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
+    "source_page": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA",
+    "source": "web"
   },
   "BIC-CRI-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
+    "source": "web"
   },
   "BICFN": {
     "image": "data/placeholders/fourniture.svg",
@@ -2010,14 +2010,14 @@
     "source": "placeholder"
   },
   "BIC-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg",
+    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B004DBHR2Q",
+    "source": "web"
   },
   "BIC-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
+    "source_page": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA",
+    "source": "web"
   },
   "BIC-RV": {
     "image": "data/placeholders/fourniture.svg",
@@ -2025,9 +2025,9 @@
     "source": "placeholder"
   },
   "BIC-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
+    "source": "web"
   },
   "BIM": {
     "image": "data/placeholders/divers.svg",
@@ -2075,9 +2075,9 @@
     "source": "placeholder"
   },
   "BL-G2-7-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Pilot-G2-07-Bleu-Pointe-r%C3%A9tractable-Largeur/dp/B00MELLCW8",
+    "source": "web"
   },
   "BL-G2-7-G": {
     "image": "data/placeholders/fourniture.svg",
@@ -2085,9 +2085,9 @@
     "source": "placeholder"
   },
   "BL-G2-7-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/41RgsMitKXL._AC_SL1200_.jpg",
+    "source_page": "https://www.amazon.fr/Pilot-moyenne-r%C3%A9tractable-plastique-caoutchouc/dp/B000I5SEOQ",
+    "source": "web"
   },
   "BL-ML": {
     "image": "data/placeholders/papier.svg",
@@ -6010,9 +6010,9 @@
     "source": "placeholder"
   },
   "FX-82ES": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61A+kH3+21L._AC_SL1429_.jpg",
+    "source_page": "https://www.amazon.fr/Casio-FX-82ES-Calculatrice-Scientifique-Fonctions/dp/B082YDGP7H",
+    "source": "web"
   },
   "G2032": {
     "image": "data/placeholders/divers.svg",
@@ -6275,9 +6275,9 @@
     "source": "placeholder"
   },
   "GX-12B": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61bk9LwyhCL._AC_SL1200_.jpg",
+    "source_page": "https://www.amazon.fr/Casio-Gx12b-bk-calculatrice-bureau-12-chiffres/dp/B01LBRXDO0",
+    "source": "web"
   },
   "GXT-002": {
     "image": "data/placeholders/audio.svg",
@@ -9490,9 +9490,9 @@
     "source": "placeholder"
   },
   "PS6F": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71v3b9qmPsL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/-/en/Eaton-Protection-Strip-PS6F-Power/dp/B07X2T4DSS",
+    "source": "web"
   },
   "PS-BH28": {
     "image": "data/placeholders/divers.svg",
