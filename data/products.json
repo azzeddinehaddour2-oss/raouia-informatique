@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:50:06",
+  "generated_at": "2026-08-31T20:20:34",
   "count": 2615,
   "products": [
     {
@@ -238,7 +238,8 @@
       "ref": "1536",
       "designation": "RALONCHE INGELEC 3 PRISES 1536",
       "prix": 45.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://www.ingelec.ma/sites/default/files/field/image/bloc_multiprises_long_3prises_2p_t_sans_interrupteur.jpg"
     },
     {
       "ref": "1552",
