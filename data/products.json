@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:34:34",
+  "generated_at": "2026-08-31T14:53:09",
   "count": 2615,
   "products": [
     {
@@ -9382,7 +9382,7 @@
       "designation": "HP LASER PRO 3003dw SFP Reseau Wifi Mono A4 R/V 33",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "https://hp.widen.net/content/3vfkbi7bxk/png/3vfkbi7bxk.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "HP-3003DN",
@@ -9396,7 +9396,7 @@
       "designation": "HP Ecran S3 Pro 322pe FHD 21.45\"",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "https://hp.widen.net/content/4bsxa6yeg3/png/4bsxa6yeg3.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "HP-32V",
@@ -11226,7 +11226,7 @@
       "designation": "IMPREMANTE HP Color LaserJet MFP M281fdw",
       "prix": 2500.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "https://hp.widen.net/content/jnlaekdfrf/png/jnlaekdfrf.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "M4003DN",
@@ -14924,7 +14924,7 @@
       "designation": "HP ScanJet Pro 2600 f1 Scanne 600dpi 25 ppm/50 IPM ADF R/V 60P one pa",
       "prix": 4100.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://hp.widen.net/content/zijsar8amq/png/zijsar8amq.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "SC300",
@@ -15897,7 +15897,7 @@
       "designation": "HP DESIGNJET T630 36-IN PRINTER",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://hp.widen.net/content/o8pfyjspwb/png/o8pfyjspwb.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "T630-T230",
@@ -17513,7 +17513,7 @@
       "designation": "HP 415A Yellow Original LaserJet Toner Cartridge pour la Série M454 &",
       "prix": 1480.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://hp.widen.net/content/s19bg7bjhw/png/s19bg7bjhw.png?w=800&h=600&dpi=72&color=ffffff00"
     },
     {
       "ref": "W2030AO",
