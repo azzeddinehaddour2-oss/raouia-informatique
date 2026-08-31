@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:37:45",
+  "generated_at": "2026-08-31T13:52:42",
   "count": 2615,
   "products": [
     {
@@ -6606,7 +6606,7 @@
       "designation": "DELL Precision 3660 i7-13700 16GB 512Go SSD Nvidia T1000, 4GB Win 11",
       "prix": 22300.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700"
     },
     {
       "ref": "DELL-5820",
@@ -6634,7 +6634,7 @@
       "designation": "DELL OptiPlex 7010 Tower TWR i5-13500 8Go 512Go DL-OP7010-I5-FD",
       "prix": 8500.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-d13-tower/media-gallery-standard/desktop-optiplex-7010-mt-black-gallery-1.psd?qlt=95&fmt=jpg&wid=1200"
     },
     {
       "ref": "DELL-7620",
@@ -13386,7 +13386,7 @@
       "designation": "DL-PR3660-I7 // DELL Precision 3660 i7-13700 16GB 512Go SSD Nvidia T1",
       "prix": 23500.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700"
     },
     {
       "ref": "PR44-675",
