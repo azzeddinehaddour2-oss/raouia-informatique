@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T07:00:02",
-  "count": 2612,
+  "generated_at": "2026-08-31T13:37:45",
+  "count": 2615,
   "products": [
     {
       "ref": "000001",
@@ -522,7 +522,7 @@
       "ref": "2300R",
       "designation": "MARQUEUR BIC PERMANENT 2300 ROUGE",
       "prix": 10.0,
-      "stock": 44,
+      "stock": 68,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -2394,7 +2394,7 @@
       "ref": "B600",
       "designation": "BROSSE TABLEAU BLANC FANS",
       "prix": 10.0,
-      "stock": 1,
+      "stock": 5,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -2671,6 +2671,12 @@
       "image": "data/placeholders/divers.svg"
     },
     {
+      "ref": "BIC-2300",
+      "designation": "MARQUEUR BIC PERMANENT 2300 BLEU",
+      "prix": 12.0,
+      "stock": 24
+    },
+    {
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
@@ -2798,7 +2804,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 211,
+      "stock": 209,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -4507,7 +4513,7 @@
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 144,
+      "stock": 126,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5563,7 +5569,7 @@
       "ref": "CON-BL",
       "designation": "PAPIER CANSON BLANC A2",
       "prix": 8.0,
-      "stock": 10,
+      "stock": 26,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -5577,7 +5583,7 @@
       "ref": "CON-V",
       "designation": "PAPIER CONSON VERT A2",
       "prix": 8.0,
-      "stock": 0,
+      "stock": 6,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -6369,14 +6375,14 @@
       "designation": "DELL Latitude 5540 i5-1355U 15.6 FHD 8Go 512 SSD Freedos 36M",
       "prix": 11690.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg"
     },
     {
       "ref": "D5540-I7",
       "designation": "DELL Latitude 5540 i7-1355U 15.6 FHD 16Go 512 SSD Win11 PRO 36M",
       "prix": 14340.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg"
     },
     {
       "ref": "D-6791",
@@ -8020,7 +8026,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1168,
+      "stock": 1418,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -8459,7 +8465,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 741,
+      "stock": 991,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -9467,28 +9473,28 @@
       "designation": "HP 712 38ml Black Ink Cartridge T630/T230",
       "prix": 498.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://m.media-amazon.com/images/I/61fX3uEMKbL._AC_SL1500_.jpg"
     },
     {
       "ref": "HP-712C",
       "designation": "HP 712 29ml Cyan Ink Cartridge T630/T230",
       "prix": 429.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://m.media-amazon.com/images/I/719a6AseWVL._AC_SL1500_.jpg"
     },
     {
       "ref": "HP-712M",
       "designation": "HP 712 29ml Magenta Ink Cartridge T630/T230",
       "prix": 429.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://m.media-amazon.com/images/I/71zArrVrr1L._AC_SL1500_.jpg"
     },
     {
       "ref": "HP-712Y",
       "designation": "HP 712 29ml Yellow Ink Cartridge T630/T230",
       "prix": 429.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://m.media-amazon.com/images/I/71IRfxizMdL._AC_SL1500_.jpg"
     },
     {
       "ref": "HP-724",
@@ -9509,7 +9515,7 @@
       "designation": "HP 72 Black Matte - Cartouche d'encre HP d'origine",
       "prix": 750.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "https://m.media-amazon.com/images/I/71KbK1C44JL._AC_SL1500_.jpg"
     },
     {
       "ref": "HP-800-G3",
@@ -10373,6 +10379,12 @@
       "stock": 5
     },
     {
+      "ref": "K002",
+      "designation": "BROSSE TABLEAU BLANC K002",
+      "prix": 7.0,
+      "stock": 48
+    },
+    {
       "ref": "K007",
       "designation": "Vacuum Suction Magnetic Bracket K007",
       "prix": 50.0,
@@ -10655,7 +10667,7 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 9,
+      "stock": 10,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -11486,7 +11498,7 @@
       "ref": "MI035-5",
       "designation": "ENCRE A TAMPONS STAMP PAD BLEU MI035-5",
       "prix": 15.0,
-      "stock": 14,
+      "stock": 13,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -11605,28 +11617,28 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 210,
+      "stock": 246,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 147,
+      "stock": 180,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 135,
+      "stock": 171,
       "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": 119,
+      "stock": 155,
       "image": "data/placeholders/fourniture.svg"
     },
     {
@@ -12232,6 +12244,12 @@
       "image": "data/placeholders/papier.svg"
     },
     {
+      "ref": "P-160G",
+      "designation": "RAMETTE PAPIER REY A4 160 G",
+      "prix": 90.0,
+      "stock": 2
+    },
+    {
       "ref": "P-16G",
       "designation": "ADATA DDR4 RAM PORTABLE 16GB 4800MHZ",
       "prix": 1200.0,
@@ -12381,8 +12399,8 @@
     {
       "ref": "PA-15",
       "designation": "RAMETTE PAPIER PIONEER  A4 90 G",
-      "prix": 65.0,
-      "stock": 0,
+      "prix": 70.0,
+      "stock": 5,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -12459,7 +12477,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 10,
+      "stock": 5,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -12543,7 +12561,7 @@
       "ref": "P-CA2-O",
       "designation": "PAPIER CONSON ORANGE A2",
       "prix": 8.0,
-      "stock": 0,
+      "stock": 10,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -12557,7 +12575,7 @@
       "ref": "P-CA3",
       "designation": "PAPIER CONSON A3",
       "prix": 8.0,
-      "stock": 0,
+      "stock": 2,
       "image": "data/placeholders/papier.svg"
     },
     {
@@ -13038,7 +13056,7 @@
       "ref": "PP-0013",
       "designation": "POCHETTES A PLASTIFIER A4 125MIC",
       "prix": 220.0,
-      "stock": 6,
+      "stock": 4,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -15234,7 +15252,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1397,
+      "stock": 1276,
       "image": "data/placeholders/divers.svg"
     },
     {
@@ -16795,7 +16813,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 15,
+      "stock": 13,
       "image": "data/placeholders/toner.svg"
     },
     {
@@ -17270,7 +17288,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 125,
+      "stock": 120,
       "image": "data/placeholders/papier.svg"
     },
     {
