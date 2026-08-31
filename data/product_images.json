@@ -6685,9 +6685,9 @@
     "source": "placeholder"
   },
   "HP-3003": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/3vfkbi7bxk/png/3vfkbi7bxk.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-laserjet-pro-3003dw-printer-3g654a.html",
+    "source": "web"
   },
   "HP-3003DN": {
     "image": "data/placeholders/imprimante.svg",
@@ -6695,9 +6695,9 @@
     "source": "placeholder"
   },
   "HP322": {
-    "image": "data/placeholders/ecran.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/4bsxa6yeg3/png/4bsxa6yeg3.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/in-en/shop/hp-series-3-pro-21-45-inch-fhd-monitor-322pe-ak2f1ut.html",
+    "source": "web"
   },
   "HP-32V": {
     "image": "data/placeholders/chargeur.svg",
@@ -7910,9 +7910,9 @@
     "source": "placeholder"
   },
   "M283FDW": {
-    "image": "data/placeholders/imprimante.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/jnlaekdfrf/png/jnlaekdfrf.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/us-en/shop/dlp/laserjet-pro-mfp-m281fdw",
+    "source": "web"
   },
   "M4003DN": {
     "image": "data/placeholders/divers.svg",
@@ -10509,9 +10509,9 @@
     "source": "placeholder"
   },
   "SC2600_F1": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/zijsar8amq/png/zijsar8amq.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-scanjet-pro-2600-f1-document-scanner/2100435069",
+    "source": "web"
   },
   "SC300": {
     "image": "data/placeholders/imprimante.svg",
@@ -11204,9 +11204,9 @@
     "source": "placeholder"
   },
   "T630": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/o8pfyjspwb/png/o8pfyjspwb.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/us-en/shop/mdp/hp-designjet-t630-3074457345617511176-1",
+    "source": "web"
   },
   "T630-T230": {
     "image": "data/placeholders/divers.svg",
@@ -12339,9 +12339,9 @@
     "source": "placeholder"
   },
   "W2030AH": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://hp.widen.net/content/s19bg7bjhw/png/s19bg7bjhw.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/21959578",
+    "source": "web"
   },
   "W2030AO": {
     "image": "data/placeholders/toner.svg",
