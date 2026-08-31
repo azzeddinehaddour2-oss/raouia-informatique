@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:52:42",
+  "generated_at": "2026-08-31T14:08:03",
   "count": 2615,
   "products": [
     {
@@ -6613,7 +6613,7 @@
       "designation": "DELL Precision 5820 Tower XCTO Base Xeon W-2223 16Go 512Go Windows10",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full"
     },
     {
       "ref": "DELL-65W",
@@ -10995,7 +10995,7 @@
       "designation": "EPSON IMPREMANTE MATRICIELLE LQ-2190",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://i8.amplience.net/i/epsonemear/lqm2190-front-png"
     },
     {
       "ref": "LQ300/350",
@@ -13127,28 +13127,28 @@
       "designation": "PC PORTABLE DELL LATITUDE 5510 5-10GEN 16RAM 256SSD A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5510/media-gallery/laptop_latitude_15_5510_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3743&hei=2477&qlt=100,1&resMode=sharp2&size=3743,2477&chrss=full"
     },
     {
       "ref": "PPR-003",
       "designation": "PC PROTABLE DELL PRECISION 3550 i5 10GEN 16RAM 512SSD NVME A",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/workstations/mobile-workstations/precision/3550/15-3550/media-gallery/workstation_precision_3550_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3673&hei=2561&qlt=100,1&resMode=sharp2&size=3673,2561&chrss=full"
     },
     {
       "ref": "PPR-004",
       "designation": "PC PORTABLE DELL LATITUDE 5420 i5 11GEN 16RAM 512SSD NVME B+",
       "prix": 4000.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full"
     },
     {
       "ref": "PPR-005",
       "designation": "PC PORTABLE DELL LATITUDE 5420 i5 11GEN 8RAM 256SSD WIN 11PRO A+",
       "prix": 5500.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full"
     },
     {
       "ref": "PPR-006",
@@ -13162,21 +13162,21 @@
       "designation": "PC PORTABLE DELL LATITUDE 5410 i5 10GEN 8RAM 512SSD B+",
       "prix": 4800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full"
     },
     {
       "ref": "PPR-008",
       "designation": "PC PORTABLE DELL LATITUDE 5420 i5 11GEN 8RAM 256SSD NVME A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full"
     },
     {
       "ref": "PPR-009",
       "designation": "PC PORTABLE DELL LATITUDE 5410 i5 10GEN 8RAM 512SSD NVME B",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full"
     },
     {
       "ref": "PPR-010",
@@ -14485,7 +14485,7 @@
       "designation": "Tablette Samsung Galaxy Tab S10 FE 5G — 8 Go RAM / 128 Go — 10.9 pouc",
       "prix": 7000.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x528uzaaatt/gallery/us-galaxy-tab-s10-fe-sm-x526-544130-sm-x528uzaaatt-553573283?$1300_1000_PNG$"
     },
     {
       "ref": "S1314",
@@ -14770,14 +14770,14 @@
       "designation": "SAMSUNG Smartphone A34  6.6\" OctaCore 8Go 128Go Android 5G",
       "prix": 3178.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/ae/sm-a346ezscmea/gallery/ae-galaxy-a34-5g-sm-a346-sm-a346ezscmea-thumb-535607097?$1300_1000_PNG$"
     },
     {
       "ref": "SAM-A36-128",
       "designation": "SAMSUNG Smartphone A36  128Go Android 5G",
       "prix": 3400.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a366blgmmea/gallery/levant-galaxy-a36-5g-sm-a366-sm-a366blgmmea-thumb-545293042?$1300_1000_PNG$"
     },
     {
       "ref": "SAM-A36-256",
@@ -14805,7 +14805,7 @@
       "designation": "SAMSUNG Smartphone S24 6,2\"Exynos2400 8Go 256Go Android 5G",
       "prix": 10240.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/us/smartphones/galaxy-s24/images/galaxy-s24-share-image.jpg"
     },
     {
       "ref": "SAM-S24-U",
@@ -14819,7 +14819,7 @@
       "designation": "SAMSUNG S25 Ultra Titanium Silverblue 6.9\" Snapdragon 8 12Go 256Go 5G",
       "prix": 13980.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uzbfxaa/gallery/us-galaxy-s25-s938-536276-sm-s938uzbfxaa-548617513?$1300_1000_PNG$"
     },
     {
       "ref": "SAMS-526G",
@@ -16919,7 +16919,7 @@
       "designation": "DL-PR-TW-5820 // DELL Precision 5820 Tower XCTO Base Nvidia T1000, 4G",
       "prix": 26800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full"
     },
     {
       "ref": "TWJ-001",
