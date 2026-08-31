@@ -4750,9 +4750,9 @@
     "source": "placeholder"
   },
   "DELL3660": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
+    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation",
+    "source": "web"
   },
   "DELL-5820": {
     "image": "data/placeholders/ordinateur.svg",
@@ -4770,9 +4770,9 @@
     "source": "placeholder"
   },
   "DELL7010_I5": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-d13-tower/media-gallery-standard/desktop-optiplex-7010-mt-black-gallery-1.psd?qlt=95&fmt=jpg&wid=1200",
+    "source_page": "https://www.dell.com/en-us/shop/desktops-all-in-ones/optiplex-7010-tower/spd/optiplex-7010-desktop",
+    "source": "web"
   },
   "DELL-7620": {
     "image": "data/placeholders/ordinateur.svg",
@@ -9430,9 +9430,9 @@
     "source": "placeholder"
   },
   "PR3660": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
+    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation",
+    "source": "web"
   },
   "PR44-675": {
     "image": "data/placeholders/batterie.svg",
