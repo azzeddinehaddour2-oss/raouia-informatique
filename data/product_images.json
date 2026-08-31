@@ -7720,9 +7720,9 @@
     "source": "placeholder"
   },
   "LO_LX-350": {
-    "image": "data/placeholders/imprimante.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i8.amplience.net/i/epsonemear/lxs350_front-png",
+    "source_page": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lx-350/p/11848",
+    "source": "web"
   },
   "LO_P2035": {
     "image": "data/placeholders/imprimante.svg",
@@ -10204,9 +10204,9 @@
     "source": "placeholder"
   },
   "S10FE_CLAVIER": {
-    "image": "data/placeholders/clavier.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/uk/mobile-accessories/galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-key-black-ef-dx620bbeggb/",
+    "source": "web"
   },
   "S10FE128": {
     "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x528uzaaatt/gallery/us-galaxy-tab-s10-fe-sm-x526-544130-sm-x528uzaaatt-553573283?$1300_1000_PNG$",
@@ -11374,9 +11374,9 @@
     "source": "placeholder"
   },
   "TC-130W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/adapters/dell-130w-usb-c-adapter/media-gallery/adapter-dell-130w-usbc-bk-gallery-1.psd?fmt=png-alpha&wid=1200&hei=630",
+    "source_page": "https://www.dell.com/en-us/shop/dell-130w-usb-c-ac-adapter/apd/450-bfrw/pc-accessories",
+    "source": "web"
   },
   "T-C454": {
     "image": "data/placeholders/divers.svg",
@@ -12049,9 +12049,9 @@
     "source": "placeholder"
   },
   "USB-15W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t1510nbegus/gallery/us-15w-power-adapter-ep-t1510-ep-t1510nbegus-550586400?$product-details-jpg$",
+    "source_page": "https://www.samsung.com/us/business/mobile/mobile-accessories/phones/15w-power-adapter-ta-only-ep-t1510nbegus/",
+    "source": "web"
   },
   "USB-2.0": {
     "image": "data/placeholders/cable.svg",
