@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:03:48",
+  "generated_at": "2026-08-31T19:50:06",
   "count": 2615,
   "products": [
     {
@@ -9597,7 +9597,8 @@
       "ref": "LS63",
       "designation": "LDNIO CABLE TYPE-IPHONE LS63",
       "prix": 60.0,
-      "stock": 13
+      "stock": 13,
+      "image": "https://m.media-amazon.com/images/I/61VTNwKRFsL.jpg"
     },
     {
       "ref": "LT6011",
