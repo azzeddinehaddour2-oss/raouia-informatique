@@ -62,6 +62,8 @@ AUTHORIZED_DOMAINS = {
     # Marketplaces autorisees
     "www.jumia.ma", "www.jumia.com.ng", "www.jumia.com", "ma.jumia.is",  # CDN reel Jumia (images produit)
     "sa-media.apjonlinecdn.com", "apjonlinecdn.com",  # CDN reel HP APJ (images produit hp.com)
+    "ssl-product-images.www8-hp.com",  # CDN legacy HP (fiches produit hp.com historiques)
+    "www.sony.com", "www.sony.fr", "electronics.sony.com", "sony.com",  # Sony officiel
     "images-na.ssl-images-amazon.com", "m.media-amazon.com",
     "www.amazon.com", "www.amazon.fr", "www.amazon.ma",
     "www.cdiscount.com", "i2.cdscdn.com",
@@ -165,8 +167,11 @@ def main() -> int:
         domain = urlparse(url).netloc
         designation = designs.get(ref, "")
 
+        def domain_authorized(d):
+            return any(d == auth or d.endswith("." + auth) for auth in AUTHORIZED_DOMAINS)
+
         reason = None
-        if domain not in AUTHORIZED_DOMAINS or any(h in url for h in REJECTED_DOMAINS_HINTS):
+        if not domain_authorized(domain) or any(h in url for h in REJECTED_DOMAINS_HINTS):
             reason = f"domaine non autorise ({domain})"
         elif not ref_matches_url(ref, designation, url, source_page):
             reason = "reference/modele absent de l'URL et de source_page"
