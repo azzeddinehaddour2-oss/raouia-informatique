@@ -181,9 +181,12 @@ def fetch_products_from_sage() -> list[dict]:
             "prix": float(row.AR_PrixVen) if row.AR_PrixVen is not None else 0.0,
             "stock": int(row.AS_QteSto) if row.AS_QteSto is not None else 0,
         }
-        image_url = image_overrides.get(ref, {}).get("image")
-        if image_url:
-            product["image"] = image_url
+        override = image_overrides.get(ref, {})
+        # Ne propage que les vraies photos verifiees (source "web"), jamais
+        # les placeholders SVG generiques - permet a la page d'accueil de
+        # mettre en avant uniquement les produits avec une photo exacte.
+        if override.get("source") == "web" and override.get("image"):
+            product["image"] = override["image"]
         products.append(product)
     return products
 
