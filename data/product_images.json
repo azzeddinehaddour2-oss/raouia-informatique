@@ -470,9 +470,9 @@
     "source": "placeholder"
   },
   "16DDR4": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/711Xzref8yL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Synology-Module-D4ECSO-2666-16G-DDR4-2666-unbuffered/dp/B07WT66R36",
+    "source": "web"
   },
   "16PRO-256G": {
     "image": "data/placeholders/divers.svg",
@@ -705,9 +705,9 @@
     "source": "placeholder"
   },
   "4TB-SATA": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71Dlzd5MWGL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Synology-HAT5300-4T-256Mo-Cache-7200T/dp/B09YDG79JR",
+    "source": "web"
   },
   "4U-W-D-LINK": {
     "image": "data/placeholders/divers.svg",
@@ -1385,9 +1385,9 @@
     "source": "placeholder"
   },
   "AES256": {
-    "image": "data/placeholders/stockage.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71Y0E-rQR8L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Transcend-SSD-Externe-Playstation-TS1TESD270C/dp/B08ZYZDHDN",
+    "source": "web"
   },
   "AF-1.2X80": {
     "image": "data/placeholders/divers.svg",
@@ -5330,9 +5330,9 @@
     "source": "placeholder"
   },
   "EATON-3000VA": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71cjJaewtjL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Eaton-9SX3000-Alimentation-interruptible-Double-Conversion/dp/B07KPMV6S1",
+    "source": "web"
   },
   "EB-FH52": {
     "image": "data/placeholders/divers.svg",
@@ -8270,9 +8270,9 @@
     "source": "placeholder"
   },
   "MS105GP": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61mrwkQXW9L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Mercusys-TP-Link-MS105GP-Gigabit-Silencieux/dp/B0C3D15MQ4",
+    "source": "web"
   },
   "MS111": {
     "image": "data/placeholders/souris.svg",
@@ -10199,9 +10199,9 @@
     "source": "placeholder"
   },
   "S108": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/51VtN6FwWZL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Tenda-S108-Commutateur-reseau-100-Mbps/dp/B017HMHHGS",
+    "source": "web"
   },
   "S10FE_CLAVIER": {
     "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$",
