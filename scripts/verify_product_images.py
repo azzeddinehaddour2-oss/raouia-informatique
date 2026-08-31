@@ -60,7 +60,8 @@ AUTHORIZED_DOMAINS = {
     "www.dell.com", "i.dell.com",
     "pisces.bbystatic.com",  # Best Buy CDN (fiches produit fabricant relayees)
     # Marketplaces autorisees
-    "www.jumia.ma", "www.jumia.com.ng", "www.jumia.com",
+    "www.jumia.ma", "www.jumia.com.ng", "www.jumia.com", "ma.jumia.is",  # CDN reel Jumia (images produit)
+    "sa-media.apjonlinecdn.com", "apjonlinecdn.com",  # CDN reel HP APJ (images produit hp.com)
     "images-na.ssl-images-amazon.com", "m.media-amazon.com",
     "www.amazon.com", "www.amazon.fr", "www.amazon.ma",
     "www.cdiscount.com", "i2.cdscdn.com",
