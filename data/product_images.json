@@ -185,9 +185,9 @@
     "source_page": null
   },
   "1536": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://www.ingelec.ma/sites/default/files/field/image/bloc_multiprises_long_3prises_2p_t_sans_interrupteur.jpg",
+    "source_page": "https://www.ingelec.ma/fr/node/3619",
+    "source": "web"
   },
   "1552": {
     "image": "data/placeholders/divers.svg",
