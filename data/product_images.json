@@ -186,8 +186,8 @@
   },
   "1536": {
     "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "1552": {
     "image": "data/placeholders/divers.svg",
