@@ -6745,24 +6745,24 @@
     "source": "placeholder"
   },
   "HP-712B": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/61fX3uEMKbL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD84RMP",
+    "source": "web"
   },
   "HP-712C": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/719a6AseWVL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD5B212",
+    "source": "web"
   },
   "HP-712M": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71zArrVrr1L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD59TB2",
+    "source": "web"
   },
   "HP-712Y": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71IRfxizMdL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD798ZV",
+    "source": "web"
   },
   "HP72-B": {
     "image": "data/placeholders/toner.svg",
@@ -6770,9 +6770,9 @@
     "source": "placeholder"
   },
   "HP72-BM": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://m.media-amazon.com/images/I/71KbK1C44JL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.com/HP-C9403A-Cartridge-130ml-Matte/dp/B0038G25VK",
+    "source": "web"
   },
   "HP800G3I5": {
     "image": "data/placeholders/ordinateur.svg",
