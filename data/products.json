@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:35:13",
+  "generated_at": "2026-08-31T16:03:48",
   "count": 2615,
   "products": [
     {
@@ -170,7 +170,8 @@
       "ref": "1221",
       "designation": "CRAYON FABER-CASTELL 1221",
       "prix": 4.0,
-      "stock": 60
+      "stock": 60,
+      "image": "https://m.media-amazon.com/images/I/61qmKzXBr3L._AC_SL1500_.jpg"
     },
     {
       "ref": "130HP-BLACK",
@@ -267,7 +268,8 @@
       "ref": "15PRO-512",
       "designation": "iPhone 15 Pro Max 512 Gb Black Titanium",
       "prix": 16390.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/81UKVHM77GL._AC_SL1500_.jpg"
     },
     {
       "ref": "161616",
@@ -286,7 +288,8 @@
       "ref": "16PRO-256G",
       "designation": "iPhone 16 Pro Max 256 Gb Black Titanium",
       "prix": 12100.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/61Ms0lWjDgL._AC_SL1500_.jpg"
     },
     {
       "ref": "1713/N-N",
@@ -340,7 +343,8 @@
       "ref": "2000B",
       "designation": "MARQUEUR BIC PERMANENT 2000 BLEU",
       "prix": 10.0,
-      "stock": 25
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/71XQYxdC-tL._AC_SL1500_.jpg"
     },
     {
       "ref": "2000N",
@@ -352,7 +356,8 @@
       "ref": "2000V",
       "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
       "prix": 10.0,
-      "stock": 46
+      "stock": 46,
+      "image": "https://m.media-amazon.com/images/I/71L-Qn8nGDL._AC_SL1500_.jpg"
     },
     {
       "ref": "202416",
@@ -2322,7 +2327,8 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 191
+      "stock": 191,
+      "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
       "ref": "BIC-BV",
@@ -2334,13 +2340,15 @@
       "ref": "BIC-CRI-R",
       "designation": "STYLO BIC CRISTAL ROUGE",
       "prix": 2.0,
-      "stock": 1
+      "stock": 1,
+      "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg"
     },
     {
       "ref": "BIC-CRI-V",
       "designation": "STYLO BIC CRISTAL VERT",
       "prix": 2.0,
-      "stock": 4
+      "stock": 4,
+      "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg"
     },
     {
       "ref": "BICFN",
@@ -2352,13 +2360,15 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 212
+      "stock": 212,
+      "image": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg"
     },
     {
       "ref": "BIC-R",
       "designation": "STYLO BIC ROUGE",
       "prix": 1.5,
-      "stock": 621
+      "stock": 621,
+      "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg"
     },
     {
       "ref": "BIC-RV",
@@ -2370,7 +2380,8 @@
       "ref": "BIC-V",
       "designation": "STYLO BIC VERT",
       "prix": 1.5,
-      "stock": 512
+      "stock": 512,
+      "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg"
     },
     {
       "ref": "BIM",
@@ -2442,7 +2453,8 @@
       "ref": "BL-G2-7-B",
       "designation": "STYLO PILOT BLEU BL-G2-7-B",
       "prix": 18.0,
-      "stock": 67
+      "stock": 67,
+      "image": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg"
     },
     {
       "ref": "BL-G2-7-G",
@@ -2454,7 +2466,8 @@
       "ref": "BL-G2-7-R",
       "designation": "STYLO PILOT ROUGE BL-G2-7-R",
       "prix": 18.0,
-      "stock": 30
+      "stock": 30,
+      "image": "https://m.media-amazon.com/images/I/41RgsMitKXL._AC_SL1200_.jpg"
     },
     {
       "ref": "BL-ML",
@@ -7242,7 +7255,8 @@
       "ref": "FX-82ES",
       "designation": "CALCULATRICE ELECTRIQUE FX-82ES PLUS CASIO",
       "prix": 150.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://m.media-amazon.com/images/I/61A+kH3+21L._AC_SL1429_.jpg"
     },
     {
       "ref": "G2032",
@@ -7567,7 +7581,8 @@
       "ref": "GX-12B",
       "designation": "CASIO GX-12B-BK",
       "prix": 180.0,
-      "stock": 0
+      "stock": 0,
+      "image": "https://m.media-amazon.com/images/I/61bk9LwyhCL._AC_SL1200_.jpg"
     },
     {
       "ref": "GXT-002",
@@ -11655,7 +11670,8 @@
       "ref": "PS6F",
       "designation": "EATON PROTECTION STRIP 6",
       "prix": 280.0,
-      "stock": 2
+      "stock": 2,
+      "image": "https://m.media-amazon.com/images/I/71v3b9qmPsL._AC_SL1500_.jpg"
     },
     {
       "ref": "PS-BH28",
@@ -13200,7 +13216,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1276
+      "stock": 1274
     },
     {
       "ref": "SIDI-ALII-15",
