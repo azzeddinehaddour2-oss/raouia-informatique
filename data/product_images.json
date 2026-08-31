@@ -4585,14 +4585,14 @@
     "source": "web"
   },
   "D5540-I5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop",
+    "source": "web"
   },
   "D5540-I7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop",
+    "source": "web"
   },
   "D-6791": {
     "image": "data/placeholders/fourniture.svg",
