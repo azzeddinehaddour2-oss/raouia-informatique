@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T20:20:34",
+  "generated_at": "2026-09-03T07:00:02",
   "count": 2615,
   "products": [
     {
       "ref": "000001",
       "designation": "SERPILIERE FRANCE CASA BN2 50X70CM",
       "prix": 12.0,
-      "stock": 0
+      "stock": 48
     },
     {
       "ref": "000045",
@@ -245,7 +245,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 57
+      "stock": 77
     },
     {
       "ref": "1566",
@@ -1728,7 +1728,7 @@
       "ref": "AIN001",
       "designation": "CD-R ANGTE 50 700MB + POSHETTE",
       "prix": 6.0,
-      "stock": 37
+      "stock": 35
     },
     {
       "ref": "AIO-I7",
@@ -2328,7 +2328,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 191,
+      "stock": 141,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2442,7 +2442,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 209
+      "stock": 206
     },
     {
       "ref": "BL-G2-7-8",
@@ -3284,7 +3284,7 @@
       "ref": "CAN-446",
       "designation": "CARTOUCHE CANON CL446 COULEUR",
       "prix": 230.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "CAN-46",
@@ -3698,7 +3698,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "CC-B",
@@ -3866,7 +3866,7 @@
       "ref": "CD-700MB",
       "designation": "CD-R ANGTE 50 700MB 80MIN",
       "prix": 5.0,
-      "stock": 174
+      "stock": 172
     },
     {
       "ref": "CD90W",
@@ -3908,13 +3908,13 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 0
+      "stock": 180
     },
     {
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 126
+      "stock": 234
     },
     {
       "ref": "CE037",
@@ -4094,7 +4094,7 @@
       "ref": "CF230A",
       "designation": "TONER WORD CF230A NOIR",
       "prix": 150.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "CF259A",
@@ -5078,7 +5078,7 @@
       "ref": "CRG-070",
       "designation": "TONER CANON CRG-070 BK SMART PRINT",
       "prix": 280.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "CRH-057",
@@ -5378,7 +5378,7 @@
       "ref": "C-USB",
       "designation": "CLAVIER USB ORIGINAL",
       "prix": 80.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "CV3",
@@ -6692,7 +6692,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 10
+      "stock": 5
     },
     {
       "ref": "ENV-25/35",
@@ -6770,7 +6770,7 @@
       "ref": "ENV-A5P",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 175*254",
       "prix": 1.5,
-      "stock": 177
+      "stock": 176
     },
     {
       "ref": "ENV-A5P-B",
@@ -6872,7 +6872,7 @@
       "ref": "ESS-02",
       "designation": "PAPIER ESSUIE MAIN 1K",
       "prix": 45.0,
-      "stock": 0
+      "stock": 60
     },
     {
       "ref": "ESSI-300",
@@ -6938,7 +6938,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1418
+      "stock": 1168
     },
     {
       "ref": "EV33",
@@ -7306,7 +7306,7 @@
       "ref": "GAZ-110X220",
       "designation": "ENVELOPPE BLANCHE SF 110*220 GAZELLE",
       "prix": 30.0,
-      "stock": 6
+      "stock": 3
     },
     {
       "ref": "GAZ-20MM",
@@ -7318,7 +7318,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 991
+      "stock": 891
     },
     {
       "ref": "G-CF279",
@@ -8835,7 +8835,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 21
+      "stock": 18
     },
     {
       "ref": "IP-C510",
@@ -9249,7 +9249,7 @@
       "ref": "KONICA-M",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE MAGENTA",
       "prix": 900.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "KONICA-Y",
@@ -10068,25 +10068,25 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 246
+      "stock": 174
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 180
+      "stock": 108
     },
     {
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 171
+      "stock": 99
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": 155
+      "stock": 83
     },
     {
       "ref": "MP02",
@@ -10293,7 +10293,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 74
+      "stock": 174
     },
     {
       "ref": "NAV90G",
@@ -10611,7 +10611,7 @@
       "ref": "P-160G",
       "designation": "RAMETTE PAPIER REY A4 160 G",
       "prix": 90.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "P-16G",
@@ -10746,7 +10746,7 @@
       "ref": "PA-15",
       "designation": "RAMETTE PAPIER PIONEER  A4 90 G",
       "prix": 70.0,
-      "stock": 5
+      "stock": 3
     },
     {
       "ref": "P-A2",
@@ -10854,7 +10854,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 9
+      "stock": 6
     },
     {
       "ref": "PC-24/32",
@@ -11178,7 +11178,7 @@
       "ref": "PL-306-PD",
       "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-306 PD",
       "prix": 30.0,
-      "stock": 20
+      "stock": 18
     },
     {
       "ref": "PLA05",
@@ -11817,7 +11817,7 @@
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
-      "stock": 102
+      "stock": 78
     },
     {
       "ref": "Q8848-60001",
@@ -12147,7 +12147,7 @@
       "ref": "RC-80/80",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80/80",
       "prix": 12.0,
-      "stock": 51
+      "stock": 46
     },
     {
       "ref": "RCA-10M",
@@ -12660,8 +12660,8 @@
     {
       "ref": "S-5L",
       "designation": "SANI DESINFECTANT OCEAN 5L",
-      "prix": 45.0,
-      "stock": 19
+      "prix": 25.0,
+      "stock": 18
     },
     {
       "ref": "S-5L-L",
@@ -12913,7 +12913,7 @@
       "ref": "SC-002",
       "designation": "PAQUET SCHOOL STICKER",
       "prix": 7.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "SC005",
@@ -13218,7 +13218,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1274
+      "stock": 1269
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13837,7 +13837,7 @@
       "ref": "TAB-028",
       "designation": "TROMBONNES EN ACIER BOSTON 100 PIECES UNITE 28mm 2111",
       "prix": 6.0,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "TAB-0628",
@@ -13903,7 +13903,7 @@
       "ref": "TAR-A4",
       "designation": "RAMETTE PAPIER TARGET A4",
       "prix": 50.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "TB-028",
@@ -15609,7 +15609,7 @@
       "ref": "WOR-CF210",
       "designation": "TONER WORD CF210A/CB540A/CE320A NOIR",
       "prix": 180.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "WTV-7001",
