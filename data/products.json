@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T07:00:02",
-  "count": 2615,
+  "generated_at": "2026-09-05T07:00:02",
+  "count": 2616,
   "products": [
     {
       "ref": "000001",
@@ -152,7 +152,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 19
+      "stock": 15
     },
     {
       "ref": "121212",
@@ -245,7 +245,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 77
+      "stock": 67
     },
     {
       "ref": "1566",
@@ -351,7 +351,7 @@
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
-      "stock": 59
+      "stock": 58
     },
     {
       "ref": "2000V",
@@ -752,7 +752,7 @@
       "ref": "5E1600",
       "designation": "Onduleur Line-interactive Eaton 5E Gen2 5E1600UI USB -900 W / 1600 VA",
       "prix": 1800.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "5E2200UI",
@@ -2238,7 +2238,7 @@
       "ref": "BC-2EXP",
       "designation": "BON DE COMMANDE 2 EXP",
       "prix": 18.0,
-      "stock": 8
+      "stock": 14
     },
     {
       "ref": "BC-5671",
@@ -2328,7 +2328,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 141,
+      "stock": 1139,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2400,7 +2400,7 @@
       "ref": "BL-001",
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "BL0022",
@@ -2454,7 +2454,7 @@
       "ref": "BL-G2-7-B",
       "designation": "STYLO PILOT BLEU BL-G2-7-B",
       "prix": 18.0,
-      "stock": 67,
+      "stock": 66,
       "image": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg"
     },
     {
@@ -3182,13 +3182,13 @@
       "ref": "C-96P",
       "designation": "CAHIER PIQUE 96 PAGES A4",
       "prix": 10.0,
-      "stock": 3
+      "stock": 63
     },
     {
       "ref": "C-9713",
       "designation": "CISEAUX BOSTON 180MM -9713",
       "prix": 25.0,
-      "stock": 3
+      "stock": -1
     },
     {
       "ref": "CA_A3",
@@ -3686,7 +3686,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 93
+      "stock": 92
     },
     {
       "ref": "CC-2008",
@@ -5770,7 +5770,7 @@
       "ref": "DEL-T160",
       "designation": "DELL T160 3.5\" up to 3 Cabled Performance 6315P,1x2TB ,1X16GB,5720",
       "prix": 17200.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "DEL-USB",
@@ -6692,7 +6692,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "ENV-25/35",
@@ -7902,7 +7902,7 @@
       "ref": "HIGHPER-CN",
       "designation": "MARQUEUR MONAMI PERMANENT / HIGHPER-C NOIR",
       "prix": 10.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "HIK-256",
@@ -7998,7 +7998,7 @@
       "ref": "HP-106A",
       "designation": "TONER HP 106A W1106A NOIR",
       "prix": 700.0,
-      "stock": 9,
+      "stock": 8,
       "image": "https://hp.widen.net/content/xsft2smw0x/png/xsft2smw0x.png"
     },
     {
@@ -9534,7 +9534,7 @@
       "ref": "LQ-350",
       "designation": "IMPRIMANTE EPSON LQ-350",
       "prix": 1900.0,
-      "stock": 3,
+      "stock": 2,
       "image": "https://i8.amplience.net/i/epsonemear/12058-productpicture-lores-ix-lq-350_main_rns"
     },
     {
@@ -9793,7 +9793,7 @@
       "ref": "M-805",
       "designation": "MARQUEUR SKYGLORY NOIR",
       "prix": 8.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "M90",
@@ -10293,7 +10293,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 174
+      "stock": 164
     },
     {
       "ref": "NAV90G",
@@ -10383,7 +10383,7 @@
       "ref": "NO.384556",
       "designation": "AGRAFEUSE KANGARO HP-210",
       "prix": 150.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "NO380",
@@ -10449,7 +10449,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 9
+      "stock": 6
     },
     {
       "ref": "NWC-CF226A",
@@ -10679,7 +10679,7 @@
       "ref": "P2500",
       "designation": "IMPRIMANTE PANTUM P2500/P2200 BLACK",
       "prix": 1300.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "P-2612A",
@@ -10854,7 +10854,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 6
+      "stock": 1
     },
     {
       "ref": "PC-24/32",
@@ -12147,7 +12147,7 @@
       "ref": "RC-80/80",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80/80",
       "prix": 12.0,
-      "stock": 46
+      "stock": 45
     },
     {
       "ref": "RCA-10M",
@@ -12315,7 +12315,7 @@
       "ref": "RJ11-15M",
       "designation": "CABLE  RJ11 15m",
       "prix": 80.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "RJ11-5M",
@@ -12818,6 +12818,12 @@
       "stock": 0
     },
     {
+      "ref": "SAM-A57",
+      "designation": "SAMSUNG Galaxy A57 5G Dual Sim (8GB | 128 GB)",
+      "prix": 4400.0,
+      "stock": 0
+    },
+    {
       "ref": "SAM-S23FE",
       "designation": "SAMSUNG Smartphone S23FE Mint6.4\" Exynos 8Go 256Go Android 5G 10",
       "prix": 6150.0,
@@ -13218,7 +13224,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1269
+      "stock": 1123
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13584,7 +13590,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 33
+      "stock": 23
     },
     {
       "ref": "STOCK2026F",
@@ -13969,7 +13975,7 @@
       "ref": "T-C10",
       "designation": "CABLE TYPE C TYPE C",
       "prix": 30.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "TC-130W",
@@ -14563,7 +14569,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "TOR-4",
@@ -14624,7 +14630,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": 11
+      "stock": 4
     },
     {
       "ref": "TS-500G",
@@ -14976,7 +14982,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 120
+      "stock": 119
     },
     {
       "ref": "VARTA-AA",
@@ -15103,7 +15109,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 22
+      "stock": 10
     },
     {
       "ref": "W1106",
@@ -15133,13 +15139,13 @@
       "ref": "W1500A-W",
       "designation": "TONER HP 150A W1500A WORD",
       "prix": 200.0,
-      "stock": 17
+      "stock": 15
     },
     {
       "ref": "W1510",
       "designation": "TONER HP 151A W1510A WORD",
       "prix": 200.0,
-      "stock": 8
+      "stock": 6
     },
     {
       "ref": "W1510A",
