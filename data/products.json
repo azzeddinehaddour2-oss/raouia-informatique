@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:00:02",
+  "generated_at": "2026-09-09T07:00:02",
   "count": 2616,
   "products": [
     {
@@ -351,7 +351,7 @@
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
-      "stock": 58
+      "stock": 57
     },
     {
       "ref": "2000V",
@@ -1836,7 +1836,7 @@
       "ref": "ARIX-5L",
       "designation": "SAVON LIQUIDE VAISSELLE ARRIXACA 5L",
       "prix": 80.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "AROMIL",
@@ -2202,7 +2202,7 @@
       "ref": "BAN-OC",
       "designation": "BANO MATIC Océanique Sac 9 kg",
       "prix": 110.0,
-      "stock": 30
+      "stock": 29
     },
     {
       "ref": "BAP-0031",
@@ -2238,7 +2238,7 @@
       "ref": "BC-2EXP",
       "designation": "BON DE COMMANDE 2 EXP",
       "prix": 18.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "BC-5671",
@@ -2328,7 +2328,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1139,
+      "stock": 1138,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2361,7 +2361,7 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 212,
+      "stock": 211,
       "image": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg"
     },
     {
@@ -2690,7 +2690,7 @@
       "ref": "BR-02",
       "designation": "CABLE TYPE C TYPE C/ TYPE C IPHONE 5A BRUDER BR-02",
       "prix": 40.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "BR-03",
@@ -2996,7 +2996,7 @@
       "ref": "C200041386",
       "designation": "PAPIER CANSON ROSE A2 - C200041386",
       "prix": 8.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "C200041390",
@@ -3122,7 +3122,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 27
+      "stock": 23
     },
     {
       "ref": "C4313",
@@ -3180,7 +3180,7 @@
     },
     {
       "ref": "C-96P",
-      "designation": "CAHIER PIQUE 96 PAGES A4",
+      "designation": "CAHIER PIQUE 96 PAGES A4 21x29.7 Study Buddy",
       "prix": 10.0,
       "stock": 63
     },
@@ -3686,7 +3686,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 92
+      "stock": 88
     },
     {
       "ref": "CC-2008",
@@ -3908,19 +3908,19 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 180
+      "stock": 140
     },
     {
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 234
+      "stock": 216
     },
     {
       "ref": "CE037",
       "designation": "PAQUET AIN ATLAS 12P",
       "prix": 30.0,
-      "stock": 50
+      "stock": 20
     },
     {
       "ref": "CE038",
@@ -4040,7 +4040,7 @@
       "ref": "CEC112",
       "designation": "Toner Original LaserJe 410 A / 207A/ 415A/ 203A B/Y/M/C",
       "prix": 1750.0,
-      "stock": 1
+      "stock": -1
     },
     {
       "ref": "CEC-4S",
@@ -4430,7 +4430,7 @@
       "ref": "CHP22",
       "designation": "CHEMISE A RABAT PLASTIQUE BLEU",
       "prix": 10.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "CHP23",
@@ -4628,7 +4628,7 @@
       "ref": "CK-040",
       "designation": "CACHET KASEM TR40 Q 40MM",
       "prix": 150.0,
-      "stock": 32
+      "stock": 31
     },
     {
       "ref": "CKP-020-R",
@@ -4898,7 +4898,7 @@
       "ref": "CP-4548",
       "designation": "CHEMISE PLASTIFIEE EXPRESS X0-4548",
       "prix": 3.0,
-      "stock": 151
+      "stock": 150
     },
     {
       "ref": "CP-7-12",
@@ -5288,7 +5288,7 @@
       "ref": "CSR-017",
       "designation": "CACHET SHINY R-517 ROUND",
       "prix": 120.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "CT-004",
@@ -6680,7 +6680,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 1011
+      "stock": 1007
     },
     {
       "ref": "ENV-229/324",
@@ -6740,7 +6740,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 25
+      "stock": 24
     },
     {
       "ref": "ENV-A4+",
@@ -6764,13 +6764,13 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 867
+      "stock": 866
     },
     {
       "ref": "ENV-A5P",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 175*254",
       "prix": 1.5,
-      "stock": 176
+      "stock": 175
     },
     {
       "ref": "ENV-A5P-B",
@@ -7318,7 +7318,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 891
+      "stock": 887
     },
     {
       "ref": "G-CF279",
@@ -8059,7 +8059,7 @@
       "ref": "HP-226A",
       "designation": "TONER HP 26A CF226A NOIR",
       "prix": 1416.0,
-      "stock": 15,
+      "stock": 14,
       "image": "https://hp.widen.net/content/cdrs78qvaa/webp/cdrs78qvaa.png"
     },
     {
@@ -9237,19 +9237,19 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "KONICA-M",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE MAGENTA",
       "prix": 900.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "KONICA-Y",
@@ -9490,7 +9490,7 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 13,
+      "stock": 12,
       "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png"
     },
     {
@@ -9598,7 +9598,7 @@
       "ref": "LS63",
       "designation": "LDNIO CABLE TYPE-IPHONE LS63",
       "prix": 60.0,
-      "stock": 13,
+      "stock": 12,
       "image": "https://m.media-amazon.com/images/I/61VTNwKRFsL.jpg"
     },
     {
@@ -9938,7 +9938,7 @@
       "ref": "MG04",
       "designation": "SUPORT TELE MG04",
       "prix": 30.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "MG09",
@@ -10006,7 +10006,7 @@
       "ref": "MIN-A2",
       "designation": "PAPIER MINISTER A2",
       "prix": 5.0,
-      "stock": 0
+      "stock": 18
     },
     {
       "ref": "MINI-AGB",
@@ -10068,7 +10068,7 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 174
+      "stock": 173
     },
     {
       "ref": "MON-N",
@@ -10293,7 +10293,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 164
+      "stock": 159
     },
     {
       "ref": "NAV90G",
@@ -10587,7 +10587,7 @@
       "ref": "P005",
       "designation": "PORTE STYLO",
       "prix": 20.0,
-      "stock": 0
+      "stock": 9
     },
     {
       "ref": "P1000",
@@ -11715,7 +11715,7 @@
       "ref": "PTB-031",
       "designation": "PERFOREUSE 2 TROUS BOSTON 10 FEUILLES B301",
       "prix": 30.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "PTM-0027",
@@ -11757,7 +11757,7 @@
       "ref": "PV-AAA",
       "designation": "PILLE VARTA AAA",
       "prix": 5.0,
-      "stock": 26
+      "stock": 6
     },
     {
       "ref": "PVC-XO-2841",
@@ -12489,7 +12489,7 @@
       "ref": "S.770B",
       "designation": "STYLO SMART 0.7MM 770 BLEU",
       "prix": 2.0,
-      "stock": 889
+      "stock": 888
     },
     {
       "ref": "S0050",
@@ -12925,7 +12925,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "SC1630",
@@ -13182,7 +13182,7 @@
       "ref": "SICLA-OR",
       "designation": "CLASSEUR SICLA ORANGE",
       "prix": 28.0,
-      "stock": 15
+      "stock": 13
     },
     {
       "ref": "SICLA-R",
@@ -13224,7 +13224,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1123
+      "stock": 1095
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13909,7 +13909,7 @@
       "ref": "TAR-A4",
       "designation": "RAMETTE PAPIER TARGET A4",
       "prix": 50.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "TB-028",
@@ -14198,7 +14198,7 @@
       "ref": "TIMBRE",
       "designation": "DROIT DE TIMBRE",
       "prix": 0.0,
-      "stock": 85
+      "stock": 92
     },
     {
       "ref": "TINJI-",
@@ -14593,7 +14593,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 25
+      "stock": 22
     },
     {
       "ref": "TP-2",
@@ -14988,7 +14988,7 @@
       "ref": "VARTA-AA",
       "designation": "PILE VARTA AA",
       "prix": 5.0,
-      "stock": 18
+      "stock": -2
     },
     {
       "ref": "VARTA-C",
