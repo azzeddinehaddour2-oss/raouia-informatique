@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:00:02",
-  "count": 2616,
+  "generated_at": "2026-09-11T07:00:02",
+  "count": 2621,
   "products": [
     {
       "ref": "000001",
@@ -194,7 +194,7 @@
     {
       "ref": "140V",
       "designation": "PORTE DOCUMENT 140 VUES",
-      "prix": 50.0,
+      "prix": 38.0,
       "stock": 6
     },
     {
@@ -302,7 +302,7 @@
       "ref": "1713-1N",
       "designation": "RALONCHE INGELEC 3 PRISES 1713/1N BLANC",
       "prix": 52.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "1714/1",
@@ -351,7 +351,7 @@
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
-      "stock": 57
+      "stock": 56
     },
     {
       "ref": "2000V",
@@ -640,6 +640,12 @@
       "stock": 4
     },
     {
+      "ref": "3P700F",
+      "designation": "Eaton 3P Ellipse 700 FR",
+      "prix": 1300.0,
+      "stock": 10
+    },
+    {
       "ref": "4007BB",
       "designation": "MARQUEUR PERMANENT BLEU",
       "prix": 10.0,
@@ -734,7 +740,7 @@
       "ref": "56-C",
       "designation": "CARTOUCHE CANON 56 COULEUR",
       "prix": 220.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "59AHP",
@@ -968,7 +974,7 @@
       "ref": "90NR0LR1-M00AM0",
       "designation": "ASUS ROG STRIX G615LR Ultra 9 ARROWLAKE HX 16''WQXGA 32Go 1To SSD GN2",
       "prix": 29500.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "9152A",
@@ -1414,7 +1420,7 @@
       "ref": "AC750",
       "designation": "TP-LINK ARCHER C20 AC750 Dual-Band wireless Router",
       "prix": 350.0,
-      "stock": 0,
+      "stock": 1,
       "image": "https://static.tp-link.com/Archer_C20(UN)3.0%EF%BC%8D960x720px-00_1490594607274g.jpg"
     },
     {
@@ -1686,7 +1692,7 @@
       "ref": "AGR-13-8",
       "designation": "AGRAFES DELTA STAPLES 13/8 5000 PCS",
       "prix": 16.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "AGR-8",
@@ -2448,7 +2454,7 @@
       "ref": "BL-G2-7-8",
       "designation": "STYLO PILOT NOIR  BL-G2-7-8",
       "prix": 18.0,
-      "stock": 115
+      "stock": 114
     },
     {
       "ref": "BL-G2-7-B",
@@ -2678,7 +2684,7 @@
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 19
+      "stock": 17
     },
     {
       "ref": "BR-01",
@@ -2834,7 +2840,7 @@
       "ref": "BULL-60G",
       "designation": "CHEMISE BULLE EXTRA COLOR 21*31 60g",
       "prix": 50.0,
-      "stock": 3
+      "stock": 1
     },
     {
       "ref": "BUR001",
@@ -3122,7 +3128,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 23
+      "stock": 22
     },
     {
       "ref": "C4313",
@@ -3290,7 +3296,7 @@
       "ref": "CAN-46",
       "designation": "CAROUCHE CANON 46 NOIR",
       "prix": 230.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "CAP-88",
@@ -3452,7 +3458,7 @@
       "ref": "CAR-CF410",
       "designation": "TONER CARRERA CF410A NOIR",
       "prix": 180.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "CAR-CF411",
@@ -3590,7 +3596,7 @@
       "ref": "CAT6",
       "designation": "CABLE RESEAU CAT6 6.5M",
       "prix": 40.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CAT6_3M",
@@ -3686,7 +3692,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 88
+      "stock": 85
     },
     {
       "ref": "CC-2008",
@@ -4286,7 +4292,7 @@
       "ref": "CH180",
       "designation": "CHEMISE CARTONNEE CHRONO MULTICOLOR 180G",
       "prix": 80.0,
-      "stock": 25
+      "stock": 23
     },
     {
       "ref": "CH200",
@@ -4760,6 +4766,12 @@
       "ref": "CO124",
       "designation": "CORNER BOX BLEU EN PLASTIQUE Dos 7cm",
       "prix": 36.0,
+      "stock": 0
+    },
+    {
+      "ref": "CO2-5KG",
+      "designation": "EXTINCTEURS CO2 05 KG",
+      "prix": 600.0,
       "stock": 0
     },
     {
@@ -6572,7 +6584,7 @@
       "ref": "ECT-12",
       "designation": "ENCRE CACHET TRODAT 4912",
       "prix": 35.0,
-      "stock": 19
+      "stock": 13
     },
     {
       "ref": "EF-002",
@@ -6965,6 +6977,18 @@
       "stock": 0
     },
     {
+      "ref": "EX-50KG",
+      "designation": "Extincteur à poudre ABC 50 kg",
+      "prix": 2000.0,
+      "stock": 0
+    },
+    {
+      "ref": "EX-9KG",
+      "designation": "Extincteur à poudre ABC 9 kg",
+      "prix": 370.0,
+      "stock": 0
+    },
+    {
       "ref": "EXA080XA",
       "designation": "CHARGEUR ORIGINAL 20V-2A",
       "prix": 100.0,
@@ -7300,6 +7324,12 @@
       "ref": "G54",
       "designation": "GOMME SMART REF° G54",
       "prix": 3.0,
+      "stock": 0
+    },
+    {
+      "ref": "GA-E200I",
+      "designation": "Imprimante Ticket Thermique GAINSCHA  – 80 mm",
+      "prix": 780.0,
       "stock": 0
     },
     {
@@ -8660,7 +8690,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 249
+      "stock": 248
     },
     {
       "ref": "IAN-480148",
@@ -8973,7 +9003,7 @@
       "ref": "JW-215",
       "designation": "SOURIS JEQANG JW-215",
       "prix": 70.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "JW-330",
@@ -9039,7 +9069,7 @@
       "ref": "KAS10P",
       "designation": "Kaspersky Small Office Security 8.0 | 1 Serveur / 10 Postes",
       "prix": 2200.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "KAS-10P",
@@ -9490,7 +9520,7 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 12,
+      "stock": 11,
       "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png"
     },
     {
@@ -9956,7 +9986,7 @@
       "ref": "MI034-5",
       "designation": "MOTARRO ENCRE BLEU LIQUIDE",
       "prix": 12.0,
-      "stock": 28
+      "stock": 25
     },
     {
       "ref": "MI035-5",
@@ -10293,7 +10323,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 159
+      "stock": 129
     },
     {
       "ref": "NAV90G",
@@ -10365,7 +10395,7 @@
       "ref": "N-GM",
       "designation": "POUBELLE METALLIQUE NOIR GM",
       "prix": 60.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "NGS",
@@ -10812,13 +10842,13 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 5
+      "stock": 0
     },
     {
       "ref": "PAPPH-A4",
       "designation": "PAPIER PHOTO JOJO 210*297 MM",
       "prix": 45.0,
-      "stock": 9
+      "stock": 4
     },
     {
       "ref": "PAR-18V",
@@ -11823,7 +11853,7 @@
       "ref": "Q8848-60001",
       "designation": "PAPIER PHOTO",
       "prix": 70.0,
-      "stock": 6
+      "stock": 1
     },
     {
       "ref": "QB-102-6",
@@ -12147,7 +12177,7 @@
       "ref": "RC-80/80",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80/80",
       "prix": 12.0,
-      "stock": 45
+      "stock": 44
     },
     {
       "ref": "RCA-10M",
@@ -12907,7 +12937,7 @@
       "ref": "SB112",
       "designation": "BLANCO TURBO SB112",
       "prix": 7.0,
-      "stock": 21
+      "stock": 18
     },
     {
       "ref": "SB-40M",
@@ -13362,13 +13392,13 @@
       "ref": "SP-12",
       "designation": "SPIRAL DE RELIURE 12 MM",
       "prix": 0.95,
-      "stock": 0
+      "stock": 101
     },
     {
       "ref": "SP14",
       "designation": "SPIRAL DE RELIURE 14 MM",
       "prix": 2.5,
-      "stock": 0
+      "stock": 100
     },
     {
       "ref": "SP-16MM",
@@ -13873,7 +13903,7 @@
       "ref": "TAB-2M",
       "designation": "TABLEAU MAGNETIQUE 2M/1M",
       "prix": 850.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "TAB60-90",
@@ -13909,7 +13939,7 @@
       "ref": "TAR-A4",
       "designation": "RAMETTE PAPIER TARGET A4",
       "prix": 50.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "TB-028",
@@ -14569,7 +14599,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "TOR-4",
@@ -14819,7 +14849,7 @@
       "ref": "USB-2.0",
       "designation": "CABLE USB 2.0 IAFAN MAL FEMELLE",
       "prix": 30.0,
-      "stock": 10
+      "stock": 2
     },
     {
       "ref": "USB-20W",
