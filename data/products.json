@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:00:02",
-  "count": 2621,
+  "generated_at": "2026-09-13T07:00:02",
+  "count": 2623,
   "products": [
     {
       "ref": "000001",
@@ -152,7 +152,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "121212",
@@ -758,7 +758,7 @@
       "ref": "5E1600",
       "designation": "Onduleur Line-interactive Eaton 5E Gen2 5E1600UI USB -900 W / 1600 VA",
       "prix": 1800.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "5E2200UI",
@@ -3254,7 +3254,7 @@
       "ref": "CABLE-S",
       "designation": "CABLE SAMSUNG ORIGINAL",
       "prix": 30.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "CAD-08",
@@ -4040,7 +4040,7 @@
       "ref": "CEC107",
       "designation": "Toner HP 05A Black Original LaserJet CE505A",
       "prix": 1385.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "CEC112",
@@ -6782,7 +6782,7 @@
       "ref": "ENV-A5P",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 175*254",
       "prix": 1.5,
-      "stock": 175
+      "stock": 174
     },
     {
       "ref": "ENV-A5P-B",
@@ -6950,7 +6950,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1168
+      "stock": 1167
     },
     {
       "ref": "EV33",
@@ -7330,7 +7330,7 @@
       "ref": "GA-E200I",
       "designation": "Imprimante Ticket Thermique GAINSCHA  – 80 mm",
       "prix": 780.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "GAZ-110X220",
@@ -7829,7 +7829,7 @@
       "ref": "HDTV-1.5",
       "designation": "CABLE HDTV 4K  1.5M-2.0V",
       "prix": 50.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "HDTV-5M",
@@ -8089,7 +8089,7 @@
       "ref": "HP-226A",
       "designation": "TONER HP 26A CF226A NOIR",
       "prix": 1416.0,
-      "stock": 14,
+      "stock": 13,
       "image": "https://hp.widen.net/content/cdrs78qvaa/webp/cdrs78qvaa.png"
     },
     {
@@ -8763,7 +8763,7 @@
       "ref": "IMP-A5",
       "designation": "IMPRESSION COULEUR A5",
       "prix": 2.0,
-      "stock": 384
+      "stock": 45384
     },
     {
       "ref": "IMP-C2026",
@@ -8859,7 +8859,7 @@
       "ref": "IP-35W",
       "designation": "CHARGEUR VOITURE ALLUME-CIGARE IPHONE QC3.0",
       "prix": 70.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "IP-6A",
@@ -9040,6 +9040,12 @@
       "designation": "CORRECTEUR TAPE SUPER 8 M   Art:K25",
       "prix": 18.0,
       "stock": 14
+    },
+    {
+      "ref": "K250",
+      "designation": "Clavier Logitech K250 Wireless Bluetooth Keyboard",
+      "prix": 280.0,
+      "stock": 8
     },
     {
       "ref": "K-512B",
@@ -9692,6 +9698,12 @@
       "stock": 0
     },
     {
+      "ref": "M120A",
+      "designation": "MSI M120A Gaming Desktop Ultra 5225 16GB 512GB SSD+MSI PRO MP251 24.5",
+      "prix": 18000.0,
+      "stock": 8
+    },
+    {
       "ref": "M-12288",
       "designation": "ALBUM CARTE DE VISITE POUR 288 / MEMORY-12288",
       "prix": 80.0,
@@ -9713,7 +9725,7 @@
       "ref": "M170",
       "designation": "SOURIS SANS FIL LOGITECH M170",
       "prix": 150.0,
-      "stock": 11
+      "stock": 21
     },
     {
       "ref": "M-170109",
@@ -13254,7 +13266,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1095
+      "stock": 1093
     },
     {
       "ref": "SIDI-ALII-15",
@@ -15054,7 +15066,7 @@
       "ref": "VGA-1.5",
       "designation": "CABLE VGA VGA 1,5m",
       "prix": 30.0,
-      "stock": 36
+      "stock": 35
     },
     {
       "ref": "VGA-15M",
