@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:00:02",
-  "count": 2623,
+  "generated_at": "2026-09-15T07:00:02",
+  "count": 2625,
   "products": [
     {
       "ref": "000001",
@@ -2334,7 +2334,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1138,
+      "stock": 1136,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2406,7 +2406,7 @@
       "ref": "BL-001",
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "BL0022",
@@ -3641,6 +3641,12 @@
       "stock": 0
     },
     {
+      "ref": "CAT-A4",
+      "designation": "Catalogue FT A4 paysage en 126 pages imp R/V Sur papier couché 300g",
+      "prix": 0.0,
+      "stock": 0
+    },
+    {
       "ref": "CB-439",
       "designation": "CABLE TYPE-C HITSTAR 2,4A CB-439 100cm",
       "prix": 30.0,
@@ -3692,7 +3698,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 85
+      "stock": 84
     },
     {
       "ref": "CC-2008",
@@ -3992,6 +3998,12 @@
       "ref": "CEC004",
       "designation": "Agrafeuse pince 24/6 Express Office Xo-755",
       "prix": 150.0,
+      "stock": 0
+    },
+    {
+      "ref": "CEC016",
+      "designation": "Bon de livraison 4 Exemple 4 Couleur  min 5000 bl",
+      "prix": 1.9,
       "stock": 0
     },
     {
@@ -6752,7 +6764,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 24
+      "stock": 22
     },
     {
       "ref": "ENV-A4+",
@@ -7299,7 +7311,7 @@
       "ref": "G-211",
       "designation": "SOURIS SANS FIL  DPI1200",
       "prix": 70.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "G22",
@@ -11727,7 +11739,7 @@
       "ref": "PS-E26",
       "designation": "ECOUTEUR PLUSTAR NORMAL PS-E26",
       "prix": 50.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "PSL-24",
@@ -12423,7 +12435,7 @@
       "ref": "RN5-0036",
       "designation": "REGISTRE NOIR 5 MAIN",
       "prix": 50.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "RN5B-0038",
@@ -13266,7 +13278,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1093
+      "stock": 1092
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14240,7 +14252,7 @@
       "ref": "TIMBRE",
       "designation": "DROIT DE TIMBRE",
       "prix": 0.0,
-      "stock": 92
+      "stock": 94
     },
     {
       "ref": "TINJI-",
