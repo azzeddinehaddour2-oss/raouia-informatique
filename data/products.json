@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T07:00:02",
-  "count": 2625,
+  "generated_at": "2026-09-17T07:00:02",
+  "count": 2630,
   "products": [
     {
       "ref": "000001",
@@ -152,7 +152,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 14
+      "stock": 11
     },
     {
       "ref": "121212",
@@ -643,7 +643,7 @@
       "ref": "3P700F",
       "designation": "Eaton 3P Ellipse 700 FR",
       "prix": 1300.0,
-      "stock": 10
+      "stock": 2
     },
     {
       "ref": "4007BB",
@@ -986,7 +986,7 @@
       "ref": "92611-B",
       "designation": "STYLO BIC CRISTAL QUALITY FIRST BLEU",
       "prix": 2.0,
-      "stock": 66
+      "stock": 65
     },
     {
       "ref": "92611-N",
@@ -1641,6 +1641,12 @@
       "stock": 0
     },
     {
+      "ref": "AG-10CM",
+      "designation": "AGITATEUR EN BOI 12CM",
+      "prix": 0.5,
+      "stock": 0
+    },
+    {
       "ref": "AG2025",
       "designation": "AGENDA 2025",
       "prix": 35.0,
@@ -1903,6 +1909,12 @@
       "designation": "PC PORTABLE ASUS NOTEBOOK PC i5 10GEN 8RAM 256SSD B+",
       "prix": 3200.0,
       "stock": 0
+    },
+    {
+      "ref": "ASSURANCE",
+      "designation": "ASSURANCE",
+      "prix": 0.0,
+      "stock": 2
     },
     {
       "ref": "ASUS-11",
@@ -2720,7 +2732,7 @@
       "ref": "BR-AC-024-025",
       "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
       "prix": 50.0,
-      "stock": 30
+      "stock": 27
     },
     {
       "ref": "BRC02",
@@ -3113,6 +3125,12 @@
       "stock": 7
     },
     {
+      "ref": "C360I",
+      "designation": "Konica Minolta Bizhub C360i Couleur Photocopieur/imprimeur",
+      "prix": 17000.0,
+      "stock": 0
+    },
+    {
       "ref": "C368-C308",
       "designation": "Corona Roller 368/C308",
       "prix": 250.0,
@@ -3254,7 +3272,7 @@
       "ref": "CABLE-S",
       "designation": "CABLE SAMSUNG ORIGINAL",
       "prix": 30.0,
-      "stock": 5
+      "stock": 2
     },
     {
       "ref": "CAD-08",
@@ -3524,7 +3542,7 @@
       "ref": "CAR-D104",
       "designation": "TONER CARRERA MLT-D104S",
       "prix": 200.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "CAR-D111",
@@ -3698,7 +3716,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 84
+      "stock": 83
     },
     {
       "ref": "CC-2008",
@@ -3854,7 +3872,7 @@
       "ref": "CD-2655",
       "designation": "CATIGA CD-2655 CALCULATRICE ELECTRONIQUE",
       "prix": 150.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CD-2677RP",
@@ -4310,7 +4328,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 130
+      "stock": 120
     },
     {
       "ref": "CH200W",
@@ -5132,7 +5150,7 @@
       "ref": "CRJ-0019",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA JAUNE",
       "prix": 10.0,
-      "stock": 25
+      "stock": 20
     },
     {
       "ref": "CRJ45",
@@ -5174,7 +5192,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "CRR-655",
@@ -6764,7 +6782,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "ENV-A4+",
@@ -6836,7 +6854,7 @@
       "ref": "ENV-P",
       "designation": "ENVELOPPES KRAFT JAUNE MINI POCHETTE",
       "prix": 1.0,
-      "stock": 78
+      "stock": 74
     },
     {
       "ref": "ENV-SF",
@@ -7537,6 +7555,12 @@
       "stock": 205
     },
     {
+      "ref": "GOB-40Z",
+      "designation": "GOBLET PAPIER EXPRESSO 40Z",
+      "prix": 0.6,
+      "stock": 0
+    },
+    {
       "ref": "GOM402",
       "designation": "GOMME BLANCHE FOR STUDENT GOM402",
       "prix": 3.0,
@@ -7841,7 +7865,7 @@
       "ref": "HDTV-1.5",
       "designation": "CABLE HDTV 4K  1.5M-2.0V",
       "prix": 50.0,
-      "stock": 19
+      "stock": 17
     },
     {
       "ref": "HDTV-5M",
@@ -8877,7 +8901,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 18
+      "stock": 17
     },
     {
       "ref": "IP-C510",
@@ -9538,7 +9562,7 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 11,
+      "stock": 9,
       "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png"
     },
     {
@@ -9713,7 +9737,7 @@
       "ref": "M120A",
       "designation": "MSI M120A Gaming Desktop Ultra 5225 16GB 512GB SSD+MSI PRO MP251 24.5",
       "prix": 18000.0,
-      "stock": 8
+      "stock": 0
     },
     {
       "ref": "M-12288",
@@ -9725,7 +9749,7 @@
       "ref": "M-13521",
       "designation": "MANIFOLD 13,5*21 2exp",
       "prix": 8.5,
-      "stock": 16
+      "stock": 13
     },
     {
       "ref": "M15004",
@@ -9973,7 +9997,7 @@
       "ref": "MF3010",
       "designation": "IMPRIMANTE CANON MF3010 230V i-SENSYS Bundle laser A4",
       "prix": 3600.0,
-      "stock": 2,
+      "stock": 0,
       "image": "https://cdn.media.amplience.net/i/canon/mf3010_frt_black_fa2dd4be62184ca2a36fb7a86a9611c1"
     },
     {
@@ -10193,6 +10217,12 @@
       "stock": 1
     },
     {
+      "ref": "MR-R",
+      "designation": "PAPIER PHOTO A4 MR.R 210*297 MM",
+      "prix": 60.0,
+      "stock": 0
+    },
+    {
       "ref": "MR-ROUGE",
       "designation": "MARQUEUR RECHARGEABLE DELI ROUGE 6820",
       "prix": 12.0,
@@ -10347,7 +10377,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 129
+      "stock": 103
     },
     {
       "ref": "NAV90G",
@@ -10872,7 +10902,7 @@
       "ref": "PAPPH-A4",
       "designation": "PAPIER PHOTO JOJO 210*297 MM",
       "prix": 45.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "PAR-18V",
@@ -10908,7 +10938,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "PC-24/32",
@@ -11726,7 +11756,7 @@
       "ref": "PS6F",
       "designation": "EATON PROTECTION STRIP 6",
       "prix": 280.0,
-      "stock": 2,
+      "stock": 0,
       "image": "https://m.media-amazon.com/images/I/71v3b9qmPsL._AC_SL1500_.jpg"
     },
     {
@@ -12369,7 +12399,7 @@
       "ref": "RJ11-15M",
       "designation": "CABLE  RJ11 15m",
       "prix": 80.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "RJ11-5M",
@@ -12931,7 +12961,7 @@
       "ref": "SAV-5L",
       "designation": "SAVON LIQUIDE COCO 5L",
       "prix": 45.0,
-      "stock": 10
+      "stock": 5
     },
     {
       "ref": "SAV-D5L",
@@ -12961,7 +12991,7 @@
       "ref": "SB112",
       "designation": "BLANCO TURBO SB112",
       "prix": 7.0,
-      "stock": 18
+      "stock": 16
     },
     {
       "ref": "SB-40M",
@@ -13028,7 +13058,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 61
+      "stock": 59
     },
     {
       "ref": "SC-GB-N",
@@ -13265,8 +13295,8 @@
     {
       "ref": "SIDI-75CL",
       "designation": "EAU MINERALE NATURELLE 75 CL SIDI ALI",
-      "prix": 0.0,
-      "stock": 0
+      "prix": 4.0,
+      "stock": 9
     },
     {
       "ref": "SIDIALI",
@@ -13698,7 +13728,7 @@
       "ref": "S-USBL",
       "designation": "SOURIS USB ORIGINALE",
       "prix": 50.0,
-      "stock": 11
+      "stock": 9
     },
     {
       "ref": "S-USB-M200_16G",
@@ -14479,7 +14509,7 @@
       "ref": "TN325K",
       "designation": "TONER KONICA TN325K NOIR ORIGINAL",
       "prix": 400.0,
-      "stock": -2
+      "stock": 1
     },
     {
       "ref": "TN328-B",
@@ -15078,7 +15108,7 @@
       "ref": "VGA-1.5",
       "designation": "CABLE VGA VGA 1,5m",
       "prix": 30.0,
-      "stock": 35
+      "stock": 34
     },
     {
       "ref": "VGA-15M",
