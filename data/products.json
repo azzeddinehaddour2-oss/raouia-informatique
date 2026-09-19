@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:00:02",
-  "count": 2630,
+  "generated_at": "2026-09-19T07:00:02",
+  "count": 2632,
   "products": [
     {
       "ref": "000001",
@@ -96,7 +96,7 @@
       "ref": "103-M",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE MAGENTA",
       "prix": 150.0,
-      "stock": 1
+      "stock": 2
     },
     {
       "ref": "103-N",
@@ -454,7 +454,7 @@
       "ref": "2300A-B",
       "designation": "TONER NWC HP 2300A BLACK 230A 4203D",
       "prix": 320.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "2300R",
@@ -1357,7 +1357,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": 30
+      "stock": 29
     },
     {
       "ref": "AB-68",
@@ -2346,7 +2346,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1136,
+      "stock": 1135,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2379,7 +2379,7 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 211,
+      "stock": 210,
       "image": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg"
     },
     {
@@ -2696,7 +2696,7 @@
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 17
+      "stock": 16
     },
     {
       "ref": "BR-01",
@@ -2876,7 +2876,7 @@
       "ref": "BUR004",
       "designation": "REGISTRE NOIR 2 MM NUMERIQUE",
       "prix": 55.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "BUR005",
@@ -3146,7 +3146,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "C4313",
@@ -3206,7 +3206,7 @@
       "ref": "C-96P",
       "designation": "CAHIER PIQUE 96 PAGES A4 21x29.7 Study Buddy",
       "prix": 10.0,
-      "stock": 63
+      "stock": 33
     },
     {
       "ref": "C-9713",
@@ -3272,7 +3272,7 @@
       "ref": "CABLE-S",
       "designation": "CABLE SAMSUNG ORIGINAL",
       "prix": 30.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "CAD-08",
@@ -3582,9 +3582,9 @@
     },
     {
       "ref": "CART-G",
-      "designation": "CARTABLE GRIS",
+      "designation": "CARTABLE PC PORTABLE",
       "prix": 150.0,
-      "stock": 4
+      "stock": 7
     },
     {
       "ref": "CART-NVD",
@@ -3716,7 +3716,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 83
+      "stock": 82
     },
     {
       "ref": "CC-2008",
@@ -4130,7 +4130,7 @@
       "ref": "CF230A",
       "designation": "TONER WORD CF230A NOIR",
       "prix": 150.0,
-      "stock": 4
+      "stock": 9
     },
     {
       "ref": "CF259A",
@@ -4172,7 +4172,7 @@
       "ref": "CF400NW",
       "designation": "TONER WORD CF400A/CRG045 NOIR-CF540A",
       "prix": 180.0,
-      "stock": 0
+      "stock": 3
     },
     {
       "ref": "CF402A",
@@ -4328,7 +4328,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 120
+      "stock": 119
     },
     {
       "ref": "CH200W",
@@ -4706,7 +4706,7 @@
       "ref": "CL-305",
       "designation": "CARTOUCHE HP 305 3COULEURS",
       "prix": 200.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "CLA-4CM",
@@ -5945,7 +5945,7 @@
       "ref": "DM-CF232A",
       "designation": "DRUM CF232A CRG-51 BLACK",
       "prix": 150.0,
-      "stock": 1
+      "stock": 5
     },
     {
       "ref": "DMD",
@@ -6494,7 +6494,7 @@
       "ref": "EC-009",
       "designation": "ECOUTEUR VLIKE VK6S",
       "prix": 60.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "EC-046",
@@ -6761,6 +6761,12 @@
       "stock": 0
     },
     {
+      "ref": "ENV47/36",
+      "designation": "ENVELOPPES GAZELLE POCHETTE A3+ 470*360 MM",
+      "prix": 3.0,
+      "stock": 0
+    },
+    {
       "ref": "ENV-4O",
       "designation": "ENVELOPPE PLASTIQUE BOUTON ORANGE",
       "prix": 8.0,
@@ -6854,7 +6860,7 @@
       "ref": "ENV-P",
       "designation": "ENVELOPPES KRAFT JAUNE MINI POCHETTE",
       "prix": 1.0,
-      "stock": 74
+      "stock": 73
     },
     {
       "ref": "ENV-SF",
@@ -8182,7 +8188,7 @@
       "ref": "HP-3003DN",
       "designation": "HP LASERJET PRO 3003dn IMPRIMANTE LASER MONOCHROME",
       "prix": 3000.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "HP322",
@@ -8696,7 +8702,7 @@
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
-      "stock": 0
+      "stock": 7
     },
     {
       "ref": "HUB",
@@ -8726,7 +8732,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 248
+      "stock": 247
     },
     {
       "ref": "IAN-480148",
@@ -10034,7 +10040,7 @@
       "ref": "MI034-5",
       "designation": "MOTARRO ENCRE BLEU LIQUIDE",
       "prix": 12.0,
-      "stock": 25
+      "stock": 24
     },
     {
       "ref": "MI035-5",
@@ -10108,7 +10114,7 @@
       "ref": "MK220",
       "designation": "PACK CLAVIE+SOURIS SANS FIL LOGITECH MK220",
       "prix": 350.0,
-      "stock": 7,
+      "stock": 14,
       "image": "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery1.png"
     },
     {
@@ -10533,7 +10539,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 6
+      "stock": 21
     },
     {
       "ref": "NWC-CF226A",
@@ -10551,7 +10557,7 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "NWC-W1360A",
@@ -10938,7 +10944,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 0
+      "stock": 15
     },
     {
       "ref": "PC-24/32",
@@ -11316,7 +11322,7 @@
       "ref": "P-N10350",
       "designation": "UGREEN 10350 CABLE IMPRIMANTE USB 1.5M NOIR",
       "prix": 40.0,
-      "stock": 8
+      "stock": 6
     },
     {
       "ref": "PN10919",
@@ -12231,7 +12237,7 @@
       "ref": "RC-80/80",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80/80",
       "prix": 12.0,
-      "stock": 44
+      "stock": 39
     },
     {
       "ref": "RCA-10M",
@@ -13494,7 +13500,7 @@
       "ref": "SP-250ML",
       "designation": "SCENABELLA SPRAY 250 ML",
       "prix": 50.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "SP-26M",
@@ -13674,7 +13680,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 23
+      "stock": 13
     },
     {
       "ref": "STOCK2026F",
@@ -13776,6 +13782,12 @@
       "ref": "T14",
       "designation": "LENOVO Thinkpad T14s i7-1355U 14\" WUXGA AG 16 Go 1 TB SSD Win 11 PRO",
       "prix": 18990.0,
+      "stock": 0
+    },
+    {
+      "ref": "T14S-I7-512",
+      "designation": "lenovo thinkpad t14s i7 12th gen 16gb 512 NVMe",
+      "prix": 0.0,
       "stock": 0
     },
     {
@@ -13927,7 +13939,7 @@
       "ref": "TAB-028",
       "designation": "TROMBONNES EN ACIER BOSTON 100 PIECES UNITE 28mm 2111",
       "prix": 6.0,
-      "stock": 18
+      "stock": 17
     },
     {
       "ref": "TAB-0628",
@@ -14509,7 +14521,7 @@
       "ref": "TN325K",
       "designation": "TONER KONICA TN325K NOIR ORIGINAL",
       "prix": 400.0,
-      "stock": 1
+      "stock": -2
     },
     {
       "ref": "TN328-B",
@@ -15193,7 +15205,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 10
+      "stock": 25
     },
     {
       "ref": "W1106",
@@ -15223,13 +15235,13 @@
       "ref": "W1500A-W",
       "designation": "TONER HP 150A W1500A WORD",
       "prix": 200.0,
-      "stock": 15
+      "stock": 25
     },
     {
       "ref": "W1510",
       "designation": "TONER HP 151A W1510A WORD",
       "prix": 200.0,
-      "stock": 6
+      "stock": 11
     },
     {
       "ref": "W1510A",
@@ -15464,7 +15476,7 @@
       "ref": "W2410A",
       "designation": "TONER 216A NOIR WORD W2410A",
       "prix": 300.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "W2410A_CARR",
@@ -15476,7 +15488,7 @@
       "ref": "W2411A_CARR",
       "designation": "TONER 216Z CYAN CARRERA W2411A",
       "prix": 300.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "W2412A",
@@ -15494,7 +15506,7 @@
       "ref": "W2413A_CARR",
       "designation": "TONER 216Z MAGENTA CARRERA W2413A",
       "prix": 300.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "W-2612",
@@ -15789,7 +15801,7 @@
       "ref": "XO-035",
       "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210x148 mm",
       "prix": 120.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "XO-2353",
