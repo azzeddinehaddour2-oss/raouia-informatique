@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T07:00:02",
-  "count": 2632,
+  "generated_at": "2026-09-25T07:00:02",
+  "count": 2646,
   "products": [
     {
       "ref": "000001",
@@ -87,6 +87,12 @@
       "stock": 1
     },
     {
+      "ref": "101-N",
+      "designation": "EPSON 101 BOUTEILLE D'ENCRE NOIR",
+      "prix": 150.0,
+      "stock": 0
+    },
+    {
       "ref": "103-CY",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE CYAN",
       "prix": 150.0,
@@ -152,7 +158,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 11
+      "stock": 9
     },
     {
       "ref": "121212",
@@ -508,7 +514,7 @@
       "ref": "25W-TC",
       "designation": "ADAPTER BRUDER 25W TYPE C",
       "prix": 60.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "25WUSB",
@@ -968,7 +974,7 @@
       "ref": "9002",
       "designation": "RLX ETIQUETEUSE MEMORY 21*12MM-- 1000RLX/CTN",
       "prix": 5.0,
-      "stock": 70
+      "stock": 60
     },
     {
       "ref": "90NR0LR1-M00AM0",
@@ -1439,7 +1445,7 @@
       "ref": "ACE-10L",
       "designation": "EAU JAVEL ACE 10L",
       "prix": 75.0,
-      "stock": 4
+      "stock": 11
     },
     {
       "ref": "ACE-2.5L",
@@ -1641,6 +1647,12 @@
       "stock": 0
     },
     {
+      "ref": "AG+A5+PB",
+      "designation": "COFFRET AGENDA A5 AVEC POWER BANK",
+      "prix": 500.0,
+      "stock": 1
+    },
+    {
       "ref": "AG-10CM",
       "designation": "AGITATEUR EN BOI 12CM",
       "prix": 0.5,
@@ -1663,6 +1675,12 @@
       "designation": "AGENDA 2023 650047",
       "prix": 80.0,
       "stock": 0
+    },
+    {
+      "ref": "AG-A5+ST",
+      "designation": "COFFRET AGENDA A5 AVEC STYLO",
+      "prix": 200.0,
+      "stock": 1
     },
     {
       "ref": "AG-A6",
@@ -1785,6 +1803,12 @@
       "stock": 0
     },
     {
+      "ref": "AMS-A5",
+      "designation": "COFFRET AGENDA AMSPEC A5 AVEC STYLO + PORTE-CLES",
+      "prix": 220.0,
+      "stock": 1
+    },
+    {
       "ref": "AP-015",
       "designation": "AGRAFEUSE A PINCE CHROME 150 CAPACITE 1412",
       "prix": 70.0,
@@ -1813,6 +1837,12 @@
       "designation": "Promethean APLX-75-NA ActivPanel LX (70\") Interactive Display 4K TFT",
       "prix": 0.0,
       "stock": 0
+    },
+    {
+      "ref": "APPLE",
+      "designation": "APPLE WATCH",
+      "prix": 8000.0,
+      "stock": 1
     },
     {
       "ref": "AQUAFINA150",
@@ -1848,7 +1878,7 @@
       "ref": "ARIX-5L",
       "designation": "SAVON LIQUIDE VAISSELLE ARRIXACA 5L",
       "prix": 80.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "AROMIL",
@@ -2244,7 +2274,7 @@
       "ref": "BC-0977",
       "designation": "BINDER CLIPS 977114",
       "prix": 2.0,
-      "stock": 15
+      "stock": 3
     },
     {
       "ref": "BC-100",
@@ -2256,7 +2286,7 @@
       "ref": "BC-2EXP",
       "designation": "BON DE COMMANDE 2 EXP",
       "prix": 18.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "BC-5671",
@@ -2346,7 +2376,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1135,
+      "stock": 1085,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2460,7 +2490,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 206
+      "stock": 205
     },
     {
       "ref": "BL-G2-7-8",
@@ -2528,7 +2558,7 @@
       "ref": "BLOC-A5",
       "designation": "BLOC NOTE NOIR FT A5 EN 100 FEUILLES",
       "prix": 35.0,
-      "stock": 34
+      "stock": 33
     },
     {
       "ref": "BL-WN151",
@@ -2732,7 +2762,7 @@
       "ref": "BR-AC-024-025",
       "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
       "prix": 50.0,
-      "stock": 27
+      "stock": 26
     },
     {
       "ref": "BRC02",
@@ -3001,8 +3031,8 @@
     {
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
-      "prix": 30.0,
-      "stock": 56
+      "prix": 35.0,
+      "stock": 53
     },
     {
       "ref": "C200041380",
@@ -3134,7 +3164,7 @@
       "ref": "C368-C308",
       "designation": "Corona Roller 368/C308",
       "prix": 250.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "C4311",
@@ -3152,7 +3182,7 @@
       "ref": "C4313",
       "designation": "CACHET  MOBI STAMPS C4313",
       "prix": 120.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "C450P",
@@ -3272,7 +3302,7 @@
       "ref": "CABLE-S",
       "designation": "CABLE SAMSUNG ORIGINAL",
       "prix": 30.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CAD-08",
@@ -3716,7 +3746,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 82
+      "stock": 76
     },
     {
       "ref": "CC-2008",
@@ -3944,7 +3974,7 @@
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 216
+      "stock": 144
     },
     {
       "ref": "CE037",
@@ -4163,6 +4193,12 @@
       "stock": 0
     },
     {
+      "ref": "CF363A",
+      "designation": "TONER NWC HP CF363A-CAN040 MAGENTA",
+      "prix": 400.0,
+      "stock": 0
+    },
+    {
       "ref": "CF384",
       "designation": "CAHIER GRAND FORMAT REUNYOM 384 PAGES",
       "prix": 30.0,
@@ -4328,7 +4364,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 119
+      "stock": 115
     },
     {
       "ref": "CH200W",
@@ -4593,6 +4629,12 @@
       "designation": "CHARGEUR IPHONE+CABLE 12W CIPO-001",
       "prix": 70.0,
       "stock": 1
+    },
+    {
+      "ref": "CITR-5L",
+      "designation": "NETTOYANT SOL CITRON 5L",
+      "prix": 23.0,
+      "stock": 0
     },
     {
       "ref": "CJ-002",
@@ -4878,9 +4920,9 @@
     },
     {
       "ref": "COP80G",
-      "designation": "RAMETTE PAPIER A4 80g",
+      "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 0
+      "stock": 97
     },
     {
       "ref": "COP-SA4",
@@ -5330,7 +5372,7 @@
       "ref": "CSR-017",
       "designation": "CACHET SHINY R-517 ROUND",
       "prix": 120.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "CT-004",
@@ -5816,9 +5858,9 @@
     },
     {
       "ref": "DEL-USB",
-      "designation": "CLAVIER DELL USB ORIGINAL",
-      "prix": 70.0,
-      "stock": 0
+      "designation": "CLAVIER MSI USB ORIGINAL",
+      "prix": 130.0,
+      "stock": 4
     },
     {
       "ref": "DFS-001",
@@ -6788,7 +6830,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 21
+      "stock": 19
     },
     {
       "ref": "ENV-A4+",
@@ -6818,7 +6860,7 @@
       "ref": "ENV-A5P",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 175*254",
       "prix": 1.5,
-      "stock": 174
+      "stock": 173
     },
     {
       "ref": "ENV-A5P-B",
@@ -6866,7 +6908,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 588
+      "stock": 584
     },
     {
       "ref": "ENVT-0028",
@@ -6986,7 +7028,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1167
+      "stock": 1166
     },
     {
       "ref": "EV33",
@@ -7286,7 +7328,7 @@
       "ref": "FOXCONN30",
       "designation": "CABLE USB IPHONE FOXCONN30",
       "prix": 30.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "FR005",
@@ -7384,7 +7426,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 887
+      "stock": 886
     },
     {
       "ref": "G-CF279",
@@ -7492,7 +7534,7 @@
       "ref": "GI-490N",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490N NOIR 135",
       "prix": 162.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "GI-490Y",
@@ -7716,6 +7758,12 @@
       "designation": "CRAYON HB 2 PENCIL",
       "prix": 2.0,
       "stock": 432
+    },
+    {
+      "ref": "HCS200",
+      "designation": "RUBAN MONO NOIR HITI CS200 1000 IMAGES",
+      "prix": 250.0,
+      "stock": 2
     },
     {
       "ref": "HD330",
@@ -8089,7 +8137,7 @@
       "ref": "HP-145N",
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "HP-150A",
@@ -8150,7 +8198,7 @@
       "ref": "HP-24POUCE",
       "designation": "Écran 23\" Full HD HP EliteDisplay E233",
       "prix": 1050.0,
-      "stock": 11,
+      "stock": 10,
       "image": "https://hp.widen.net/content/c3gmpyqdzs/png/c3gmpyqdzs.png"
     },
     {
@@ -8853,7 +8901,7 @@
       "ref": "INT-S12",
       "designation": "INTERCLAIRES CARTONE SICLA (1-12)",
       "prix": 30.0,
-      "stock": 76
+      "stock": 73
     },
     {
       "ref": "IP-004",
@@ -9129,13 +9177,13 @@
       "ref": "KAS-1P",
       "designation": "KASPERSKY PLUS 1 APPAREIL",
       "prix": 150.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "KAS-3P",
       "designation": "KASPERSKY PLUS 3 POSTES",
       "prix": 350.0,
-      "stock": 5
+      "stock": 1
     },
     {
       "ref": "KAS-5P",
@@ -9165,7 +9213,7 @@
       "ref": "KB8236",
       "designation": "DI FASHION CLAVIER KB8236",
       "prix": 60.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "KC01",
@@ -9315,19 +9363,19 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "KONICA-M",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE MAGENTA",
       "prix": 900.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "KONICA-Y",
@@ -9375,6 +9423,12 @@
       "ref": "LAM55",
       "designation": "LAME IVOIRE BOMBEE 55",
       "prix": 0.0,
+      "stock": 0
+    },
+    {
+      "ref": "LAV-5L",
+      "designation": "NETTOYANT SOL LAVANDE 5L",
+      "prix": 23.0,
       "stock": 0
     },
     {
@@ -9562,7 +9616,7 @@
       "ref": "LOG-H2",
       "designation": "TAPIS DE SOURIS LOGITECH H-2",
       "prix": 25.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "LOGT-M171",
@@ -9925,7 +9979,7 @@
       "ref": "MAR-A4",
       "designation": "RAMETTE PAPIER MARAM A4 80G",
       "prix": 50.0,
-      "stock": 28
+      "stock": 23
     },
     {
       "ref": "MAX75W",
@@ -10164,13 +10218,13 @@
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 99
+      "stock": 39
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": 83
+      "stock": 23
     },
     {
       "ref": "MP02",
@@ -10383,7 +10437,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 103
+      "stock": 93
     },
     {
       "ref": "NAV90G",
@@ -10419,7 +10473,7 @@
       "ref": "NES-COF",
       "designation": "NESPRESSO COFFEE CAPSULES 10P",
       "prix": 66.0,
-      "stock": 20
+      "stock": 15
     },
     {
       "ref": "NES-P",
@@ -10539,7 +10593,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 21
+      "stock": 19
     },
     {
       "ref": "NWC-CF226A",
@@ -10563,7 +10617,7 @@
       "ref": "NWC-W1360A",
       "designation": "TONER NWC HP  W1360A AVEC PUCE",
       "prix": 330.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "NYLON-66",
@@ -10677,7 +10731,7 @@
       "ref": "P005",
       "designation": "PORTE STYLO",
       "prix": 20.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "P1000",
@@ -10914,7 +10968,7 @@
       "ref": "PAR-18V",
       "designation": "PARAPHEUR SICLA / 18 VOLETS",
       "prix": 80.0,
-      "stock": 2
+      "stock": 4
     },
     {
       "ref": "PB-PVC",
@@ -10944,7 +10998,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 15
+      "stock": 11
     },
     {
       "ref": "PC-24/32",
@@ -11322,7 +11376,7 @@
       "ref": "P-N10350",
       "designation": "UGREEN 10350 CABLE IMPRIMANTE USB 1.5M NOIR",
       "prix": 40.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "PN10919",
@@ -12240,6 +12294,12 @@
       "stock": 39
     },
     {
+      "ref": "RC-80X75",
+      "designation": "ROULEAU DE CAISSE THERMIQUE 80x75",
+      "prix": 12.0,
+      "stock": 39
+    },
+    {
       "ref": "RCA-10M",
       "designation": "CABLE RCA TECHNIQUE 10M",
       "prix": 50.0,
@@ -12751,7 +12811,7 @@
       "ref": "S-5L",
       "designation": "SANI DESINFECTANT OCEAN 5L",
       "prix": 25.0,
-      "stock": 18
+      "stock": 15
     },
     {
       "ref": "S-5L-L",
@@ -12769,7 +12829,7 @@
       "ref": "S621J",
       "designation": "FLUORESCENT  DELI ACCENT JAUNE RF S621",
       "prix": 10.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "S621O",
@@ -12799,7 +12859,7 @@
       "ref": "S650B",
       "designation": "STYLO SMART  650Q BLEU",
       "prix": 2.0,
-      "stock": 999
+      "stock": 993
     },
     {
       "ref": "S650N",
@@ -13015,7 +13075,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "SC1630",
@@ -13064,7 +13124,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 59
+      "stock": 58
     },
     {
       "ref": "SC-GB-N",
@@ -13302,7 +13362,7 @@
       "ref": "SIDI-75CL",
       "designation": "EAU MINERALE NATURELLE 75 CL SIDI ALI",
       "prix": 4.0,
-      "stock": 9
+      "stock": 1
     },
     {
       "ref": "SIDIALI",
@@ -13314,7 +13374,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 1092
+      "stock": 528
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13732,9 +13792,9 @@
     },
     {
       "ref": "S-USBL",
-      "designation": "SOURIS USB ORIGINALE",
-      "prix": 50.0,
-      "stock": 9
+      "designation": "SOURIS USB ORIGINALE MSI",
+      "prix": 90.0,
+      "stock": 8
     },
     {
       "ref": "S-USB-M200_16G",
@@ -14059,7 +14119,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 29
+      "stock": 19
     },
     {
       "ref": "T-BLEU",
@@ -14596,10 +14656,34 @@
       "stock": 19
     },
     {
+      "ref": "TN619C",
+      "designation": "TONER KONICA ORIGINAL TN619C CYAN",
+      "prix": 1400.0,
+      "stock": 1
+    },
+    {
+      "ref": "TN619K",
+      "designation": "TONER KONICA ORIGINAL TN619K BLACK",
+      "prix": 1300.0,
+      "stock": 3
+    },
+    {
+      "ref": "TN619M",
+      "designation": "TONER KONICA ORIGINAL TN619M MAGENTA",
+      "prix": 1400.0,
+      "stock": 1
+    },
+    {
+      "ref": "TN619Y",
+      "designation": "TONER KONICA ORIGINAL TN619Y YELLOW",
+      "prix": 1400.0,
+      "stock": 1
+    },
+    {
       "ref": "TN-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE  BLACK",
       "prix": 900.0,
-      "stock": 5
+      "stock": 3
     },
     {
       "ref": "TNB-001",
@@ -14969,7 +15053,7 @@
       "ref": "USB-8P",
       "designation": "Station d'accueil USB Type-C avec 8 Port",
       "prix": 300.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "USB-C",
