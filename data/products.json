@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T07:00:02",
-  "count": 2646,
+  "generated_at": "2026-09-27T07:00:02",
+  "count": 2648,
   "products": [
     {
       "ref": "000001",
@@ -158,7 +158,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "121212",
@@ -679,7 +679,7 @@
       "ref": "4326-4",
       "designation": "PORTE CLES COLORER 4362-4",
       "prix": 5.0,
-      "stock": 472
+      "stock": 471
     },
     {
       "ref": "4605810",
@@ -1363,7 +1363,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": 29
+      "stock": 16
     },
     {
       "ref": "AB-68",
@@ -1758,7 +1758,7 @@
       "ref": "AIN001",
       "designation": "CD-R ANGTE 50 700MB + POSHETTE",
       "prix": 6.0,
-      "stock": 35
+      "stock": 34
     },
     {
       "ref": "AIO-I7",
@@ -2274,7 +2274,7 @@
       "ref": "BC-0977",
       "designation": "BINDER CLIPS 977114",
       "prix": 2.0,
-      "stock": 3
+      "stock": -9
     },
     {
       "ref": "BC-100",
@@ -2376,7 +2376,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1085,
+      "stock": 1084,
       "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg"
     },
     {
@@ -2490,7 +2490,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 205
+      "stock": 204
     },
     {
       "ref": "BL-G2-7-8",
@@ -2738,7 +2738,7 @@
       "ref": "BR-02",
       "designation": "CABLE TYPE C TYPE C/ TYPE C IPHONE 5A BRUDER BR-02",
       "prix": 40.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "BR-03",
@@ -2840,7 +2840,7 @@
       "ref": "BS1212",
       "designation": "AGRAFEUSE A PINCE BOSTON 24/6  BS1212",
       "prix": 70.0,
-      "stock": 3
+      "stock": 1
     },
     {
       "ref": "BS2419",
@@ -3746,7 +3746,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 76
+      "stock": 73
     },
     {
       "ref": "CC-2008",
@@ -4997,6 +4997,12 @@
       "stock": 8
     },
     {
+      "ref": "CP-A4",
+      "designation": "CHEMISE A RABAT A4 PERSONALISE \"MEGA POSTE \"",
+      "prix": 0.0,
+      "stock": 0
+    },
+    {
       "ref": "CPC-1722",
       "designation": "COUVERTURE PETIT CAHIER 17*22",
       "prix": 2.0,
@@ -6203,7 +6209,7 @@
       "ref": "DS-2CE19HOT",
       "designation": "HIKVISION CAMERA 5 MP DS-2CE19HOT-AIT3ZF BULLET",
       "prix": 800.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "DS-2CE19U1T",
@@ -6409,7 +6415,7 @@
       "ref": "DVD-R16X",
       "designation": "DVD-R 16X  4.7GB 120MIN",
       "prix": 10.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "DVR-4CH",
@@ -10593,7 +10599,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "NWC-CF226A",
@@ -10618,6 +10624,12 @@
       "designation": "TONER NWC HP  W1360A AVEC PUCE",
       "prix": 330.0,
       "stock": 2
+    },
+    {
+      "ref": "NYL-66",
+      "designation": "paquet d'attache plastifiée boost multicolore",
+      "prix": 13.0,
+      "stock": 1
     },
     {
       "ref": "NYLON-66",
@@ -10749,7 +10761,7 @@
       "ref": "P1200",
       "designation": "PAPIER THERMIQUE 1200",
       "prix": 10.0,
-      "stock": 17
+      "stock": 7
     },
     {
       "ref": "P-160G",
@@ -11406,7 +11418,7 @@
       "ref": "PO002",
       "designation": "POUBELLE PLASTIQUE",
       "prix": 30.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "POR-CLE",
@@ -13124,7 +13136,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 58
+      "stock": 56
     },
     {
       "ref": "SC-GB-N",
@@ -13740,7 +13752,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "STOCK2026F",
