@@ -31,7 +31,15 @@ def _used_origins(images: dict) -> dict:
             if e.get("source") in ("local", "web")}
 
 
-def process_candidates(profile, candidates, all_refs, dry_run: bool, used_origins=None) -> Outcome:
+def _same_product(a, b) -> bool:
+    """Deux fiches Sage du même article (config/stock différents) : même
+    marque, même modèle principal, mêmes couleurs."""
+    return (a.brand == b.brand and a.primary_model == b.primary_model
+            and a.colours == b.colours and not a.skip_reason and not b.skip_reason)
+
+
+def process_candidates(profile, candidates, all_refs, dry_run: bool, used_origins=None,
+                       designations=None) -> Outcome:
     """Évalue tous les candidats, télécharge le meilleur ACCEPT qui passe le
     contrôle qualité. Le moindre doute bascule en file de revue."""
     accepted, review = [], []
@@ -51,7 +59,8 @@ def process_candidates(profile, candidates, all_refs, dry_run: bool, used_origin
     used = used_origins or {}
     for score, cand, reasons in accepted:
         other = used.get(cand.image_url)
-        if other and other != profile.ref:
+        if other and other != profile.ref and not (
+                designations and _same_product(profile, build_profile(other, designations.get(other, "")))):
             # Une photo déjà attribuée à un autre article ne peut pas être
             # "exacte" pour deux références différentes (incident Samsung 08/2026).
             review.append((score, cand, reasons + [f"image déjà utilisée pour {other}"]))
@@ -133,7 +142,8 @@ def run_search(providers, limit: int, refs: list[str] | None, dry_run: bool,
             except Exception as exc:  # noqa: BLE001 - un fournisseur en panne ne bloque pas les autres
                 log.warning("[%s] fournisseur %s en erreur : %s", ref, prov.name, exc)
 
-        outcome = process_candidates(profile, candidates, all_refs, dry_run, _used_origins(images))
+        outcome = process_candidates(profile, candidates, all_refs, dry_run, _used_origins(images),
+                                     {x["ref"]: x["designation"] for x in products})
         attempted.add(ref)
         if outcome.status == "ok":
             stats["images"] += 1

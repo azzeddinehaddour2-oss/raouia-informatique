@@ -98,9 +98,12 @@
     "validated_at": "2026-09-28"
   },
   "107W": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/107w.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/tng3oh867l/png/tng3oh867l.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/printers/product-details/24494358",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "1111": {
     "image": "data/placeholders/divers.svg",
@@ -6648,9 +6651,12 @@
     "source_page": null
   },
   "HP-100": {
-    "image": "data/placeholders/souris.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-100.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/mspzm423pv/png/mspzm423pv.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/accessories/product-details/29363050",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-106A": {
     "image": "images/produits/hp-106a.webp",
@@ -6739,14 +6745,17 @@
     "validated_at": "2026-09-28"
   },
   "HP-270G7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-270g7.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/pgeykv0p4a/png/pgeykv0p4a.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-250-g7-notebook-pc/24381316",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-290G": {
     "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-3003": {
     "image": "images/produits/hp-3003.webp",
@@ -6757,9 +6766,12 @@
     "validated_at": "2026-09-28"
   },
   "HP-3003DN": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-3003dn.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/lw7ilr2bk1/png/lw7ilr2bk1.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/printers/product-details/35801001",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-32V": {
     "image": "data/placeholders/chargeur.svg",
@@ -6820,12 +6832,9 @@
     "validated_at": "2026-09-28"
   },
   "HP-800-G3": {
-    "image": "images/produits/hp-800-g3.webp",
-    "source": "local",
-    "origin_url": "https://hp.widen.net/content/jiipvkahau/png/jiipvkahau.png",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-elitedesk-800-g3-small-form-factor-pc/15257618",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-80A": {
     "image": "images/produits/hp-80a.webp",
@@ -6886,9 +6895,12 @@
     "source_page": null
   },
   "HP-M182N": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-m182n.webp",
+    "source": "local",
+    "origin_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/7/K/7KW54A-1_T1678974365.png",
+    "source_page": "https://www.hp.com/my-en/shop/hp-color-laserjet-pro-mfp-m182n-7kw54a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-TB": {
     "image": "data/placeholders/chargeur.svg",
@@ -6906,9 +6918,12 @@
     "source_page": null
   },
   "HP1000": {
-    "image": "data/placeholders/souris.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp1000.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/re5yz4wv0x/png/re5yz4wv0x.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ie-en/products/accessories/product-details/24458162",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP19A": {
     "image": "images/produits/hp19a.webp",
@@ -6924,9 +6939,12 @@
     "source_page": null
   },
   "HP3000S4": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp3000s4.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/3qr2yq0cmv/png/3qr2yq0cmv.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/scanners/product-details/28704132",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP322": {
     "image": "images/produits/hp322.webp",
@@ -6968,8 +6986,8 @@
   },
   "HP800G3I5": {
     "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP840G6": {
     "image": "images/produits/hp840g6.webp",
@@ -7561,9 +7579,12 @@
     "source_page": null
   },
   "JET-M111A": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/jet-m111a.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/7/M/7MD67A-1_T1678934497.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-laserjet-m111a-printer-7md67a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "JH-103D": {
     "image": "data/placeholders/audio.svg",
