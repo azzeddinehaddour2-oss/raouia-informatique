@@ -182,13 +182,16 @@ def extract_capacities_gb(text: str) -> set[float]:
     return out
 
 
-def extract_colours(text: str, include_tricolor: bool) -> set[str]:
+def extract_colours(text: str, include_tricolor: bool, glued: bool = False) -> set[str]:
+    """glued=True (désignations Sage) : détecte aussi une couleur collée à un
+    autre mot, ex. 'TITANIUMBLACK', 'GRAPHITE6.4'."""
     words = set(tokenize(text)) | set(re.findall(r"TRI-COLOU?R", normalize_text(text)))
+    flat = compact(text)
     found = set()
     for canon, variants in COLOURS.items():
         if canon == "tricolor" and not include_tricolor:
             continue
-        if any(v in words for v in variants):
+        if any(v in words for v in variants) or (glued and any(len(v) >= 5 and v in flat for v in variants)):
             found.add(canon)
     return found
 
@@ -310,7 +313,7 @@ def build_profile(ref: str, designation: str) -> ProductProfile:
         return p
 
     p.capacities = extract_capacities_gb(designation)
-    p.colours = extract_colours(designation, include_tricolor=(category == "toner"))
+    p.colours = extract_colours(designation, include_tricolor=(category == "toner"), glued=True)
     return p
 
 
@@ -429,7 +432,7 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
         if cand_colours and not (cand_colours & profile.colours):
             return MatchResult(REJECT, [
                 f"couleur différente (produit {sorted(profile.colours)}, source {sorted(cand_colours)})"])
-        if not cand_colours and profile.category == "toner":
+        if not cand_colours:   # couleur indiquée par Sage mais non confirmée par la source
             verdict = REVIEW
             reasons.append("couleur non confirmée par la source")
 

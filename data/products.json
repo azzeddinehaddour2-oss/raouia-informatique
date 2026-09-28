@@ -10535,7 +10535,8 @@
       "ref": "K250",
       "designation": "Clavier Logitech K250 Wireless Bluetooth Keyboard",
       "prix": 280.0,
-      "stock": 8
+      "stock": 8,
+      "image": "images/produits/k250.webp"
     },
     {
       "ref": "K-512B",
@@ -11714,7 +11715,7 @@
       "designation": "LOGITECH Desktop MK120, French AZERTY",
       "prix": 200.0,
       "stock": 8,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/mk120.webp"
     },
     {
       "ref": "MK220",
@@ -14960,7 +14961,8 @@
       "ref": "SAM-A57",
       "designation": "SAMSUNG Galaxy A57 5G Dual Sim (8GB | 128 GB)",
       "prix": 4400.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-S23FE",
@@ -17481,7 +17483,7 @@
       "designation": "ASUS Moniteur VA279HG 27'' 120Hz SmoothMotion Eye Care Gaming Monitor",
       "prix": 2028.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "images/produits/va279hg.webp"
     },
     {
       "ref": "VALUE-O",

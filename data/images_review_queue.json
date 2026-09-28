@@ -951,5 +951,92 @@
         ]
       }
     ]
+  },
+  "A16": {
+    "designation": "SAMSUNG GALAXY A16 4+128GB",
+    "origin": "search",
+    "added_at": "2026-09-28 14:00",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a165fzadmea/gallery/levant-galaxy-a16-sm-a165-sm-a165fzadmea-thumb-544187826",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a16-light-gray-128gb-sm-a165fzadmea/",
+        "title": "Galaxy A16",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle 'A16' confirmé",
+          "résolution insuffisante (330x330)"
+        ]
+      }
+    ]
+  },
+  "SAM-A57": {
+    "designation": "SAMSUNG Galaxy A57 5G Dual Sim (8GB | 128 GB)",
+    "origin": "search",
+    "added_at": "2026-09-28 14:00",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/za/sm-a576bdbpafa/gallery/za-galaxy-a57-5g-sm-a576-sm-a576bdbpafa-thumb-551638500",
+        "page_url": "https://www.samsung.com/za/smartphones/galaxy-a/galaxy-a57-5g-awesome-navy-8gb-sm-a576bdbpafa/",
+        "title": "Samsung Galaxy A57 5G | Features and Specs | Samsung South Africa",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle 'A57' confirmé",
+          "résolution insuffisante (330x330)"
+        ]
+      }
+    ]
+  },
+  "S24-ULT": {
+    "designation": "SAMSUNG Smartphone S24 ultra TITANIUMBLACK 6,8\"Snapdragon8 12Go 512Go",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:01",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/levant/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-share-image.jpg",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-s24-ultra/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : photo du coloris Titanium Gray, l'article est Titanium Black"
+        ]
+      }
+    ]
+  },
+  "SAM-S24-U": {
+    "designation": "SAMSUNG Smartphone S24 ultra 6,8\"Snapdragon8 12Go 256Go 5G",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:01",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/levant/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-share-image.jpg",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-s24-ultra/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : banniere marketing (deux telephones, fond gris), pas un produit isole"
+        ]
+      }
+    ]
+  },
+  "SSDT7": {
+    "designation": "DISQUE DUR SSD T7 SHIELD 1 TB EXTERN SAMSUNG",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:01",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pe1t0s-am/gallery/us-portable-ssd-t7-shield-mu-pe1t0s-am-552408700",
+        "page_url": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : badges de recompenses incrustes sur l'image"
+        ]
+      }
+    ]
   }
 }

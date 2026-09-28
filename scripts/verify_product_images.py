@@ -64,7 +64,8 @@ AUTHORIZED_DOMAINS = {
     "sa-media.apjonlinecdn.com", "apjonlinecdn.com",  # CDN reel HP APJ (images produit hp.com)
     "ssl-product-images.www8-hp.com",  # CDN legacy HP (fiches produit hp.com historiques)
     "www.sony.com", "www.sony.fr", "electronics.sony.com", "sony.com",  # Sony officiel
-    "www.ingelec.ma", "ingelec.ma",  # Ingelec (fabricant marocain, fiches produit officielles)
+    "www.ingelec.ma", "ingelec.ma",
+    "www.asus.com", "asus.com", "rog.asus.com", "dlcdnwebimgs.asus.com",  # ASUS officiel (+ CDN images)  # Ingelec (fabricant marocain, fiches produit officielles)
     "images-na.ssl-images-amazon.com", "m.media-amazon.com",
     "www.amazon.com", "www.amazon.fr", "www.amazon.ma", "www.amazon.sa", "www.amazon.ae",
     "www.cdiscount.com", "i2.cdscdn.com",

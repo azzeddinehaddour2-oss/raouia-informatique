@@ -8462,9 +8462,12 @@
     "source_page": null
   },
   "MK120": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/mk120.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk120/gallery/mk120-gallery-1-new.png",
+    "source_page": "https://www.logitech.com/en-us/shop/p/mk120-usb-keyboard-mouse",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MK220": {
     "image": "images/produits/mk220.webp",
@@ -10668,8 +10671,8 @@
   },
   "S24-ULT": {
     "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "S24V": {
     "image": "data/placeholders/chargeur.svg",
@@ -10851,8 +10854,8 @@
   },
   "SAM-S24-U": {
     "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-S25-ULTRA-256G": {
     "image": "images/produits/sam-s25-ultra-256g.webp",
@@ -11440,8 +11443,8 @@
   },
   "SSDT7": {
     "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "ST-07": {
     "image": "data/placeholders/fourniture.svg",
@@ -12640,9 +12643,12 @@
     "source_page": null
   },
   "VA279HG": {
-    "image": "data/placeholders/ecran.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/va279hg.webp",
+    "source": "local",
+    "origin_url": "https://dlcdnwebimgs.asus.com/gain/c89b09ff-fbac-4d68-a4d4-73aa8ae4ae0f/",
+    "source_page": "https://www.asus.com/displays-desktops/monitors/eye-care/va279hg/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "VALUE-O": {
     "image": "data/placeholders/papier.svg",
@@ -13353,5 +13359,18 @@
     "source_page": "https://www.jumia.ma/epson-101-noir-bouteille-dencre-ecotank-dorigine-c13t03v14a-65147252.html",
     "validated": "auto",
     "validated_at": "2026-09-28"
+  },
+  "K250": {
+    "image": "images/produits/k250.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k250/gallery/k-250-graphite-top-02.png",
+    "source_page": "https://www.logitech.com/en-us/shop/p/k250",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
+  },
+  "SAM-A57": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   }
 }
