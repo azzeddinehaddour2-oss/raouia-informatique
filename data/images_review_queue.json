@@ -900,5 +900,56 @@
         ]
       }
     ]
+  },
+  "067CY": {
+    "designation": "TONER CANON 067 CYAN",
+    "origin": "revoke",
+    "added_at": "2026-09-28 13:59",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/51/142756/1.jpg?6944",
+        "page_url": "https://www.jumia.ma/canon-toner-067-cyan-5101c002aa-65724115.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : petite image avec bandes noires, qualite insuffisante"
+        ]
+      }
+    ]
+  },
+  "103-N": {
+    "designation": "EPSON 103 BOUTEILLE D'ENCRE NOIR",
+    "origin": "revoke",
+    "added_at": "2026-09-28 13:59",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/48/675826/1.jpg?6253",
+        "page_url": "https://www.jumia.ma/encre-103-noir-bouteille-dencre-dorigine-epson-mpg1413999.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : incrustations publicitaires du vendeur (badge, tampon), pas une photo de produit isole"
+        ]
+      }
+    ]
+  },
+  "L3250": {
+    "designation": "IMPREMANTE EPSON L3250 WIFI",
+    "origin": "revoke",
+    "added_at": "2026-09-28 13:59",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/94/033276/1.jpg?0162",
+        "page_url": "https://www.jumia.ma/epson-imprimante-ecotank-l3250-a4-wi-fi-all-in-one-ink-tank-67233049.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : incrustations publicitaires du vendeur (badge, tampon), pas une photo de produit isole"
+        ]
+      }
+    ]
   }
 }

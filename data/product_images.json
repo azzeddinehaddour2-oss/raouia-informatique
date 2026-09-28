@@ -41,8 +41,8 @@
   },
   "067CY": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "067MG": {
     "image": "data/placeholders/toner.svg",
@@ -50,9 +50,12 @@
     "source_page": null
   },
   "067YL": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/067yl.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/17/932756/1.jpg?8885",
+    "source_page": "https://www.jumia.ma/canon-toner-067-jaune-5099c002aa-65723971.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "10-100": {
     "image": "data/placeholders/divers.svg",
@@ -81,8 +84,8 @@
   },
   "103-N": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "103-W": {
     "image": "data/placeholders/toner.svg",
@@ -7823,8 +7826,8 @@
   },
   "L3250": {
     "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "L90W": {
     "image": "data/placeholders/chargeur.svg",
@@ -8520,9 +8523,12 @@
     "source_page": null
   },
   "MP-120MG": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/mp-120mg.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/29/695036/1.jpg?3286",
+    "source_page": "https://www.jumia.ma/canon-calculatrice-imprimante-mp-120mg-12-chiffres-63059692.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MP02": {
     "image": "data/placeholders/divers.svg",
@@ -10965,9 +10971,12 @@
     "source_page": null
   },
   "SC400": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/sc400.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/31/102856/1.jpg?7344",
+    "source_page": "https://www.jumia.ma/canon-scanner-mobile-a-plat-canoscan-lide-400-2996c010aa-65820113.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SC8165": {
     "image": "data/placeholders/sac.svg",
@@ -10985,9 +10994,12 @@
     "source_page": null
   },
   "SCP215": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/scp215.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/800166/1.jpg?3807",
+    "source_page": "https://www.jumia.ma/canon-scanner-portable-imageformula-p-215ii-9705b003af-66100821.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SCS250N": {
     "image": "data/placeholders/imprimante.svg",
@@ -11800,9 +11812,12 @@
     "source_page": null
   },
   "TC-725": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/tc-725.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/87/044276/1.jpg?6615",
+    "source_page": "https://www.jumia.ma/canon-toner-725-original-noir-67244078.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TC-C34UN_": {
     "image": "data/placeholders/camera.svg",
@@ -13330,5 +13345,13 @@
     "image": "data/placeholders/divers.svg",
     "source": "placeholder",
     "source_page": null
+  },
+  "101-N": {
+    "image": "images/produits/101-n.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/25/274156/1.jpg?5988",
+    "source_page": "https://www.jumia.ma/epson-101-noir-bouteille-dencre-ecotank-dorigine-c13t03v14a-65147252.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   }
 }

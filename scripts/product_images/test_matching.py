@@ -142,6 +142,10 @@ class RegressionTests(unittest.TestCase):
                       "HP 137A Black Original LaserJet Toner Cartridge", provider="page")
         self.assertEqual(evaluate(p, c).verdict, REJECT)
 
+    def test_pack_rejete_pour_article_unitaire(self):
+        self.assertEqual(verdict("CAN-446", "CARTOUCHE CANON CL446 COULEUR", "https://ma.jumia.is/unsafe/fit-in/680x680/product/1.jpg",
+                                 "https://www.jumia.ma/x-123.html", "Canon Pack PG-445 + CL-446 Couleur - Cartouche d'origine"), REJECT)
+
     def test_marques_papeterie(self):
         self.assertEqual(build_profile("BIC-B", "STYLO BIC CRISTAL BLEU").brand, "BIC")
 

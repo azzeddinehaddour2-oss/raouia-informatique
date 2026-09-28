@@ -16,8 +16,10 @@ import html
 import json
 import logging
 import re
+import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
+from urllib.robotparser import RobotFileParser
 
 import requests
 
@@ -110,6 +112,31 @@ _OG_TITLE = re.compile(r'<meta[^>]+property=["\']og:title["\'][^>]*>', re.I)
 _LD_IMAGE = re.compile(r'"image"\s*:\s*(?:\[\s*)?"(https?://[^"]+)"', re.I)
 
 
+_ROBOTS: dict[str, RobotFileParser | None] = {}
+
+
+def robots_allows(url: str) -> bool:
+    """Respect du robots.txt de chaque site (ex. Jumia interdit sa recherche
+    interne /catalog/?q= mais autorise les fiches produit)."""
+    parts = urlparse(url)
+    host = f"{parts.scheme}://{parts.netloc}"
+    if host not in _ROBOTS:
+        rp = RobotFileParser()
+        try:
+            r = requests.get(host + "/robots.txt", timeout=config.HTTP_TIMEOUT,
+                             headers={"User-Agent": config.HTTP_USER_AGENT})
+            rp.parse(r.text.splitlines() if r.status_code == 200 else [])
+            _ROBOTS[host] = rp
+        except requests.RequestException:
+            _ROBOTS[host] = None   # robots.txt injoignable : prudence, on s'abstient
+    rp = _ROBOTS[host]
+    return bool(rp) and rp.can_fetch("RaouiaImagesBot", url)
+
+
+# Pages de liste/recherche (plusieurs produits) : leur image n'est pas celle
+# d'UN produit précis (ex. jumia.ma/slp/..., /catalog/).
+_LISTING_PAGE = re.compile(r"^/(slp|catalog|search|recherche|c)/|/mlp/|/mdp/", re.I)
+
 _NOT_PRODUCT_IMAGE = re.compile(r"(logo|icon|favicon|placeholder|default|banner|sprite|badge|flag)", re.I)
 
 
@@ -119,6 +146,9 @@ def scan_page(page_url: str) -> tuple[str, list[str], str]:
     finale (après redirection éventuelle)."""
     if not config.domain_authorized(urlparse(page_url).netloc):
         raise ProviderError(f"page hors liste blanche : {page_url}")
+    if not robots_allows(page_url):
+        raise ProviderError(f"lecture interdite par robots.txt : {page_url}")
+    time.sleep(0.5)   # politesse : ~2 requêtes/s maximum
     resp = requests.get(page_url, timeout=config.HTTP_TIMEOUT,
                         headers={"User-Agent": config.HTTP_USER_AGENT,
                                  "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8"})
@@ -168,6 +198,9 @@ class FileProvider(BaseProvider):
             if r.get("image_url"):
                 out.append(Candidate(image_url=r["image_url"], page_url=r.get("page_url", ""),
                                      title=r.get("title", ""), provider="file"))
+                continue
+            if _LISTING_PAGE.search(urlparse(r["page_url"]).path):
+                log.info("  [%s] page de liste ignorée (plusieurs produits) : %s", profile.ref, r["page_url"])
                 continue
             try:
                 title, images, final_url = scan_page(r["page_url"])

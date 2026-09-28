@@ -36,6 +36,7 @@ class QualityReport:
     border_white_ratio: float
     border_stddev: float
     clean_corners: int = 0
+    border_mean: float = 255.0
 
     @property
     def clean_background(self) -> bool:
@@ -43,8 +44,9 @@ class QualityReport:
         # mais laisse les coins blancs ; une photo de rayon/magasin a des coins
         # chargés. D'où le critère "au moins 2 coins blancs".
         return (self.border_white_ratio >= config.BORDER_WHITE_RATIO_MIN
-                or self.border_stddev <= config.BORDER_UNIFORM_STDDEV_MAX
+                or (self.border_stddev <= config.BORDER_UNIFORM_STDDEV_MAX and self.border_mean >= 200)
                 or self.clean_corners >= 2)
+        # (une bordure uniforme mais sombre = bandes noires / fond noir : refusé)
 
 
 def download(url: str) -> Image.Image:
@@ -115,6 +117,7 @@ def quality_report(img: Image.Image) -> QualityReport:
         border_white_ratio=white / len(border),
         border_stddev=statistics.pstdev(lum),
         clean_corners=clean_corners,
+        border_mean=statistics.fmean(lum),
     )
 
 

@@ -123,6 +123,14 @@ COLOURS = {
 
 CAPACITY = re.compile(r"(?<![A-Z0-9.,])(\d+(?:[.,]\d+)?)\s*(TB|TO|GB|GO|MB|MO)(?![A-Z])")
 
+PACK_WORDS = re.compile(r"(PACK|LOT|KIT|MULTIPACK|DUO|TRIO|BUNDLE|COMBO)|\d\s*-?\s*PACK|\d+\s*(BOUTEILLES|CARTOUCHES|TONERS)")
+
+
+def _is_pack_title(raw: str) -> bool:
+    up = unicodedata.normalize("NFKD", raw or "").encode("ascii", "ignore").decode().upper()
+    return bool(PACK_WORDS.search(up)) or " + " in up or "+" in up.replace("C+", "")
+
+
 MARKETPLACE_HINTS = ("amazon", "jumia", "cdiscount", "bbystatic", "cdscdn")
 
 
@@ -218,6 +226,13 @@ def model_tokens(designation: str, category: str = "") -> list[str]:
     return tokens
 
 
+def o_to_zero(tok: str) -> str:
+    """Saisie Sage fréquente : lettre O à la place du zéro dans un code
+    modèle (DS-2CE16HOT pour DS-2CE16H0T). Appliqué seulement aux tokens
+    contenant déjà un chiffre."""
+    return tok.replace("O", "0") if re.search(r"\d", tok) else tok
+
+
 def _candidate_token_set(text: str) -> set[str]:
     """Tokens + concaténations de 2-3 tokens consécutifs
     (ex. 'elitebook-840-g6' doit reconnaître le modèle '840G6')."""
@@ -226,7 +241,7 @@ def _candidate_token_set(text: str) -> set[str]:
     for n in (2, 3):
         for i in range(len(toks) - n + 1):
             out.add("".join(toks[i:i + n]))
-    return out
+    return out | {o_to_zero(t) for t in out}
 
 
 # --------------------------------------------------------------------------
@@ -366,19 +381,30 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
 
     # 4. Modèle principal obligatoire
     primary = profile.primary_model
-    strong_hit = [t for t in profile.strong_tokens if t in cand_tokens]
-    if primary in cand_tokens:
+    ref_token = compact(profile.ref)
+    strong = list(profile.strong_tokens)
+    if len(ref_token) >= 6 and re.search(r"\d", ref_token) and re.search(r"[A-Z]", ref_token):
+        strong.append(ref_token)   # la référence Sage est elle-même un code constructeur
+    strong_hit = [t for t in strong if t in cand_tokens or o_to_zero(t) in cand_tokens]
+    if o_to_zero(primary) in cand_tokens:
+        primary_found = True
+    else:
+        primary_found = primary in cand_tokens
+    if primary_found:
         reasons.append(f"modèle '{primary}' confirmé")
     elif strong_hit:
         reasons.append(f"référence constructeur '{strong_hit[0]}' confirmée")
     else:
         return MatchResult(REJECT, [f"modèle principal '{primary}' absent de la source"])
     score = 50.0
-    ref_token = compact(profile.ref)
     if len(ref_token) >= 4 and re.search(r"\d", ref_token) and ref_token in cand_tokens:
         score += 20
         reasons.append("référence exacte présente")
     score += 5 * sum(1 for m in profile.models[1:] if m in cand_tokens)
+
+    # 4b. Photo de pack pour un article vendu à l'unité -> trompeuse
+    if cand.title and _is_pack_title(cand.title) and not _is_pack_title(profile.designation):
+        return MatchResult(REJECT, ["la source présente un pack/lot, l'article est vendu à l'unité"])
 
     # 5. Original vs compatible
     if CANDIDATE_NON_ORIGINAL.search(normalize_text(cand.title)):
