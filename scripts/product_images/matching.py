@@ -42,13 +42,13 @@ BRANDS = {
     "KYOCERA": ["KYOCERA"],
     "KINGSTON": ["KINGSTON"],
     "SEAGATE": ["SEAGATE"],
-    "WESTERN DIGITAL": ["WESTERN DIGITAL", "WD"],
+    "WESTERN DIGITAL": ["WESTERN DIGITAL"],  # "WD" seul trop ambigu (ex. WD-G2 pistolet colle)
     "SANDISK": ["SANDISK"],
     "CRUCIAL": ["CRUCIAL"],
     "LEXAR": ["LEXAR"],
     "HUAWEI": ["HUAWEI"],
     "XIAOMI": ["XIAOMI", "REDMI"],
-    "APPLE": ["APPLE", "IPHONE", "IPAD", "MACBOOK", "AIRPODS"],
+    "APPLE": ["APPLE"],  # "iPhone" seul = souvent un accessoire tiers compatible
     "SONY": ["SONY"],
     "TENDA": ["TENDA"],
     "MERCUSYS": ["MERCUSYS"],
@@ -86,7 +86,7 @@ BRANDS = {
 # officielle du fabricant serait trompeuse -> jamais d'image automatique.
 NON_ORIGINAL_MARKERS = re.compile(
     r"\b(NWC|COMP|COMPATIBLES?|WORD|CARRERA|IMPORTER|GENERIQUE|GENERIC|"
-    r"ADAPTABLE|REMANUFACTURE[DS]?|RECONDITIONNE|REFURBISHED)\b"
+    r"ADAPTABLE|REMANUFACTURE[DS]?|RECONDITIONNE|REFURBISHED|COPIE|DIAMOND)\b"
 )
 CANDIDATE_NON_ORIGINAL = re.compile(
     r"\b(COMPATIBLES?|REMANUFACTURED?|GENERIC|GENERIQUE|REFURBISHED|RECONDITIONNE|"
@@ -104,6 +104,9 @@ SPEC_TOKEN = re.compile(
     r"|\d+(MBPS|GBPS|PORTS?|VA|TH|ND|RD|ST|EME)"
     r"|\d+[.,]\d+"
     r"|(AC|AX|AV)\d{3,5}"
+    r"|A[0-6]"                    # formats papier A4, A3
+    r"|\d+(MA|GEN|DPI|PPM|IPM|RPM|RAM|CH|BIT|KHZ|MR)"  # mA, génération CPU, RAM, canaux...
+    r"|\d+X\d+|M\.?2|W1[01][A-Z]*|QC\d.*|ADSL\d?|NVME\d?"
     r"|20[12]\d"
     r")$"
 )
@@ -185,7 +188,8 @@ def extract_colours(text: str, include_tricolor: bool) -> set[str]:
 # Puissance en watts : spécification pour les chargeurs/batteries/audio
 # (65W, 90W), mais modèle ailleurs (imprimante HP Laser 107W).
 WATT_SPEC_CATEGORIES = {"chargeur", "batterie", "audio"}
-UNIT_WORDS = {"GB", "GO", "TB", "TO", "MB", "MO", "W", "V", "A", "MAH", "ML", "CM", "MM",
+CPU_GPU_WORDS = {"RTX", "GTX", "RX", "CORE", "RYZEN", "ULTRA", "I3", "I5", "I7", "I9", "CELERON", "PENTIUM", "XEON"}
+UNIT_WORDS = {"SSD", "HDD", "NVME", "RAM", "DDR4", "DDR5", "EMMC", "GB", "GO", "TB", "TO", "MB", "MO", "W", "V", "A", "MAH", "ML", "CM", "MM",
               "INCH", "POUCES", "POUCE", "PAGES", "PORTS", "PORT", "MBPS", "VA", "HZ", "MP"}
 
 
@@ -195,7 +199,10 @@ def model_tokens(designation: str, category: str = "") -> list[str]:
     all_toks = tokenize(designation)
     for i, tok in enumerate(all_toks):
         nxt = all_toks[i + 1] if i + 1 < len(all_toks) else ""
+        prv = all_toks[i - 1] if i > 0 else ""
         if tok.isdigit() and nxt in UNIT_WORDS:
+            continue
+        if tok.isdigit() and prv in CPU_GPU_WORDS:   # RTX 4050, Core 7, Ryzen 5 (pas 'i5 840G6')
             continue
         if not re.search(r"\d", tok):
             continue
@@ -266,6 +273,12 @@ def build_profile(ref: str, designation: str) -> ProductProfile:
         p.skip_reason = "produit compatible/non original : une photo officielle serait trompeuse"
         return p
 
+    # Pack / lot (ex. "PC ... + écran HP E23") : la photo d'un seul élément tromperait.
+    if re.search(r"\+\s*(ECRAN|MONITOR|MONITEUR|HP LED|CLAVIER|SOURIS|IMPRIMANTE)",
+                 unicodedata.normalize("NFKD", designation).encode("ascii", "ignore").decode().upper()):
+        p.skip_reason = "pack de plusieurs articles : aucune photo unique ne le représente"
+        return p
+
     brands = detect_brands(designation)
     if not brands:
         p.skip_reason = "produit générique sans marque vérifiable"
@@ -309,6 +322,10 @@ class Candidate:
         return any(h in both for h in MARKETPLACE_HINTS)
 
     def evidence_text(self) -> str:
+        # Page lue par le script : seul son TITRE réel fait foi (l'URL d'une
+        # page peut rediriger vers un autre produit, ex. 130A -> 137A).
+        if self.provider == "page":
+            return " ".join([self.title or "", self.image_url or ""])
         return " ".join([self.title or "", self.page_url or "", self.image_url or ""])
 
 
@@ -398,6 +415,14 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
     if siblings and not primary.isdigit():
         verdict = REVIEW
         reasons.append(f"modèles voisins aussi cités par la source ({', '.join(sorted(siblings)[:3])})")
+    # Idem pour les références constructeur (CE314A tambour vs CE310A toner)
+    for strong in profile.strong_tokens:
+        sshape = re.sub(r"\d", "#", strong)
+        rivals = {t for t in cand_tokens if t != strong and t not in profile.models
+                  and re.sub(r"\d", "#", t) == sshape}
+        if rivals and strong not in cand_tokens:
+            verdict = REVIEW
+            reasons.append(f"la source cite une autre référence constructeur ({', '.join(sorted(rivals)[:3])}) au lieu de {strong}")
 
     # 9. Préférence source officielle
     score += 10 if cand.is_marketplace else 30

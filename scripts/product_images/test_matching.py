@@ -125,6 +125,23 @@ class RegressionTests(unittest.TestCase):
         self.assertEqual(verdict("59AHP", "HP 59A Black Original LaserJet Toner Cartridge pour M404 & M428",
                                  AMZ, "https://www.amazon.fr/dp/X", "HP LaserJet Pro M404dn imprimante"), REJECT)
 
+    def test_copie_et_packs_ignores(self):
+        for d in ["TONER HP 26A CF226A NOIR COPIE ORIGINAL", "Toner HP 207A Cyan W2211A Diamond",
+                  "HP 800 G3 EliteDesk 6 th Core i5- 8Go 256Go SSD +ecran HP E23"]:
+            self.assertIsNotNone(build_profile("X", d).skip_reason, d)
+
+    def test_reference_constructeur_rivale_en_revue(self):
+        self.assertEqual(verdict("CE314A", "TONER HP 126A NOIR CE314A", AMZ, "https://www.amazon.fr/dp/X",
+                                 "HP 126A CE310A Black Original LaserJet Toner"), REVIEW)
+
+    def test_page_redirigee_ne_prouve_rien(self):
+        # URL demandée = 130A, mais la page lue est celle du 137A
+        p = build_profile("HPB-130", "HP 130A Cyan Original LaserJet Toner Cartridge")
+        c = Candidate("https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c1.png",
+                      "https://www.hp.com/in-en/shop/hp-130a-cyan-original-laserjet-toner-cartridge-cf351a.html",
+                      "HP 137A Black Original LaserJet Toner Cartridge", provider="page")
+        self.assertEqual(evaluate(p, c).verdict, REJECT)
+
     def test_marques_papeterie(self):
         self.assertEqual(build_profile("BIC-B", "STYLO BIC CRISTAL BLEU").brand, "BIC")
 

@@ -208,7 +208,7 @@
       "designation": "HP 130A Black Original LaserJet Toner Cartridge",
       "prix": 1080.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/130hp-black.webp"
     },
     {
       "ref": "131313",
@@ -855,7 +855,7 @@
       "designation": "HP 59A Black Original LaserJet Toner Cartridgepour  M404 & M428 MFP",
       "prix": 950.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/59ahp.webp"
     },
     {
       "ref": "59A-IMP",
@@ -4720,7 +4720,7 @@
       "designation": "Toner HP 05A Black Original LaserJet CE505A",
       "prix": 1385.0,
       "stock": 3,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cec107.webp"
     },
     {
       "ref": "CEC112",
@@ -4887,7 +4887,7 @@
       "designation": "HP 205A Noir (CF530A) - Toner HP LaserJet d'origine 1100",
       "prix": 754.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cf530a.webp"
     },
     {
       "ref": "CF530ADMT",
@@ -4901,7 +4901,7 @@
       "designation": "HP 205A Cyan (CF531A) - Toner HP LaserJet d'origine  900",
       "prix": 754.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cf531a.webp"
     },
     {
       "ref": "CF531ADMT",
@@ -4929,7 +4929,7 @@
       "designation": "HP 205A Magenta (CF533A) - Toner HP LaserJet d'origine 900",
       "prix": 754.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cf533.webp"
     },
     {
       "ref": "CF533ADMT",
@@ -9403,14 +9403,14 @@
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-145n.webp"
     },
     {
       "ref": "HP-150A",
       "designation": "HP 150A Noir - Toner HP LaserJet d'origine (W1500A)",
       "prix": 562.65,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-150a.webp"
     },
     {
       "ref": "HP-16G",
@@ -9424,14 +9424,14 @@
       "designation": "TONER HP 17A CF217A NOIR",
       "prix": 1177.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-17a.webp"
     },
     {
       "ref": "HP19A",
       "designation": "HP 19A Oiginal LaserJet Imaging Drum",
       "prix": 865.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp19a.webp"
     },
     {
       "ref": "HP-19V",
@@ -9445,7 +9445,7 @@
       "designation": "HP 203A Cyan (CF541A) - Toner HP LaserJet d'origine 1300P",
       "prix": 1120.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-203-b.webp"
     },
     {
       "ref": "HP-226A",
@@ -9662,7 +9662,7 @@
       "designation": "TONER 80A HP LaserJet Pro M401/M425",
       "prix": 1321.66,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-80a.webp"
     },
     {
       "ref": "HP-82-B",
@@ -9731,21 +9731,21 @@
       "designation": "TONER HP 125A BLEU",
       "prix": 450.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-125.webp"
     },
     {
       "ref": "HPB-130",
       "designation": "HP 130A Cyan Original LaserJet Toner Cartridge",
       "prix": 948.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-130.webp"
     },
     {
       "ref": "HPB-131",
       "designation": "TONER HP 131A BLEU",
       "prix": 1404.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-131.webp"
     },
     {
       "ref": "HPB-17",
@@ -9766,21 +9766,21 @@
       "designation": "TONER HP 126A BLEU",
       "prix": 1200.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-26.webp"
     },
     {
       "ref": "HPB-305",
       "designation": "TONER HP 305A BLEU",
       "prix": 1240.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-305.webp"
     },
     {
       "ref": "HPB-312",
       "designation": "TONER HP 312A BLEU",
       "prix": 1800.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-312.webp"
     },
     {
       "ref": "HP-E202",
@@ -9822,14 +9822,14 @@
       "designation": "HP 130A Yellow Original LaserJet Toner Cartridge",
       "prix": 948.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-130.webp"
     },
     {
       "ref": "HPJ-131",
       "designation": "TONER HP 131A JAUNE",
       "prix": 1092.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-131.webp"
     },
     {
       "ref": "HPJ-17",
@@ -9843,7 +9843,7 @@
       "designation": "HP 203A Jaune (CF542A) - Toner HP LaserJet d'origine 1300P",
       "prix": 1130.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-203.webp"
     },
     {
       "ref": "HPJ-207",
@@ -9857,14 +9857,14 @@
       "designation": "TONER HP 305A JAUNE",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-305.webp"
     },
     {
       "ref": "HPJ-312",
       "designation": "TONER HP 312A JAUNE",
       "prix": 1800.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-312.webp"
     },
     {
       "ref": "HP-LE1901W",
@@ -9899,21 +9899,21 @@
       "designation": "TONER HP 12A NOIR",
       "prix": 1080.0,
       "stock": 6,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-12.webp"
     },
     {
       "ref": "HPN-126",
       "designation": "TONER HP 126A NOIR",
       "prix": 795.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-126.webp"
     },
     {
       "ref": "HPN-128",
       "designation": "TONER HP 128A NOIR",
       "prix": 1175.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-128.webp"
     },
     {
       "ref": "HPN-13",
@@ -9927,21 +9927,21 @@
       "designation": "TONER HP 131A NOIR",
       "prix": 900.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-131.webp"
     },
     {
       "ref": "HPN-203",
       "designation": "HP 203A Noir (CF540A) - Toner HP LaserJet d'origine 1400P",
       "prix": 1008.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-203.webp"
     },
     {
       "ref": "HPN-207",
       "designation": "TONER HP 207A NOIR",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-207.webp"
     },
     {
       "ref": "HPN-216",
@@ -9955,21 +9955,21 @@
       "designation": "TONER HP 305A NOIR",
       "prix": 850.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-305.webp"
     },
     {
       "ref": "HPN-312",
       "designation": "TONER HP 312A NOIR",
       "prix": 1369.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-312.webp"
     },
     {
       "ref": "HPN-49",
       "designation": "TONER HP 49A Q5949A NOIR",
       "prix": 1084.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-49.webp"
     },
     {
       "ref": "HPR-124",
@@ -9983,14 +9983,14 @@
       "designation": "HP 130A Magenta Original LaserJet Toner Cartridge",
       "prix": 948.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpr-130.webp"
     },
     {
       "ref": "HPR-131",
       "designation": "TONER HP 131A ROUGE",
       "prix": 1092.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpr-131.webp"
     },
     {
       "ref": "HPR-17",
@@ -10004,7 +10004,7 @@
       "designation": "HP 203A Magenta (CF543A) - Toner HP LaserJet d'origine 1300",
       "prix": 1130.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpr-203.webp"
     },
     {
       "ref": "HPR-205",
@@ -10018,14 +10018,14 @@
       "designation": "TONER HP 305A ROUGE",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpr-305.webp"
     },
     {
       "ref": "HPR-312",
       "designation": "TONER HP 312A ROUGE",
       "prix": 1800.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpr-312.webp"
     },
     {
       "ref": "HP-TB",
@@ -16547,7 +16547,7 @@
       "designation": "TONER HP CB542A JAUNE",
       "prix": 300.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/thp-542.webp"
     },
     {
       "ref": "TICKET12",
@@ -17718,7 +17718,7 @@
       "designation": "Toner HP LaserJet 415A Black Original W2030A",
       "prix": 1200.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/w2030ao.webp"
     },
     {
       "ref": "W2031A",
@@ -17767,7 +17767,7 @@
       "designation": "Toner HP LaserJet 415A Yellow Original W2032A",
       "prix": 1450.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/w2032ao.webp"
     },
     {
       "ref": "W2032A-W",

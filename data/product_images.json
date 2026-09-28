@@ -138,9 +138,12 @@
     "source": "placeholder"
   },
   "130HP-BLACK": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/130hp-black.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF350A-1_T1678948699.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-130a-black-original-laserjet-toner-cartridge-cf350a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "131313": {
     "image": "data/placeholders/divers.svg",
@@ -600,9 +603,12 @@
     "source_page": null
   },
   "59AHP": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/59ahp.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06351356.png",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/21869338",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "5E1600": {
     "image": "data/placeholders/divers.svg",
@@ -3342,9 +3348,12 @@
     "source_page": null
   },
   "CEC107": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cec107.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE505A-1_T1678946478.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CEC112": {
     "image": "data/placeholders/toner.svg",
@@ -3427,9 +3436,12 @@
     "source_page": null
   },
   "CF530A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cf530a.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725537.png",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/12780092",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CF530ADMT": {
     "image": "data/placeholders/toner.svg",
@@ -3437,9 +3449,12 @@
     "source_page": null
   },
   "CF531A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cf531a.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725528.png",
+    "source_page": "https://www.hp.com/sa-en/products/ink-toner/product-details/12780094",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CF531ADMT": {
     "image": "data/placeholders/toner.svg",
@@ -3457,9 +3472,12 @@
     "source_page": null
   },
   "CF533": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cf533.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725636.png",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/12780098",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CF533ADMT": {
     "image": "data/placeholders/toner.svg",
@@ -6611,14 +6629,20 @@
     "source_page": null
   },
   "HP-145N": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-145n.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/W/1/W1450A-1_T1678978855.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-145a-black-original-laserjet-toner-cartridge-w1450a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-150A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-150a.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/W/1/W1500A-1_T1678978894.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-150a-black-original-laserjet-toner-cartridge-w1500a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-16G": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6626,9 +6650,12 @@
     "source_page": null
   },
   "HP-17A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-17a.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF217A-1_T1678948096.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-19V": {
     "image": "data/placeholders/chargeur.svg",
@@ -6636,9 +6663,12 @@
     "source_page": null
   },
   "HP-203-B": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-203-b.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725339.png",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/12780066",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-226A": {
     "image": "images/produits/hp-226a.webp",
@@ -6756,9 +6786,12 @@
     "validated_at": "2026-09-28"
   },
   "HP-80A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-80a.webp",
+    "source": "local",
+    "origin_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF280A-1_T1678891221.png",
+    "source_page": "https://www.hp.com/kr-ko/shop/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-82-B": {
     "image": "data/placeholders/toner.svg",
@@ -6836,9 +6869,12 @@
     "source_page": null
   },
   "HP19A": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp19a.webp",
+    "source": "local",
+    "origin_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF219A-1_T1678891108.png",
+    "source_page": "https://www.hp.com/kr-ko/shop/hp-19a-original-laserjet-imaging-drum-cf219a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP250": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6915,19 +6951,28 @@
     "source_page": null
   },
   "HPB-125": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-125.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/B/CB541A-1_T1678945147.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-130": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-130.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF351A-1_T1678948709.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-130a-cyan-original-laserjet-toner-cartridge-cf351a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-131": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-131.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF211A-1_T1678948064.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-131a-cyan-original-laserjet-toner-cartridge-cf211a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-17": {
     "image": "images/produits/hpb-17.webp",
@@ -6943,19 +6988,28 @@
     "source_page": null
   },
   "HPB-26": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-26.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE311A-1_T1678946173.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-305": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-305.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE411A-1_T1678893000.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-305a-cyan-original-laserjet-toner-cartridge-ce411a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-312": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-312.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF381A-1_T1678948910.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-312a-cyan-original-laserjet-toner-cartridge-cf381a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-124": {
     "image": "data/placeholders/toner.svg",
@@ -6963,14 +7017,20 @@
     "source_page": null
   },
   "HPJ-130": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-130.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF352A-1_T1678948716.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-130a-yellow-original-laserjet-toner-cartridge-cf352a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-131": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-131.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF212A-1_T1678948071.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-131a-yellow-original-laserjet-toner-cartridge-cf212a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-17": {
     "image": "images/produits/hpj-17.webp",
@@ -6981,9 +7041,12 @@
     "validated_at": "2026-09-28"
   },
   "HPJ-203": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-203.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725420.png",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/12780070",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-207": {
     "image": "data/placeholders/toner.svg",
@@ -6991,14 +7054,20 @@
     "source_page": null
   },
   "HPJ-305": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-305.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE412A-1_T1678893007.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-305a-yellow-original-laserjet-toner-cartridge-ce412a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-312": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-312.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF382A-1_T1678948918.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-312a-yellow-original-laserjet-toner-cartridge-cf382a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-05": {
     "image": "images/produits/hpn-05.webp",
@@ -7017,19 +7086,28 @@
     "validated_at": "2026-09-28"
   },
   "HPN-12": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-12.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/2/Q2612A-1_T1678969658.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-12a-black-original-laserjet-toner-cartridge-q2612a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-126": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-126.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE310A-1_T1678946158.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-128": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-128.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE320A-1_T1678946200.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-128a-black-original-laserjet-toner-cartridge-ce320a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-13": {
     "image": "data/placeholders/toner.svg",
@@ -7037,19 +7115,28 @@
     "source_page": null
   },
   "HPN-131": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-131.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF210A-1_T1678948050.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-131a-black-original-laserjet-toner-cartridge-cf210a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-203": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-203.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725312.png",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/12780061",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-207": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-207.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/fwapmvoc6a/png/fwapmvoc6a.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/30356031",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-216": {
     "image": "data/placeholders/toner.svg",
@@ -7057,19 +7144,28 @@
     "source_page": null
   },
   "HPN-305": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-305.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE410A-1_T1678892968.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-305a-black-original-laserjet-toner-cartridge-ce410a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-312": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-312.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF380A-1_T1678894327.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-312a-black-original-laserjet-toner-cartridge-cf380a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-49": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-49.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/5/Q5949A-1_T1678928038.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-49a-black-original-laserjet-toner-cartridge-q5949a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-124": {
     "image": "data/placeholders/toner.svg",
@@ -7077,14 +7173,20 @@
     "source_page": null
   },
   "HPR-130": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpr-130.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF353A-1_T1678948724.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-130a-magenta-original-laserjet-toner-cartridge-cf353a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-131": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpr-131.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF213A-1_T1678948079.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-131a-magenta-original-laserjet-toner-cartridge-cf213a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-17": {
     "image": "images/produits/hpr-17.webp",
@@ -7095,9 +7197,12 @@
     "validated_at": "2026-09-28"
   },
   "HPR-203": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpr-203.webp",
+    "source": "local",
+    "origin_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725501.png",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/12780074",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-205": {
     "image": "data/placeholders/toner.svg",
@@ -7105,14 +7210,20 @@
     "source_page": null
   },
   "HPR-305": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpr-305.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/E/CE413A-1_T1678893019.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-305a-magenta-original-laserjet-toner-cartridge-ce413a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-312": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpr-312.webp",
+    "source": "local",
+    "origin_url": "https://sg-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/F/CF383A-1_T1678894357.png",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-312a-magenta-original-laserjet-toner-cartridge-cf383a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HS-020": {
     "image": "data/placeholders/audio.svg",
@@ -11776,9 +11887,12 @@
     "source_page": null
   },
   "THP-542": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/thp-542.webp",
+    "source": "local",
+    "origin_url": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/B/CB542A-1_T1678945154.png",
+    "source_page": "https://www.hp.com/hk-en/shop/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TICKET12": {
     "image": "data/placeholders/divers.svg",
@@ -12731,9 +12845,12 @@
     "source": "placeholder"
   },
   "W2030AO": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/w2030ao.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/s19bg7bjhw/png/s19bg7bjhw.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/21959578",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "W2030A_D": {
     "image": "data/placeholders/toner.svg",
@@ -12771,9 +12888,12 @@
     "source_page": null
   },
   "W2032AO": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/w2032ao.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/xt5fptujw8/png/xt5fptujw8.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/21959592",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "W2032A_D": {
     "image": "data/placeholders/toner.svg",

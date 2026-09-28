@@ -12,9 +12,12 @@ Fournisseurs disponibles :
              outil : [{"ref", "image_url", "page_url", "title"}, ...]
 """
 
+import html
 import json
 import logging
+import re
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
 
 import requests
 
@@ -99,20 +102,84 @@ class GoogleCSEProvider(BaseProvider):
         return out
 
 
+_META_IMAGE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::secure_url)?|twitter:image)["\'][^>]*>', re.I)
+_CONTENT = re.compile(r'content=["\']([^"\']+)["\']', re.I)
+_TITLE = re.compile(r"<title[^>]*>(.*?)</title>", re.I | re.S)
+_OG_TITLE = re.compile(r'<meta[^>]+property=["\']og:title["\'][^>]*>', re.I)
+_LD_IMAGE = re.compile(r'"image"\s*:\s*(?:\[\s*)?"(https?://[^"]+)"', re.I)
+
+
+_NOT_PRODUCT_IMAGE = re.compile(r"(logo|icon|favicon|placeholder|default|banner|sprite|badge|flag)", re.I)
+
+
+def scan_page(page_url: str) -> tuple[str, list[str], str]:
+    """Lit une page produit (domaine autorisé uniquement) et renvoie son titre,
+    les URL d'images déclarées (og:image, twitter:image, JSON-LD) et l'URL
+    finale (après redirection éventuelle)."""
+    if not config.domain_authorized(urlparse(page_url).netloc):
+        raise ProviderError(f"page hors liste blanche : {page_url}")
+    resp = requests.get(page_url, timeout=config.HTTP_TIMEOUT,
+                        headers={"User-Agent": config.HTTP_USER_AGENT,
+                                 "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8"})
+    if resp.status_code != 200 or "html" not in resp.headers.get("Content-Type", ""):
+        raise ProviderError(f"page {page_url} : HTTP {resp.status_code}")
+    if not config.domain_authorized(urlparse(resp.url).netloc):
+        raise ProviderError(f"redirection hors liste blanche : {resp.url}")
+    text = resp.text[:2_000_000]
+    title = ""
+    m = _OG_TITLE.search(text)
+    if m and _CONTENT.search(m.group(0)):
+        title = _CONTENT.search(m.group(0)).group(1)
+    elif _TITLE.search(text):
+        title = _TITLE.search(text).group(1)
+    urls = []
+    for tag in _META_IMAGE.findall(text):
+        c = _CONTENT.search(tag)
+        if c:
+            urls.append(urljoin(page_url, html.unescape(c.group(1))))
+    urls += [html.unescape(u) for u in _LD_IMAGE.findall(text)]
+    seen, out = set(), []
+    for u in urls:
+        if _NOT_PRODUCT_IMAGE.search(urlparse(u).path):
+            continue   # logo/icône de site déclaré en og:image, pas le produit
+        if u not in seen:
+            seen.add(u)
+            out.append(u)
+    return html.unescape(re.sub(r"\s+", " ", title)).strip(), out[:5], resp.url
+
+
 class FileProvider(BaseProvider):
-    """Candidats pré-trouvés (manuellement ou par un autre agent)."""
+    """Candidats pré-trouvés (manuellement ou par un autre outil).
+    Chaque ligne donne soit `image_url` (+ page_url, title), soit seulement
+    `page_url` : la page officielle est alors lue pour en extraire son titre
+    et ses images déclarées (scraping ciblé, liste blanche obligatoire)."""
     name = "file"
 
     def __init__(self, path: Path):
         rows = json.loads(Path(path).read_text(encoding="utf-8"))
-        self.by_ref: dict[str, list[Candidate]] = {}
+        self.rows: dict[str, list[dict]] = {}
         for r in rows:
-            self.by_ref.setdefault(r["ref"], []).append(Candidate(
-                image_url=r["image_url"], page_url=r.get("page_url", ""),
-                title=r.get("title", ""), provider="file"))
+            self.rows.setdefault(r["ref"], []).append(r)
 
     def search(self, profile):
-        return list(self.by_ref.get(profile.ref, []))
+        out = []
+        for r in self.rows.get(profile.ref, []):
+            if r.get("image_url"):
+                out.append(Candidate(image_url=r["image_url"], page_url=r.get("page_url", ""),
+                                     title=r.get("title", ""), provider="file"))
+                continue
+            try:
+                title, images, final_url = scan_page(r["page_url"])
+            except (ProviderError, requests.RequestException) as exc:
+                log.info("  [%s] page ignorée : %s", profile.ref, exc)
+                continue
+            if not title:
+                log.info("  [%s] page sans titre ignorée : %s", profile.ref, final_url)
+                continue
+            out += [Candidate(image_url=u, page_url=final_url, title=title, provider="page")
+                    for u in images]
+        return out
 
 
 def build_providers(names: list[str], candidates_file: Path | None) -> list[BaseProvider]:

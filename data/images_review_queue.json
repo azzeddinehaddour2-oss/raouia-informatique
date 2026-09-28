@@ -653,5 +653,77 @@
         ]
       }
     ]
+  },
+  "HPB-124": {
+    "designation": "TONER HP 124A BLEU",
+    "origin": "search",
+    "added_at": "2026-09-28 13:30",
+    "candidates": [
+      {
+        "image_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/6/Q6001A-1_T1678894793.png",
+        "page_url": "https://www.hp.com/kr-ko/shop/hp-124a-cyan-original-laserjet-toner-cartridge-q6001a.html",
+        "title": "HP 124A 파랑 정품 레이저젯 토너 카트리지",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle '124A' confirmé",
+          "couleur non confirmée par la source"
+        ]
+      }
+    ]
+  },
+  "HPJ-124": {
+    "designation": "TONER HP 124A JAUNE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:31",
+    "candidates": [
+      {
+        "image_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/6/Q6002A-1_T1678894802.png",
+        "page_url": "https://www.hp.com/kr-ko/shop/hp-124a-yellow-original-laserjet-toner-cartridge-q6002a.html",
+        "title": "HP 124A 노랑 정품 레이저젯 토너 카트리지",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle '124A' confirmé",
+          "couleur non confirmée par la source"
+        ]
+      }
+    ]
+  },
+  "HPR-124": {
+    "designation": "TONER HP 124A ROUGE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:33",
+    "candidates": [
+      {
+        "image_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/6/Q6003A-1_T1678894812.png",
+        "page_url": "https://www.hp.com/kr-ko/shop/hp-124a-magenta-original-laserjet-toner-cartridge-q6003a.html",
+        "title": "HP 124A 빨강 정품 레이저젯 토너 카트리지",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle '124A' confirmé",
+          "couleur non confirmée par la source"
+        ]
+      }
+    ]
+  },
+  "HPR-205": {
+    "designation": "TONER HP 205A ROUGE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:34",
+    "candidates": [
+      {
+        "image_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05725636.png",
+        "page_url": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/12780098",
+        "title": "HP 205A Magenta Original LaserJet Toner Cartridge | HP® Middle East",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle '205A' confirmé",
+          "image déjà utilisée pour CF533"
+        ]
+      }
+    ]
   }
 }
