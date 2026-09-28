@@ -258,6 +258,29 @@ def approve(ref: str, index: int = 1, image_url: str | None = None, page_url: st
     return images[ref]["image"]
 
 
+def revoke(ref: str, reason: str) -> None:
+    """Retire une image validée à tort (ex. contrôle visuel : la page
+    officielle affiche un autre produit). Placeholder + validation manuelle."""
+    products = {p["ref"]: p for p in catalog.load_products()}
+    images = catalog.load_images()
+    entry = images.get(ref, {})
+    if entry.get("source") not in ("local", "web"):
+        raise ValueError(f"{ref} n'a pas d'image à retirer")
+    if entry.get("source") == "local":
+        (config.REPO_ROOT / entry["image"]).unlink(missing_ok=True)
+    designation = products.get(ref, {}).get("designation", "")
+    images[ref] = catalog.placeholder_entry(designation)
+    catalog.save_images(images)
+    queue = catalog.load_review_queue()
+    profile = build_profile(ref, designation)
+    _queue_for_review(queue, profile, [{
+        "image_url": entry.get("origin_url") or entry.get("image"), "page_url": entry.get("source_page") or "",
+        "title": "", "provider": "revoque", "score": 0, "reasons": [f"retirée : {reason}"]}], "revoke")
+    catalog.save_review_queue(queue)
+    catalog.sync_products_json(images)
+    log.warning("[%s] image retirée : %s", ref, reason)
+
+
 def reject(ref: str) -> None:
     queue = catalog.load_review_queue()
     queue.pop(ref, None)

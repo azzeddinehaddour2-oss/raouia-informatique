@@ -925,14 +925,14 @@
       "designation": "CARTOUCHE HP 650 COULEUR",
       "prix": 230.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/650-hp.webp"
     },
     {
       "ref": "650-HP-N",
       "designation": "CARTOUCHE HP 650 NOIR",
       "prix": 220.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/650-hp-n.webp"
     },
     {
       "ref": "6608",
@@ -5153,7 +5153,7 @@
       "designation": "CARTOUCHE HP 903 T6L87AE BLEU",
       "prix": 180.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chb-903.webp"
     },
     {
       "ref": "C-HDMI-1.5M",
@@ -5202,7 +5202,7 @@
       "designation": "CARTOUCHE HP 920XL CD972AE BGX BLEU",
       "prix": 300.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chp-9020.webp"
     },
     {
       "ref": "CHP-920",
@@ -5216,7 +5216,7 @@
       "designation": "CARTOUCHE HP 655 CZ110AE BLEU",
       "prix": 200.0,
       "stock": 4,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chpb-655.webp"
     },
     {
       "ref": "CHPB-903",
@@ -5230,28 +5230,28 @@
       "designation": "CARTOUCHE HP 122 CH562HE COULEUR",
       "prix": 220.0,
       "stock": 0,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chpc-122.webp"
     },
     {
       "ref": "CHPJ-0903",
       "designation": "CARTOUCHE HP 655 CZ112AE JAUNE",
       "prix": 200.0,
       "stock": 4,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chpj-0903.webp"
     },
     {
       "ref": "CHPJ-903",
       "designation": "CARTOUCHE HP 903 T6L95AE JAUNE",
       "prix": 180.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chpj-903.webp"
     },
     {
       "ref": "CHPR-903",
       "designation": "CARTOUCHE HP 903 T6L91AE ROUGE",
       "prix": 180.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chpr-903.webp"
     },
     {
       "ref": "CHPWR",
@@ -5473,7 +5473,7 @@
       "designation": "CARTOUCHE HP 305 3COULEURS",
       "prix": 200.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cl-305.webp"
     },
     {
       "ref": "CLA-4CM",
@@ -6052,7 +6052,7 @@
       "designation": "CARTOUCHE HP 655 CZ111AE ROUGE",
       "prix": 205.0,
       "stock": 5,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crr-655.webp"
     },
     {
       "ref": "CRT-0177",
@@ -6094,14 +6094,14 @@
       "designation": "CARTOUCHE HP 338 C8765 EE NOIR",
       "prix": 300.0,
       "stock": 3,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crt-338.webp"
     },
     {
       "ref": "CRT-344",
       "designation": "CARTOUCHE HP 344 C9363EE COULEUR",
       "prix": 330.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crt-344.webp"
     },
     {
       "ref": "CRT-701",
@@ -6122,7 +6122,7 @@
       "designation": "CARTOUCHE HP 343 C8766EE COULEUR",
       "prix": 500.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crtch-343.webp"
     },
     {
       "ref": "CRTJ-177",

@@ -725,5 +725,129 @@
         ]
       }
     ]
+  },
+  "711-B": {
+    "designation": "CARTOUCHE HP 711 CZ130A BLEU",
+    "origin": "search",
+    "added_at": "2026-09-28 13:38",
+    "candidates": [
+      {
+        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ130A-1_T1678982139.jpg",
+        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-cyan-designjet-ink-cartridge-cz130a.html",
+        "title": "HP 711 29-ml Cyan DesignJet Ink Cartridge",
+        "provider": "page",
+        "score": 85.0,
+        "reasons": [
+          "modèle '711' confirmé",
+          "résolution insuffisante (560x560)"
+        ]
+      }
+    ]
+  },
+  "711-J": {
+    "designation": "CARTOUCHE HP 711 CZ132A JAUNE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:38",
+    "candidates": [
+      {
+        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ132A-1_T1678982147.jpg",
+        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-yellow-designjet-ink-cartridge-cz132a.html",
+        "title": "HP 711 29-ml Yellow DesignJet Ink Cartridge",
+        "provider": "page",
+        "score": 85.0,
+        "reasons": [
+          "modèle '711' confirmé",
+          "résolution insuffisante (560x560)"
+        ]
+      }
+    ]
+  },
+  "711-R": {
+    "designation": "CARTOUCHE HP 711 CZ131A ROUGE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:38",
+    "candidates": [
+      {
+        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ131A-1_T1678982143.jpg",
+        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-magenta-designjet-ink-cartridge-cz131a.html",
+        "title": "HP 711 29-ml Magenta DesignJet Ink Cartridge",
+        "provider": "page",
+        "score": 85.0,
+        "reasons": [
+          "modèle '711' confirmé",
+          "résolution insuffisante (560x560)"
+        ]
+      }
+    ]
+  },
+  "CHP-920": {
+    "designation": "CARTOUCHE HP 920XL CD974AE JAUNE",
+    "origin": "search",
+    "added_at": "2026-09-28 13:39",
+    "candidates": [
+      {
+        "image_url": "https://sa-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/d/cd974aa-1_t1678974017.png",
+        "page_url": "https://www.hp.com/sa-en/shop/hp-920xl-high-yield-yellow-original-ink-cartridge-cd974ae.html",
+        "title": "HP 920XL High Yield Yellow Original Ink Cartridge",
+        "provider": "page",
+        "score": 80.0,
+        "reasons": [
+          "modèle '920XL' confirmé",
+          "résolution insuffisante (462x560)"
+        ]
+      }
+    ]
+  },
+  "CHPB-903": {
+    "designation": "CARTOUCHE HP 711 CZ130A BLEU",
+    "origin": "search",
+    "added_at": "2026-09-28 13:39",
+    "candidates": [
+      {
+        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ130A-1_T1678982139.jpg",
+        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-cyan-designjet-ink-cartridge-cz130a.html",
+        "title": "HP 711 29-ml Cyan DesignJet Ink Cartridge",
+        "provider": "page",
+        "score": 85.0,
+        "reasons": [
+          "modèle '711' confirmé",
+          "résolution insuffisante (560x560)"
+        ]
+      }
+    ]
+  },
+  "305-N": {
+    "designation": "CARTOUCHE HP 305 NOIR",
+    "origin": "revoke",
+    "added_at": "2026-09-28 13:41",
+    "candidates": [
+      {
+        "image_url": "https://hp.widen.net/content/syonz6xt6j/png/syonz6xt6j.png?w=800&h=600&dpi=72&color=ffffff00",
+        "page_url": "https://www.hp.com/ng-en/products/ink-toner/product-details/29270263",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : contrôle visuel : la page officielle HP affiche la cartouche 3 couleurs pour ce modèle noir"
+        ]
+      }
+    ]
+  },
+  "CN-652": {
+    "designation": "CARTOUCHE HP 652 NOIR",
+    "origin": "revoke",
+    "added_at": "2026-09-28 13:41",
+    "candidates": [
+      {
+        "image_url": "https://hp.widen.net/content/qe2j9nyxf0/png/qe2j9nyxf0.png?w=800&h=600&dpi=72&color=ffffff00",
+        "page_url": "https://www.hp.com/ng-en/products/ink-toner/product-details/7651802",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : contrôle visuel : la page officielle HP affiche la cartouche 3 couleurs pour ce modèle noir"
+        ]
+      }
+    ]
   }
 }

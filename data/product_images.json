@@ -430,8 +430,8 @@
   },
   "305-N": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "311722": {
     "image": "data/placeholders/divers.svg",
@@ -651,14 +651,20 @@
     "source_page": null
   },
   "650-HP": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/650-hp.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/qdgtuqiqaa/png/qdgtuqiqaa.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/5234315",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "650-HP-N": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/650-hp-n.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/jjwkkl7cau/png/jjwkkl7cau.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/5234313",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "6608": {
     "image": "data/placeholders/divers.svg",
@@ -3630,9 +3636,12 @@
     "source_page": null
   },
   "CHB-903": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chb-903.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/2akkmqe9hq/png/2akkmqe9hq.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/10521427",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHB03": {
     "image": "data/placeholders/papier.svg",
@@ -3655,9 +3664,12 @@
     "source_page": null
   },
   "CHP-9020": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chp-9020.webp",
+    "source": "local",
+    "origin_url": "https://sa-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/D/CD972AE-1_T1751433085.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-920xl-high-yield-cyan-original-ink-cartridge-cd972ae.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHP-920": {
     "image": "data/placeholders/toner.svg",
@@ -3675,9 +3687,12 @@
     "source_page": null
   },
   "CHPB-655": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chpb-655.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/5vprybp8iz/png/5vprybp8iz.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/sa-en/products/ink-toner/product-details/5234346",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHPB-903": {
     "image": "data/placeholders/toner.svg",
@@ -3685,24 +3700,36 @@
     "source_page": null
   },
   "CHPC-122": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chpc-122.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/4afec5ft70/png/4afec5ft70.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_middle_east-en/products/ink-toner/product-details/2100542476",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHPJ-0903": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chpj-0903.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/dbjc2v5cuu/png/dbjc2v5cuu.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/5234367",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHPJ-903": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chpj-903.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/ubu66vm1zq/png/ubu66vm1zq.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/10521433",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHPR-903": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chpr-903.webp",
+    "source": "local",
+    "origin_url": "https://sa-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/T/6/T6L91AE-1_T1751433050.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-903-magenta-original-ink-cartridge-t6l91ae.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CHPWR": {
     "image": "data/placeholders/chargeur.svg",
@@ -3850,9 +3877,12 @@
     "source_page": null
   },
   "CL-305": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cl-305.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/hyyk9bywmq/png/hyyk9bywmq.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/29270261",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CL-OMA": {
     "image": "data/placeholders/papier.svg",
@@ -3906,8 +3936,8 @@
   },
   "CN-652": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "CN175": {
     "image": "data/placeholders/divers.svg",
@@ -4250,9 +4280,12 @@
     "source_page": null
   },
   "CRR-655": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crr-655.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/arfhhfpj4z/png/arfhhfpj4z.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/emea_africa-en/products/ink-toner/product-details/5234363",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CRT-0177": {
     "image": "data/placeholders/toner.svg",
@@ -4280,14 +4313,20 @@
     "source_page": null
   },
   "CRT-338": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crt-338.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/ypuiizklbs/png/ypuiizklbs.png?w=800&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/397344",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CRT-344": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crt-344.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/gck4ixfybx/png/gck4ixfybx.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/397419",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CRT-701": {
     "image": "data/placeholders/toner.svg",
@@ -4305,9 +4344,12 @@
     "source_page": null
   },
   "CRTCH-343": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crtch-343.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/x2dqeyiwhr/png/x2dqeyiwhr.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/sa-en/products/ink-toner/product-details/397369",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "CRTJ-177": {
     "image": "data/placeholders/toner.svg",

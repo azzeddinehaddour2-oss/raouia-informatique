@@ -54,6 +54,9 @@ def cmd_review(args) -> int:
     elif args.action == "approve":
         path = pipeline.approve(args.ref, args.index, args.url, args.page or "")
         print(f"{args.ref} validé -> {path}")
+    elif args.action == "revoke":
+        pipeline.revoke(args.ref, args.reason)
+        print(f"{args.ref} : image retirée, placeholder remis, en attente de validation manuelle.")
     elif args.action == "reject":
         pipeline.reject(args.ref)
         print(f"{args.ref} rejeté : placeholder conservé, ne sera plus recherché.")
@@ -103,11 +106,12 @@ def main(argv=None) -> int:
     l.set_defaults(func=cmd_localize)
 
     r = sub.add_parser("review", help="validation manuelle")
-    r.add_argument("action", choices=["list", "html", "approve", "reject"])
+    r.add_argument("action", choices=["list", "html", "approve", "reject", "revoke"])
     r.add_argument("ref", nargs="?")
     r.add_argument("index", nargs="?", type=int, default=1, help="n° du candidat (approve)")
     r.add_argument("--url", help="approve : URL d'image fournie à la main (domaine autorisé)")
     r.add_argument("--page", help="approve : page source de l'URL fournie")
+    r.add_argument("--reason", default="image incorrecte (contrôle visuel)", help="revoke : motif")
     r.set_defaults(func=cmd_review)
 
     c = sub.add_parser("check", help="diagnostic d'une référence / d'une URL candidate")
@@ -118,7 +122,7 @@ def main(argv=None) -> int:
     c.set_defaults(func=cmd_check)
 
     args = parser.parse_args(argv)
-    if args.command == "review" and args.action in ("approve", "reject") and not args.ref:
+    if args.command == "review" and args.action in ("approve", "reject", "revoke") and not args.ref:
         parser.error("review approve/reject nécessite une référence")
     catalog.setup_logging(args.verbose)
     return args.func(args)
