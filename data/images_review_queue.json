@@ -1259,5 +1259,56 @@
         ]
       }
     ]
+  },
+  "ECT-002": {
+    "designation": "ENCRE CACHET TRODAT 4913",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:14",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/48/921476/1.jpg?8386",
+        "page_url": "https://www.jumia.ma/trodat-tampon-encreur-printy-4913-67412984.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : la photo montre le cachet complet, l'article est la recharge d'encre"
+        ]
+      }
+    ]
+  },
+  "ECT-12": {
+    "designation": "ENCRE CACHET TRODAT 4912",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:14",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/02/890476/1.jpg?0639",
+        "page_url": "https://www.jumia.ma/trodat-tampon-encreur-printy-4912-67409820.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : la photo montre le cachet complet, l'article est la recharge d'encre"
+        ]
+      }
+    ]
+  },
+  "M170": {
+    "designation": "SOURIS SANS FIL LOGITECH M170",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:14",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/192676/1.jpg?4428",
+        "page_url": "https://www.jumia.ma/logitech-souris-sans-fil-m170-67629101.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : montage vendeur (produit + boite + logo ajoute)"
+        ]
+      }
+    ]
   }
 }

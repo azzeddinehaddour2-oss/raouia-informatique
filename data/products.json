@@ -2723,7 +2723,8 @@
       "ref": "BIC-2300",
       "designation": "MARQUEUR BIC PERMANENT 2300 BLEU",
       "prix": 12.0,
-      "stock": 24
+      "stock": 24,
+      "image": "data/placeholders/fourniture.svg"
     },
     {
       "ref": "BIC-B",
@@ -10074,7 +10075,7 @@
       "designation": "BOITIER SSD HIKSEMI M.2 HS-HUB-MD202 EXTERNAL HARD DRIVE",
       "prix": 220.0,
       "stock": 10,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/hs-hub-md202.webp"
     },
     {
       "ref": "HS-HUB-MHC201",

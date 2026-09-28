@@ -124,7 +124,7 @@ COLOURS = {
 
 # Génération du modèle (ThinkPad L13 Gen 2, ProBook 460 G11) - pas la
 # génération du processeur ("i5 12TH GEN", "11Gen" sont exclus).
-GENERATION = re.compile(r"(?<![0-9])(?:GEN(?:ERATION)?\s?(\d{1,2})(?!\s*(?:RAM|GO|GB|TH|ST|ND|RD|\d))|G(\d{1,2})I?)")
+GENERATION = re.compile(r"(?<![0-9])(?:GEN(?:ERATION)?\s?(\d{1,2})(?!\s*(?:RAM|GO|GB|TH|ST|ND|RD|\d))|\bG(\d{1,2})I?\b)")
 
 
 def extract_generations(text: str) -> set[str]:
@@ -133,7 +133,14 @@ def extract_generations(text: str) -> set[str]:
 
 CAPACITY = re.compile(r"(?<![A-Z0-9.,])(\d+(?:[.,]\d+)?)\s*(TB|TO|GB|GO|MB|MO)(?![A-Z])")
 
-PACK_WORDS = re.compile(r"(PACK|LOT|KIT|MULTIPACK|DUO|TRIO|BUNDLE|COMBO)|\d\s*-?\s*PACK|\d+\s*(BOUTEILLES|CARTOUCHES|TONERS)")
+PACK_WORDS = re.compile(
+    r"\b(PACK|LOT|KIT|MULTIPACK|DUO|TRIO|BUNDLE|COMBO)\b|\d\s*-?\s*PACK|\bBOITE DE\b|\bBOITE \d+"
+    r"|\b\d+\s*(BOUTEILLES|CARTOUCHES|TONERS|STYLOS|MARQUEURS|FEUTRES|CRAYONS|SURLIGNEURS)\b")
+
+# Papeterie : l'article et sa recharge partagent le même numéro (cachet
+# Trodat 4912 / tampon encreur 4912, stylo / recharge G-2).
+STATIONERY = re.compile(r"\b(CACHET|TAMPON|STYLO|MARQUEUR|FEUTRE|SURLIGNEUR|DATEUR)S?\b")
+REFILL = re.compile(r"\b(ENCRE|ENCREUR|RECHARGES?|REFILLS?|INK PAD|CARTOUCHE)\b")
 
 
 def _is_pack_title(raw: str) -> bool:
@@ -418,6 +425,12 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
     # 4b. Photo de pack pour un article vendu à l'unité -> trompeuse
     if cand.title and _is_pack_title(cand.title) and not _is_pack_title(profile.designation):
         return MatchResult(REJECT, ["la source présente un pack/lot, l'article est vendu à l'unité"])
+
+    # 4c. Article de papeterie vs sa recharge
+    prod_up = normalize_text(profile.designation)
+    if STATIONERY.search(prod_up) and cand.title:
+        if bool(REFILL.search(prod_up)) != bool(REFILL.search(normalize_text(cand.title))):
+            return MatchResult(REJECT, ["la source décrit l'article ou sa recharge, pas le même type de produit"])
 
     # 5. Original vs compatible
     if CANDIDATE_NON_ORIGINAL.search(normalize_text(cand.title)):

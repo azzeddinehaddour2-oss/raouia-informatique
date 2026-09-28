@@ -5473,8 +5473,8 @@
   },
   "ECT-002": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "ECT-004": {
     "image": "data/placeholders/divers.svg",
@@ -5488,8 +5488,8 @@
   },
   "ECT-12": {
     "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "EF-002": {
     "image": "data/placeholders/audio.svg",
@@ -7295,9 +7295,12 @@
     "source_page": null
   },
   "HS-HUB-MD202": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hs-hub-md202.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/810066/1.jpg?5364",
+    "source_page": "https://www.jumia.ma/hiksemi-boitier-de-disque-dur-md202-66001801.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HS-HUB-MHC201": {
     "image": "data/placeholders/stockage.svg",
@@ -8182,8 +8185,8 @@
   },
   "M170": {
     "image": "data/placeholders/souris.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "M1728": {
     "image": "data/placeholders/papier.svg",
@@ -13340,6 +13343,11 @@
   },
   "SAM-A57": {
     "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BIC-2300": {
+    "image": "data/placeholders/fourniture.svg",
     "source_page": null,
     "source": "placeholder"
   }

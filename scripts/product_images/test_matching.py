@@ -153,6 +153,18 @@ class RegressionTests(unittest.TestCase):
         self.assertEqual(verdict("L13", d, AMZ, "https://www.amazon.fr/dp/X", "Lenovo ThinkPad L13 Gen 2 laptop"), ACCEPT)
         self.assertIsNotNone(build_profile("PPR-020", "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+").skip_reason)
 
+    def test_cachet_vs_tampon_encreur(self):
+        J = "https://ma.jumia.is/unsafe/fit-in/680x680/product/1.jpg"
+        self.assertEqual(verdict("CT-049", "CACHET TRODAT 4912", J, "https://www.jumia.ma/x-1.html", "Trodat Tampon encreur Printy 4912"), REJECT)
+        self.assertEqual(verdict("ECT-12", "ENCRE CACHET TRODAT 4912", J, "https://www.jumia.ma/x-1.html", "Trodat Tampon encreur Printy 4912"), ACCEPT)
+        self.assertEqual(verdict("BL-G2", "STYLO PILOT NOIR BL-G2-7-8", J, "https://www.jumia.ma/x-1.html", "Pilot Boite 12 Stylo Roller Encre Gel G2 0.7mm NOIR"), REJECT)
+
+    def test_pack_mots(self):
+        from product_images.matching import _is_pack_title
+        for t in ["Epson Pack 4 Bouteilles 103", "Lot 2 stylos G-2", "BIC 4 Marqueurs permanent 2300", "Boite de 12 stylos"]:
+            self.assertTrue(_is_pack_title(t), t)
+        self.assertFalse(_is_pack_title("Canon Toner 067 Jaune - 5099C002AA"))
+
     def test_marques_papeterie(self):
         self.assertEqual(build_profile("BIC-B", "STYLO BIC CRISTAL BLEU").brand, "BIC")
 
