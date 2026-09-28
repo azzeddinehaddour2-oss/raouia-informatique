@@ -7901,9 +7901,12 @@
     "source_page": null
   },
   "LEN-B210": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/len-b210.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/70/959276/1.jpg?0370",
+    "source_page": "https://www.jumia.ma/lenovo-sac-a-dos-casual-thinkpad-b210-156-4x40t84059-67295907.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LEN-E16": {
     "image": "data/placeholders/stockage.svg",
@@ -7916,9 +7919,12 @@
     "source_page": null
   },
   "LEN-T210": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/len-t210.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/753456/1.jpg?4185",
+    "source_page": "https://www.jumia.ma/lenovo-sacoche-t210-pour-ordinateurs-portables-156-4x40t84061-original-65435730.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LENOV-3020E": {
     "image": "data/placeholders/stockage.svg",
@@ -8175,8 +8181,8 @@
   },
   "M111W": {
     "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "M15004": {
     "image": "data/placeholders/divers.svg",
@@ -11631,9 +11637,12 @@
     "validated_at": "2026-09-28"
   },
   "T630-T230": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/t630-t230.webp",
+    "source": "local",
+    "origin_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/3/E/3ED58A-1_T1678946538.png",
+    "source_page": "https://www.hp.com/my-en/shop/hp-713-designjet-printhead-replacement-kit-3ed58a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "T664-NW": {
     "image": "data/placeholders/toner.svg",

@@ -10975,7 +10975,7 @@
       "designation": "LENOVO B210 SAC A DOS  ORDINATEUR PORTABLES",
       "prix": 250.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/len-b210.webp"
     },
     {
       "ref": "LEN-E16",
@@ -11017,7 +11017,7 @@
       "designation": "LENOVO CARTABLE ORDINATEUR PORTABLES T210",
       "prix": 300.0,
       "stock": 1,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/len-t210.webp"
     },
     {
       "ref": "LENV-108",
@@ -16082,7 +16082,7 @@
       "designation": "HP 713 PRINTHEAD REMPLACEMENT KIT POUR T630/T230",
       "prix": 3100.0,
       "stock": 0,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/t630-t230.webp"
     },
     {
       "ref": "T664-NW",

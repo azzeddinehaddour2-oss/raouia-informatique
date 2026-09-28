@@ -1310,5 +1310,22 @@
         ]
       }
     ]
+  },
+  "M111W": {
+    "designation": "HP LASERJET M111W 600X600 DPI A4 WIFI",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:19",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/13/205916/1.jpg?3336",
+        "page_url": "https://www.jumia.ma/hp-imprimante-laser-monochrome-laserjet-m111w-7md68a-61950231.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : titre et pictogrammes incrustes par le vendeur"
+        ]
+      }
+    ]
   }
 }
