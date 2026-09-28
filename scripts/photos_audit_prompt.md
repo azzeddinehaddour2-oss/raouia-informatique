@@ -75,12 +75,22 @@ jamais les re-tenter inutilement.
    référence/modèle) et repasse en placeholder tout ce qui ne passe
    pas. **Ne contourne jamais ce script et ne le désactive jamais.**
    Son verdict est final, même s'il contredit ton propre jugement.
-2. Régénère `data/products.json` :
+2. Exécute `python scripts/images_produits.py localize` — re-valide
+   chaque image "web" avec les règles strictes (marque, modèle ou
+   référence constructeur, capacité, couleur, original/compatible, fond
+   propre), la télécharge, l'optimise en WebP 800x800 dans
+   `images/produits/` et met à jour les deux fichiers de données. Au
+   moindre doute, l'image part en validation manuelle
+   (`data/images_review_queue.json`) et le placeholder est conservé.
+   Ne retraite jamais toi-même une référence présente dans cette file.
+3. Régénère `data/products.json` :
    `python -c "import sync_stock as m; m.write_products_json(m.fetch_products_from_sage())"`
-3. `git add data/product_images.json data/products.json data/photos_audit_attempted.json`
-4. Commit avec un message clair listant ce qui a été trouvé/écarté ce
+4. `git add images/produits data/product_images.json data/products.json data/photos_audit_attempted.json data/images_review_queue.json`
+   (les images DOIVENT être committées avec les fichiers de données qui
+   les référencent, sinon le site affiche des images cassées).
+5. Commit avec un message clair listant ce qui a été trouvé/écarté ce
    cycle.
-5. `git push origin main`
+6. `git push origin main`
 
 Si aucune référence exploitable n'est trouvée ce cycle (toutes déjà
 tentées, ou aucune ne passe la vérification), ne commite rien — c'est

@@ -66,7 +66,7 @@ AUTHORIZED_DOMAINS = {
     "www.sony.com", "www.sony.fr", "electronics.sony.com", "sony.com",  # Sony officiel
     "www.ingelec.ma", "ingelec.ma",  # Ingelec (fabricant marocain, fiches produit officielles)
     "images-na.ssl-images-amazon.com", "m.media-amazon.com",
-    "www.amazon.com", "www.amazon.fr", "www.amazon.ma",
+    "www.amazon.com", "www.amazon.fr", "www.amazon.ma", "www.amazon.sa", "www.amazon.ae",
     "www.cdiscount.com", "i2.cdscdn.com",
 }
 
@@ -80,7 +80,7 @@ CATEGORY_RULES = [
     ("souris", [r"\bSOURIS\b", r"\bMOUSE\b"]),
     ("camera", [r"\bCAMERA\b", r"\bDVR\b", r"\bNVR\b", r"VIDEOSURVEILLANCE"]),
     ("reseau", [r"\bSWITCH\b", r"ROUTEUR", r"\bROUTER\b", r"\bWIFI\b", r"\bRESEAU\b", r"\bRJ ?45\b", r"\bMODEM\b", r"\bPOE\b", r"\bNAS\b"]),
-    ("ordinateur", [r"PC PORTABLE", r"ORDINATEUR", r"\bLAPTOP\b", r"\bDESKTOP\b", r"\bNOTEBOOK\b", r"ELITEDESK", r"THINKPAD", r"LATITUDE", r"PRECISION", r"ELITEBOOK"]),
+    ("ordinateur", [r"PC PORTABLE", r"ORDINATEUR", r"\bLAPTOP\b", r"\bDESKTOP\b", r"\bNOTEBOOK\b", r"ELITEDESK", r"THINKPAD", r"LATITUDE", r"PRECISION", r"ELITEBOOK", r"VOSTRO", r"OPTIPLEX", r"INSPIRON", r"PROBOOK", r"IDEACENTRE", r"THINKCENTRE"]),
     ("stockage", [r"DISQUE DUR", r"\bSSD\b", r"CLE USB", r"CARTE SD", r"CARTE MEMOIRE", r"\bHDD\b"]),
     ("audio", [r"CASQUE", r"ECOUTEUR", r"HAUT.?PARLEUR", r"\bMICRO\b", r"ENCEINTE", r"\bSPEAKER\b"]),
     ("chargeur", [r"CHARGEUR", r"ADAPTATEUR", r"\bADAPTER\b", r"ALIMENTATION", r"\bPOWERBANK\b"]),
@@ -160,6 +160,30 @@ def main() -> int:
     reverted, kept, checked_live = [], [], 0
 
     for ref, info in images.items():
+        if info.get("source") == "local":
+            # Image hébergée sur le site (scripts/images_produits.py) : le
+            # fichier doit exister et être une image lisible, sinon placeholder.
+            local_file = REPO_ROOT / info.get("image", "")
+            reason = None
+            if not local_file.is_file():
+                reason = f"fichier local absent ({info.get('image')})"
+            elif Image is not None:
+                try:
+                    with Image.open(local_file) as img:
+                        img.verify()
+                except Exception as exc:  # noqa: BLE001
+                    reason = f"fichier local illisible ({exc})"
+            if reason:
+                reverted.append((ref, reason))
+                if not dry_run:
+                    images[ref] = {
+                        "image": f"data/placeholders/{classify(designs.get(ref, ''))}.svg",
+                        "source_page": None,
+                        "source": "placeholder",
+                    }
+            else:
+                kept.append(ref)
+            continue
         if info.get("source") != "web":
             continue
 

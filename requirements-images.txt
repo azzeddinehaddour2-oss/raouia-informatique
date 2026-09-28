@@ -1,0 +1,3 @@
+# Dépendances du pipeline d'images produit (scripts/images_produits.py)
+requests>=2.31
+Pillow>=10.0

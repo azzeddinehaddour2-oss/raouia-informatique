@@ -1,0 +1,657 @@
+{
+  "1221": {
+    "designation": "CRAYON FABER-CASTELL 1221",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61qmKzXBr3L._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Crayon-graphite-lartiste-Faber-Castell-Goldfaber/dp/B003IGLTTE",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '1221' absent de la source"
+        ]
+      }
+    ]
+  },
+  "150MBPS": {
+    "designation": "TP-LINK 150MBPS NANO USB ADAPTER",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg",
+        "page_url": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "1536": {
+    "designation": "RALONCHE INGELEC 3 PRISES 1536",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://www.ingelec.ma/sites/default/files/field/image/bloc_multiprises_long_3prises_2p_t_sans_interrupteur.jpg",
+        "page_url": "https://www.ingelec.ma/fr/node/3619",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '1536' absent de la source"
+        ]
+      }
+    ]
+  },
+  "15PRO-512": {
+    "designation": "iPhone 15 Pro Max 512 Gb Black Titanium",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/81UKVHM77GL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/Apple-iPhone-15-Pro-Max/dp/B0CMZH1SGK",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "16PRO-256G": {
+    "designation": "iPhone 16 Pro Max 256 Gb Black Titanium",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61Ms0lWjDgL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/iPhone-Pro-256GB-Black-Titanium/dp/B0DHT1DDXR",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "2000B": {
+    "designation": "MARQUEUR BIC PERMANENT 2000 BLEU",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71XQYxdC-tL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/820914-B-Marking-ECOlutions-Marqueurs-Permanents/dp/B001JK8476",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "marque BIC absente de la source"
+        ]
+      }
+    ]
+  },
+  "2000V": {
+    "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71L-Qn8nGDL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/BIC-820912-Marqueur-permanent-Marking/dp/B001JK62ZM",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '2000' absent de la source"
+        ]
+      }
+    ]
+  },
+  "4TB-SATA": {
+    "designation": "SYNOLOGY Disque 4TB SATA 3,5'' Série HAT5300 7.2k 36M",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71Dlzd5MWGL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Synology-HAT5300-4T-256Mo-Cache-7200T/dp/B09YDG79JR",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle 'HAT5300' confirmé",
+          "fond non blanc/propre (bordure blanche 18%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "AES256": {
+    "designation": "TRANSCEND ESD270C PORT ABLE SSD 1TB AES256",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71Y0E-rQR8L._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Transcend-SSD-Externe-Playstation-TS1TESD270C/dp/B08ZYZDHDN",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal 'ESD270C' absent de la source"
+        ]
+      }
+    ]
+  },
+  "BIC-B": {
+    "designation": "STYLO BIC BLEU",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007X4ZWK4",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BIC-CRI-R": {
+    "designation": "STYLO BIC CRISTAL ROUGE",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
+        "page_url": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BIC-CRI-V": {
+    "designation": "STYLO BIC CRISTAL VERT",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BIC-N": {
+    "designation": "STYLO BIC NOIR",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg",
+        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B004DBHR2Q",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BIC-R": {
+    "designation": "STYLO BIC ROUGE",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
+        "page_url": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BIC-V": {
+    "designation": "STYLO BIC VERT",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "BL-G2-7-B": {
+    "designation": "STYLO PILOT BLEU BL-G2-7-B",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Pilot-G2-07-Bleu-Pointe-r%C3%A9tractable-Largeur/dp/B00MELLCW8",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle 'G2' confirmé",
+          "fond non blanc/propre (bordure blanche 44%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "BL-G2-7-R": {
+    "designation": "STYLO PILOT ROUGE BL-G2-7-R",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/41RgsMitKXL._AC_SL1200_.jpg",
+        "page_url": "https://www.amazon.fr/Pilot-moyenne-r%C3%A9tractable-plastique-caoutchouc/dp/B000I5SEOQ",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal 'G2' absent de la source"
+        ]
+      }
+    ]
+  },
+  "EATON-3000VA": {
+    "designation": "Eaton 9SX 3000VA/2700W 2 ans",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71cjJaewtjL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Eaton-9SX3000-Alimentation-interruptible-Double-Conversion/dp/B07KPMV6S1",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '9SX' absent de la source"
+        ]
+      }
+    ]
+  },
+  "FX-82ES": {
+    "designation": "CALCULATRICE ELECTRIQUE FX-82ES PLUS CASIO",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61A+kH3+21L._AC_SL1429_.jpg",
+        "page_url": "https://www.amazon.fr/Casio-FX-82ES-Calculatrice-Scientifique-Fonctions/dp/B082YDGP7H",
+        "title": "",
+        "provider": "existant",
+        "score": 80.0,
+        "reasons": [
+          "modèle '82ES' confirmé",
+          "référence exacte présente",
+          "fond non blanc/propre (bordure blanche 12%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "GX-12B": {
+    "designation": "CASIO GX-12B-BK",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61bk9LwyhCL._AC_SL1200_.jpg",
+        "page_url": "https://www.amazon.fr/Casio-Gx12b-bk-calculatrice-bureau-12-chiffres/dp/B01LBRXDO0",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '12B' absent de la source"
+        ]
+      }
+    ]
+  },
+  "HDWT84": {
+    "designation": "TOSHIBA DISQUE DUR HDD 3.5 S300 4 TO",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://storage.toshiba.com/images/chddcore/2025_virtuallabel_front_s300.png",
+        "page_url": "https://storage.toshiba.com/consumer-hdd/internal/s300",
+        "title": "",
+        "provider": "existant",
+        "score": 80.0,
+        "reasons": [
+          "modèle 'S300' confirmé",
+          "capacité non confirmée par la source"
+        ]
+      }
+    ]
+  },
+  "HP-4102FDW": {
+    "designation": "HP LaserJet Pro Imprimante MFP 4102fdw",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://hp.widen.net/content/8prnayppvh/png/8prnayppvh.png",
+        "page_url": "https://support.hp.com/us-en/product/details/hp-laserjet-pro-mfp-4101-4104dw-fdn-fdw-printer-series/model/38347991",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '4102FDW' absent de la source"
+        ]
+      }
+    ]
+  },
+  "HP-712B": {
+    "designation": "HP 712 38ml Black Ink Cartridge T630/T230",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61fX3uEMKbL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD84RMP",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle '712' confirmé",
+          "fond non blanc/propre (bordure blanche 10%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "HP-712C": {
+    "designation": "HP 712 29ml Cyan Ink Cartridge T630/T230",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/719a6AseWVL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD5B212",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle '712' confirmé",
+          "fond non blanc/propre (bordure blanche 9%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "HP-712M": {
+    "designation": "HP 712 29ml Magenta Ink Cartridge T630/T230",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71zArrVrr1L._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD59TB2",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle '712' confirmé",
+          "fond non blanc/propre (bordure blanche 9%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "HP-712Y": {
+    "designation": "HP 712 29ml Yellow Ink Cartridge T630/T230",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71IRfxizMdL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD798ZV",
+        "title": "",
+        "provider": "existant",
+        "score": 60.0,
+        "reasons": [
+          "modèle '712' confirmé",
+          "fond non blanc/propre (bordure blanche 9%, 0/4 coins blancs)"
+        ]
+      }
+    ]
+  },
+  "HP72-BM": {
+    "designation": "HP 72 Black Matte - Cartouche d'encre HP d'origine",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71KbK1C44JL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.com/HP-C9403A-Cartridge-130ml-Matte/dp/B0038G25VK",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "LS1008": {
+    "designation": "TP-LINK LS1008 NON-GERE FASTS ETHERNET 10/100 BLANC 8-PORT",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://static.tp-link.com/LS1008_large_1564370488880d.jpg",
+        "page_url": "https://www.tp-link.com/en/home-networking/soho-switch/ls1008/",
+        "title": "",
+        "provider": "existant",
+        "score": 100.0,
+        "reasons": [
+          "aucun candidat conforme"
+        ]
+      }
+    ]
+  },
+  "LS63": {
+    "designation": "LDNIO CABLE TYPE-IPHONE LS63",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61VTNwKRFsL.jpg",
+        "page_url": "https://www.amazon.sa/-/en/LDNIO-LS63-Fast-Charge-Cable/dp/B07X1R2ZP2",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "marque APPLE absente de la source"
+        ]
+      }
+    ]
+  },
+  "MIC-XELITE": {
+    "designation": "Microsoft Surface Pro Snapdragon X Elite 16 GB 512GB 11th Black",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/417NlZLDLTL._AC_SL1000_.jpg",
+        "page_url": "https://www.amazon.com/Microsoft-Surface-Pro-Touchscreen-AI-Enhanced/dp/B0DLXZ165X",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "MIC-XPLUS": {
+    "designation": "Microsoft Surface Pro Snapdragon X Plus 16 GB 512GB 11th Black",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/61DcE1kbccL._AC_SL1280_.jpg",
+        "page_url": "https://www.amazon.com/Microsoft-Surface-Pro-11-Touchscreen/dp/B0DLBT8PMN",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "MR3020": {
+    "designation": "TP-LINKSHARE 3G/4G   TL-MR3020",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:42",
+    "candidates": [
+      {
+        "image_url": "https://static.tp-link.com/res/images/products/large/TL-MR3020-01.jpg",
+        "page_url": "https://www.tp-link.com/us/home-networking/5g-4g-router/tl-mr3020/",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "produit générique sans marque vérifiable"
+        ]
+      }
+    ]
+  },
+  "PR3660": {
+    "designation": "DL-PR3660-I7 // DELL Precision 3660 i7-13700 16GB 512Go SSD Nvidia T1",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
+        "page_url": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal 'PR3660' absent de la source"
+        ]
+      }
+    ]
+  },
+  "PS6F": {
+    "designation": "EATON PROTECTION STRIP 6",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71v3b9qmPsL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/-/en/Eaton-Protection-Strip-PS6F-Power/dp/B07X2T4DSS",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "S108": {
+    "designation": "TENDA 8-PORT 10/100MBPS DESKTOP SWITCH",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/51VtN6FwWZL._AC_SL1500_.jpg",
+        "page_url": "https://www.amazon.fr/Tenda-S108-Commutateur-reseau-100-Mbps/dp/B017HMHHGS",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "TC-130W": {
+    "designation": "CHARGEUR DELL TYPE C 130W ORIGINAL",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/adapters/dell-130w-usb-c-adapter/media-gallery/adapter-dell-130w-usbc-bk-gallery-1.psd?fmt=png-alpha&wid=1200&hei=630",
+        "page_url": "https://www.dell.com/en-us/shop/dell-130w-usb-c-ac-adapter/apd/450-bfrw/pc-accessories",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "TL-WPA4220": {
+    "designation": "TP-LINK TL-WPA4220CPL AV600 POWERLINE WIFI",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://static.tp-link.com/TL-WPA4220_US_5.0_01_large_1600425370657d.jpg",
+        "page_url": "https://www.tp-link.com/us/home-networking/powerline/tl-wpa4220/",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "aucun numéro de modèle identifiable dans la désignation"
+        ]
+      }
+    ]
+  },
+  "W2030AH": {
+    "designation": "HP 415A Yellow Original LaserJet Toner Cartridge pour la Série M454 &",
+    "origin": "localize",
+    "added_at": "2026-09-28 12:43",
+    "candidates": [
+      {
+        "image_url": "https://hp.widen.net/content/s19bg7bjhw/png/s19bg7bjhw.png?w=800&h=600&dpi=72&color=ffffff00",
+        "page_url": "https://www.hp.com/ng-en/products/ink-toner/product-details/21959578",
+        "title": "",
+        "provider": "existant",
+        "score": 0,
+        "reasons": [
+          "modèle principal '415A' absent de la source"
+        ]
+      }
+    ]
+  }
+}

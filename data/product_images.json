@@ -85,14 +85,17 @@
     "source_page": null
   },
   "103-W": {
-    "image": "https://i8.amplience.net/i/epsonemear/103_k_bottle_cis_front-3d_png?fmt=auto",
-    "source": "web",
-    "source_page": "https://www.epson.eu/en_EU/products/ink-and-paper/ink-consumables/103-ecotank-black-ink-bottle/p/22804"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "103-Y": {
-    "image": "https://i8.amplience.net/i/epsonemear/103_y_bottle_cis_front-3d_png?fmt=auto",
-    "source": "web",
-    "source_page": "https://www.epson.eu/en_EU/products/ink-and-paper/ink-consumables/103-ecotank-yellow-ink-bottle/p/22807"
+    "image": "images/produits/103-y.webp",
+    "source": "local",
+    "origin_url": "https://i8.amplience.net/i/epsonemear/103_y_bottle_cis_front-3d_png?fmt=auto",
+    "source_page": "https://www.epson.eu/en_EU/products/ink-and-paper/ink-consumables/103-ecotank-yellow-ink-bottle/p/22807",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "107W": {
     "image": "data/placeholders/imprimante.svg",
@@ -130,9 +133,9 @@
     "source_page": null
   },
   "1221": {
-    "image": "https://m.media-amazon.com/images/I/61qmKzXBr3L._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Crayon-graphite-lartiste-Faber-Castell-Goldfaber/dp/B003IGLTTE"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "130HP-BLACK": {
     "image": "data/placeholders/toner.svg",
@@ -160,9 +163,9 @@
     "source_page": null
   },
   "150MBPS": {
-    "image": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/"
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "151151": {
     "image": "data/placeholders/fourniture.svg",
@@ -185,9 +188,9 @@
     "source_page": null
   },
   "1536": {
-    "image": "https://www.ingelec.ma/sites/default/files/field/image/bloc_multiprises_long_3prises_2p_t_sans_interrupteur.jpg",
-    "source_page": "https://www.ingelec.ma/fr/node/3619",
-    "source": "web"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "1552": {
     "image": "data/placeholders/divers.svg",
@@ -210,9 +213,9 @@
     "source_page": null
   },
   "15PRO-512": {
-    "image": "https://m.media-amazon.com/images/I/81UKVHM77GL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/Apple-iPhone-15-Pro-Max/dp/B0CMZH1SGK"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "161616": {
     "image": "data/placeholders/divers.svg",
@@ -220,14 +223,17 @@
     "source_page": null
   },
   "16DDR4": {
-    "image": "https://m.media-amazon.com/images/I/711Xzref8yL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Synology-Module-D4ECSO-2666-16G-DDR4-2666-unbuffered/dp/B07WT66R36"
+    "image": "images/produits/16ddr4.webp",
+    "source": "local",
+    "origin_url": "https://m.media-amazon.com/images/I/711Xzref8yL._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Synology-Module-D4ECSO-2666-16G-DDR4-2666-unbuffered/dp/B07WT66R36",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "16PRO-256G": {
-    "image": "https://m.media-amazon.com/images/I/61Ms0lWjDgL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/iPhone-Pro-256GB-Black-Titanium/dp/B0DHT1DDXR"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "1713-1N": {
     "image": "data/placeholders/divers.svg",
@@ -270,9 +276,9 @@
     "source_page": null
   },
   "2000B": {
-    "image": "https://m.media-amazon.com/images/I/71XQYxdC-tL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/820914-B-Marking-ECOlutions-Marqueurs-Permanents/dp/B001JK8476"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "2000N": {
     "image": "data/placeholders/fourniture.svg",
@@ -280,9 +286,9 @@
     "source_page": null
   },
   "2000V": {
-    "image": "https://m.media-amazon.com/images/I/71L-Qn8nGDL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/BIC-820912-Marqueur-permanent-Marking/dp/B001JK62ZM"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "202416": {
     "image": "data/placeholders/divers.svg",
@@ -455,9 +461,12 @@
     "source_page": null
   },
   "3440-I5": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-3440-laptop/media-gallery/notebook-latitude-14-3440-nt-uma-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=900&wid=900&qlt=100,1&resMode=sharp2&size=900,900&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3440-laptop/spd/latitude-14-3440-laptop"
+    "image": "images/produits/3440-i5.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-3440-laptop/media-gallery/notebook-latitude-14-3440-nt-uma-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=900&wid=900&qlt=100,1&resMode=sharp2&size=900,900&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3440-laptop/spd/latitude-14-3440-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "351-V": {
     "image": "data/placeholders/fourniture.svg",
@@ -465,9 +474,12 @@
     "source_page": null
   },
   "3540-I5": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-3540-laptop/media-gallery/notebook-latitude-15-3540-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3540-laptop/spd/latitude-15-3540-laptop"
+    "image": "images/produits/3540-i5.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-3540-laptop/media-gallery/notebook-latitude-15-3540-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-3540-laptop/spd/latitude-15-3540-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "369N": {
     "image": "data/placeholders/fourniture.svg",
@@ -485,9 +497,12 @@
     "source_page": null
   },
   "3910TWR": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/vostro-desktops/vostro-3910-tower/media-gallery/black-noodd-nomcr/desktop-dv3910-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktops/tower/spd/vostro-3910-desktop"
+    "image": "images/produits/3910twr.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/vostro-desktops/vostro-3910-tower/media-gallery/black-noodd-nomcr/desktop-dv3910-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1000&qlt=100,1&resMode=sharp2&size=1000,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/desktops/tower/spd/vostro-3910-desktop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "3A-852": {
     "image": "data/placeholders/fourniture.svg",
@@ -540,9 +555,9 @@
     "source_page": null
   },
   "4TB-SATA": {
-    "image": "https://m.media-amazon.com/images/I/71Dlzd5MWGL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Synology-HAT5300-4T-256Mo-Cache-7200T/dp/B09YDG79JR"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "4U-W-D-LINK": {
     "image": "data/placeholders/divers.svg",
@@ -900,9 +915,12 @@
     "source_page": null
   },
   "A05S": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05s-black-128gb-sm-a057fzkgmea/"
+    "image": "images/produits/a05s.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05s-black-128gb-sm-a057fzkgmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "A065R01DL": {
     "image": "data/placeholders/chargeur.svg",
@@ -930,9 +948,12 @@
     "source_page": null
   },
   "A16-128": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a165mzkglte/gallery/latin-en-galaxy-a16-sm-a165-sm-a165mzkglte-544288525?$1164_776_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a16-black-128gb-sm-a165mzkglte/"
+    "image": "images/produits/a16-128.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a165mzkglte/gallery/latin-en-galaxy-a16-sm-a165-sm-a165mzkglte-544288525?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a16-black-128gb-sm-a165mzkglte/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "A1703": {
     "image": "data/placeholders/cable.svg",
@@ -965,9 +986,12 @@
     "source_page": null
   },
   "A25-128": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256ezkdmea/"
+    "image": "images/produits/a25-128.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256ezkdmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "A25-256": {
     "image": "data/placeholders/divers.svg",
@@ -1000,9 +1024,12 @@
     "source_page": null
   },
   "A35/256G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a356ezkglte/gallery/latin-en-galaxy-a35-5g-sm-a356-500302-sm-a356ezkglte-540451378?$1164_776_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-256gb-sm-a356ezkglte/"
+    "image": "images/produits/a35-256g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/sm-a356ezkglte/gallery/latin-en-galaxy-a35-5g-sm-a356-500302-sm-a356ezkglte-540451378?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/latin_en/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-256gb-sm-a356ezkglte/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "A4-150": {
     "image": "data/placeholders/divers.svg",
@@ -1030,9 +1057,12 @@
     "source_page": null
   },
   "A55-256": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/sg/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxsp/"
+    "image": "images/produits/a55-256.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/sg/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxsp/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "A56-128": {
     "image": "data/placeholders/divers.svg",
@@ -1110,14 +1140,20 @@
     "source_page": null
   },
   "AC1200-C54": {
-    "image": "https://static.tp-link.com/Archer-C54_UN_1.0_01_large_1593402529208i.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c54/"
+    "image": "images/produits/ac1200-c54.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/Archer-C54_UN_1.0_01_large_1593402529208i.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c54/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "AC1200-C6U": {
-    "image": "https://static.tp-link.com/1large_1591842367235B.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-c6u/"
+    "image": "images/produits/ac1200-c6u.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/1large_1591842367235B.jpg",
+    "source_page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-c6u/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "AC1300": {
     "image": "data/placeholders/chargeur.svg",
@@ -1125,14 +1161,20 @@
     "source_page": null
   },
   "AC1350": {
-    "image": "https://static.tp-link.com/upload/image-line/EAP225_EU_4.20_overview_01_large_20260326093158h.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/business-networking/omada-wifi-ceiling-mount/eap225/"
+    "image": "images/produits/ac1350.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/upload/image-line/EAP225_EU_4.20_overview_01_large_20260326093158h.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/omada-wifi-ceiling-mount/eap225/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "AC750": {
-    "image": "https://static.tp-link.com/Archer_C20(UN)3.0%EF%BC%8D960x720px-00_1490594607274g.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c20/"
+    "image": "images/produits/ac750.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/Archer_C20(UN)3.0%EF%BC%8D960x720px-00_1490594607274g.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c20/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "ACA-01": {
     "image": "data/placeholders/divers.svg",
@@ -1280,9 +1322,9 @@
     "source_page": null
   },
   "AES256": {
-    "image": "https://m.media-amazon.com/images/I/71Y0E-rQR8L._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Transcend-SSD-Externe-Playstation-TS1TESD270C/dp/B08ZYZDHDN"
+    "image": "data/placeholders/stockage.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "AF-1.2X80": {
     "image": "data/placeholders/divers.svg",
@@ -1905,9 +1947,9 @@
     "source_page": null
   },
   "BIC-B": {
-    "image": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007X4ZWK4"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BIC-BV": {
     "image": "data/placeholders/fourniture.svg",
@@ -1915,24 +1957,24 @@
     "source_page": null
   },
   "BIC-CRI-R": {
-    "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BIC-CRI-V": {
-    "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BIC-N": {
-    "image": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B004DBHR2Q"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BIC-R": {
-    "image": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BIC-RV": {
     "image": "data/placeholders/fourniture.svg",
@@ -1940,9 +1982,9 @@
     "source_page": null
   },
   "BIC-V": {
-    "image": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BICFN": {
     "image": "data/placeholders/fourniture.svg",
@@ -1990,9 +2032,9 @@
     "source_page": null
   },
   "BL-G2-7-B": {
-    "image": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Pilot-G2-07-Bleu-Pointe-r%C3%A9tractable-Largeur/dp/B00MELLCW8"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BL-G2-7-G": {
     "image": "data/placeholders/fourniture.svg",
@@ -2000,9 +2042,9 @@
     "source_page": null
   },
   "BL-G2-7-R": {
-    "image": "https://m.media-amazon.com/images/I/41RgsMitKXL._AC_SL1200_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Pilot-moyenne-r%C3%A9tractable-plastique-caoutchouc/dp/B000I5SEOQ"
+    "image": "data/placeholders/fourniture.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "BL-ML": {
     "image": "data/placeholders/papier.svg",
@@ -4455,9 +4497,12 @@
     "source_page": null
   },
   "D-5440": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp"
+    "image": "images/produits/d-5440.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "D-6791": {
     "image": "data/placeholders/fourniture.svg",
@@ -4505,19 +4550,28 @@
     "source_page": null
   },
   "D5440I7": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp"
+    "image": "images/produits/d5440i7.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "D5540-I5": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop"
+    "image": "images/produits/d5540-i5.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "D5540-I7": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop"
+    "image": "images/produits/d5540-i7.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/pdp/latitude-15-5540-laptop-pdp-module-00-media-gallery.psd?qlt=95&fit=constrain,1&hei=900&wid=900&fmt=jpg",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5540-laptop/spd/latitude-15-5540-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "D7430": {
     "image": "data/placeholders/ordinateur.svg",
@@ -4650,9 +4704,12 @@
     "source_page": null
   },
   "DELL-27": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2722h/media-gallery/peripherals_monitor_p2722h_gallery_2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-p2722h/apd/210-bbck/monitors-monitor-accessories"
+    "image": "images/produits/dell-27.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2722h/media-gallery/peripherals_monitor_p2722h_gallery_2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-p2722h/apd/210-bbck/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DELL-3050-1TB": {
     "image": "data/placeholders/divers.svg",
@@ -4660,9 +4717,12 @@
     "source_page": null
   },
   "DELL-5820": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-5820-tower-workstation/spd/precision-5820-workstation"
+    "image": "images/produits/dell-5820.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-5820-tower-workstation/spd/precision-5820-workstation",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DELL-65W": {
     "image": "data/placeholders/chargeur.svg",
@@ -4690,9 +4750,12 @@
     "source_page": null
   },
   "DELL3660": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation"
+    "image": "images/produits/dell3660.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
+    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DELL7010": {
     "image": "data/placeholders/stockage.svg",
@@ -4700,9 +4763,12 @@
     "source_page": null
   },
   "DELL7010_I5": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-d13-tower/media-gallery-standard/desktop-optiplex-7010-mt-black-gallery-1.psd?qlt=95&fmt=jpg&wid=1200",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktops-all-in-ones/optiplex-7010-tower/spd/optiplex-7010-desktop"
+    "image": "images/produits/dell7010-i5.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-d13-tower/media-gallery-standard/desktop-optiplex-7010-mt-black-gallery-1.psd?qlt=95&fmt=jpg&wid=1200",
+    "source_page": "https://www.dell.com/en-us/shop/desktops-all-in-ones/optiplex-7010-tower/spd/optiplex-7010-desktop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DELL_R750XS": {
     "image": "data/placeholders/divers.svg",
@@ -4785,9 +4851,12 @@
     "source_page": null
   },
   "DL5440": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp"
+    "image": "images/produits/dl5440.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5440-laptop/media-gallery/gray/notebook-latitude-14-5440-nt-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=1000&wid=1000&qlt=100,1&resMode=sharp2&size=1000,1000&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5440/spd/latitude-14-5440-laptop/s111l5440usrvp",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DM-CF210A": {
     "image": "data/placeholders/toner.svg",
@@ -4995,9 +5064,12 @@
     "source_page": null
   },
   "DS-2CE76K0T": {
-    "image": "https://assets.hikvision.com/prd/normal/all/image/m000068586/%E6%B5%B7%E8%9E%BA30-D0T-%E6%AD%A3%E9%9D%A2.png",
-    "source": "web",
-    "source_page": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/Value-Series/ds-2ce76k0t-exlmf/"
+    "image": "images/produits/ds-2ce76k0t.webp",
+    "source": "local",
+    "origin_url": "https://assets.hikvision.com/prd/normal/all/image/m000068586/%E6%B5%B7%E8%9E%BA30-D0T-%E6%AD%A3%E9%9D%A2.png",
+    "source_page": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/Value-Series/ds-2ce76k0t-exlmf/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DS-2CE76KOT": {
     "image": "data/placeholders/camera.svg",
@@ -5070,9 +5142,12 @@
     "source_page": null
   },
   "DS-7616NXI": {
-    "image": "https://assets.hikvision.com/prd/public/all/image/m000058884/%E6%B8%B2%E6%9F%93%E5%9B%BE.png",
-    "source": "web",
-    "source_page": "https://www.hikvision.com/mena-en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k2-16p/"
+    "image": "images/produits/ds-7616nxi.webp",
+    "source": "local",
+    "origin_url": "https://assets.hikvision.com/prd/public/all/image/m000058884/%E6%B8%B2%E6%9F%93%E5%9B%BE.png",
+    "source_page": "https://www.hikvision.com/mena-en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k2-16p/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "DS-KH6320-WTE1": {
     "image": "data/placeholders/ecran.svg",
@@ -5235,9 +5310,9 @@
     "source_page": null
   },
   "EATON-3000VA": {
-    "image": "https://m.media-amazon.com/images/I/71cjJaewtjL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Eaton-9SX3000-Alimentation-interruptible-Double-Conversion/dp/B07KPMV6S1"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "EB-FH52": {
     "image": "data/placeholders/divers.svg",
@@ -5915,9 +5990,9 @@
     "source_page": null
   },
   "FX-82ES": {
-    "image": "https://m.media-amazon.com/images/I/61A+kH3+21L._AC_SL1429_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Casio-FX-82ES-Calculatrice-Scientifique-Fonctions/dp/B082YDGP7H"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "G-20X20": {
     "image": "data/placeholders/divers.svg",
@@ -5970,9 +6045,12 @@
     "source_page": null
   },
   "G3410": {
-    "image": "https://cdn.media.amplience.net/i/canon/pixma_g3410-as-fra_4c70ad9f96f948a8b32187fb69d362d9",
-    "source": "web",
-    "source_page": "https://www.canon-europe.com/printers/pixma-g3410/"
+    "image": "images/produits/g3410.webp",
+    "source": "local",
+    "origin_url": "https://cdn.media.amplience.net/i/canon/pixma_g3410-as-fra_4c70ad9f96f948a8b32187fb69d362d9",
+    "source_page": "https://www.canon-europe.com/printers/pixma-g3410/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "G54": {
     "image": "data/placeholders/fourniture.svg",
@@ -6185,9 +6263,9 @@
     "source_page": null
   },
   "GX-12B": {
-    "image": "https://m.media-amazon.com/images/I/61bk9LwyhCL._AC_SL1200_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Casio-Gx12b-bk-calculatrice-bureau-12-chiffres/dp/B01LBRXDO0"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "GXT-002": {
     "image": "data/placeholders/audio.svg",
@@ -6375,9 +6453,9 @@
     "source_page": null
   },
   "HDWT84": {
-    "image": "https://storage.toshiba.com/images/chddcore/2025_virtuallabel_front_s300.png",
-    "source": "web",
-    "source_page": "https://storage.toshiba.com/consumer-hdd/internal/s300"
+    "image": "data/placeholders/stockage.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HE20HF": {
     "image": "data/placeholders/cable.svg",
@@ -6515,9 +6593,12 @@
     "source_page": null
   },
   "HP-106A": {
-    "image": "https://hp.widen.net/content/xsft2smw0x/png/xsft2smw0x.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-106a-black-original-laser-toner-cartridge-w1106a.html"
+    "image": "images/produits/hp-106a.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/xsft2smw0x/png/xsft2smw0x.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-106a-black-original-laser-toner-cartridge-w1106a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-107A": {
     "image": "data/placeholders/imprimante.svg",
@@ -6560,9 +6641,12 @@
     "source_page": null
   },
   "HP-226A": {
-    "image": "https://hp.widen.net/content/cdrs78qvaa/webp/cdrs78qvaa.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/us-en/shop/pdp/hp-26a-black-original-laserjet-toner-cartridge-cf226a"
+    "image": "images/produits/hp-226a.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/cdrs78qvaa/webp/cdrs78qvaa.png",
+    "source_page": "https://www.hp.com/us-en/shop/pdp/hp-26a-black-original-laserjet-toner-cartridge-cf226a",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-2320": {
     "image": "data/placeholders/toner.svg",
@@ -6575,9 +6659,12 @@
     "source_page": null
   },
   "HP-24POUCE": {
-    "image": "https://hp.widen.net/content/c3gmpyqdzs/png/c3gmpyqdzs.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-elitedisplay-e233-23-inch-monitor/17210309"
+    "image": "images/produits/hp-24pouce.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/c3gmpyqdzs/png/c3gmpyqdzs.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-elitedisplay-e233-23-inch-monitor/17210309",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-270G7": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6590,9 +6677,12 @@
     "source_page": null
   },
   "HP-3003": {
-    "image": "https://hp.widen.net/content/3vfkbi7bxk/png/3vfkbi7bxk.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://www.hp.com/sg-en/shop/hp-laserjet-pro-3003dw-printer-3g654a.html"
+    "image": "images/produits/hp-3003.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/3vfkbi7bxk/png/3vfkbi7bxk.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/sg-en/shop/hp-laserjet-pro-3003dw-printer-3g654a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-3003DN": {
     "image": "data/placeholders/imprimante.svg",
@@ -6605,9 +6695,9 @@
     "source_page": null
   },
   "HP-4102FDW": {
-    "image": "https://hp.widen.net/content/8prnayppvh/png/8prnayppvh.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-laserjet-pro-mfp-4101-4104dw-fdn-fdw-printer-series/model/38347991"
+    "image": "data/placeholders/imprimante.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-460": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6630,34 +6720,40 @@
     "source_page": null
   },
   "HP-712B": {
-    "image": "https://m.media-amazon.com/images/I/61fX3uEMKbL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD84RMP"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-712C": {
-    "image": "https://m.media-amazon.com/images/I/719a6AseWVL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD5B212"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-712M": {
-    "image": "https://m.media-amazon.com/images/I/71zArrVrr1L._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD59TB2"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-712Y": {
-    "image": "https://m.media-amazon.com/images/I/71IRfxizMdL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/HP-712-Cartridge-DesignJet-Printers/dp/B08FD798ZV"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP-724": {
-    "image": "https://hp.widen.net/content/45s7lh499f/png/45s7lh499f.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-series-7-pro-23.8-inch-fhd-monitor-724pf/2101983421"
+    "image": "images/produits/hp-724.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/45s7lh499f/png/45s7lh499f.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-series-7-pro-23.8-inch-fhd-monitor-724pf/2101983421",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-800-G3": {
-    "image": "https://hp.widen.net/content/jiipvkahau/png/jiipvkahau.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-elitedesk-800-g3-small-form-factor-pc/15257618"
+    "image": "images/produits/hp-800-g3.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/jiipvkahau/png/jiipvkahau.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-elitedesk-800-g3-small-form-factor-pc/15257618",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP-80A": {
     "image": "data/placeholders/toner.svg",
@@ -6755,9 +6851,12 @@
     "source_page": null
   },
   "HP322": {
-    "image": "https://hp.widen.net/content/4bsxa6yeg3/png/4bsxa6yeg3.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://www.hp.com/in-en/shop/hp-series-3-pro-21-45-inch-fhd-monitor-322pe-ak2f1ut.html"
+    "image": "images/produits/hp322.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/4bsxa6yeg3/png/4bsxa6yeg3.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/in-en/shop/hp-series-3-pro-21-45-inch-fhd-monitor-322pe-ak2f1ut.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP400I7": {
     "image": "data/placeholders/stockage.svg",
@@ -6785,9 +6884,9 @@
     "source_page": null
   },
   "HP72-BM": {
-    "image": "https://m.media-amazon.com/images/I/71KbK1C44JL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/HP-C9403A-Cartridge-130ml-Matte/dp/B0038G25VK"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "HP800G3I5": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6795,14 +6894,20 @@
     "source_page": null
   },
   "HP840G6": {
-    "image": "https://hp.widen.net/content/yacpnxmsos/png/yacpnxmsos.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-elitebook-840-g6-notebook-pc/26609796"
+    "image": "images/produits/hp840g6.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/yacpnxmsos/png/yacpnxmsos.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-elitebook-840-g6-notebook-pc/26609796",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HP85A": {
-    "image": "https://hp.widen.net/content/2jqhe9hjrk/png/2jqhe9hjrk.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+    "image": "images/produits/hp85a.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/2jqhe9hjrk/png/2jqhe9hjrk.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-124": {
     "image": "data/placeholders/toner.svg",
@@ -6825,9 +6930,12 @@
     "source_page": null
   },
   "HPB-17": {
-    "image": "https://hp.widen.net/content/tuo4ubyyxe/png/tuo4ubyyxe.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-cyan-original-laser-toner-cartridge-w2071a.html"
+    "image": "images/produits/hpb-17.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/tuo4ubyyxe/png/tuo4ubyyxe.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-cyan-original-laser-toner-cartridge-w2071a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPB-207": {
     "image": "data/placeholders/toner.svg",
@@ -6865,9 +6973,12 @@
     "source_page": null
   },
   "HPJ-17": {
-    "image": "https://hp.widen.net/content/aihmmp73kd/png/aihmmp73kd.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-yellow-original-laser-toner-cartridge-w2072a.html"
+    "image": "images/produits/hpj-17.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/aihmmp73kd/png/aihmmp73kd.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-yellow-original-laser-toner-cartridge-w2072a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPJ-203": {
     "image": "data/placeholders/toner.svg",
@@ -6890,14 +7001,20 @@
     "source_page": null
   },
   "HPN-05": {
-    "image": "https://hp.widen.net/content/mrnp8zdvcm/png/mrnp8zdvcm.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html"
+    "image": "images/produits/hpn-05.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/mrnp8zdvcm/png/mrnp8zdvcm.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-117": {
-    "image": "https://hp.widen.net/content/s0xovqxaxj/png/s0xovqxaxj.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-black-original-laser-toner-cartridge-w2070a.html"
+    "image": "images/produits/hpn-117.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/s0xovqxaxj/png/s0xovqxaxj.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-black-original-laser-toner-cartridge-w2070a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPN-12": {
     "image": "data/placeholders/toner.svg",
@@ -6970,9 +7087,12 @@
     "source_page": null
   },
   "HPR-17": {
-    "image": "https://hp.widen.net/content/vjwz9tnz9e/png/vjwz9tnz9e.png",
-    "source": "web",
-    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-magenta-original-laser-toner-cartridge-w2073a.html"
+    "image": "images/produits/hpr-17.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/vjwz9tnz9e/png/vjwz9tnz9e.png",
+    "source_page": "https://www.hp.com/sa-en/shop/hp-117a-magenta-original-laser-toner-cartridge-w2073a.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "HPR-203": {
     "image": "data/placeholders/toner.svg",
@@ -7095,9 +7215,12 @@
     "source_page": null
   },
   "IM3251": {
-    "image": "https://i8.amplience.net/i/epsonemear/l3251_png_l3251",
-    "source": "web",
-    "source_page": "https://www.epson.eu/en_EU/products/printers/inkjet/consumer/ecotank-l3251-multifunction-wi-fi-ink-tank-a4-printer,-with-up-to-3-years-of-ink-included/p/30245"
+    "image": "images/produits/im3251.webp",
+    "source": "local",
+    "origin_url": "https://i8.amplience.net/i/epsonemear/l3251_png_l3251",
+    "source_page": "https://www.epson.eu/en_EU/products/printers/inkjet/consumer/ecotank-l3251-multifunction-wi-fi-ink-tank-a4-printer,-with-up-to-3-years-of-ink-included/p/30245",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "IMG680": {
     "image": "data/placeholders/chargeur.svg",
@@ -7690,14 +7813,20 @@
     "source_page": null
   },
   "LOGT-M171": {
-    "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png",
-    "source": "web",
-    "source_page": "https://www.logitech.com/en-us/shop/p/m171-wireless-mouse"
+    "image": "images/produits/logt-m171.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-1.png",
+    "source_page": "https://www.logitech.com/en-us/shop/p/m171-wireless-mouse",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LO_LX-350": {
-    "image": "https://i8.amplience.net/i/epsonemear/lxs350_front-png",
-    "source": "web",
-    "source_page": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lx-350/p/11848"
+    "image": "images/produits/lo-lx-350.webp",
+    "source": "local",
+    "origin_url": "https://i8.amplience.net/i/epsonemear/lxs350_front-png",
+    "source_page": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lx-350/p/11848",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LO_P2035": {
     "image": "data/placeholders/imprimante.svg",
@@ -7715,14 +7844,20 @@
     "source_page": null
   },
   "LQ-2190": {
-    "image": "https://i8.amplience.net/i/epsonemear/lqm2190-front-png",
-    "source": "web",
-    "source_page": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lq-2190/p/3816"
+    "image": "images/produits/lq-2190.webp",
+    "source": "local",
+    "origin_url": "https://i8.amplience.net/i/epsonemear/lqm2190-front-png",
+    "source_page": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lq-2190/p/3816",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LQ-350": {
-    "image": "https://i8.amplience.net/i/epsonemear/12058-productpicture-lores-ix-lq-350_main_rns",
-    "source": "web",
-    "source_page": "https://www.epson.fr/fr_FR/produits/imprimantes/dot-matrix/lq-350/p/12058"
+    "image": "images/produits/lq-350.webp",
+    "source": "local",
+    "origin_url": "https://i8.amplience.net/i/epsonemear/12058-productpicture-lores-ix-lq-350_main_rns",
+    "source_page": "https://www.epson.fr/fr_FR/produits/imprimantes/dot-matrix/lq-350/p/12058",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LQ200": {
     "image": "data/placeholders/imprimante.svg",
@@ -7755,19 +7890,25 @@
     "source_page": null
   },
   "LS1005": {
-    "image": "https://static.tp-link.com/LS1005_01_large_1563262851927i.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/en/business-networking/soho-switch-unmanaged/ls1005/"
+    "image": "images/produits/ls1005.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/LS1005_01_large_1563262851927i.jpg",
+    "source_page": "https://www.tp-link.com/en/business-networking/soho-switch-unmanaged/ls1005/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LS1005G": {
-    "image": "https://static.tp-link.com/LS1005G_01_large_1564574076894y.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/5-port-switch/ls1005g/"
+    "image": "images/produits/ls1005g.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/LS1005G_01_large_1564574076894y.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/5-port-switch/ls1005g/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "LS1008": {
-    "image": "https://static.tp-link.com/LS1008_large_1564370488880d.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/en/home-networking/soho-switch/ls1008/"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LS2001": {
     "image": "data/placeholders/divers.svg",
@@ -7785,9 +7926,9 @@
     "source_page": null
   },
   "LS63": {
-    "image": "https://m.media-amazon.com/images/I/61VTNwKRFsL.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.sa/-/en/LDNIO-LS63-Fast-Charge-Cable/dp/B07X1R2ZP2"
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "LT-6011": {
     "image": "data/placeholders/fourniture.svg",
@@ -7890,9 +8031,12 @@
     "source_page": null
   },
   "M185": {
-    "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-top-angle-1.png",
-    "source": "web",
-    "source_page": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse"
+    "image": "images/produits/m185.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-top-angle-1.png",
+    "source_page": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "M20": {
     "image": "data/placeholders/divers.svg",
@@ -7905,9 +8049,12 @@
     "source_page": null
   },
   "M283FDW": {
-    "image": "https://hp.widen.net/content/jnlaekdfrf/png/jnlaekdfrf.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://www.hp.com/us-en/shop/dlp/laserjet-pro-mfp-m281fdw"
+    "image": "images/produits/m283fdw.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/jnlaekdfrf/png/jnlaekdfrf.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/us-en/shop/dlp/laserjet-pro-mfp-m281fdw",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "M4003DN": {
     "image": "data/placeholders/divers.svg",
@@ -8050,9 +8197,12 @@
     "source_page": null
   },
   "MF3010": {
-    "image": "https://cdn.media.amplience.net/i/canon/mf3010_frt_black_fa2dd4be62184ca2a36fb7a86a9611c1",
-    "source": "web",
-    "source_page": "https://www.canon-europe.com/support/consumer/products/printers/i-sensys/mf-series/i-sensys-mf3010.html"
+    "image": "images/produits/mf3010.webp",
+    "source": "local",
+    "origin_url": "https://cdn.media.amplience.net/i/canon/mf3010_frt_black_fa2dd4be62184ca2a36fb7a86a9611c1",
+    "source_page": "https://www.canon-europe.com/support/consumer/products/printers/i-sensys/mf-series/i-sensys-mf3010.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MF655CDW": {
     "image": "data/placeholders/reseau.svg",
@@ -8100,14 +8250,14 @@
     "source_page": null
   },
   "MIC-XELITE": {
-    "image": "https://m.media-amazon.com/images/I/417NlZLDLTL._AC_SL1000_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/Microsoft-Surface-Pro-Touchscreen-AI-Enhanced/dp/B0DLXZ165X"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "MIC-XPLUS": {
-    "image": "https://m.media-amazon.com/images/I/61DcE1kbccL._AC_SL1280_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.com/Microsoft-Surface-Pro-11-Touchscreen/dp/B0DLBT8PMN"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "MICR-SF": {
     "image": "data/placeholders/audio.svg",
@@ -8140,14 +8290,20 @@
     "source_page": null
   },
   "MK220": {
-    "image": "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery1.png",
-    "source": "web",
-    "source_page": "https://www.logitech.com/en-eu/shop/p/mk220-compact-keyboard-mouse"
+    "image": "images/produits/mk220.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery1.png",
+    "source_page": "https://www.logitech.com/en-eu/shop/p/mk220-compact-keyboard-mouse",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MK270": {
-    "image": "https://resource.logitech.com/w_1200,h_1200,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-1-new.png",
-    "source": "web",
-    "source_page": "https://www.logitech.com/en-us/shop/p/mk270-wireless-keyboard-mouse"
+    "image": "images/produits/mk270.webp",
+    "source": "local",
+    "origin_url": "https://resource.logitech.com/w_1200,h_1200,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-1-new.png",
+    "source_page": "https://www.logitech.com/en-us/shop/p/mk270-wireless-keyboard-mouse",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MNR-068": {
     "image": "data/placeholders/fourniture.svg",
@@ -8215,9 +8371,12 @@
     "source_page": null
   },
   "MR-3040": {
-    "image": "https://static.tp-link.com/res/images/products/large/TL-MR3040-01.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/lk/home-networking/3g-4g-router/tl-mr3040/"
+    "image": "images/produits/mr-3040.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/res/images/products/large/TL-MR3040-01.jpg",
+    "source_page": "https://www.tp-link.com/lk/home-networking/3g-4g-router/tl-mr3040/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MR-ROUGE": {
     "image": "data/placeholders/fourniture.svg",
@@ -8230,9 +8389,9 @@
     "source_page": null
   },
   "MR3020": {
-    "image": "https://static.tp-link.com/res/images/products/large/TL-MR3020-01.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/5g-4g-router/tl-mr3020/"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "MR35TU3": {
     "image": "data/placeholders/stockage.svg",
@@ -8260,9 +8419,12 @@
     "source_page": null
   },
   "MS105GP": {
-    "image": "https://m.media-amazon.com/images/I/61mrwkQXW9L._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Mercusys-TP-Link-MS105GP-Gigabit-Silencieux/dp/B0C3D15MQ4"
+    "image": "images/produits/ms105gp.webp",
+    "source": "local",
+    "origin_url": "https://m.media-amazon.com/images/I/61mrwkQXW9L._AC_SL1500_.jpg",
+    "source_page": "https://www.amazon.fr/Mercusys-TP-Link-MS105GP-Gigabit-Silencieux/dp/B0C3D15MQ4",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "MS111": {
     "image": "data/placeholders/souris.svg",
@@ -8775,9 +8937,12 @@
     "source_page": null
   },
   "P2222H": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2222h/media-gallery/peripherals_monitor_p2222h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=820&qlt=100,1&resMode=sharp2&size=820,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-p2222h/apd/210-bbbw/monitors-monitor-accessories"
+    "image": "images/produits/p2222h.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2222h/media-gallery/peripherals_monitor_p2222h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=820&qlt=100,1&resMode=sharp2&size=820,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-p2222h/apd/210-bbbw/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "P2250": {
     "image": "data/placeholders/divers.svg",
@@ -8790,9 +8955,12 @@
     "source_page": null
   },
   "P2422H": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2422h/media-gallery/peripherals_monitor_p2422h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=808&qlt=100,1&resMode=sharp2&size=808,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-p2422h/apd/210-bbcc/monitors-monitor-accessories"
+    "image": "images/produits/p2422h.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2422h/media-gallery/peripherals_monitor_p2422h_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=808&qlt=100,1&resMode=sharp2&size=808,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-p2422h/apd/210-bbcc/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "P2500": {
     "image": "data/placeholders/imprimante.svg",
@@ -8800,9 +8968,12 @@
     "source_page": null
   },
   "P2725": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2725h/media-gallery/monitor-p2725h-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=907&qlt=100,1&resMode=sharp2&size=907,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-pro-27-plus-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories"
+    "image": "images/produits/p2725.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2725h/media-gallery/monitor-p2725h-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=907&qlt=100,1&resMode=sharp2&size=907,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-pro-27-plus-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "P9": {
     "image": "data/placeholders/audio.svg",
@@ -9235,24 +9406,36 @@
     "source_page": null
   },
   "PPR-002": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5510/media-gallery/laptop_latitude_15_5510_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3743&hei=2477&qlt=100,1&resMode=sharp2&size=3743,2477&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5510-business-laptop/spd/latitude-15-5510-laptop"
+    "image": "images/produits/ppr-002.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5510/media-gallery/laptop_latitude_15_5510_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3743&hei=2477&qlt=100,1&resMode=sharp2&size=3743,2477&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5510-business-laptop/spd/latitude-15-5510-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-003": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/workstations/mobile-workstations/precision/3550/15-3550/media-gallery/workstation_precision_3550_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3673&hei=2561&qlt=100,1&resMode=sharp2&size=3673,2561&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/precision-3550-workstation/spd/precision-15-3550-laptop"
+    "image": "images/produits/ppr-003.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/workstations/mobile-workstations/precision/3550/15-3550/media-gallery/workstation_precision_3550_gallery_4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3673&hei=2561&qlt=100,1&resMode=sharp2&size=3673,2561&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/precision-3550-workstation/spd/precision-15-3550-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-004": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop"
+    "image": "images/produits/ppr-004.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-005": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop"
+    "image": "images/produits/ppr-005.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-006": {
     "image": "data/placeholders/ordinateur.svg",
@@ -9260,19 +9443,28 @@
     "source_page": null
   },
   "PPR-007": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5410-laptop/spd/latitude-14-5410-laptop"
+    "image": "images/produits/ppr-007.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5410-laptop/spd/latitude-14-5410-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-008": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop"
+    "image": "images/produits/ppr-008.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5420/media-gallery/la5420nt_cnb_00000ff090_gy_5000x5000_gettyimages-1254825733.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4659&hei=2676&qlt=100,1&resMode=sharp2&size=4659,2676&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5420-laptop/spd/latitude-5420-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-009": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5410-laptop/spd/latitude-14-5410-laptop"
+    "image": "images/produits/ppr-009.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-5410/media-gallery/laptop_latitude_14_5410_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1200&hei=800&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-laptops/latitude-5410-laptop/spd/latitude-14-5410-laptop",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "PPR-010": {
     "image": "data/placeholders/ordinateur.svg",
@@ -9420,9 +9612,9 @@
     "source_page": null
   },
   "PR3660": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/3660/media-gallery/workstations-precision-3660-gallery-3.psd?fmt=jpg&wid=900&hei=700",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-3660-tower/spd/precision-3660-workstation"
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "PR44-675": {
     "image": "data/placeholders/batterie.svg",
@@ -9490,9 +9682,9 @@
     "source_page": null
   },
   "PS6F": {
-    "image": "https://m.media-amazon.com/images/I/71v3b9qmPsL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/-/en/Eaton-Protection-Strip-PS6F-Power/dp/B07X2T4DSS"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "PSL-24": {
     "image": "data/placeholders/batterie.svg",
@@ -10239,19 +10431,25 @@
     "source_page": null
   },
   "S108": {
-    "image": "https://m.media-amazon.com/images/I/51VtN6FwWZL._AC_SL1500_.jpg",
-    "source": "web",
-    "source_page": "https://www.amazon.fr/Tenda-S108-Commutateur-reseau-100-Mbps/dp/B017HMHHGS"
+    "image": "data/placeholders/reseau.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "S10FE128": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x528uzaaatt/gallery/us-galaxy-tab-s10-fe-sm-x526-544130-sm-x528uzaaatt-553573283?$1300_1000_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-5g-gray-128gb-sku-sm-x528uzaaatt/"
+    "image": "images/produits/s10fe128.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x528uzaaatt/gallery/us-galaxy-tab-s10-fe-sm-x526-544130-sm-x528uzaaatt-553573283?$1300_1000_PNG$",
+    "source_page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-5g-gray-128gb-sku-sm-x528uzaaatt/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "S10FE_CLAVIER": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/uk/mobile-accessories/galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-key-black-ef-dx620bbeggb/"
+    "image": "images/produits/s10fe-clavier.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$",
+    "source_page": "https://www.samsung.com/uk/mobile-accessories/galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-key-black-ef-dx620bbeggb/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "S1314": {
     "image": "data/placeholders/souris.svg",
@@ -10299,9 +10497,12 @@
     "source_page": null
   },
   "S25FE-256G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731uzkexaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731uzkexaa-548774248?$product-details-jpg$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s25-fe/buy/galaxy-s25-fe-256gb-unlocked-sku-sm-s731uzkexaa/"
+    "image": "images/produits/s25fe-256g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731uzkexaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731uzkexaa-548774248?$product-details-jpg$",
+    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s25-fe/buy/galaxy-s25-fe-256gb-unlocked-sku-sm-s731uzkexaa/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "S2710A": {
     "image": "data/placeholders/divers.svg",
@@ -10409,14 +10610,20 @@
     "source_page": null
   },
   "SAM-A05-64G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05-black-64gb-sm-a055fzkdmea/"
+    "image": "images/produits/sam-a05-64g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05-black-64gb-sm-a055fzkdmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAM-A15-128G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdmea/"
+    "image": "images/produits/sam-a15-128g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAM-A26-128G": {
     "image": "data/placeholders/divers.svg",
@@ -10424,14 +10631,20 @@
     "source_page": null
   },
   "SAM-A34-128G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/ae/sm-a346ezscmea/gallery/ae-galaxy-a34-5g-sm-a346-sm-a346ezscmea-thumb-535607097?$1300_1000_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/ae/smartphones/galaxy-a/galaxy-a34-5g-silver-128gb-sm-a346ezscmea/"
+    "image": "images/produits/sam-a34-128g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/ae/sm-a346ezscmea/gallery/ae-galaxy-a34-5g-sm-a346-sm-a346ezscmea-thumb-535607097?$1300_1000_PNG$",
+    "source_page": "https://www.samsung.com/ae/smartphones/galaxy-a/galaxy-a34-5g-silver-128gb-sm-a346ezscmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAM-A36-128": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a366blgmmea/gallery/levant-galaxy-a36-5g-sm-a366-sm-a366blgmmea-thumb-545293042?$1300_1000_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a36-5g-awesome-lime-128gb-sm-a366blgmmea/"
+    "image": "images/produits/sam-a36-128.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a366blgmmea/gallery/levant-galaxy-a36-5g-sm-a366-sm-a366blgmmea-thumb-545293042?$1300_1000_PNG$",
+    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a36-5g-awesome-lime-128gb-sm-a366blgmmea/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAM-A36-256": {
     "image": "data/placeholders/divers.svg",
@@ -10449,9 +10662,12 @@
     "source_page": null
   },
   "SAM-S24": {
-    "image": "https://images.samsung.com/us/smartphones/galaxy-s24/images/galaxy-s24-share-image.jpg",
-    "source": "web",
-    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s24/"
+    "image": "images/produits/sam-s24.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/us/smartphones/galaxy-s24/images/galaxy-s24-share-image.jpg",
+    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s24/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAM-S24-U": {
     "image": "data/placeholders/divers.svg",
@@ -10459,9 +10675,12 @@
     "source_page": null
   },
   "SAM-S25-ULTRA-256G": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uzbfxaa/gallery/us-galaxy-s25-s938-536276-sm-s938uzbfxaa-548617513?$1300_1000_PNG$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/galaxy-s25-ultra-256gb-unlocked-sku-sm-s938uzbaxaa/"
+    "image": "images/produits/sam-s25-ultra-256g.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uzbfxaa/gallery/us-galaxy-s25-s938-536276-sm-s938uzbfxaa-548617513?$1300_1000_PNG$",
+    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/buy/galaxy-s25-ultra-256gb-unlocked-sku-sm-s938uzbaxaa/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SAMS-526G": {
     "image": "data/placeholders/divers.svg",
@@ -10559,9 +10778,12 @@
     "source_page": null
   },
   "SC2600_F1": {
-    "image": "https://hp.widen.net/content/zijsar8amq/png/zijsar8amq.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-scanjet-pro-2600-f1-document-scanner/2100435069"
+    "image": "images/produits/sc2600-f1.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/zijsar8amq/png/zijsar8amq.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-scanjet-pro-2600-f1-document-scanner/2100435069",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SC300": {
     "image": "data/placeholders/imprimante.svg",
@@ -10624,9 +10846,12 @@
     "source_page": null
   },
   "SE2222H": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2222h/media-gallery/se2222h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-se2222h/apd/210-ayyq/monitors-monitor-accessories"
+    "image": "images/produits/se2222h.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2222h/media-gallery/se2222h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-22-monitor-se2222h/apd/210-ayyq/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SE2422": {
     "image": "data/placeholders/ecran.svg",
@@ -10634,19 +10859,28 @@
     "source_page": null
   },
   "SE2425H": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2425h/media-gallery/monitor-dell-se2425h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=893&qlt=100,1&resMode=sharp2&size=893,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-se2425h/apd/210-bnhq/monitors-monitor-accessories"
+    "image": "images/produits/se2425h.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2425h/media-gallery/monitor-dell-se2425h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=893&qlt=100,1&resMode=sharp2&size=893,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-24-monitor-se2425h/apd/210-bnhq/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SE2722H": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2722h/media-gallery/se2722h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2722h/apd/210-ayyh/monitors-monitor-accessories"
+    "image": "images/produits/se2722h.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2722h/media-gallery/se2722h_cfp_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=804&qlt=100,1&resMode=sharp2&size=804,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2722h/apd/210-ayyh/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SE2725": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2725h/media-gallery/monitor-dell-se2725h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=929&qlt=100,1&resMode=sharp2&size=929,804&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2725h/apd/210-bnhr/monitors-monitor-accessories"
+    "image": "images/produits/se2725.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2725h/media-gallery/monitor-dell-se2725h-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=929&qlt=100,1&resMode=sharp2&size=929,804&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/dell-27-monitor-se2725h/apd/210-bnhr/monitors-monitor-accessories",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SF-4007": {
     "image": "data/placeholders/fourniture.svg",
@@ -11224,9 +11458,12 @@
     "source_page": null
   },
   "T630": {
-    "image": "https://hp.widen.net/content/o8pfyjspwb/png/o8pfyjspwb.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://www.hp.com/us-en/shop/mdp/hp-designjet-t630-3074457345617511176-1"
+    "image": "images/produits/t630.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/o8pfyjspwb/png/o8pfyjspwb.png?w=800&h=600&dpi=72&color=ffffff00",
+    "source_page": "https://www.hp.com/us-en/shop/mdp/hp-designjet-t630-3074457345617511176-1",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "T630-T230": {
     "image": "data/placeholders/divers.svg",
@@ -11379,9 +11616,9 @@
     "source_page": null
   },
   "TC-130W": {
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/adapters/dell-130w-usb-c-adapter/media-gallery/adapter-dell-130w-usbc-bk-gallery-1.psd?fmt=png-alpha&wid=1200&hei=630",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/dell-130w-usb-c-ac-adapter/apd/450-bfrw/pc-accessories"
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TC-6A": {
     "image": "data/placeholders/cable.svg",
@@ -11609,29 +11846,41 @@
     "source_page": null
   },
   "TL-SF1024D": {
-    "image": "https://static.tp-link.com/TL-SF1024D_UN_3.0_01_large_1508816868504j.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sf1024d/"
+    "image": "images/produits/tl-sf1024d.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/TL-SF1024D_UN_3.0_01_large_1508816868504j.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sf1024d/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TL-WA855RE": {
-    "image": "https://static.tp-link.com/TL-WA855RE_US_2.0_01_large_1559790938633t.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/range-extender/tl-wa855re/"
+    "image": "images/produits/tl-wa855re.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/TL-WA855RE_US_2.0_01_large_1559790938633t.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/range-extender/tl-wa855re/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TL-WN725N": {
-    "image": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/"
+    "image": "images/produits/tl-wn725n.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/TL-WN725N_EU_3.0_01_large_1506586609631p.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TL-WPA4220": {
-    "image": "https://static.tp-link.com/TL-WPA4220_US_5.0_01_large_1600425370657d.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/powerline/tl-wpa4220/"
+    "image": "data/placeholders/reseau.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "TLSG1024D": {
-    "image": "https://static.tp-link.com/TL-SG1024D_UN_6.0_01_1499780156098y.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sg1024d/"
+    "image": "images/produits/tlsg1024d.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/TL-SG1024D_UN_6.0_01_1499780156098y.jpg",
+    "source_page": "https://www.tp-link.com/us/business-networking/unmanaged-switch/tl-sg1024d/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TM": {
     "image": "data/placeholders/divers.svg",
@@ -11884,9 +12133,12 @@
     "source_page": null
   },
   "TP-AC1200": {
-    "image": "https://static.tp-link.com/upload/image-line/Archer-C64_1.0_01_large_20251104082944v.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-c64/"
+    "image": "images/produits/tp-ac1200.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/upload/image-line/Archer-C64_1.0_01_large_20251104082944v.jpg",
+    "source_page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-c64/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TP-H8": {
     "image": "data/placeholders/souris.svg",
@@ -11929,9 +12181,12 @@
     "source_page": null
   },
   "TW5820": {
-    "image": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
-    "source": "web",
-    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-5820-tower-workstation/spd/precision-5820-workstation"
+    "image": "images/produits/tw5820.webp",
+    "source": "local",
+    "origin_url": "https://i.dell.com/is/image/DellContent//content/dam/images/products/workstations/precision-fixed/t5820/prt5820-lsy-10015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=800&wid=1200&qlt=100,1&resMode=sharp2&size=1200,800&chrss=full",
+    "source_page": "https://www.dell.com/en-us/shop/desktop-computers/precision-5820-tower-workstation/spd/precision-5820-workstation",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "TWJ-001": {
     "image": "data/placeholders/toner.svg",
@@ -11999,9 +12254,12 @@
     "source_page": null
   },
   "UB500": {
-    "image": "https://static.tp-link.com/upload/image-line/UB500_UN_3.0_overview_01_large_20250624030858j.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/ub500/"
+    "image": "images/produits/ub500.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/upload/image-line/UB500_UN_3.0_overview_01_large_20250624030858j.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/ub500/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "UCM6302A": {
     "image": "data/placeholders/divers.svg",
@@ -12049,9 +12307,12 @@
     "source_page": null
   },
   "USB-15W": {
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t1510nbegus/gallery/us-15w-power-adapter-ep-t1510-ep-t1510nbegus-550586400?$product-details-jpg$",
-    "source": "web",
-    "source_page": "https://www.samsung.com/us/business/mobile/mobile-accessories/phones/15w-power-adapter-ta-only-ep-t1510nbegus/"
+    "image": "images/produits/usb-15w.webp",
+    "source": "local",
+    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t1510nbegus/gallery/us-15w-power-adapter-ep-t1510-ep-t1510nbegus-550586400?$product-details-jpg$",
+    "source_page": "https://www.samsung.com/us/business/mobile/mobile-accessories/phones/15w-power-adapter-ta-only-ep-t1510nbegus/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "USB-2.0": {
     "image": "data/placeholders/cable.svg",
@@ -12174,9 +12435,12 @@
     "source_page": null
   },
   "V27I": {
-    "image": "https://hp.widen.net/content/ckjlezh6us/png/ckjlezh6us.png",
-    "source": "web",
-    "source_page": "https://support.hp.com/us-en/product/details/hp-v27i-g5-fhd-monitor/2101312763"
+    "image": "images/produits/v27i.webp",
+    "source": "local",
+    "origin_url": "https://hp.widen.net/content/ckjlezh6us/png/ckjlezh6us.png",
+    "source_page": "https://support.hp.com/us-en/product/details/hp-v27i-g5-fhd-monitor/2101312763",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "V6608": {
     "image": "data/placeholders/divers.svg",
@@ -12279,9 +12543,12 @@
     "source_page": null
   },
   "VR600": {
-    "image": "https://static.tp-link.com/Archer-VR600-01_1486950775038l.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/baltic/home-networking/3g-4g-router/archer-vr600/"
+    "image": "images/produits/vr600.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/Archer-VR600-01_1486950775038l.jpg",
+    "source_page": "https://www.tp-link.com/baltic/home-networking/3g-4g-router/archer-vr600/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "VU250": {
     "image": "data/placeholders/stockage.svg",
@@ -12459,9 +12726,9 @@
     "source_page": null
   },
   "W2030AH": {
-    "image": "https://hp.widen.net/content/s19bg7bjhw/png/s19bg7bjhw.png?w=800&h=600&dpi=72&color=ffffff00",
-    "source": "web",
-    "source_page": "https://www.hp.com/ng-en/products/ink-toner/product-details/21959578"
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "W2030AO": {
     "image": "data/placeholders/toner.svg",
@@ -12704,9 +12971,12 @@
     "source_page": null
   },
   "WN823N": {
-    "image": "https://static.tp-link.com/res/images/products/large/TL-WN823N-01.jpg",
-    "source": "web",
-    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn823n/"
+    "image": "images/produits/wn823n.webp",
+    "source": "local",
+    "origin_url": "https://static.tp-link.com/res/images/products/large/TL-WN823N-01.jpg",
+    "source_page": "https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn823n/",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "WOR-211A": {
     "image": "data/placeholders/toner.svg",

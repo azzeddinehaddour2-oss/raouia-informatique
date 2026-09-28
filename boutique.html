@@ -394,6 +394,14 @@ function construireArticlesAffichables(){
     }
   });
 
+  // Vitrine : produits avec vraie photo d'abord, puis en stock, puis le reste
+  // (tri stable : l'ordre par référence est conservé à l'intérieur de chaque groupe).
+  function rang(a){
+    var vraiePhoto = a.image && !/placeholders\//.test(a.image);
+    return (vraiePhoto ? 0 : 2) + (a.enStock ? 0 : 1);
+  }
+  articles.sort(function(a,b){ return rang(a)-rang(b); });
+
   return articles;
 }
 

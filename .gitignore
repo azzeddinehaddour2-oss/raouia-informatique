@@ -5,3 +5,6 @@ __pycache__/
 .env
 .claude/settings.local.json
 scripts/photos_audit_cycle.log
+scripts/images_pipeline.log
+scripts/images_review.html
+*.tmp
