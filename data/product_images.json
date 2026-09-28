@@ -7380,12 +7380,9 @@
     "source_page": null
   },
   "IM3251": {
-    "image": "images/produits/im3251.webp",
-    "source": "local",
-    "origin_url": "https://i8.amplience.net/i/epsonemear/l3251_png_l3251",
-    "source_page": "https://www.epson.eu/en_EU/products/printers/inkjet/consumer/ecotank-l3251-multifunction-wi-fi-ink-tank-a4-printer,-with-up-to-3-years-of-ink-included/p/30245",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/imprimante.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "IMG680": {
     "image": "data/placeholders/chargeur.svg",
@@ -10618,12 +10615,9 @@
     "validated_at": "2026-09-28"
   },
   "S10FE_CLAVIER": {
-    "image": "images/produits/s10fe-clavier.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-dx620bbeggb/gallery/uk-galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-ef-dx620-ef-dx620bbeggb-545795351?$1164_776_PNG$",
-    "source_page": "https://www.samsung.com/uk/mobile-accessories/galaxy-tab-s10-fe-plus-book-cover-keyboard-slim-ai-key-black-ef-dx620bbeggb/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/clavier.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "S1314": {
     "image": "data/placeholders/souris.svg",
@@ -10824,12 +10818,9 @@
     "source_page": null
   },
   "SAM-S24": {
-    "image": "images/produits/sam-s24.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/us/smartphones/galaxy-s24/images/galaxy-s24-share-image.jpg",
-    "source_page": "https://www.samsung.com/us/smartphones/galaxy-s24/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-S24-U": {
     "image": "data/placeholders/divers.svg",
@@ -12484,12 +12475,9 @@
     "source_page": null
   },
   "USB-15W": {
-    "image": "images/produits/usb-15w.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t1510nbegus/gallery/us-15w-power-adapter-ep-t1510-ep-t1510nbegus-550586400?$product-details-jpg$",
-    "source_page": "https://www.samsung.com/us/business/mobile/mobile-accessories/phones/15w-power-adapter-ta-only-ep-t1510nbegus/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "USB-2.0": {
     "image": "data/placeholders/cable.svg",

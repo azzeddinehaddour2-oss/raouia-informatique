@@ -10193,7 +10193,7 @@
       "designation": "IMPRIMANTE EPSON  L3251",
       "prix": 1900.0,
       "stock": 5,
-      "image": "images/produits/im3251.webp"
+      "image": "data/placeholders/imprimante.svg"
     },
     {
       "ref": "IMG680",
@@ -14642,7 +14642,7 @@
       "designation": "Samsung Clavier Book Cover pour Galaxy Tab S10 FE+ (EF-DX620BBFGBE)",
       "prix": 1400.0,
       "stock": 1,
-      "image": "images/produits/s10fe-clavier.webp"
+      "image": "data/placeholders/clavier.svg"
     },
     {
       "ref": "S10FE128",
@@ -14976,7 +14976,7 @@
       "designation": "SAMSUNG Smartphone S24 6,2\"Exynos2400 8Go 256Go Android 5G",
       "prix": 10240.0,
       "stock": 0,
-      "image": "images/produits/sam-s24.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-S24-U",
@@ -17295,7 +17295,7 @@
       "designation": "ADAPTATEUR TYPE-C 15W SAMSUNG EP-T1510",
       "prix": 70.0,
       "stock": 0,
-      "image": "images/produits/usb-15w.webp"
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "USB-2.0",
