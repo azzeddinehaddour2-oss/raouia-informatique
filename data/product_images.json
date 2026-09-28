@@ -13359,5 +13359,345 @@
     "image": "data/placeholders/fourniture.svg",
     "source_page": null,
     "source": "placeholder"
+  },
+  "11027": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "20W-USB-C": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "25W-QC3.0": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "25W-TC": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "3P700F": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "A1748": {
+    "image": "data/placeholders/audio.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "A2561": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "AG+A5+PB": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "AG-10CM": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "AG-A5+ST": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "AMS-A5": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "APPLE": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "ASSURANCE": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BL-A10": {
+    "image": "data/placeholders/audio.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BL-A6": {
+    "image": "data/placeholders/audio.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BR-002": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BR-008": {
+    "image": "data/placeholders/audio.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BR-03": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BR-AC-024-025": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BR-C03": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "BRW-04": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "C360I": {
+    "image": "data/placeholders/imprimante.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CAT-A4": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CEC016": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CF363A": {
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CH-X3": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CITR-5L": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CO2-5KG": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "CP-A4": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "ENV47/36": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "EX-50KG": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "EX-9KG": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "F01": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "FOUR": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "GA-E200I": {
+    "image": "data/placeholders/imprimante.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "GOB-40Z": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "HCS200": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "HL-02": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "HP840I5G811": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "HS-012": {
+    "image": "data/placeholders/audio.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "IP-D26": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "IP-D37": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "JW-215": {
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "JW-330": {
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "JW-AP02": {
+    "image": "data/placeholders/souris.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "K002": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "K007": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "L13/I5": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "L14R5": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "LAV-5L": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "M120A": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "MR-R": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "NYL-66": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "P-160G": {
+    "image": "data/placeholders/papier.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "PL-305-PD": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "PL-306-PD": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "RC-80X75": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "SAM-25W": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "SAM-45W": {
+    "image": "data/placeholders/chargeur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "T14S-I7-512": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "TN619C": {
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "TN619K": {
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "TN619M": {
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "TN619Y": {
+    "image": "data/placeholders/toner.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "USB-C-1M": {
+    "image": "data/placeholders/cable.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "X1/I7/8TH": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "X390I58G": {
+    "image": "data/placeholders/ordinateur.svg",
+    "source_page": null,
+    "source": "placeholder"
+  },
+  "XO-035": {
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   }
 }

@@ -153,7 +153,8 @@
       "ref": "11027",
       "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210x148 mm  PAPILLON",
       "prix": 120.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "1111",
@@ -474,7 +475,8 @@
       "ref": "20W-USB-C",
       "designation": "CHARGUR APPLE 20W USB-C",
       "prix": 70.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "211020",
@@ -578,13 +580,15 @@
       "ref": "25W-QC3.0",
       "designation": "CHARGEUR BRUDER 25W  USB-TYPE C QC3.0",
       "prix": 90.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "25W-TC",
       "designation": "ADAPTER BRUDER 25W TYPE C",
       "prix": 60.0,
-      "stock": 9
+      "stock": 9,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "25WUSB",
@@ -737,7 +741,8 @@
       "ref": "3P700F",
       "designation": "Eaton 3P Ellipse 700 FR",
       "prix": 1300.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "4007BB",
@@ -1310,7 +1315,8 @@
       "ref": "A1748",
       "designation": "ECOUTEUR IPHONE A1748",
       "prix": 60.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/audio.svg"
     },
     {
       "ref": "A1830",
@@ -1372,7 +1378,8 @@
       "ref": "A2561",
       "designation": "CABLE TYPE-C IPHONE A2561",
       "prix": 20.0,
-      "stock": 8
+      "stock": 8,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "A303",
@@ -1889,13 +1896,15 @@
       "ref": "AG+A5+PB",
       "designation": "COFFRET AGENDA A5 AVEC POWER BANK",
       "prix": 500.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "AG-10CM",
       "designation": "AGITATEUR EN BOI 12CM",
       "prix": 0.5,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "AG2025",
@@ -1922,7 +1931,8 @@
       "ref": "AG-A5+ST",
       "designation": "COFFRET AGENDA A5 AVEC STYLO",
       "prix": 200.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "AG-A6",
@@ -2068,7 +2078,8 @@
       "ref": "AMS-A5",
       "designation": "COFFRET AGENDA AMSPEC A5 AVEC STYLO + PORTE-CLES",
       "prix": 220.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "AP-015",
@@ -2109,7 +2120,8 @@
       "ref": "APPLE",
       "designation": "APPLE WATCH",
       "prix": 8000.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "AQUAFINA150",
@@ -2227,7 +2239,8 @@
       "ref": "ASSURANCE",
       "designation": "ASSURANCE",
       "prix": 0.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "ASUS-11",
@@ -2828,7 +2841,8 @@
       "ref": "BL-A10",
       "designation": "CASQUE BRUDER RF BL-A10",
       "prix": 170.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/audio.svg"
     },
     {
       "ref": "BL-A11",
@@ -2848,7 +2862,8 @@
       "ref": "BL-A6",
       "designation": "CASQUE BRUDER RF BL-A6",
       "prix": 160.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/audio.svg"
     },
     {
       "ref": "BL-EXP",
@@ -3120,13 +3135,15 @@
       "ref": "BR-002",
       "designation": "CABLE TYPE-C TYPE-C  BRUDER BR-002",
       "prix": 40.0,
-      "stock": 20
+      "stock": 20,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 16
+      "stock": 16,
+      "image": "data/placeholders/audio.svg"
     },
     {
       "ref": "BR-01",
@@ -3146,7 +3163,8 @@
       "ref": "BR-03",
       "designation": "CABLE USB TYPE-C BRUDER BR-03",
       "prix": 25.0,
-      "stock": 20
+      "stock": 20,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "BR07",
@@ -3166,7 +3184,8 @@
       "ref": "BR-AC-024-025",
       "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
       "prix": 50.0,
-      "stock": 26
+      "stock": 26,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "BRC02",
@@ -3179,7 +3198,8 @@
       "ref": "BR-C03",
       "designation": "CHARGEUR BRUDER 27W TYPE C BR-C03",
       "prix": 80.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "BR-C04",
@@ -3248,7 +3268,8 @@
       "ref": "BRW-04",
       "designation": "POWER BANK BRW-04 20000 mAh bruder",
       "prix": 300.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "BS1212",
@@ -3625,7 +3646,8 @@
       "ref": "C360I",
       "designation": "Konica Minolta Bizhub C360i Couleur Photocopieur/imprimeur",
       "prix": 17000.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/imprimante.svg"
     },
     {
       "ref": "C368-C308",
@@ -4247,7 +4269,8 @@
       "ref": "CAT-A4",
       "designation": "Catalogue FT A4 paysage en 126 pages imp R/V Sur papier couché 300g",
       "prix": 0.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "CB-439",
@@ -4666,7 +4689,8 @@
       "ref": "CEC016",
       "designation": "Bon de livraison 4 Exemple 4 Couleur  min 5000 bl",
       "prix": 1.9,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "CEC025",
@@ -4833,7 +4857,8 @@
       "ref": "CF363A",
       "designation": "TONER NWC HP CF363A-CAN040 MAGENTA",
       "prix": 400.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "CF384",
@@ -5301,7 +5326,8 @@
       "ref": "CH-X3",
       "designation": "CHARGEUR BRUDER 3.1A TYPE C-USB CH-X3",
       "prix": 50.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "CI-001",
@@ -5342,7 +5368,8 @@
       "ref": "CITR-5L",
       "designation": "NETTOYANT SOL CITRON 5L",
       "prix": 23.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "CJ-002",
@@ -5586,7 +5613,8 @@
       "ref": "CO2-5KG",
       "designation": "EXTINCTEURS CO2 05 KG",
       "prix": 600.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "COF",
@@ -5767,7 +5795,8 @@
       "ref": "CP-A4",
       "designation": "CHEMISE A RABAT A4 PERSONALISE \"MEGA POSTE \"",
       "prix": 0.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "CPC-1722",
@@ -7866,7 +7895,8 @@
       "ref": "ENV47/36",
       "designation": "ENVELOPPES GAZELLE POCHETTE A3+ 470*360 MM",
       "prix": 3.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "ENV-4O",
@@ -8159,13 +8189,15 @@
       "ref": "EX-50KG",
       "designation": "Extincteur à poudre ABC 50 kg",
       "prix": 2000.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "EX-9KG",
       "designation": "Extincteur à poudre ABC 9 kg",
       "prix": 370.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "EXA080XA",
@@ -8255,7 +8287,8 @@
       "ref": "F01",
       "designation": "TELEPHONE AMG F01",
       "prix": 160.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "F31428",
@@ -8464,7 +8497,8 @@
       "ref": "FOUR",
       "designation": "Unité de fusion Konica Minolta pour bizhub",
       "prix": 2500.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "FOXCONN30",
@@ -8561,7 +8595,8 @@
       "ref": "GA-E200I",
       "designation": "Imprimante Ticket Thermique GAINSCHA  – 80 mm",
       "prix": 780.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/imprimante.svg"
     },
     {
       "ref": "GAZ-110X220",
@@ -8791,7 +8826,8 @@
       "ref": "GOB-40Z",
       "designation": "GOBLET PAPIER EXPRESSO 40Z",
       "prix": 0.6,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "GOM402",
@@ -8972,7 +9008,8 @@
       "ref": "HCS200",
       "designation": "RUBAN MONO NOIR HITI CS200 1000 IMAGES",
       "prix": 250.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "HD330",
@@ -9335,7 +9372,8 @@
       "ref": "HL-02",
       "designation": "SUPPORT TELE HL-02",
       "prix": 50.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "HL-05",
@@ -9698,7 +9736,8 @@
       "ref": "HP840I5G811",
       "designation": "PC PORTABLE HP840G8/ i5 8G RAM 256 SSD 11em GN",
       "prix": 3500.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "HP85A",
@@ -10047,7 +10086,8 @@
       "ref": "HS-012",
       "designation": "ECOUTEUR TYPE-C HS-012 PLUSTAR",
       "prix": 40.0,
-      "stock": 19
+      "stock": 19,
+      "image": "data/placeholders/audio.svg"
     },
     {
       "ref": "HS-020",
@@ -10354,7 +10394,8 @@
       "ref": "IP-D26",
       "designation": "CHARGEUR IPGOLD 30W TYPE C IP-D26",
       "prix": 70.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "IP-D29",
@@ -10367,7 +10408,8 @@
       "ref": "IP-D37",
       "designation": "CHARGEUR IPGOLD 65W TYPE C IP-D37",
       "prix": 80.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "IP-G",
@@ -10492,31 +10534,36 @@
       "ref": "JW-215",
       "designation": "SOURIS JEQANG JW-215",
       "prix": 70.0,
-      "stock": 4
+      "stock": 4,
+      "image": "data/placeholders/souris.svg"
     },
     {
       "ref": "JW-330",
       "designation": "SOURIS JEQANG 4D JW-330",
       "prix": 100.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/souris.svg"
     },
     {
       "ref": "JW-AP02",
       "designation": "SOURIS JEQANG JW-AP02",
       "prix": 80.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/souris.svg"
     },
     {
       "ref": "K002",
       "designation": "BROSSE TABLEAU BLANC K002",
       "prix": 7.0,
-      "stock": 48
+      "stock": 48,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "K007",
       "designation": "Vacuum Suction Magnetic Bracket K007",
       "prix": 50.0,
-      "stock": 5
+      "stock": 5,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "K07",
@@ -10830,13 +10877,15 @@
       "ref": "L13/I5",
       "designation": "Lenovo ThinkPad L13 Gen 2  i5/11th 16 RAM/256SSD",
       "prix": 3500.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "L14R5",
       "designation": "Lenovo ThinkPad L14 G2 / Ryzen 5/ 8gb RAM 256 SSD",
       "prix": 3000.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "L3250",
@@ -10877,7 +10926,8 @@
       "ref": "LAV-5L",
       "designation": "NETTOYANT SOL LAVANDE 5L",
       "prix": 23.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "LAV-MAR",
@@ -11296,7 +11346,8 @@
       "ref": "M120A",
       "designation": "MSI M120A Gaming Desktop Ultra 5225 16GB 512GB SSD+MSI PRO MP251 24.5",
       "prix": 18000.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "M-12288",
@@ -11848,7 +11899,8 @@
       "ref": "MR-R",
       "designation": "PAPIER PHOTO A4 MR.R 210*297 MM",
       "prix": 60.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "MR-ROUGE",
@@ -12246,7 +12298,8 @@
       "ref": "NYL-66",
       "designation": "paquet d'attache plastifiée boost multicolore",
       "prix": 13.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "NYLON-66",
@@ -12406,7 +12459,8 @@
       "ref": "P-160G",
       "designation": "RAMETTE PAPIER REY A4 160 G",
       "prix": 90.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/papier.svg"
     },
     {
       "ref": "P-16G",
@@ -13056,13 +13110,15 @@
       "ref": "PL-305-PD",
       "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-305 PD",
       "prix": 30.0,
-      "stock": 15
+      "stock": 15,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "PL-306-PD",
       "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-306 PD",
       "prix": 30.0,
-      "stock": 18
+      "stock": 18,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "PLA05",
@@ -14188,7 +14244,8 @@
       "ref": "RC-80X75",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80x75",
       "prix": 12.0,
-      "stock": 39
+      "stock": 39,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "RCA-10M",
@@ -14901,13 +14958,15 @@
       "ref": "SAM-25W",
       "designation": "CHARGEUR SAMSUNG 25W TYPE C",
       "prix": 80.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "SAM-45W",
       "designation": "CHARGEUR SAMSUNG 45W TYPE C",
       "prix": 100.0,
-      "stock": 10
+      "stock": 10,
+      "image": "data/placeholders/chargeur.svg"
     },
     {
       "ref": "SAM-A05-64G",
@@ -15977,7 +16036,8 @@
       "ref": "T14S-I7-512",
       "designation": "lenovo thinkpad t14s i7 12th gen 16gb 512 NVMe",
       "prix": 0.0,
-      "stock": 0
+      "stock": 0,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "T150/100",
@@ -16914,25 +16974,29 @@
       "ref": "TN619C",
       "designation": "TONER KONICA ORIGINAL TN619C CYAN",
       "prix": 1400.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "TN619K",
       "designation": "TONER KONICA ORIGINAL TN619K BLACK",
       "prix": 1300.0,
-      "stock": 3
+      "stock": 3,
+      "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "TN619M",
       "designation": "TONER KONICA ORIGINAL TN619M MAGENTA",
       "prix": 1400.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "TN619Y",
       "designation": "TONER KONICA ORIGINAL TN619Y YELLOW",
       "prix": 1400.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/toner.svg"
     },
     {
       "ref": "TN-B",
@@ -17379,7 +17443,8 @@
       "ref": "USB-C-1M",
       "designation": "CABLE TYPE-C TYPE-C 1M",
       "prix": 20.0,
-      "stock": 8
+      "stock": 8,
+      "image": "data/placeholders/cable.svg"
     },
     {
       "ref": "USB-C-20W",
@@ -18260,7 +18325,8 @@
       "ref": "X1/I7/8TH",
       "designation": "LENOVO Thinkpad X1 carbon i7 / 8th  16RAM 256 SSD",
       "prix": 3300.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "X-1088",
@@ -18273,7 +18339,8 @@
       "ref": "X390I58G",
       "designation": "Lenovo ThinkPad X390 Core i5 8ème Gen",
       "prix": 2600.0,
-      "stock": 1
+      "stock": 1,
+      "image": "data/placeholders/ordinateur.svg"
     },
     {
       "ref": "XEROX",
@@ -18328,7 +18395,8 @@
       "ref": "XO-035",
       "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210x148 mm",
       "prix": 120.0,
-      "stock": 2
+      "stock": 2,
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "XO-2353",
