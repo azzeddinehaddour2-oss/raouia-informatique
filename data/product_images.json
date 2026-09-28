@@ -933,12 +933,9 @@
     "source_page": null
   },
   "A05S": {
-    "image": "images/produits/a05s.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05s-black-128gb-sm-a057fzkgmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "A065R01DL": {
     "image": "data/placeholders/chargeur.svg",
@@ -1004,12 +1001,9 @@
     "source_page": null
   },
   "A25-128": {
-    "image": "images/produits/a25-128.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256ezkdmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "A25-256": {
     "image": "data/placeholders/divers.svg",
@@ -1075,12 +1069,9 @@
     "source_page": null
   },
   "A55-256": {
-    "image": "images/produits/a55-256.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$",
-    "source_page": "https://www.samsung.com/sg/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxsp/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "A56-128": {
     "image": "data/placeholders/divers.svg",
@@ -5542,8 +5533,8 @@
   },
   "EL500FR": {
     "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "EL650FR": {
     "image": "data/placeholders/divers.svg",
@@ -8611,8 +8602,8 @@
   },
   "MS111": {
     "image": "data/placeholders/souris.svg",
-    "source": "placeholder",
-    "source_page": null
+    "source_page": null,
+    "source": "placeholder"
   },
   "MS8802": {
     "image": "data/placeholders/divers.svg",
@@ -10793,20 +10784,14 @@
     "source_page": null
   },
   "SAM-A05-64G": {
-    "image": "images/produits/sam-a05-64g.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05-black-64gb-sm-a055fzkdmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-A15-128G": {
-    "image": "images/produits/sam-a15-128g.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-A26-128G": {
     "image": "data/placeholders/divers.svg",
@@ -10814,20 +10799,14 @@
     "source_page": null
   },
   "SAM-A34-128G": {
-    "image": "images/produits/sam-a34-128g.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/ae/sm-a346ezscmea/gallery/ae-galaxy-a34-5g-sm-a346-sm-a346ezscmea-thumb-535607097?$1300_1000_PNG$",
-    "source_page": "https://www.samsung.com/ae/smartphones/galaxy-a/galaxy-a34-5g-silver-128gb-sm-a346ezscmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-A36-128": {
-    "image": "images/produits/sam-a36-128.webp",
-    "source": "local",
-    "origin_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a366blgmmea/gallery/levant-galaxy-a36-5g-sm-a366-sm-a366blgmmea-thumb-545293042?$1300_1000_PNG$",
-    "source_page": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a36-5g-awesome-lime-128gb-sm-a366blgmmea/",
-    "validated": "auto",
-    "validated_at": "2026-09-28"
+    "image": "data/placeholders/divers.svg",
+    "source_page": null,
+    "source": "placeholder"
   },
   "SAM-A36-256": {
     "image": "data/placeholders/divers.svg",
@@ -11043,9 +11022,12 @@
     "validated_at": "2026-09-28"
   },
   "SE2422": {
-    "image": "data/placeholders/ecran.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/se2422.webp",
+    "source": "local",
+    "origin_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/08/047176/1.jpg?9471",
+    "source_page": "https://www.jumia.ma/dell-ecran-moniteur-23.8-full-hd-se2422h-se2422h-3y-67174080.html",
+    "validated": "auto",
+    "validated_at": "2026-09-28"
   },
   "SE2425H": {
     "image": "images/produits/se2425h.webp",

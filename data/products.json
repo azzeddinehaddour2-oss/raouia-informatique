@@ -1234,7 +1234,7 @@
       "designation": "SAMSUNG GALAXY A05S 6G/128",
       "prix": 0.0,
       "stock": 0,
-      "image": "images/produits/a05s.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "A065R01DL",
@@ -1359,7 +1359,7 @@
       "designation": "SAMSUNG GALAXY A25 128GB",
       "prix": 2500.0,
       "stock": 0,
-      "image": "images/produits/a25-128.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "A25-256",
@@ -1470,7 +1470,7 @@
       "designation": "SAMSUNG GALAXY A55 5G 8+256GB",
       "prix": 4200.0,
       "stock": 0,
-      "image": "images/produits/a55-256.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "A56_256",
@@ -14913,14 +14913,14 @@
       "designation": "SAMSUNG Smartphone A05 6.7 Helio G85 4Go 64Go Android 4G",
       "prix": 1190.0,
       "stock": 0,
-      "image": "images/produits/sam-a05-64g.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-A15-128G",
       "designation": "SAMSUNG Smartphone A15 6.5\" MT6789V/CD 4Go 128G Android 4G",
       "prix": 1860.0,
       "stock": 0,
-      "image": "images/produits/sam-a15-128g.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-A26-128G",
@@ -14934,14 +14934,14 @@
       "designation": "SAMSUNG Smartphone A34  6.6\" OctaCore 8Go 128Go Android 5G",
       "prix": 3178.0,
       "stock": 0,
-      "image": "images/produits/sam-a34-128g.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-A36-128",
       "designation": "SAMSUNG Smartphone A36  128Go Android 5G",
       "prix": 3400.0,
       "stock": 0,
-      "image": "images/produits/sam-a36-128.webp"
+      "image": "data/placeholders/divers.svg"
     },
     {
       "ref": "SAM-A36-256",
@@ -15242,7 +15242,7 @@
       "designation": "Dell 24 Monitor-SE2422H- 60.5cm (23.8'') 36M",
       "prix": 1350.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "images/produits/se2422.webp"
     },
     {
       "ref": "SE2425H",

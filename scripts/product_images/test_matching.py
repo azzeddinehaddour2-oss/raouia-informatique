@@ -146,6 +146,13 @@ class RegressionTests(unittest.TestCase):
         self.assertEqual(verdict("CAN-446", "CARTOUCHE CANON CL446 COULEUR", "https://ma.jumia.is/unsafe/fit-in/680x680/product/1.jpg",
                                  "https://www.jumia.ma/x-123.html", "Canon Pack PG-445 + CL-446 Couleur - Cartouche d'origine"), REJECT)
 
+    def test_generation(self):
+        d = "Lenovo ThinkPad L13 Gen 2  i5/11th 16 RAM/256SSD"
+        page = "https://www.lenovo.com/x"
+        self.assertEqual(verdict("L13", d, AMZ, "https://www.amazon.fr/dp/X", "Lenovo ThinkPad L13 Gen 4 laptop"), REJECT)
+        self.assertEqual(verdict("L13", d, AMZ, "https://www.amazon.fr/dp/X", "Lenovo ThinkPad L13 Gen 2 laptop"), ACCEPT)
+        self.assertIsNotNone(build_profile("PPR-020", "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+").skip_reason)
+
     def test_marques_papeterie(self):
         self.assertEqual(build_profile("BIC-B", "STYLO BIC CRISTAL BLEU").brand, "BIC")
 

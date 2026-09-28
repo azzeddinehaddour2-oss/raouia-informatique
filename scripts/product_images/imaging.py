@@ -130,6 +130,14 @@ def check_quality(img: Image.Image) -> tuple[QualityReport, list[str]]:
     ratio = max(report.width, report.height) / min(report.width, report.height)
     if ratio > 3:
         problems.append(f"proportions atypiques (bannière ? {report.width}x{report.height})")
+    # Résolution effective : taille du produit lui-même, hors marges blanches
+    # (une vignette de 150 px posée sur un fond 680x680 reste une vignette).
+    mask = flatten_on_white(img).convert("L").point(lambda v: 255 if v < 240 else 0)
+    bbox = mask.getbbox()
+    if bbox:
+        eff = max(bbox[2] - bbox[0], bbox[3] - bbox[1])
+        if eff < config.MIN_PRODUCT_PIXELS:
+            problems.append(f"produit trop petit dans l'image (résolution effective {eff} px)")
     if not report.clean_background:
         problems.append(
             f"fond non blanc/propre (bordure blanche {report.border_white_ratio:.0%}, "
@@ -143,7 +151,10 @@ def optimize_and_save(img: Image.Image, dest: Path, fmt: str = config.OUTPUT_FOR
     rgb = flatten_on_white(img)
     # Retire les marges blanches excessives pour que le produit remplisse le
     # cadre de façon homogène d'une fiche à l'autre.
-    bbox = ImageOps.invert(rgb).getbbox()
+    # Masque "non blanc" avec tolérance : un fond quasi blanc (compression
+    # JPEG, léger gris) ne doit pas empêcher le recadrage sur le produit.
+    mask = rgb.convert("L").point(lambda v: 255 if v < 240 else 0)
+    bbox = mask.getbbox()
     if bbox:
         rgb = rgb.crop(bbox)
     size = config.TARGET_SIZE

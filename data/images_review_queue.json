@@ -1038,5 +1038,158 @@
         ]
       }
     ]
+  },
+  "MS111": {
+    "designation": "DELL MS111 SOURIS USB TYPEA OPTIQUE 1000 DPI",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:06",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/99/487254/1.jpg?9847",
+        "page_url": "https://www.jumia.ma/ms111-souris-optique-usb-noir-3-boutons-1000-dpi-dell-mpg1342767.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : controle visuel : pastille DELL incrustee par le vendeur"
+        ]
+      }
+    ]
+  },
+  "EL500FR": {
+    "designation": "EATON Ellipse ECO 500 FR",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/737076/1.jpg?5963",
+        "page_url": "https://www.jumia.ma/eaton-onduleur-off-line-ellipse-eco-el500fr-300-w-500-va-67073701.html",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "SAM-A05-64G": {
+    "designation": "SAMSUNG Smartphone A05 6.7 Helio G85 4Go 64Go Android 4G",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a055fzkdmea/gallery/levant-galaxy-a05-sm-a055-sm-a055fzkdmea-thumb-539419617?$1300_1038_PNG$",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05-black-64gb-sm-a055fzkdmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "SAM-A15-128G": {
+    "designation": "SAMSUNG Smartphone A15 6.5\" MT6789V/CD 4Go 128G Android 4G",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a155fzkdmea/gallery/levant-galaxy-a15-sm-a155-sm-a155fzkdmea-thumb-539449680?$1300_1038_PNG$",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "A25-128": {
+    "designation": "SAMSUNG GALAXY A25 128GB",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a256ezkdmea/gallery/levant-galaxy-a25-5g-sm-a256-sm-a256ezkdmea-thumb-539450327?$1300_1038_PNG$",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256ezkdmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "SAM-A34-128G": {
+    "designation": "SAMSUNG Smartphone A34  6.6\" OctaCore 8Go 128Go Android 5G",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ae/sm-a346ezscmea/gallery/ae-galaxy-a34-5g-sm-a346-sm-a346ezscmea-thumb-535607097?$1300_1000_PNG$",
+        "page_url": "https://www.samsung.com/ae/smartphones/galaxy-a/galaxy-a34-5g-silver-128gb-sm-a346ezscmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "A05S": {
+    "designation": "SAMSUNG GALAXY A05S 6G/128",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a057fzkgmea/gallery/levant-galaxy-a05s-sm-a057-sm-a057fzkgmea-thumb-539420687?$1300_1038_PNG$",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a05s-black-128gb-sm-a057fzkgmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "SAM-A36-128": {
+    "designation": "SAMSUNG Smartphone A36  128Go Android 5G",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a366blgmmea/gallery/levant-galaxy-a36-5g-sm-a366-sm-a366blgmmea-thumb-545293042?$1300_1000_PNG$",
+        "page_url": "https://www.samsung.com/levant/smartphones/galaxy-a/galaxy-a36-5g-awesome-lime-128gb-sm-a366blgmmea/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
+  },
+  "A55-256": {
+    "designation": "SAMSUNG GALAXY A55 5G 8+256GB",
+    "origin": "revoke",
+    "added_at": "2026-09-28 14:07",
+    "candidates": [
+      {
+        "image_url": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-a556ezkcxsp/gallery/sg-galaxy-a55-5g-sm-a556-497948-sm-a556ezkcxsp-thumb-540641405?$1300_1038_PNG$",
+        "page_url": "https://www.samsung.com/sg/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxsp/",
+        "title": "",
+        "provider": "revoque",
+        "score": 0,
+        "reasons": [
+          "retirée : resolution effective du produit < 400 px (vignette sur grand fond)"
+        ]
+      }
+    ]
   }
 }

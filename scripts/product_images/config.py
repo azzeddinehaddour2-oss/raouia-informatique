@@ -33,6 +33,7 @@ JPEG_QUALITY = 88
 # --- Qualité minimale de l'image source -------------------------------------
 MIN_SOURCE_WIDTH = 600
 MIN_SOURCE_HEIGHT = 500
+MIN_PRODUCT_PIXELS = 400      # taille réelle du produit (hors marges blanches)
 MAX_DOWNLOAD_BYTES = 10 * 1024 * 1024
 MAX_IMAGE_PIXELS = 40_000_000  # protection "decompression bomb"
 

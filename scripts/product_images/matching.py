@@ -107,6 +107,7 @@ SPEC_TOKEN = re.compile(
     r"|A[0-6]"                    # formats papier A4, A3
     r"|\d+(MA|GEN|DPI|PPM|IPM|RPM|RAM|CH|BIT|KHZ|MR)"  # mA, génération CPU, RAM, canaux...
     r"|\d+X\d+|M\.?2|W1[01][A-Z]*|QC\d.*|ADSL\d?|NVME\d?"
+    r"|WIN\d+[A-Z]*|\d+PRO|\d+(ST|ND|RD|TH)GEN"   # Windows 11 Pro, génération CPU
     r"|20[12]\d"
     r")$"
 )
@@ -120,6 +121,15 @@ COLOURS = {
     "grey": ["GRIS", "GREY", "GRAY", "SILVER", "ARGENT"],
     "tricolor": ["COULEUR", "TRICOLOR", "TRICOLOUR", "TRI-COLOR", "TRI-COLOUR"],
 }
+
+# Génération du modèle (ThinkPad L13 Gen 2, ProBook 460 G11) - pas la
+# génération du processeur ("i5 12TH GEN", "11Gen" sont exclus).
+GENERATION = re.compile(r"(?<![0-9])(?:GEN(?:ERATION)?\s?(\d{1,2})(?!\s*(?:RAM|GO|GB|TH|ST|ND|RD|\d))|G(\d{1,2})I?)")
+
+
+def extract_generations(text: str) -> set[str]:
+    return {a or b for a, b in GENERATION.findall(normalize_text(text))}
+
 
 CAPACITY = re.compile(r"(?<![A-Z0-9.,])(\d+(?:[.,]\d+)?)\s*(TB|TO|GB|GO|MB|MO)(?![A-Z])")
 
@@ -435,6 +445,16 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
         if not cand_colours:   # couleur indiquée par Sage mais non confirmée par la source
             verdict = REVIEW
             reasons.append("couleur non confirmée par la source")
+
+    # 7b. Génération du modèle (Gen 2 / G9...) quand Sage la précise
+    prod_gen = extract_generations(profile.designation)
+    if prod_gen:
+        cand_gen = extract_generations(evidence)
+        if cand_gen and not (cand_gen & prod_gen):
+            return MatchResult(REJECT, [f"autre génération (produit {sorted(prod_gen)}, source {sorted(cand_gen)})"])
+        if not cand_gen:
+            verdict = REVIEW
+            reasons.append("génération du modèle non confirmée par la source")
 
     # 8. Modèles voisins sur la même source (ex. page comparant A26 et A56)
     shape = re.sub(r"\d", "#", primary)
