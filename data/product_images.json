@@ -5342,9 +5342,12 @@
     "source_page": null
   },
   "DS-2CE19U1T": {
-    "image": "data/placeholders/camera.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-2ce19u1t.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59904-large_default/camera-de-surveillance-hikvision-bullet-varifocale-27-135mm-motorisee-8-mp-ds-2ce19u1t-it3zf-c.jpg",
+    "source_page": "https://www.iris.ma/13908-camera-de-surveillance-hikvision-bullet-varifocale-27-135mm-motorisee-8-mp-ds-2ce19u1t-it3zf-c.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-2CE76K0T": {
     "image": "images/produits/ds-2ce76k0t.webp",
