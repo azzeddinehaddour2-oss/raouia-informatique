@@ -2165,9 +2165,12 @@
     "source_page": null
   },
   "BL-WN300AX": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/bl-wn300ax.webp",
+    "source": "local",
+    "origin_url": "https://ijrorwxhkqmllp5m-static.micyjz.com/cloud/lqBpoKqpljSRnkjqmikmjp/BL-WN300AXshitu1.jpg",
+    "source_page": "https://www.lb-link.com/WN300AX-AX300-WiFi-6-USB-Adapter-with-High-Gain-Antenna-pd539085568.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BL-WN351": {
     "image": "data/placeholders/chargeur.svg",
@@ -7020,9 +7023,12 @@
     "source_page": null
   },
   "HP-65W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-65w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/61814-large_default/adaptateur-alimentation-hp-65w-usb-c-1p3k6aa.jpg",
+    "source_page": "https://www.iris.ma/14103-adaptateur-alimentation-hp-65w-usb-c-1p3k6aa.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-712B": {
     "image": "data/placeholders/divers.svg",
@@ -12127,9 +12133,12 @@
     "source_page": null
   },
   "TC-C36QN": {
-    "image": "data/placeholders/camera.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/tc-c36qn.webp",
+    "source": "local",
+    "origin_url": "http://tiandy.co.za/cdn/shop/files/183e68c3b266fce03f3fafa6d0_303ad825-98ad-45f4-8d1a-660f3174879f.png?v=1749640925",
+    "source_page": "https://tiandy.co.za/products/bullet-camera-tc-c36qn-2ena-28",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "TC-C36XN": {
     "image": "data/placeholders/camera.svg",
@@ -12570,9 +12579,12 @@
     "source_page": null
   },
   "TNP48K": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/tnp48k.webp",
+    "source": "local",
+    "origin_url": "https://www.tinkco.com/12338-large_default/konica-minolta-tnp48k-noir-toner-de-marque-konica-minolta-a5x0150-10000-pages.webp",
+    "source_page": "https://www.tinkco.com/cartouches/8481-konica-minolta-tnp48k-noir-toner-de-marque-konica-minolta-a5x0150-10000-pages-tnp48k",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "TNP48M": {
     "image": "data/placeholders/toner.svg",

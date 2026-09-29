@@ -2969,7 +2969,7 @@
       "designation": "LB-LINK AX300 WIFI 6 HIGH GAIN USB ADAPTER BL-WN300AX",
       "prix": 100.0,
       "stock": 9,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/bl-wn300ax.webp"
     },
     {
       "ref": "BL-WN351",
@@ -9678,7 +9678,7 @@
       "designation": "CHARGEUR HP TYPE-C ORIGINAL 65.0W",
       "prix": 600.0,
       "stock": 1,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/hp-65w.webp"
     },
     {
       "ref": "HP-712B",
@@ -16491,7 +16491,7 @@
       "designation": "Tiandy TC-C36QN 2ENA-4 Camera 6MP Fixed Color Market Bullet",
       "prix": 700.0,
       "stock": 9,
-      "image": "data/placeholders/camera.svg"
+      "image": "images/produits/tc-c36qn.webp"
     },
     {
       "ref": "TC-C36XN",
@@ -17108,7 +17108,7 @@
       "designation": "TONER BLACK BIZHUB C3850/C3350 TNP48K",
       "prix": 990.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/tnp48k.webp"
     },
     {
       "ref": "TNP48M",
