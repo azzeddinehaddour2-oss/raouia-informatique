@@ -6742,9 +6742,12 @@
     "validated_at": "2026-09-29"
   },
   "HE20HF": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/he20hf.webp",
+    "source": "local",
+    "origin_url": "https://cdn.shopify.com/s/files/1/0552/0883/7292/files/sony-hdmi.jpg?v=1735293910",
+    "source_page": "https://961souq.com/products/sony-dlc-he20hf-flat-high-speed-hdmi-cable-2m",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HG34WQHD": {
     "image": "data/placeholders/ecran.svg",
@@ -7912,9 +7915,12 @@
     "source_page": null
   },
   "KAS10P": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/kas10p.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/44451-large_default/kaspersky-small-office-security-70-1-serveur-10-postes-kl45418bkfs-20mwca.jpg",
+    "source_page": "https://www.iris.ma/11179-kaspersky-small-office-security-70-1-serveur-10-postes-kl45418bkfs-20mwca.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "KASP-10P": {
     "image": "data/placeholders/divers.svg",
@@ -13934,9 +13940,12 @@
     "source": "placeholder"
   },
   "L13/I5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/l13-i5.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/50809-large_default/ordinateur-portable-lenovo-thinkpad-l13-gen-2-20vh0016fe.jpg",
+    "source_page": "https://www.iris.ma/12533-ordinateur-portable-lenovo-thinkpad-l13-gen-2-20vh0016fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "L14R5": {
     "image": "data/placeholders/ordinateur.svg",

@@ -9258,7 +9258,7 @@
       "designation": "CABLE HDMI SONY DLC-HE20HF WORLD 2M",
       "prix": 70.0,
       "stock": 1,
-      "image": "data/placeholders/cable.svg"
+      "image": "images/produits/he20hf.webp"
     },
     {
       "ref": "HG34WQHD",
@@ -10665,7 +10665,7 @@
       "designation": "Kaspersky Small Office Security 8.0 | 1 Serveur / 10 Postes",
       "prix": 2200.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/kas10p.webp"
     },
     {
       "ref": "KAS-10P",
@@ -10924,7 +10924,7 @@
       "designation": "Lenovo ThinkPad L13 Gen 2  i5/11th 16 RAM/256SSD",
       "prix": 3500.0,
       "stock": 2,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/l13-i5.webp"
     },
     {
       "ref": "L14R5",
