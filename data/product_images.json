@@ -6022,9 +6022,12 @@
     "source_page": null
   },
   "EXPRESS-40M": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/express-40m.webp",
+    "source": "local",
+    "origin_url": "https://www.tanjashop.com/images/products/79/image-1647945495-1301.jpg",
+    "source_page": "https://www.tanjashop.com/produits/100-pochettes-perforees-xo-4470-blanches",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "EXR-16GB": {
     "image": "data/placeholders/stockage.svg",
@@ -8612,9 +8615,12 @@
     "source_page": null
   },
   "MD-6820": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/md-6820.webp",
+    "source": "local",
+    "origin_url": "https://www.novabureau.com/uploads/cache/thumbnail_md/uploads/originals/products/marqueur-tableau-effa%C3%A7able-bleu-deli-1608983562.jpg",
+    "source_page": "https://www.novabureau.com/products-details/2277-marqueur-tableau-effa%C3%A7able-bleu-deli-r%C3%A9f-e6820.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "MD005": {
     "image": "data/placeholders/fourniture.svg",
@@ -8749,9 +8755,12 @@
     "validated_at": "2026-09-28"
   },
   "MNR-068": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/mnr-068.webp",
+    "source": "local",
+    "origin_url": "https://www.novabureau.com/uploads/cache/thumbnail_md/uploads/originals/products/marqueur-tableau-effa%C3%A7able-noir-deli-1608983135.jpg",
+    "source_page": "https://www.novabureau.com/products-details/2278-marqueur-tableau-effa%C3%A7able-noir-deli-r%C3%A9f-e6820.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "MON-B": {
     "image": "data/placeholders/fourniture.svg",
@@ -8968,9 +8977,12 @@
     "source_page": null
   },
   "NAV80G": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/nav80g.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/6/5/P_79396524_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/80gr-500f-a4-blanc-navigator-universal-91700.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "NAV90G": {
     "image": "data/placeholders/papier.svg",
@@ -11729,9 +11741,12 @@
     "source": "placeholder"
   },
   "ST-07": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/st-07.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/2/0/6/2/0/2/P_2062026_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/roller-effacable-frixion-bleu-pilot-52207.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "ST-3": {
     "image": "data/placeholders/souris.svg",

@@ -8263,7 +8263,7 @@
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4470",
       "prix": 70.0,
       "stock": 18,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/express-40m.webp"
     },
     {
       "ref": "EXR-16GB",
@@ -11659,7 +11659,7 @@
       "designation": "MARQUEUR RECHARGEABLE DELI BLEU 6820",
       "prix": 12.0,
       "stock": 20,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/md-6820.webp"
     },
     {
       "ref": "M-E201",
@@ -11834,7 +11834,7 @@
       "designation": "MARQUEUR RECHARGEABLE DELI NOIR 6820",
       "prix": 12.0,
       "stock": 20,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/mnr-068.webp"
     },
     {
       "ref": "MONAMI-B",
@@ -12128,7 +12128,7 @@
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
       "stock": 83,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/nav80g.webp"
     },
     {
       "ref": "NAV90G",
@@ -15917,7 +15917,7 @@
       "designation": "STYLO FRIXION PILOT BLEU  07",
       "prix": 15.0,
       "stock": 1,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/st-07.webp"
     },
     {
       "ref": "ST-3",
