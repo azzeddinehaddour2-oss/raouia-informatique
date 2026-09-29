@@ -241,8 +241,12 @@ def run_localize(dry_run: bool, refs: list[str] | None = None) -> dict:
 # Validation manuelle
 # --------------------------------------------------------------------------
 
-def approve(ref: str, index: int = 1, image_url: str | None = None, page_url: str = "") -> str:
-    """Valide manuellement un candidat de la file (ou une URL fournie)."""
+def approve(ref: str, index: int = 1, image_url: str | None = None, page_url: str = "",
+            trusted: bool = False) -> str:
+    """Valide manuellement un candidat de la file (ou une URL fournie).
+    trusted=True : revendeur hors liste blanche, accepté uniquement après
+    contrôle visuel ET preuve texte (code fabricant ou marque + nom exacts
+    dans le titre de la page) — tracé "manuel-visuel"."""
     products = {p["ref"]: p for p in catalog.load_products()}
     if ref not in products:
         raise ValueError(f"référence inconnue : {ref}")
@@ -252,13 +256,14 @@ def approve(ref: str, index: int = 1, image_url: str | None = None, page_url: st
         if not item:
             raise ValueError(f"aucun candidat n°{index} en attente pour {ref}")
         image_url, page_url = item[0]["image_url"], item[0].get("page_url", "")
-    img = imaging.download(image_url)   # liste blanche + intégrité toujours imposées
+    # liste blanche (sauf revendeur vérifié à la main) + intégrité toujours imposées
+    img = imaging.download(image_url, authorized=(lambda d: True) if trusted else None)
     _, problems = imaging.check_quality(img)
     if problems:
         log.warning("[%s] validé manuellement malgré : %s", ref, "; ".join(problems))
     dest = imaging.optimize_and_save(img, catalog.output_path_for(ref, list(products)))
     images = catalog.load_images()
-    images[ref] = catalog.local_entry(dest, image_url, page_url, "manuel")
+    images[ref] = catalog.local_entry(dest, image_url, page_url, "manuel-visuel" if trusted else "manuel")
     catalog.save_images(images)
     queue.pop(ref, None)
     catalog.save_review_queue(queue)

@@ -21,7 +21,7 @@
       "designation": "PAPIER CANSON ORANGE A2 - 00041007",
       "prix": 8.0,
       "stock": 3,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/00041007.webp"
     },
     {
       "ref": "0012N",
@@ -399,21 +399,21 @@
       "designation": "MARQUEUR BIC PERMANENT 2000 BLEU",
       "prix": 10.0,
       "stock": 25,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/2000b.webp"
     },
     {
       "ref": "2000N",
       "designation": "MARQUEUR BIC PERMANENT 2000 NOIR",
       "prix": 10.0,
       "stock": 55,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/2000n.webp"
     },
     {
       "ref": "2000V",
       "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
       "prix": 10.0,
       "stock": 46,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/2000v.webp"
     },
     {
       "ref": "202416",
@@ -532,7 +532,7 @@
       "designation": "MARQUEUR BIC PERMANENT 2300 ROUGE",
       "prix": 10.0,
       "stock": 68,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/2300r.webp"
     },
     {
       "ref": "2301A-C",
@@ -1141,14 +1141,14 @@
       "designation": "STYLO BIC CRISTAL QUALITY FIRST BLEU",
       "prix": 2.0,
       "stock": 65,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/92611-b.webp"
     },
     {
       "ref": "92611-N",
       "designation": "STYLO BIC CRISTAL QUALITY FIRST NOIR",
       "prix": 2.0,
       "stock": 450,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/92611-n.webp"
     },
     {
       "ref": "92611-R",
@@ -1162,7 +1162,7 @@
       "designation": "STYLO BIC CRISTAL QUALITY FIRST VERT",
       "prix": 2.0,
       "stock": 219,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/92611-v.webp"
     },
     {
       "ref": "933XL",
@@ -2738,21 +2738,21 @@
       "designation": "MARQUEUR BIC PERMANENT 2300 BLEU",
       "prix": 12.0,
       "stock": 24,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-2300.webp"
     },
     {
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
       "stock": 1033,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-b.webp"
     },
     {
       "ref": "BIC-BV",
       "designation": "MARQUEUR TABLEAU BIC BLEU  VELLEDA",
       "prix": 10.0,
       "stock": 7,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-bv.webp"
     },
     {
       "ref": "BIC-CRI-R",
@@ -2766,7 +2766,7 @@
       "designation": "STYLO BIC CRISTAL VERT",
       "prix": 2.0,
       "stock": 4,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-cri-v.webp"
     },
     {
       "ref": "BICFN",
@@ -2780,7 +2780,7 @@
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
       "stock": 210,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-n.webp"
     },
     {
       "ref": "BIC-R",
@@ -2801,7 +2801,7 @@
       "designation": "STYLO BIC VERT",
       "prix": 1.5,
       "stock": 512,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bic-v.webp"
     },
     {
       "ref": "BIM",
@@ -3511,42 +3511,42 @@
       "designation": "PAPIER CANSON JAUNE A2 - C200041380",
       "prix": 8.0,
       "stock": 9,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041380.webp"
     },
     {
       "ref": "C200041386",
       "designation": "PAPIER CANSON ROSE A2 - C200041386",
       "prix": 8.0,
       "stock": 11,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041386.webp"
     },
     {
       "ref": "C200041390",
       "designation": "PAPIER CANSON ROUGE A2-C200041390",
       "prix": 8.0,
       "stock": 89,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041390.webp"
     },
     {
       "ref": "C200041406",
       "designation": "PAPIER CANSON  VERT  A2- C200041406",
       "prix": 8.0,
       "stock": 8,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041406.webp"
     },
     {
       "ref": "C200041409",
       "designation": "PAPIER CANSON  MARRON  A2-C200041409",
       "prix": 8.0,
       "stock": 7,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041409.webp"
     },
     {
       "ref": "C200041414",
       "designation": "PAPIER CANSON NOIR A2 - C200041414",
       "prix": 8.0,
       "stock": 7,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/c200041414.webp"
     },
     {
       "ref": "C21",
@@ -5700,28 +5700,28 @@
       "designation": "PAPIER CONSON A2 BLEU",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/con-b.webp"
     },
     {
       "ref": "CON-BL",
       "designation": "PAPIER CANSON BLANC A2",
       "prix": 8.0,
       "stock": 26,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/con-bl.webp"
     },
     {
       "ref": "CON-J",
       "designation": "PAPIER CONSON JAUNE A2",
       "prix": 8.0,
       "stock": 4,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/con-j.webp"
     },
     {
       "ref": "CON-V",
       "designation": "PAPIER CONSON VERT A2",
       "prix": 8.0,
       "stock": 6,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/con-v.webp"
     },
     {
       "ref": "COP80G",
@@ -8676,7 +8676,7 @@
       "designation": "STYLO BIC GEL-OCITY  NOIR",
       "prix": 15.0,
       "stock": 15,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/gel-ocity-n.webp"
     },
     {
       "ref": "GH90",
@@ -10483,7 +10483,7 @@
       "designation": "STYLO BIC CRISTAL UP BLEU",
       "prix": 2.0,
       "stock": 225,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/iso-12757-1-b.webp"
     },
     {
       "ref": "IT-001",
@@ -12814,21 +12814,21 @@
       "designation": "PAPIER CONSON NOIR A2",
       "prix": 8.0,
       "stock": 4,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/p-ca2-n.webp"
     },
     {
       "ref": "P-CA2-O",
       "designation": "PAPIER CONSON ORANGE A2",
       "prix": 8.0,
       "stock": 10,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/p-ca2-o.webp"
     },
     {
       "ref": "P-CA2-R",
       "designation": "PAPIER CONSON ROSE A2",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/p-ca2-r.webp"
     },
     {
       "ref": "P-CA3",
@@ -12870,14 +12870,14 @@
       "designation": "PAPIER CONSSON  JAUNE  A3",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/p-cj3.webp"
     },
     {
       "ref": "P-CN",
       "designation": "PAPIER CONSSON  NOIR A3",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/p-cn.webp"
     },
     {
       "ref": "P-CR02",
@@ -12898,7 +12898,7 @@
       "designation": "PAPIER CONSON ROUGE A3",
       "prix": 8.0,
       "stock": 0,
-      "image": "data/placeholders/papier.svg"
+      "image": "images/produits/pc-ra3.webp"
     },
     {
       "ref": "PD/IOS",
@@ -14874,7 +14874,7 @@
       "designation": "STYLO BIC 4C",
       "prix": 15.0,
       "stock": 16,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/s-4c.webp"
     },
     {
       "ref": "S-4U500",

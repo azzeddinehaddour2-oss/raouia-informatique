@@ -10,9 +10,12 @@
     "source_page": null
   },
   "00041007": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/00041007.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_9---orange.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "0012N": {
     "image": "data/placeholders/divers.svg",
@@ -285,19 +288,28 @@
     "source_page": null
   },
   "2000B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/2000b.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/1/4/5/7/P_79145728_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/marqueur-ogive-bic-marking-2000-bleu-56415.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "2000N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/2000n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/1/4/5/7/P_79145727_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/marqueur-ogive-bic-marking-2000-noir-56414.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "2000V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/2000v.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/1/4/5/7/P_79145730_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/marqueur-ogive-bic-marking-2000-vert-56417.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "202416": {
     "image": "data/placeholders/divers.svg",
@@ -375,9 +387,12 @@
     "source_page": null
   },
   "2300R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/2300r.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/1/4/5/7/P_79145734_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/marqueur-biseau-bic-marking-2300-rouge-56421.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "2301A-C": {
     "image": "data/placeholders/toner.svg",
@@ -813,14 +828,20 @@
     "source_page": null
   },
   "92611-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/92611-b.webp",
+    "source": "local",
+    "origin_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/02-BICcristal2008-03-26.jpg/1280px-02-BICcristal2008-03-26.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:02-BICcristal2008-03-26.jpg",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "92611-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/92611-n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/0/0/2/5/0/1/P_2501_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-cristal-bic-52606.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "92611-R": {
     "image": "data/placeholders/fourniture.svg",
@@ -828,9 +849,12 @@
     "source_page": null
   },
   "92611-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/92611-v.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/5/5/P_79395557_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-cristal-vert-83737.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "933XL": {
     "image": "data/placeholders/toner.svg",
@@ -1958,14 +1982,20 @@
     "source_page": null
   },
   "BIC-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bic-b.webp",
+    "source": "local",
+    "origin_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/02-BICcristal2008-03-26.jpg/1280px-02-BICcristal2008-03-26.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:02-BICcristal2008-03-26.jpg",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BIC-BV": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/bic-bv.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/5/1/0/P_79351098_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bic-velleda-ecolutions-1701-marqueur-59369.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BIC-CRI-R": {
     "image": "data/placeholders/fourniture.svg",
@@ -1973,14 +2003,20 @@
     "source": "placeholder"
   },
   "BIC-CRI-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bic-cri-v.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/5/5/P_79395557_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-cristal-vert-83737.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BIC-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bic-n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/0/0/2/5/0/1/P_2501_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-cristal-bic-52606.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BIC-R": {
     "image": "data/placeholders/fourniture.svg",
@@ -1993,9 +2029,12 @@
     "source_page": null
   },
   "BIC-V": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bic-v.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/5/5/P_79395557_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-cristal-vert-83737.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BICFN": {
     "image": "data/placeholders/fourniture.svg",
@@ -2546,34 +2585,52 @@
     "source_page": null
   },
   "C200041380": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041380.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_4---jaune-canari.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C200041386": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041386.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_10---rose-petale.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C200041390": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041390.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_14---tomate.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C200041406": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041406.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_30---vert-mousse.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C200041409": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041409.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_33---noisette.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C200041414": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/c200041414.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_38---noir.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "C21": {
     "image": "data/placeholders/fourniture.svg",
@@ -4029,24 +4086,36 @@
     "source_page": null
   },
   "CON-B": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/con-b.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_21---bleu-primaire.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CON-BL": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/con-bl.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_1---blanc.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CON-J": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/con-j.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_4---jaune-canari.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CON-V": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/con-v.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_29---vert-franc.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "COP-SA4": {
     "image": "data/placeholders/divers.svg",
@@ -6175,9 +6244,12 @@
     "source_page": null
   },
   "GEL-OCITY-N": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/gel-ocity-n.webp",
+    "source": "local",
+    "origin_url": "https://cdn.alkor-groupe.com/medias/5289D657BE368E3A3F764D1FD5449685/WEB/114000/114114_S3Uxcm02ekJUaTRZcnRNTUpQcXUxMlk5L1BVT0dwZWRlZk5jVUR5dmxldz0=.jpg",
+    "source_page": "https://burolike.com/stylos-encre-gel/16199-stylo-gel-g%C3%A9locity-original-noir-3086126600628.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "GH90": {
     "image": "data/placeholders/divers.svg",
@@ -7574,9 +7646,12 @@
     "source_page": null
   },
   "ISO_12757-1_B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/iso-12757-1-b.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/2/9/2/P_79429249_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bic-cristal-up-stylo-a-bille-bleu-pointe-moyenne-1-2-mm-79429249.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "IT-001": {
     "image": "data/placeholders/divers.svg",
@@ -9068,19 +9143,28 @@
     "source_page": null
   },
   "P-CA2-N": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-ca2-n.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_38---noir.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-CA2-O": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-ca2-o.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_9---orange.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-CA2-R": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-ca2-r.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_10---rose-petale.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-CA3": {
     "image": "data/placeholders/papier.svg",
@@ -9093,14 +9177,20 @@
     "source_page": null
   },
   "P-CJ3": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-cj3.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_4---jaune-canari.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-CN": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-cn.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_38---noir.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-CR02": {
     "image": "data/placeholders/papier.svg",
@@ -9317,9 +9407,12 @@
     "source_page": null
   },
   "PC-RA3": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/pc-ra3.webp",
+    "source": "local",
+    "origin_url": "https://www.canson.com/sites/default/files/nuancier/colorline_couleur_15---rouge.jpg",
+    "source_page": "https://en.canson.com/colorliner",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PC1104/1": {
     "image": "data/placeholders/fourniture.svg",
@@ -10586,9 +10679,12 @@
     "source_page": null
   },
   "S-4C": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/s-4c.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/5/1/0/P_79351083_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-4-coul-bic-pte-moy-59355.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "S-4U500": {
     "image": "data/placeholders/divers.svg",
@@ -13418,9 +13514,12 @@
     "source": "placeholder"
   },
   "BIC-2300": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bic-2300.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/1/4/5/7/P_79145733_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/marqueur-biseau-bic-marking-2300-bleu-56420.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "11027": {
     "image": "data/placeholders/divers.svg",

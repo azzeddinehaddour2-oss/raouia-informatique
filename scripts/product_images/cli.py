@@ -54,7 +54,7 @@ def cmd_review(args) -> int:
         dest = pipeline.write_review_page(config.REPO_ROOT / "scripts" / "images_review.html")
         print(f"Page de validation : {dest}")
     elif args.action == "approve":
-        path = pipeline.approve(args.ref, args.index, args.url, args.page or "")
+        path = pipeline.approve(args.ref, args.index, args.url, args.page or "", args.trusted)
         print(f"{args.ref} validé -> {path}")
     elif args.action == "revoke":
         pipeline.revoke(args.ref, args.reason)
@@ -137,6 +137,12 @@ def main(argv=None) -> int:
     r.add_argument("--url", help="approve : URL d'image fournie à la main (domaine autorisé)")
     r.add_argument("--page", help="approve : page source de l'URL fournie")
     r.add_argument("--reason", default="image incorrecte (contrôle visuel)", help="revoke : motif")
+    r.add_argument("--trusted", action="store_true",
+                   help="approve : revendeur hors liste blanche, après contrôle visuel + preuve texte")
+
+    pr = sub.add_parser("probe", help="sonder des pages trouvées par recherche web (planche contact)")
+    pr.add_argument("rows", type=Path, help='JSON [{"ref": ..., "page": ...} ou {"ref", "image", "page", "title"}]')
+    pr.set_defaults(func=lambda a: print(f"Planche : {__import__('product_images.probe', fromlist=['run']).run(a.rows)}") or 0)
     r.set_defaults(func=cmd_review)
 
     c = sub.add_parser("check", help="diagnostic d'une référence / d'une URL candidate")

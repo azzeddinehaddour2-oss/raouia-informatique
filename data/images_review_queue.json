@@ -84,40 +84,6 @@
       }
     ]
   },
-  "2000B": {
-    "designation": "MARQUEUR BIC PERMANENT 2000 BLEU",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/71XQYxdC-tL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/820914-B-Marking-ECOlutions-Marqueurs-Permanents/dp/B001JK8476",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "marque BIC absente de la source"
-        ]
-      }
-    ]
-  },
-  "2000V": {
-    "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/71L-Qn8nGDL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/BIC-820912-Marqueur-permanent-Marking/dp/B001JK62ZM",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "modèle principal '2000' absent de la source"
-        ]
-      }
-    ]
-  },
   "4TB-SATA": {
     "designation": "SYNOLOGY Disque 4TB SATA 3,5'' Série HAT5300 7.2k 36M",
     "origin": "localize",
@@ -153,23 +119,6 @@
       }
     ]
   },
-  "BIC-B": {
-    "designation": "STYLO BIC BLEU",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/611qQIAdj-L._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007X4ZWK4",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "aucun numéro de modèle identifiable dans la désignation"
-        ]
-      }
-    ]
-  },
   "BIC-CRI-R": {
     "designation": "STYLO BIC CRISTAL ROUGE",
     "origin": "localize",
@@ -187,40 +136,6 @@
       }
     ]
   },
-  "BIC-CRI-V": {
-    "designation": "STYLO BIC CRISTAL VERT",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "aucun numéro de modèle identifiable dans la désignation"
-        ]
-      }
-    ]
-  },
-  "BIC-N": {
-    "designation": "STYLO BIC NOIR",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/71uusQ1Dr0L._AC_SL1254_.jpg",
-        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B004DBHR2Q",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "aucun numéro de modèle identifiable dans la désignation"
-        ]
-      }
-    ]
-  },
   "BIC-R": {
     "designation": "STYLO BIC ROUGE",
     "origin": "localize",
@@ -229,23 +144,6 @@
       {
         "image_url": "https://m.media-amazon.com/images/I/613x2U3NBIL._AC_SL1200_.jpg",
         "page_url": "https://www.amazon.fr/Bic-Cristal-Fine-Stylo-bille/dp/B0028A4OMA",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "aucun numéro de modèle identifiable dans la désignation"
-        ]
-      }
-    ]
-  },
-  "BIC-V": {
-    "designation": "STYLO BIC VERT",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/61JFCILjftL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/BIC-Cristal-Original-Stylos-Bille-Pochette/dp/B007XT309Y",
         "title": "",
         "provider": "existant",
         "score": 0,
