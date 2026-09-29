@@ -75,6 +75,8 @@ def run(rows_path: Path) -> Path | None:
             report.append({"ref": ref, "page": row.get("page"), "erreur": str(exc)})
             continue
         imgs = list(dict.fromkeys(upscale(u) for u in imgs))
+        if not imgs:
+            report.append({"ref": ref, "page": final, "title": title, "erreur": "aucune image déclarée (og:image/JSON-LD)"})
         for k, u in enumerate(imgs[:2], 1):
             item = {"ref": ref, "designation": prof.designation, "title": title, "image": u, "page": final}
             if not prof.skip_reason:
