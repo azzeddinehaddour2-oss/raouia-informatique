@@ -9734,7 +9734,7 @@
       "designation": "HP EliteDesk 800 G3 sff Core i5 6500-3200Mhz 256Go SSD",
       "prix": 1500.0,
       "stock": 5,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/hp-800-g3.webp"
     },
     {
       "ref": "HP800G3I5",
@@ -10931,7 +10931,7 @@
       "designation": "Lenovo ThinkPad L14 G2 / Ryzen 5/ 8gb RAM 256 SSD",
       "prix": 3000.0,
       "stock": 1,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/l14r5.webp"
     },
     {
       "ref": "L3250",
@@ -13514,28 +13514,28 @@
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-020.webp"
     },
     {
       "ref": "PPR-021",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO B",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-021.webp"
     },
     {
       "ref": "PPR-022",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-022.webp"
     },
     {
       "ref": "PPR-023",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-023.webp"
     },
     {
       "ref": "PPR-024",
@@ -13549,35 +13549,35 @@
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO B+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-025.webp"
     },
     {
       "ref": "PPR-026",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD  A",
       "prix": 3800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-026.webp"
     },
     {
       "ref": "PPR-027",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD  B+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-027.webp"
     },
     {
       "ref": "PPR-028",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-028.webp"
     },
     {
       "ref": "PPR-029",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 4000.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-029.webp"
     },
     {
       "ref": "PPR-030",
@@ -13591,42 +13591,42 @@
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-031.webp"
     },
     {
       "ref": "PPR-032",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-032.webp"
     },
     {
       "ref": "PPR-033",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD A",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-033.webp"
     },
     {
       "ref": "PPR-034",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+",
       "prix": 4000.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-034.webp"
     },
     {
       "ref": "PPR-035",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A",
       "prix": 3800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-035.webp"
     },
     {
       "ref": "PPR-036",
       "designation": "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-036.webp"
     },
     {
       "ref": "PPR-037",
@@ -18375,7 +18375,7 @@
       "designation": "LENOVO Thinkpad X1 carbon i7 / 8th  16RAM 256 SSD",
       "prix": 3300.0,
       "stock": 2,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/x1-i7-8th.webp"
     },
     {
       "ref": "X-1088",
@@ -18389,7 +18389,7 @@
       "designation": "Lenovo ThinkPad X390 Core i5 8ème Gen",
       "prix": 2600.0,
       "stock": 1,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/x390i58g.webp"
     },
     {
       "ref": "XEROX",

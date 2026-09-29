@@ -7065,9 +7065,12 @@
     "validated_at": "2026-09-28"
   },
   "HP-800-G3": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/hp-800-g3.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/49374-large_default/ordinateur-de-bureau-hp-elitedesk-800-g3-compact-sff-1ne07ea.jpg",
+    "source_page": "https://www.iris.ma/12192-ordinateur-de-bureau-hp-elitedesk-800-g3-compact-sff-1ne07ea.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-80A": {
     "image": "images/produits/hp-80a.webp",
@@ -10005,24 +10008,36 @@
     "source_page": null
   },
   "PPR-020": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-020.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-021": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-021.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-022": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-022.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-023": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-023.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-024": {
     "image": "data/placeholders/ordinateur.svg",
@@ -10030,29 +10045,44 @@
     "source_page": null
   },
   "PPR-025": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-025.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-026": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-026.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-027": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-027.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-028": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-028.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-029": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-029.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-030": {
     "image": "data/placeholders/ordinateur.svg",
@@ -10060,34 +10090,52 @@
     "source_page": null
   },
   "PPR-031": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-031.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-032": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-032.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-033": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-033.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-034": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-034.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-035": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-035.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-036": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-036.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/87/15/LD0005871521_1_0005872382.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456652.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-037": {
     "image": "data/placeholders/ordinateur.svg",
@@ -13948,9 +13996,12 @@
     "validated_at": "2026-09-29"
   },
   "L14R5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/l14r5.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/57368-large_default/ordinateur-portable-lenovo-thinkpad-l14-gen-2-20x100h3fe.jpg",
+    "source_page": "https://www.iris.ma/13646-ordinateur-portable-lenovo-thinkpad-l14-gen-2-20x100h3fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "LAV-5L": {
     "image": "data/placeholders/divers.svg",
@@ -14039,14 +14090,20 @@
     "source": "placeholder"
   },
   "X1/I7/8TH": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/x1-i7-8th.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/40344-large_default/ordinateur-portable-lenovo-thinkpad-x1-carbon-i7-16gb-512gb-ssd-14-20kh0005fe.jpg",
+    "source_page": "https://www.iris.ma/9985-ordinateur-portable-lenovo-thinkpad-x1-carbon-i7-16gb-512gb-ssd-14-20kh0005fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "X390I58G": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/x390i58g.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/44783-large_default/ordinateur-portable-lenovo-thinkpad-x390-20q0000tfe.jpg",
+    "source_page": "https://www.iris.ma/11224-ordinateur-portable-lenovo-thinkpad-x390-20q0000tfe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "XO-035": {
     "image": "data/placeholders/divers.svg",

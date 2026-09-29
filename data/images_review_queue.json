@@ -588,23 +588,6 @@
       }
     ]
   },
-  "HP-800-G3": {
-    "designation": "HP EliteDesk 800 G3 sff Core i5 6500-3200Mhz 256Go SSD",
-    "origin": "revoke",
-    "added_at": "2026-09-28 13:46",
-    "candidates": [
-      {
-        "image_url": "https://hp.widen.net/content/jiipvkahau/png/jiipvkahau.png",
-        "page_url": "https://support.hp.com/us-en/product/details/hp-elitedesk-800-g3-small-form-factor-pc/15257618",
-        "title": "",
-        "provider": "revoque",
-        "score": 0,
-        "reasons": [
-          "retirée : controle visuel : la photo HP montre le PC avec ecran, clavier et souris alors que l'article est l'unite centrale seule"
-        ]
-      }
-    ]
-  },
   "HP-290G": {
     "designation": "HP 290 G9 i5-12500 22\" 8Go 512Go SSD Freedos WiFi & BT 36M",
     "origin": "revoke",
