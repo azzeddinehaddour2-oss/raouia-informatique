@@ -1491,7 +1491,7 @@
       "designation": "SAMSUNG Galaxy A56 5G Dual Sim (8GB | 128 GB)",
       "prix": 3800.0,
       "stock": 4,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/a56-128.webp"
     },
     {
       "ref": "A5-80G",
@@ -6498,7 +6498,7 @@
       "designation": "TENDA WIRELESS N ADSL2+ MODEM ROUTUR D301V4",
       "prix": 250.0,
       "stock": 1,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/d301v4.webp"
     },
     {
       "ref": "D-3581-I7",
@@ -6715,7 +6715,7 @@
       "designation": "CHARGEUR DELL TYPE C 130W ORIGINAL",
       "prix": 800.0,
       "stock": 1,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/del-130w.webp"
     },
     {
       "ref": "DEL-5560-I7",
@@ -6855,7 +6855,7 @@
       "designation": "D-LINK DHP-208AV POWER LINE AV MINI ADAPTER",
       "prix": 450.0,
       "stock": 1,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/dhp-208av.webp"
     },
     {
       "ref": "DIS-1935",
@@ -8900,7 +8900,7 @@
       "designation": "GRANDSTREAM GRP2601P",
       "prix": 480.0,
       "stock": 3,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/grp2601p.webp"
     },
     {
       "ref": "GRP2615",
@@ -9391,7 +9391,7 @@
       "designation": "DISQUE DUR HIKVISION SSD E100 512GB SP A55",
       "prix": 650.0,
       "stock": 4,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/hik-e100.webp"
     },
     {
       "ref": "HIKS-256G",
@@ -10168,7 +10168,7 @@
       "designation": "BOITIER SSD HIKSEMI M.2 HS-HUB-MD201 EXTERNAL HARD DRIVE",
       "prix": 160.0,
       "stock": 9,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/hs-hub-mhc201.webp"
     },
     {
       "ref": "HS-USB-M200",
@@ -12247,7 +12247,7 @@
       "designation": "TELEPHONE NOKIA 105",
       "prix": 260.0,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/nok-105.webp"
     },
     {
       "ref": "NOT-5SUB",
@@ -15007,7 +15007,7 @@
       "designation": "CHARGEUR SAMSUNG 25W TYPE C",
       "prix": 80.0,
       "stock": 1,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/sam-25w.webp"
     },
     {
       "ref": "SAM-45W",

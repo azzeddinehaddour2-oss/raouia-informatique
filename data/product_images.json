@@ -1131,9 +1131,12 @@
     "source": "placeholder"
   },
   "A56-128": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/a56-128.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/124012-large_default/samsung-galaxy-a56-5g-dual-sim-8gb-128-gb.jpg",
+    "source_page": "https://www.iris.ma/25741-samsung-galaxy-a56-5g-dual-sim-8gb-128-gb.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "A56_256": {
     "image": "data/placeholders/divers.svg",
@@ -4772,9 +4775,12 @@
     "source_page": null
   },
   "D301V4": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/d301v4.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/94491-large_default/modem-routeur-sans-fil-tenda-d301-wi-fi-n300-adsl2-d301-v4.jpg",
+    "source_page": "https://www.iris.ma/20780-modem-routeur-sans-fil-tenda-d301-wi-fi-n300-adsl2-d301-v4.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "D5440I7": {
     "image": "images/produits/d5440i7.webp",
@@ -4901,9 +4907,12 @@
     "source_page": null
   },
   "DEL-130W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/del-130w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/137078-large_default/dell-adaptateur-secteur-usb-c-130w-tm7mv.jpg",
+    "source_page": "https://www.iris.ma/29405-dell-adaptateur-secteur-usb-c-130w-tm7mv.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DEL-5560-I7": {
     "image": "data/placeholders/ordinateur.svg",
@@ -5016,9 +5025,12 @@
     "source_page": null
   },
   "DHP-208AV": {
-    "image": "data/placeholders/chargeur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/dhp-208av.webp",
+    "source": "local",
+    "origin_url": "https://www.dlink.com/en/-/media/product-pages/dhp/208av/dhp208avb1front.png",
+    "source_page": "https://www.dlink.com/en/products/dhp-208av-powerline-av-mini-starter-kit",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DI-W311": {
     "image": "data/placeholders/chargeur.svg",
@@ -6474,9 +6486,12 @@
     "source_page": null
   },
   "GRP2601P": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/grp2601p.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/112708-large_default/telephone-ip-filaire-2-comptes-sip-2-lignes-grandstream-grp2601p.jpg",
+    "source_page": "https://www.iris.ma/23796-telephone-ip-filaire-2-comptes-sip-2-lignes-grandstream-grp2601p.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "GRP2615": {
     "image": "data/placeholders/divers.svg",
@@ -6816,9 +6831,12 @@
     "source_page": null
   },
   "HIK-E100": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hik-e100.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/64971-large_default/disque-dur-interne-ssd-hikvision-e100-512gb-hs-ssd-e100-512gb.jpg",
+    "source_page": "https://www.iris.ma/15067-disque-dur-interne-ssd-hikvision-e100-512gb-hs-ssd-e100-512gb.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HIK27INC": {
     "image": "data/placeholders/ecran.svg",
@@ -7533,9 +7551,12 @@
     "validated_at": "2026-09-28"
   },
   "HS-HUB-MHC201": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hs-hub-mhc201.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/111490-large_default/boitier-disque-dur-externe-hiksemi-hdd-ssd-25-sata-hs-hub-mhc201.jpg",
+    "source_page": "https://www.iris.ma/23368-boitier-disque-dur-externe-hiksemi-hdd-ssd-25-sata-hs-hub-mhc201.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HS-USB-M200": {
     "image": "data/placeholders/divers.svg",
@@ -9021,9 +9042,12 @@
     "source_page": null
   },
   "NOK-105": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/nok-105.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/44134-large_default/telephone-portable-nokia-105.jpg",
+    "source_page": "https://www.iris.ma/11107-telephone-portable-nokia-105.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "NOT-5SUB": {
     "image": "data/placeholders/papier.svg",
@@ -13933,9 +13957,12 @@
     "source": "placeholder"
   },
   "SAM-25W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/sam-25w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/70527-large_default/chargeur-samsung-type-c-25-w-ep-t2510xbegww.jpg",
+    "source_page": "https://www.iris.ma/16238-chargeur-samsung-type-c-25-w-ep-t2510xbegww.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "SAM-45W": {
     "image": "images/produits/sam-45w.webp",
