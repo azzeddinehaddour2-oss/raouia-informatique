@@ -504,7 +504,7 @@
       "designation": "LENOVO Thinkpad X1 carbon Ultra 7-155U 14\"WUXGA 32 Go 1 To SSD Win 11",
       "prix": 23500.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/21kc0017fe.webp"
     },
     {
       "ref": "2222",
@@ -6743,7 +6743,7 @@
       "designation": "DELL LAPTOP PRO 16 PLUS PB16250 16 ULTRA  5-235U 16 Go 512 GO SSD",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/dell-16or.webp"
     },
     {
       "ref": "DELL-27",
@@ -9657,7 +9657,7 @@
       "designation": "HP ProBook 4 G1iR Laptop Core 7 150U 16GB 512GB SSD 16",
       "prix": 11000.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/hp-4g1ip.webp"
     },
     {
       "ref": "HP-512SSD",
@@ -11638,7 +11638,7 @@
       "designation": "DELL LAPTOP Pro Max 16 MC16250 16'' Ultra 7-265H 32Go 1To SSD GC RTX",
       "prix": 28900.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/mc16250.webp"
     },
     {
       "ref": "MC-KB2006",
@@ -12163,7 +12163,7 @@
       "designation": "LENOVO DESKTOP TINY Neo 50q G5 Tiny Intel Core 7-240H 8 Go 512Go SSD",
       "prix": 6815.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/neo-50q-g5.webp"
     },
     {
       "ref": "NES-COF",
@@ -13948,14 +13948,14 @@
       "designation": "DELL DESKTOP TWR Pro QCT1250 i7-14700 8Go 512Go SSD Ubuntu Noir 36M",
       "prix": 9708.0,
       "stock": 2,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/qct1250.webp"
     },
     {
       "ref": "QCT1250-I5-14500",
       "designation": "DELL DESKTOP TWR Pro QCT1250 i5-14500 8Go 512Go SSD Win 11Pro",
       "prix": 9990.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/qct1250-i5-14500.webp"
     },
     {
       "ref": "QL-0012",
@@ -16099,7 +16099,7 @@
       "designation": "LENOVO Thinkpad T16 Ultra 7-155U 16\"WUXGA 16 Go 512 Go SSD Win 11 PRO",
       "prix": 17800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/t16u7.webp"
     },
     {
       "ref": "T200N",
@@ -16646,14 +16646,14 @@
       "designation": "Ordinateur Portable Lenovo ThinkPad T16 Gen 4 (Intel) (21QE0010FE)",
       "prix": 21000.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/thinkpad-t16.webp"
     },
     {
       "ref": "THINKPAD-L14",
       "designation": "LENOVO LAPTOP Thinkpad L14 14'' Intel u7-255U 16 Go 1 To SSD W11PNoir",
       "prix": 14060.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/thinkpad-l14.webp"
     },
     {
       "ref": "THP-542",

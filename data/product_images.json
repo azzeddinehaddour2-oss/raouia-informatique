@@ -373,9 +373,12 @@
     "source_page": null
   },
   "21KC0017FE": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/21kc0017fe.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/116282-large_default/ordinateur-portable-lenovo-thinkpad-x1-carbon-gen-12-21kc0017fe.jpg",
+    "source_page": "https://www.iris.ma/24504-ordinateur-portable-lenovo-thinkpad-x1-carbon-gen-12-21kc0017fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "2222": {
     "image": "data/placeholders/divers.svg",
@@ -4950,9 +4953,12 @@
     "source_page": null
   },
   "DELL-16OR": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/dell-16or.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/203532-large_default/ordinateur-portable-dell-pro-16-plus-pb16250-16-ultra5-235u-16-go-512-go-ssd-ubuntu-gris-36-mois-dp16p-u5-fd.jpg",
+    "source_page": "https://www.iris.ma/46600-ordinateur-portable-dell-pro-16-plus-pb16250-16-ultra5-235u-16-go-512-go-ssd-ubuntu-gris-36-mois-dp16p-u5-fd.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DELL-27": {
     "image": "images/produits/dell-27.webp",
@@ -7043,9 +7049,12 @@
     "validated_at": "2026-09-29"
   },
   "HP-4G1IP": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-4g1ip.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/203595-large_default/ordinateur-portable-hp-probook-4-g1ir-16-c38l2at.jpg",
+    "source_page": "https://www.iris.ma/46660-ordinateur-portable-hp-probook-4-g1ir-16-c38l2at.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-512SSD": {
     "image": "data/placeholders/ordinateur.svg",
@@ -8652,9 +8661,12 @@
     "source_page": null
   },
   "MC16250": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/mc16250.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/205519-large_default/ordinateur-portable-dell-pro-max-16-mc16250-mc16250-promax-rtx6g.jpg",
+    "source_page": "https://www.iris.ma/47133-ordinateur-portable-dell-pro-max-16-mc16250-mc16250-promax-rtx6g.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "MD-6820": {
     "image": "images/produits/md-6820.webp",
@@ -9050,9 +9062,12 @@
     "source_page": null
   },
   "NEO-50Q-G5": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/neo-50q-g5.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/201323-large_default/ordinateur-de-bureau-lenovo-thinkcentre-neo-50q-gen-5-core7-8gb-512gb-ssd-dos-13b9002mfm.jpg",
+    "source_page": "https://www.iris.ma/46302-ordinateur-de-bureau-lenovo-thinkcentre-neo-50q-gen-5-core7-8gb-512gb-ssd-dos-13b9002mfm.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "NES-COF": {
     "image": "data/placeholders/divers.svg",
@@ -10403,14 +10418,20 @@
     "source_page": null
   },
   "QCT1250": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/qct1250.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/206143-large_default/ordinateur-de-bureau-dell-pro-tour-qct1250-qct1250-i7-ubu.jpg",
+    "source_page": "https://www.iris.ma/47216-ordinateur-de-bureau-dell-pro-tour-qct1250-qct1250-i7-ubu.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "QCT1250-I5-14500": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/qct1250-i5-14500.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/206375-large_default/ordinateur-de-bureau-dell-pro-tour-qct1250-qct1250-i5-w.jpg",
+    "source_page": "https://www.iris.ma/47244-ordinateur-de-bureau-dell-pro-tour-qct1250-qct1250-i5-w.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "QL-0012": {
     "image": "data/placeholders/divers.svg",
@@ -12007,9 +12028,12 @@
     "source_page": null
   },
   "T16U7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/t16u7.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/111189-large_default/ordinateur-portable-lenovo-thinkpad-t16-gen-3-21mn0009fe.jpg",
+    "source_page": "https://www.iris.ma/23332-ordinateur-portable-lenovo-thinkpad-t16-gen-3-21mn0009fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "T200N": {
     "image": "data/placeholders/divers.svg",
@@ -12374,14 +12398,20 @@
     "validated_at": "2026-09-29"
   },
   "THINKPAD-L14": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/thinkpad-l14.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/192610-large_default/lenovo-thinkpad-l14-gen-6-intel.jpg",
+    "source_page": "https://www.iris.ma/45495-lenovo-thinkpad-l14-gen-6-intel.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "THINKPAD_T16": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/thinkpad-t16.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/193088-large_default/lenovo-thinkpad-t16-gen-4-intel.jpg",
+    "source_page": "https://www.iris.ma/45599-lenovo-thinkpad-t16-gen-4-intel.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "THP-542": {
     "image": "images/produits/thp-542.webp",
