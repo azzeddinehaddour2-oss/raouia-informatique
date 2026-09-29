@@ -1,0 +1,18 @@
+{
+  "BIC-B": {
+    "image": "images/produits/bic-b.webp",
+    "label": "Stylo BIC Cristal bleu",
+    "author": "Trounce",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:02-BICcristal2008-03-26.jpg"
+  },
+  "92611-B": {
+    "image": "images/produits/92611-b.webp",
+    "label": "Stylo BIC Cristal bleu",
+    "author": "Trounce",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:02-BICcristal2008-03-26.jpg"
+  }
+}

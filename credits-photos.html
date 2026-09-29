@@ -59,9 +59,19 @@ function lien(url, texte){
   return /^https:\/\//.test(url||'') ? '<a class="underline hover:text-primary" href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">'+esc(texte)+'</a>' : esc(texte);
 }
 var etat=document.getElementById('etat'), liste=document.getElementById('liste');
-fetch('./data/illustrations.json',{cache:'no-store'})
-  .then(function(r){ if(!r.ok){throw new Error('HTTP '+r.status);} return r.json(); })
-  .then(function(data){
+function charger(url){
+  return fetch(url,{cache:'no-store'}).then(function(r){ return r.ok ? r.json() : {}; }).catch(function(){ return {}; });
+}
+// Photos d'illustration + photos produit issues de banques libres (licence à citer)
+Promise.all([charger('./data/illustrations.json'), charger('./data/photo_credits.json')])
+  .then(function(res){
+    var data={}, vus={};
+    [res[0]||{}, res[1]||{}].forEach(function(src){
+      Object.keys(src).forEach(function(k){
+        var e=src[k], cle=e.source_page+'|'+e.label;
+        if(!vus[cle]){ vus[cle]=true; data[k]=e; }
+      });
+    });
     var cles=Object.keys(data||{}).sort();
     if(!cles.length){ etat.textContent='Aucune photo d’illustration pour le moment.'; return; }
     etat.classList.add('hidden');
