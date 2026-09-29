@@ -5,6 +5,7 @@
 
 import unittest
 
+from product_images.generic_types import classify_generic
 from product_images.matching import ACCEPT, REJECT, REVIEW, Candidate, build_profile, evaluate
 from product_images.providers import BraveImageProvider, GoogleCSEProvider
 
@@ -151,7 +152,10 @@ class RegressionTests(unittest.TestCase):
         page = "https://www.lenovo.com/x"
         self.assertEqual(verdict("L13", d, AMZ, "https://www.amazon.fr/dp/X", "Lenovo ThinkPad L13 Gen 4 laptop"), REJECT)
         self.assertEqual(verdict("L13", d, AMZ, "https://www.amazon.fr/dp/X", "Lenovo ThinkPad L13 Gen 2 laptop"), ACCEPT)
-        self.assertIsNotNone(build_profile("PPR-020", "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+").skip_reason)
+        # Sans référence : identifié par son nom (règle du 28/09/2026), pas ignoré.
+        acer = build_profile("PPR-020", "PC PORTABLE ACER EXTENSA 15 i5 11GEN 8RAM/256SSD 11PRO A+")
+        self.assertTrue(acer.name_mode)
+        self.assertEqual(acer.name_words, ["PORTABLE", "EXTENSA", "15"])
 
     def test_cachet_vs_tampon_encreur(self):
         J = "https://ma.jumia.is/unsafe/fit-in/680x680/product/1.jpg"
@@ -167,6 +171,55 @@ class RegressionTests(unittest.TestCase):
 
     def test_marques_papeterie(self):
         self.assertEqual(build_profile("BIC-B", "STYLO BIC CRISTAL BLEU").brand, "BIC")
+
+
+class NameModeTests(unittest.TestCase):
+    """Articles de marque sans référence : identification par le nom."""
+    J = "https://ma.jumia.is/unsafe/fit-in/680x680/product/1.jpg"
+    P = "https://www.jumia.ma/x-1.html"
+
+    def test_canson_faute_de_saisie(self):
+        p = build_profile("PC-RA3", "PAPIER CONSON ROUGE A3")
+        self.assertEqual((p.brand, p.name_words), ("CANSON", ["PAPIER"]))
+        self.assertEqual(verdict("PC-RA3", "PAPIER CONSON ROUGE A3", self.J, self.P,
+                                 "Canson Papier dessin Mi-Teintes 50x65 cm Rouge"), ACCEPT)
+        self.assertEqual(verdict("PC-RA3", "PAPIER CONSON ROUGE A3", self.J, self.P,
+                                 "Canson Papier dessin Mi-Teintes 50x65 cm Bleu"), REJECT)
+        # la marque doit être citée par la source
+        self.assertEqual(verdict("PC-RA3", "PAPIER CONSON ROUGE A3", self.J, self.P,
+                                 "Papier dessin 50x65 cm Rouge"), REJECT)
+
+    def test_nom_incomplet(self):
+        self.assertEqual(verdict("SICLA-R", "CLASSEUR  SICLA ROUGE", self.J, self.P,
+                                 "Sicla Chemise à rabat rouge"), REJECT)
+        self.assertEqual(verdict("SICLA-R", "CLASSEUR  SICLA ROUGE", self.J, self.P,
+                                 "Sicla Classeur à levier dos 80 mm Rouge"), ACCEPT)
+
+    def test_chargeur_et_toner_prudents(self):
+        self.assertEqual(verdict("LEN-65W", "CHARGEUR LENOVO ORIGINAL TYPE-C 20V 3.25A 65W", self.J, self.P,
+                                 "Lenovo Chargeur USB Type-C 65W"), REVIEW)
+        self.assertIsNotNone(build_profile("TN-ORGC", "KONICA MINOLTA TN ORIGINAL CYAN").skip_reason)
+
+
+class GenericTypeTests(unittest.TestCase):
+    """Articles sans marque : illustration du type d'objet, jamais d'une marque."""
+
+    def key(self, d):
+        return classify_generic(d).key
+
+    def test_types_purs(self):
+        self.assertEqual(self.key("CABLE HDMI HIGH QUALITY 3m"), "cable-hdmi")
+        self.assertEqual(self.key("CHEMISE CARTONNEE BLEU 180g"), "chemise-cartonnee-bleu")
+        self.assertEqual(self.key("ENVELOPPES KRAFT POCHETTES 229*324 MM A4"), "enveloppe-pochette-kraft")
+
+    def test_refus(self):
+        self.assertIsNone(self.key("CABLE DISPLAY TO HDMI 1.5M"))            # adaptateur
+        self.assertIsNone(self.key("CLASSEUR SICLA ROUGE"))                  # marque
+        self.assertIsNone(self.key("AGRAFEUSE A MAIN METAL STAPLER  24/6 DL0501"))  # code modèle
+        self.assertIsNone(self.key("FLUORESCENT HIGHLIGHTER 6 COULEUR A-808-4"))    # code avec tiret
+        self.assertIsNone(self.key("TONER 85A"))                             # aspect dépend du modèle
+        self.assertIsNone(self.key("ENVELOPPE PLASTIQUE BOUTON"))           # couleur inconnue
+        self.assertIsNone(self.key("CABLE VGA FEMELLE FEMELLE"))            # prolongateur, autre aspect
 
 
 class ProviderParsingTests(unittest.TestCase):

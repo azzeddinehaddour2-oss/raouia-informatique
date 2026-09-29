@@ -47,6 +47,12 @@ EXCLUDED_TERMS = ["magasin", "boutique", "rayon", "étagère", "etagere", "vitri
 MAX_CANDIDATES_PER_PRODUCT = 20
 MAX_REVIEW_CANDIDATES = 3
 
+# Sites qui bloquent les robots (page anti-bot, 403, JavaScript obligatoire) :
+# on ne lit plus leurs pages (demande du 28/09/2026). Une URL d'image directe
+# renvoyée par une API de recherche reste utilisable (pas de scraping).
+BLOCKED_PAGE_HOSTS = ("amazon.", "cdiscount.", "canon-europe.com", "canon.com", "lenovo.com", "brother.",
+                      "hikvision.com", "trodat.", "dell.com")
+
 BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "")
 GOOGLE_CSE_KEY = os.environ.get("GOOGLE_CSE_KEY", "")
 GOOGLE_CSE_CX = os.environ.get("GOOGLE_CSE_CX", "")

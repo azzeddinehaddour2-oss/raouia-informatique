@@ -182,11 +182,16 @@ def fetch_products_from_sage() -> list[dict]:
             "stock": int(row.AS_QteSto) if row.AS_QteSto is not None else 0,
         }
         override = image_overrides.get(ref, {})
-        # Ne propage que les vraies photos verifiees (source "web"), jamais
+        # Ne propage que les vraies photos verifiees ("web" = lien fabricant,
+        # "local" = fichier heberge par scripts/images_produits.py) et les
+        # photos d'illustration de type d'objet (marquees comme telles), jamais
         # les placeholders SVG generiques - permet a la page d'accueil de
         # mettre en avant uniquement les produits avec une photo exacte.
-        if override.get("source") == "web" and override.get("image"):
+        source = override.get("source")
+        if source in ("web", "local", "illustration") and override.get("image"):
             product["image"] = override["image"]
+            if source == "illustration":
+                product["illustration"] = True
         products.append(product)
     return products
 

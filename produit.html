@@ -84,8 +84,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-s
   </div>
 
   <div id="fiche-produit" class="hidden grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
-    <div class="bg-white rounded-card border border-neutral-200 shadow-card overflow-hidden flex items-center justify-center h-72 md:h-full min-h-[20rem]">
-      <img id="image-produit" class="w-full h-full object-contain p-6" src="" alt="" loading="eager">
+    <div>
+      <div class="bg-white rounded-card border border-neutral-200 shadow-card overflow-hidden flex items-center justify-center h-72 md:h-full min-h-[20rem]">
+        <img id="image-produit" class="w-full h-full object-contain p-6" src="" alt="" loading="eager">
+      </div>
+      <p id="mention-illustration" class="hidden mt-2 text-xs text-neutral-600">
+        Photo d'illustration : article sans marque, la photo montre le type de produit (l'aspect exact peut varier).
+        <a href="credits-photos.html" class="underline hover:text-primary">Crédits photos</a>
+      </p>
     </div>
     <div class="flex flex-col">
       <p id="ref-produit" class="text-sm font-mono text-neutral-500 mb-2"></p>
@@ -131,7 +137,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-s
   <div class="border-t border-white/10">
     <div class="max-w-site mx-auto px-4 md:px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
       <p>© 2026 RAOUIA INFORMATIQUE — Tous droits réservés.</p>
-      <p><a href="index.html" class="hover:text-accent transition-colors duration-200">Retour à l'accueil</a></p>
+      <p><a href="credits-photos.html" class="hover:text-accent transition-colors duration-200">Crédits photos</a> · <a href="index.html" class="hover:text-accent transition-colors duration-200">Retour à l'accueil</a></p>
     </div>
   </div>
 </footer>
@@ -184,6 +190,7 @@ var etatChargement=document.getElementById('etat-chargement');
 var etatIntrouvable=document.getElementById('etat-introuvable');
 var ficheProduit=document.getElementById('fiche-produit');
 var imageProduit=document.getElementById('image-produit');
+var mentionIllustration=document.getElementById('mention-illustration');
 var refProduitEl=document.getElementById('ref-produit');
 var nomProduitEl=document.getElementById('nom-produit');
 var badgeStockEl=document.getElementById('badge-stock-produit');
@@ -219,7 +226,9 @@ function afficherProduit(ref){
   imageProduit.onerror = function(){
     imageProduit.onerror = null;
     imageProduit.src = IMAGE_GENERIQUE_SRC;
+    mentionIllustration.classList.add('hidden');
   };
+  mentionIllustration.classList.toggle('hidden', !(infoImage && infoImage.source==='illustration'));
 
   refProduitEl.textContent = produit.ref;
   nomProduitEl.textContent = produit.designation;

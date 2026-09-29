@@ -146,6 +146,8 @@ def scan_page(page_url: str) -> tuple[str, list[str], str]:
     finale (après redirection éventuelle)."""
     if not config.domain_authorized(urlparse(page_url).netloc):
         raise ProviderError(f"page hors liste blanche : {page_url}")
+    if any(h in urlparse(page_url).netloc.lower() for h in config.BLOCKED_PAGE_HOSTS):
+        raise ProviderError(f"site bloquant les robots, lecture abandonnée : {page_url}")
     if not robots_allows(page_url):
         raise ProviderError(f"lecture interdite par robots.txt : {page_url}")
     time.sleep(0.5)   # politesse : ~2 requêtes/s maximum

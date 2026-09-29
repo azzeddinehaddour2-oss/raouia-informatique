@@ -1831,8 +1831,10 @@
     "source_page": null
   },
   "BALAIS": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/balai.webp",
+    "source": "illustration",
+    "type": "balai",
+    "label": "Balai",
     "source_page": null
   },
   "BAN-LAV": {
@@ -2146,18 +2148,24 @@
     "source_page": null
   },
   "BNG-008": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/bloc-notes.webp",
+    "source": "illustration",
+    "type": "bloc-notes",
+    "label": "Bloc-notes",
     "source_page": null
   },
   "BNG-009": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/bloc-notes.webp",
+    "source": "illustration",
+    "type": "bloc-notes",
+    "label": "Bloc-notes",
     "source_page": null
   },
   "BNR-1521": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/bloc-notes.webp",
+    "source": "illustration",
+    "type": "bloc-notes",
+    "label": "Bloc-notes",
     "source_page": null
   },
   "BNS-006": {
@@ -2446,8 +2454,10 @@
     "source_page": null
   },
   "C-HDMI-1.5M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "C-OR": {
@@ -2666,8 +2676,10 @@
     "source_page": null
   },
   "CA-10M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CA100": {
@@ -2981,8 +2993,10 @@
     "source_page": null
   },
   "CAT6": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CAT6-1.5M": {
@@ -3011,13 +3025,17 @@
     "source_page": null
   },
   "CAT6-50M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CAT6_3M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CA_A3": {
@@ -3331,8 +3349,10 @@
     "source_page": null
   },
   "CEC049": {
-    "image": "data/placeholders/papier.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/enveloppe-blanc.webp",
+    "source": "illustration",
+    "type": "enveloppe-blanc",
+    "label": "Enveloppe (blanc)",
     "source_page": null
   },
   "CEC051": {
@@ -3902,8 +3922,10 @@
     "source_page": null
   },
   "CLIPS-25M": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/pince-double-clip.webp",
+    "source": "illustration",
+    "type": "pince-double-clip",
+    "label": "Pinces double clip",
     "source_page": null
   },
   "CLIPS-32M": {
@@ -4107,13 +4129,17 @@
     "source_page": null
   },
   "CR-1.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-11.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-131": {
@@ -4122,23 +4148,31 @@
     "source_page": null
   },
   "CR-15.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-17.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-2.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-2M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-32GB": {
@@ -4152,8 +4186,10 @@
     "source_page": null
   },
   "CR-8M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR-OR": {
@@ -4162,8 +4198,10 @@
     "source_page": null
   },
   "CR0.5M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "CR1/C1": {
@@ -4868,8 +4906,10 @@
     "source_page": null
   },
   "DISP-1.5M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-displayport.webp",
+    "source": "illustration",
+    "type": "cable-displayport",
+    "label": "Câble DisplayPort",
     "source_page": null
   },
   "DK-300": {
@@ -6415,8 +6455,10 @@
     "source_page": null
   },
   "HDM-10M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDM-3M": {
@@ -6435,8 +6477,10 @@
     "source_page": null
   },
   "HDMI-1.5M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-10": {
@@ -6445,8 +6489,10 @@
     "source_page": null
   },
   "HDMI-10M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-15M": {
@@ -6465,18 +6511,24 @@
     "source_page": null
   },
   "HDMI-20M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-30M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-3M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-4-P": {
@@ -6485,8 +6537,10 @@
     "source_page": null
   },
   "HDMI-5M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDMI-60M": {
@@ -6505,8 +6559,10 @@
     "source_page": null
   },
   "HDTV-5M": {
-    "image": "data/placeholders/cable.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-hdmi.webp",
+    "source": "illustration",
+    "type": "cable-hdmi",
+    "label": "Câble HDMI",
     "source_page": null
   },
   "HDWT84": {
@@ -10272,8 +10328,10 @@
     "source_page": null
   },
   "RE1M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "REC-A4": {
@@ -10401,8 +10459,10 @@
     "source_page": null
   },
   "RJ45-3M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/cable-reseau.webp",
+    "source": "illustration",
+    "type": "cable-reseau",
+    "label": "Câble réseau RJ45",
     "source_page": null
   },
   "RJ45M": {
@@ -11913,8 +11973,10 @@
     "source_page": null
   },
   "TH318": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
+    "image": "images/illustrations/surligneur-rose.webp",
+    "source": "illustration",
+    "type": "surligneur-rose",
+    "label": "Surligneur fluorescent (rose)",
     "source_page": null
   },
   "THE-38X25": {

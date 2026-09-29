@@ -49,9 +49,11 @@ class QualityReport:
         # (une bordure uniforme mais sombre = bandes noires / fond noir : refusé)
 
 
-def download(url: str) -> Image.Image:
-    """Télécharge et décode une image depuis un domaine autorisé."""
-    if not config.domain_authorized(urlparse(url).netloc):
+def download(url: str, authorized=None) -> Image.Image:
+    """Télécharge et décode une image depuis un domaine autorisé.
+    `authorized` : prédicat de domaine (défaut : liste blanche produits)."""
+    authorized = authorized or config.domain_authorized
+    if not authorized(urlparse(url).netloc):
         raise ImageError(f"domaine non autorisé : {urlparse(url).netloc}")
     try:
         resp = _session.get(url, timeout=config.HTTP_TIMEOUT, stream=True, allow_redirects=True)
@@ -61,7 +63,7 @@ def download(url: str) -> Image.Image:
         if resp.status_code != 200:
             raise ImageError(f"HTTP {resp.status_code}")
         final_domain = urlparse(resp.url).netloc
-        if not config.domain_authorized(final_domain):
+        if not authorized(final_domain):
             raise ImageError(f"redirection vers un domaine non autorisé : {final_domain}")
         ctype = resp.headers.get("Content-Type", "")
         if "image" not in ctype:

@@ -158,7 +158,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-s
   <div class="border-t border-white/10">
     <div class="max-w-site mx-auto px-4 md:px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
       <p>© 2026 RAOUIA INFORMATIQUE — Tous droits réservés.</p>
-      <p><a href="index.html" class="hover:text-accent transition-colors duration-200">Retour à l'accueil</a></p>
+      <p><a href="credits-photos.html" class="hover:text-accent transition-colors duration-200">Crédits photos</a> · <a href="index.html" class="hover:text-accent transition-colors duration-200">Retour à l'accueil</a></p>
     </div>
   </div>
 </footer>
@@ -288,6 +288,10 @@ function escapeHtml(str){
 
 // --- Construction des cartes -------------------------------------------
 
+// Article sans marque : la photo montre le TYPE d'objet, pas l'article exact.
+var BADGE_ILLUSTRATION_HTML =
+  '<span class="absolute bottom-1 left-1 rounded bg-white/90 border border-neutral-200 text-[10px] leading-none text-neutral-600 px-1.5 py-1" title="Article sans marque : la photo illustre le type de produit">Photo d&#39;illustration</span>';
+
 function creerCarteArticle(article){
   var lien=document.createElement('a');
   lien.href='produit.html?ref='+encodeURIComponent(article.refPrincipale);
@@ -299,7 +303,8 @@ function creerCarteArticle(article){
     ? '<span class="inline-flex items-center gap-1.5 rounded-btn bg-primary/10 text-primary text-xs font-semibold px-2.5 py-1 mb-2 w-fit">'+article.nbVariantes+' variantes disponibles</span>'
     : '';
   lien.innerHTML=
-    '<div class="h-32 bg-neutral-100 flex items-center justify-center overflow-hidden">'+visuelHtml+'</div>'+
+    '<div class="relative h-32 bg-neutral-100 flex items-center justify-center overflow-hidden">'+visuelHtml+
+      (article.illustration ? BADGE_ILLUSTRATION_HTML : '')+'</div>'+
     '<div class="p-4 flex flex-col flex-1">'+
       '<p class="text-xs font-mono text-neutral-500 mb-1">'+escapeHtml(article.refPrincipale)+'</p>'+
       '<h3 class="font-semibold text-neutral-900 text-[15px] leading-snug mb-2 flex-1">'+escapeHtml(article.designation)+'</h3>'+
@@ -367,6 +372,7 @@ function construireArticlesAffichables(){
         refPrincipale:refImage,
         designation:famille.base_name,
         image:image,
+        illustration:!!(infoImage && infoImage.source==='illustration'),
         prixMin:Math.min.apply(null,prix),
         prixMax:Math.max.apply(null,prix),
         stockTotal:stockTotal,
@@ -384,6 +390,7 @@ function construireArticlesAffichables(){
         refPrincipale:produit.ref,
         designation:produit.designation,
         image:imageP,
+        illustration:!!(infoImageP && infoImageP.source==='illustration'),
         prixMin:Number(produit.prix)||0,
         prixMax:Number(produit.prix)||0,
         stockTotal:stock,
@@ -397,8 +404,8 @@ function construireArticlesAffichables(){
   // Vitrine : produits avec vraie photo d'abord, puis en stock, puis le reste
   // (tri stable : l'ordre par référence est conservé à l'intérieur de chaque groupe).
   function rang(a){
-    var vraiePhoto = a.image && !/placeholders\//.test(a.image);
-    return (vraiePhoto ? 0 : 2) + (a.enStock ? 0 : 1);
+    var vraiePhoto = a.image && !/placeholders\//.test(a.image) && !a.illustration;
+    return (vraiePhoto ? 0 : (a.illustration ? 2 : 4)) + (a.enStock ? 0 : 1);
   }
   articles.sort(function(a,b){ return rang(a)-rang(b); });
 

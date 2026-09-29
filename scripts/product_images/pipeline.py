@@ -35,6 +35,7 @@ def _same_product(a, b) -> bool:
     """Deux fiches Sage du même article (config/stock différents) : même
     marque, même modèle principal, mêmes couleurs."""
     return (a.brand == b.brand and a.primary_model == b.primary_model
+            and a.name_words == b.name_words
             and a.colours == b.colours and not a.skip_reason and not b.skip_reason)
 
 

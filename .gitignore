@@ -8,3 +8,4 @@ scripts/photos_audit_cycle.log
 scripts/images_pipeline.log
 scripts/images_review.html
 *.tmp
+scripts/illustrations_candidates/

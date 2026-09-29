@@ -5,13 +5,15 @@
             pour les héberger sur le site, en les re-validant strictement.
   review    Validation manuelle : list | html | approve REF [N] | reject REF.
   check     Diagnostic d'un produit : profil extrait et verdict d'une URL.
+  illus     Photos d'illustration des articles SANS MARQUE (type d'objet) :
+            plan | fetch [CLES] | approve CLE N | revoke CLE | apply.
 """
 
 import argparse
 import sys
 from pathlib import Path
 
-from . import catalog, config, pipeline
+from . import catalog, config, illustrations, pipeline
 from .matching import Candidate, build_profile, evaluate
 from .providers import build_providers
 
@@ -84,6 +86,29 @@ def cmd_check(args) -> int:
     return 0
 
 
+def cmd_illus(args) -> int:
+    if args.action == "plan":
+        done = illustrations.load()
+        for key, item in sorted(illustrations.plan().items(), key=lambda kv: -len(kv[1]["refs"])):
+            status = "OK " if key in done else "-- "
+            print(f"{status}{len(item['refs']):3} {key:34} {item['label']}")
+    elif args.action == "fetch":
+        keys = args.keys or [k for k in illustrations.plan() if k not in illustrations.load()]
+        sheet = illustrations.fetch(keys, args.per_key)
+        print(f"Planche contact à contrôler visuellement : {sheet}" if sheet else "Aucun candidat conforme.")
+    elif args.action == "approve":
+        if len(args.keys) != 2:
+            print("usage : illus approve CLE N", file=sys.stderr)
+            return 2
+        print(illustrations.approve(args.keys[0], int(args.keys[1])))
+    elif args.action == "revoke":
+        for key in args.keys:
+            illustrations.revoke(key, args.reason)
+    elif args.action == "apply":
+        print(illustrations.apply())
+    return 0
+
+
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(prog="images_produits", description=__doc__,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -120,6 +145,13 @@ def main(argv=None) -> int:
     c.add_argument("--page")
     c.add_argument("--title")
     c.set_defaults(func=cmd_check)
+
+    i = sub.add_parser("illus", help="photos d'illustration des articles sans marque")
+    i.add_argument("action", choices=["plan", "fetch", "approve", "revoke", "apply"])
+    i.add_argument("keys", nargs="*", help="clés de type (fetch/revoke) ou CLE N (approve)")
+    i.add_argument("--per-key", type=int, default=6, help="fetch : candidats max par clé")
+    i.add_argument("--reason", default="illustration incorrecte (contrôle visuel)")
+    i.set_defaults(func=cmd_illus)
 
     args = parser.parse_args(argv)
     if args.command == "review" and args.action in ("approve", "reject", "revoke") and not args.ref:

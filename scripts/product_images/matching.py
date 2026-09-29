@@ -80,6 +80,68 @@ BRANDS = {
     "KANGARO": ["KANGARO"],
     "TRODAT": ["TRODAT"],
     "UHU": ["UHU"],
+    # Marques locales / papeterie / accessoires (28/09/2026) : un article qui
+    # les cite n'est PAS générique -> la source doit citer la marque.
+    "CANSON": ["CANSON", "CONSON", "CONSSON"],   # fautes de saisie Sage fréquentes
+    "SICLA": ["SICLA"],
+    "DELI": ["DELI"],
+    "BOSTON": ["BOSTON"],
+    "COMIX": ["COMIX"],
+    "CROWN": ["CROWN"],
+    "GAZELLE": ["GAZELLE"],
+    "OMA": ["OMA"],
+    "MEMORY": ["MEMORY"],
+    "EXPRESS": ["EXPRESS"],
+    "CATIGA": ["CATIGA"],
+    "MONAMI": ["MONAMI"],
+    "HI-PRO": ["HI-PRO", "HI PRO"],
+    "STYLEX": ["STYLEX"],
+    "KASEM": ["KASEM"],
+    "HUHUA": ["HUHUA"],
+    "KEYITE": ["KEYITE"],
+    "LANTU": ["LANTU"],
+    "CELLO": ["CELLO"],
+    "GIOTTO": ["GIOTTO"],
+    "JOVI": ["JOVI"],
+    "NAVIGATOR": ["NAVIGATOR"],
+    "BRUDER": ["BRUDER", "BRUDRE", "BURDER"],
+    "PLUSTAR": ["PLUSTAR"],
+    "KONFULON": ["KONFULON"],
+    "IPGOLD": ["IPGOLD", "IP GOLD"],
+    "ORAIMO": ["ORAIMO"],
+    "LDNIO": ["LDNIO"],
+    "VCOM": ["VCOM"],
+    "ORICO": ["ORICO"],
+    "NGS": ["NGS"],
+    "ADATA": ["ADATA"],
+    "NETAC": ["NETAC"],
+    "KIOXIA": ["KIOXIA"],
+    "VERBATIM": ["VERBATIM"],
+    "EMTEC": ["EMTEC"],
+    "DAHUA": ["DAHUA"],
+    "EZVIZ": ["EZVIZ"],
+    "IMOU": ["IMOU"],
+    "TIANDY": ["TIANDY"],
+    "RUIJIE": ["RUIJIE"],
+    "LB-LINK": ["LB-LINK"],
+    "GRANDSTREAM": ["GRANDSTREAM"],
+    "GIGASET": ["GIGASET"],
+    "PANASONIC": ["PANASONIC"],
+    "MOTOROLA": ["MOTOROLA"],
+    "NOKIA": ["NOKIA"],
+    "KONICA MINOLTA": ["KONICA MINOLTA", "KONICA", "BIZHUB"],
+    "PANTUM": ["PANTUM"],
+    "KASPERSKY": ["KASPERSKY"],
+    "MAXELL": ["MAXELL"],
+    "DURACELL": ["DURACELL"],
+    "VARTA": ["VARTA"],
+    "JABRA": ["JABRA"],
+    "MSI": ["MSI"],
+    "AOC": ["AOC"],
+    "NEXANS": ["NEXANS"],
+    "OLYMPIA": ["OLYMPIA"],
+    "SIEMENS": ["SIEMENS"],
+    "KODAK": ["KODAK"],
 }
 
 # Produit non original (compatible, recond., import parallèle) : une photo
@@ -278,6 +340,13 @@ class ProductProfile:
     capacities: set = field(default_factory=set)
     colours: set = field(default_factory=set)
     skip_reason: str | None = None
+    # Mode « par le nom » : article de marque SANS numéro de modèle
+    # (ex. 'PAPIER CANSON ROUGE A2') -> marque + tous les mots du nom exigés.
+    name_words: list = field(default_factory=list)
+
+    @property
+    def name_mode(self) -> bool:
+        return not self.models and bool(self.name_words)
 
     @property
     def primary_model(self) -> str | None:
@@ -296,6 +365,8 @@ class ProductProfile:
         en négatif."""
         cleaned = re.sub(r"\s+", " ", self.designation).strip()
         excluded = " ".join(f"-{t}" for t in config.EXCLUDED_TERMS)
+        if self.name_mode:
+            return f'"{self.brand}" {cleaned} {excluded}'
         return f'{self.brand} "{self.primary_model}" {cleaned} {excluded}'
 
 
@@ -323,15 +394,93 @@ def build_profile(ref: str, designation: str) -> ProductProfile:
         return p
     p.brand = brands.pop()
 
-    brand_words = {compact(a) for a in BRANDS[p.brand]}
+    brand_words = {compact(a) for a in BRANDS[p.brand]} | {w for a in BRANDS[p.brand] for w in tokenize(a)}
     p.models = [m for m in model_tokens(designation, category) if m not in brand_words]
-    if not p.models:
-        p.skip_reason = "aucun numéro de modèle identifiable dans la désignation"
-        return p
-
     p.capacities = extract_capacities_gb(designation)
     p.colours = extract_colours(designation, include_tricolor=(category == "toner"), glued=True)
+    if not p.models:
+        # Pas de référence : on identifie l'article par son NOM (demande du
+        # 28/09/2026) — marque + chaque mot significatif du nom exigés.
+        p.name_words = name_words(designation, brand_words, category)
+        consumable = category == "toner" or re.search(r"\b(TN|DR|TONER|DRUM|RIBBON)\b", up)
+        if consumable and not any(w.isdigit() for w in p.name_words):
+            # 'HP 21', 'CANON 46' restent identifiables ; 'TN ORIGINAL CYAN' non.
+            p.skip_reason = "consommable d'impression sans référence : des dizaines de modèles possibles"
+        elif not p.name_words:
+            p.skip_reason = "ni numéro de modèle ni nom exploitable dans la désignation"
     return p
+
+
+# --------------------------------------------------------------------------
+# Mode « par le nom »
+# --------------------------------------------------------------------------
+
+# Mot du nom -> formes acceptées dans la source (français/anglais).
+NAME_SYNONYMS = {
+    "PAPIER": {"PAPIER", "PAPER", "PAPERS", "FEUILLE", "FEUILLES", "SHEET", "SHEETS"},
+    "CHARGEUR": {"CHARGEUR", "CHARGER", "ADAPTER", "ADAPTATEUR", "ADAPTOR"},
+    "ADAPTATEUR": {"ADAPTATEUR", "ADAPTER", "ADAPTOR", "CHARGER", "CHARGEUR"},
+    "ADAPTER": {"ADAPTATEUR", "ADAPTER", "ADAPTOR", "CHARGER", "CHARGEUR"},
+    "CARTOUCHE": {"CARTOUCHE", "CARTRIDGE", "INK"},
+    "MARQUEUR": {"MARQUEUR", "MARKER", "FEUTRE"},
+    "STYLO": {"STYLO", "PEN", "BALLPOINT"},
+    "CLE": {"CLE", "FLASH", "DRIVE", "USB"},
+    "CARTE": {"CARTE", "CARD"},
+    "MEMOIRE": {"MEMOIRE", "MEMORY", "MICROSD", "SD"},
+    "ECOUTEUR": {"ECOUTEUR", "ECOUTEURS", "EARPHONE", "EARPHONES", "EARBUDS", "HEADSET", "WIRED"},
+    "CASQUE": {"CASQUE", "HEADPHONE", "HEADPHONES", "HEADSET"},
+    "SOURIS": {"SOURIS", "MOUSE"},
+    "CLAVIER": {"CLAVIER", "KEYBOARD"},
+    "CALCULATRICE": {"CALCULATRICE", "CALCULATOR"},
+    "CLASSEUR": {"CLASSEUR", "BINDER", "LEVER", "CLASSEURS"},
+    "CHEMISE": {"CHEMISE", "CHEMISES", "FOLDER", "FOLDERS"},
+    "AGRAFEUSE": {"AGRAFEUSE", "STAPLER"},
+    "AGRAFES": {"AGRAFES", "AGRAFE", "STAPLES"},
+    "ENVELOPPE": {"ENVELOPPE", "ENVELOPPES", "ENVELOPE", "ENVELOPES"},
+    "ENVELOPPES": {"ENVELOPPE", "ENVELOPPES", "ENVELOPE", "ENVELOPES"},
+    "PORTABLE": {"PORTABLE", "LAPTOP", "NOTEBOOK"},
+    "ORDINATEUR": {"ORDINATEUR", "COMPUTER", "PC", "LAPTOP", "DESKTOP"},
+    "CABLE": {"CABLE", "CORD"},
+    "BOUTEILLE": {"BOUTEILLE", "BOTTLE"},
+    "ENCRE": {"ENCRE", "INK"},
+    "TABLEAU": {"TABLEAU", "WHITEBOARD", "BOARD"},
+    "FLUORESCENT": {"FLUORESCENT", "HIGHLIGHTER", "SURLIGNEUR", "FLUO"},
+    "CRAIES": {"CRAIES", "CRAIE", "CHALK"},
+}
+NAME_STOPWORDS = {
+    "DE", "DU", "DES", "LA", "LE", "LES", "A", "AU", "AUX", "ET", "EN", "POUR", "AVEC", "SUR", "SANS", "PAR",
+    "TO", "FOR", "WITH", "THE", "AND", "OF", "IN", "D", "L", "X", "N", "NO", "REF", "RF",
+    "ORIGINAL", "ORIGINALE", "ORIGINE", "NORMAL", "DETAIL", "DETAILS", "NEW", "NOUVEAU", "PIECE", "PIECES", "PCS",
+    "PC",  # "PC PORTABLE" : PORTABLE suffit
+    "A+", "B", "B+", "C",   # grades de reconditionnement (A / A+ / B...)
+}
+_ALL_COLOUR_WORDS = {v for vs in COLOURS.values() for v in vs} | {
+    "VERT", "VERTE", "GREEN", "ORANGE", "ROSE", "PINK", "VIOLET", "PURPLE", "MARRON", "BROWN", "BORDEAUX",
+    "NOIRE", "BLANCHE", "BLEUE", "JAUNES", "ROUGES", "COULEUR", "COULEURS", "COLOR", "COLOUR"}
+
+
+def name_words(designation: str, brand_words: set, category: str) -> list[str]:
+    out = []
+    toks = tokenize(designation)
+    for i, t in enumerate(toks):
+        nxt = toks[i + 1] if i + 1 < len(toks) else ""
+        if t in brand_words or t in NAME_STOPWORDS or t in _ALL_COLOUR_WORDS or t in UNIT_WORDS:
+            continue
+        if t.isdigit() and nxt in UNIT_WORDS:
+            continue
+        if SPEC_TOKEN.match(t) or re.fullmatch(r"\d+([.,]\d+)?[WV]|\d+(RAM|SSD|HDD|GEN|GO|GB)|I[3579]|WIN\d+\w*", t):
+            continue
+        if t in CPU_GPU_WORDS or re.fullmatch(r"\d{1,2}(TH|ND|RD|ST)?GEN|GEN|RAM|SSD|HDD|NVME", t):
+            continue
+        if len(t) == 1:
+            continue
+        if t not in out:
+            out.append(t)
+    return out
+
+
+def _name_word_found(word: str, cand_tokens: set) -> bool:
+    return bool(NAME_SYNONYMS.get(word, {word}) & cand_tokens) or word in cand_tokens
 
 
 # --------------------------------------------------------------------------
@@ -398,6 +547,10 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
         compact(profile.brand) in compact(cand.domain)
     ):
         return MatchResult(REJECT, [f"marque {profile.brand} absente de la source"])
+
+    # 4bis. Article sans référence : identification par le NOM complet
+    if profile.name_mode:
+        return _evaluate_by_name(profile, cand, evidence, cand_tokens)
 
     # 4. Modèle principal obligatoire
     primary = profile.primary_model
@@ -491,4 +644,56 @@ def evaluate(profile: ProductProfile, cand: Candidate) -> MatchResult:
     if cand.width and cand.height:
         score += min(cand.width, cand.height) / 100
 
+    return MatchResult(verdict, reasons, score)
+
+
+# Catégories où un même nom couvre des variantes d'aspect différent
+# (embout de chargeur, génération de PC, cartouche XL...) : un code modèle
+# cité par la source mais absent de Sage impose la validation manuelle.
+NAME_VARIANT_CATEGORIES = {"chargeur", "ordinateur", "toner", "ecran", "stockage", "audio"}
+
+
+def _evaluate_by_name(profile: ProductProfile, cand: Candidate, evidence: str, cand_tokens: set) -> MatchResult:
+    title_up = normalize_text(cand.title)
+    missing = [w for w in profile.name_words if not _name_word_found(w, cand_tokens)]
+    if missing:
+        return MatchResult(REJECT, [f"nom incomplet dans la source (manque : {', '.join(missing)})"])
+    reasons = [f"marque {profile.brand} + nom complet ({' '.join(profile.name_words)}) confirmés"]
+    if cand.title and _is_pack_title(cand.title) and not _is_pack_title(profile.designation):
+        return MatchResult(REJECT, ["la source présente un pack/lot, l'article est vendu à l'unité"])
+    prod_up = normalize_text(profile.designation)
+    if STATIONERY.search(prod_up) and cand.title and bool(REFILL.search(prod_up)) != bool(REFILL.search(title_up)):
+        return MatchResult(REJECT, ["la source décrit l'article ou sa recharge, pas le même type de produit"])
+    if CANDIDATE_NON_ORIGINAL.search(title_up):
+        return MatchResult(REJECT, ["la source décrit un produit compatible/générique"])
+
+    verdict, score = ACCEPT, 50.0
+    cand_caps = extract_capacities_gb(evidence)
+    if profile.capacities:
+        if cand_caps and not (cand_caps & profile.capacities):
+            return MatchResult(REJECT, [f"capacité différente (produit {sorted(profile.capacities)} Go, source {sorted(cand_caps)} Go)"])
+        if not cand_caps:
+            verdict = REVIEW
+            reasons.append("capacité non confirmée par la source")
+    cand_colours = extract_colours(evidence, include_tricolor=(profile.category == "toner"))
+    if profile.colours:
+        if cand_colours and not (cand_colours & profile.colours):
+            return MatchResult(REJECT, [f"couleur différente (produit {sorted(profile.colours)}, source {sorted(cand_colours)})"])
+        if not cand_colours:
+            verdict = REVIEW
+            reasons.append("couleur non confirmée par la source")
+    elif len(cand_colours) == 1 and profile.category in ("fourniture", "papier"):
+        # Sage ne précise pas la couleur, la source en montre une : doute.
+        verdict = REVIEW
+        reasons.append(f"couleur de la source ({next(iter(cand_colours))}) non précisée par Sage")
+    if profile.category == "chargeur":
+        verdict = REVIEW   # embout / puissance non vérifiables par le seul nom
+        reasons.append("chargeur identifié par son nom seul : embout et puissance à vérifier à l'œil")
+    extra_models = [t for t in model_tokens(cand.title) if t not in profile.name_words]
+    if extra_models and profile.category in NAME_VARIANT_CATEGORIES:
+        verdict = REVIEW
+        reasons.append(f"la source précise un modèle ({', '.join(extra_models[:3])}) que Sage n'indique pas")
+    score += 10 if cand.is_marketplace else 30
+    if cand.width and cand.height:
+        score += min(cand.width, cand.height) / 100
     return MatchResult(verdict, reasons, score)

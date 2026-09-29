@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crédits photos | RAOUIA INFORMATIQUE</title>
+<meta name="description" content="Crédits et licences des photos d'illustration utilisées dans la boutique RAOUIA INFORMATIQUE pour les articles sans marque.">
+<link rel="canonical" href="https://www.raouia-informatique.ma/credits-photos.html">
+<meta name="robots" content="noindex, follow">
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{primary:{DEFAULT:'#0B2447',light:'#19376D',lighter:'#2B4C87'},accent:{DEFAULT:'#F59E0B',hover:'#D97706',active:'#B45309'},neutral:{50:'#F8FAFC',100:'#F1F5F9',200:'#E2E8F0',400:'#94A3B8',600:'#475569',700:'#334155',900:'#0F172A'}},fontFamily:{heading:['Georgia','"Times New Roman"','serif']},borderRadius:{card:'0.75rem',btn:'0.375rem'},boxShadow:{card:'0 1px 3px rgba(11,36,71,.08), 0 1px 2px rgba(11,36,71,.04)'},maxWidth:{site:'76rem'}}}}
+</script>
+<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}</style>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+
+<header class="bg-white shadow-card">
+  <div class="max-w-site mx-auto px-4 md:px-6 flex items-center justify-between h-[76px]">
+    <a href="index.html" class="flex items-center gap-3" aria-label="RAOUIA INFORMATIQUE — retour à l'accueil">
+      <img src="site-final/images/logo-raouia-informatique-mohammedia.webp" alt="Logo RAOUIA INFORMATIQUE" width="52" height="44" class="h-11 w-auto">
+      <span class="leading-tight">
+        <span class="block font-heading font-bold text-primary text-lg tracking-wide">RAOUIA</span>
+        <span class="block text-xs uppercase tracking-[0.2em] text-neutral-600">Informatique</span>
+      </span>
+    </a>
+    <a href="boutique.html" class="text-sm font-medium text-primary hover:text-accent-hover">Retour à la boutique</a>
+  </div>
+</header>
+
+<main class="max-w-site mx-auto px-4 md:px-6 py-10">
+  <h1 class="font-heading text-2xl sm:text-3xl font-bold text-primary mb-3">Crédits photos</h1>
+  <p class="text-neutral-700 max-w-3xl mb-2">
+    Les articles de marque sont présentés avec la photo officielle du fabricant ou d'un revendeur autorisé,
+    uniquement lorsque la correspondance avec la référence exacte est vérifiée.
+  </p>
+  <p class="text-neutral-700 max-w-3xl mb-8">
+    Les articles <strong>sans marque</strong> sont présentés avec une <strong>photo d'illustration</strong> du type
+    de produit, issue de banques d'images libres. Leurs auteurs et licences sont indiqués ci-dessous.
+  </p>
+
+  <p id="etat" class="text-neutral-500">Chargement...</p>
+  <ul id="liste" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></ul>
+</main>
+
+<footer class="bg-neutral-900 text-neutral-400 text-xs">
+  <div class="max-w-site mx-auto px-4 md:px-6 py-5 flex flex-col sm:flex-row justify-between gap-3">
+    <p>© 2026 RAOUIA INFORMATIQUE — Tous droits réservés.</p>
+    <p><a href="index.html" class="hover:text-accent">Retour à l'accueil</a></p>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+function esc(s){var d=document.createElement('div');d.textContent=s==null?'':String(s);return d.innerHTML;}
+function lien(url, texte){
+  return /^https:\/\//.test(url||'') ? '<a class="underline hover:text-primary" href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">'+esc(texte)+'</a>' : esc(texte);
+}
+var etat=document.getElementById('etat'), liste=document.getElementById('liste');
+fetch('./data/illustrations.json',{cache:'no-store'})
+  .then(function(r){ if(!r.ok){throw new Error('HTTP '+r.status);} return r.json(); })
+  .then(function(data){
+    var cles=Object.keys(data||{}).sort();
+    if(!cles.length){ etat.textContent='Aucune photo d’illustration pour le moment.'; return; }
+    etat.classList.add('hidden');
+    cles.forEach(function(k){
+      var e=data[k];
+      var li=document.createElement('li');
+      li.className='bg-white rounded-card border border-neutral-200 shadow-card p-4 flex gap-4';
+      li.innerHTML=
+        '<img src="'+esc(e.image)+'" alt="'+esc(e.label)+'" class="w-20 h-20 object-contain flex-none border border-neutral-100" loading="lazy">'+
+        '<div class="text-sm min-w-0">'+
+          '<p class="font-semibold text-neutral-900 mb-1">'+esc(e.label)+'</p>'+
+          '<p class="text-neutral-600 break-words">Photo : '+esc(e.author)+'</p>'+
+          '<p class="text-neutral-600">Licence : '+lien(e.license_url, e.license)+'</p>'+
+          '<p class="text-neutral-600">'+lien(e.source_page, 'Source')+' — image recadrée et redimensionnée, diffusée sous la même licence</p>'+
+        '</div>';
+      liste.appendChild(li);
+    });
+  })
+  .catch(function(){ etat.textContent='Crédits momentanément indisponibles.'; });
+})();
+</script>
+</body>
+</html>

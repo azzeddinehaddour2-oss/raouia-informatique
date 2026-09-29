@@ -310,7 +310,9 @@ fetch('./data/products.json', {cache:'no-store'})
     // Priorité aux produits avec photo vérifiée (meilleure vitrine), puis
     // complété par les autres produits en stock jusqu'à 10 au total.
     // Les icônes de catégorie (data/placeholders/*.svg) ne comptent pas comme photos.
-    var vraiePhoto = function(p){ return !!p.image && !/placeholders\//.test(p.image); };
+    // Les photos d'illustration (articles sans marque) non plus : la vitrine
+    // ne montre que des photos exactes.
+    var vraiePhoto = function(p){ return !!p.image && !/placeholders\//.test(p.image) && !p.illustration; };
     var avecPhoto = base.filter(vraiePhoto);
     var sansPhoto = base.filter(function(p){ return !vraiePhoto(p); });
     var selection = avecPhoto.concat(sansPhoto).slice(0, 10);

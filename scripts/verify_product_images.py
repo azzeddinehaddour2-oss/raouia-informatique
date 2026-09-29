@@ -151,6 +151,30 @@ def check_image_live(url: str) -> tuple[bool, str]:
     return True, f"OK ({w}x{h})"
 
 
+LIBRE_LICENSES = ("CC0", "DOMAINE PUBLIC", "PUBLIC DOMAIN", "PD", "CC BY", "CC-BY", "CC BY-SA", "CC-BY-SA")
+
+
+def illustration_problem(info: dict, designation: str, illustrations: dict) -> str | None:
+    sys.path.insert(0, str(REPO_ROOT / "scripts"))
+    from product_images.generic_types import classify_generic  # noqa: PLC0415
+
+    key = info.get("type")
+    entry = illustrations.get(key or "")
+    if not entry:
+        return f"illustration '{key}' inconnue ou retirée"
+    if classify_generic(designation).key != key:
+        return f"l'article n'est plus un générique de type '{key}' (désignation : {designation})"
+    lic = (entry.get("license") or "").upper()
+    if not lic.startswith(LIBRE_LICENSES) or " NC" in lic or " ND" in lic or "-NC" in lic or "-ND" in lic:
+        return f"licence non libre ou absente ({entry.get('license')})"
+    if not entry.get("author") or not entry.get("source_page"):
+        return "auteur ou page source manquant (crédit obligatoire)"
+    local_file = REPO_ROOT / (entry.get("image") or "")
+    if not local_file.is_file() or info.get("image") != entry.get("image"):
+        return f"fichier d'illustration absent ({entry.get('image')})"
+    return None
+
+
 def main() -> int:
     dry_run = "--dry-run" in sys.argv
 
@@ -160,7 +184,29 @@ def main() -> int:
 
     reverted, kept, checked_live = [], [], 0
 
+    illustrations = {}
+    illus_path = REPO_ROOT / "data" / "illustrations.json"
+    if illus_path.exists():
+        illustrations = json.loads(illus_path.read_text(encoding="utf-8"))
+
     for ref, info in images.items():
+        if info.get("source") == "illustration":
+            # Photo d'illustration (article sans marque) : l'article doit
+            # TOUJOURS être classé pur générique de ce type (une désignation
+            # Sage modifiée qui cite une marque la fait retomber), et
+            # l'illustration doit exister avec auteur + licence libre.
+            reason = illustration_problem(info, designs.get(ref, ""), illustrations)
+            if reason:
+                reverted.append((ref, reason))
+                if not dry_run:
+                    images[ref] = {
+                        "image": f"data/placeholders/{classify(designs.get(ref, ''))}.svg",
+                        "source_page": None,
+                        "source": "placeholder",
+                    }
+            else:
+                kept.append(ref)
+            continue
         if info.get("source") == "local":
             # Image hébergée sur le site (scripts/images_produits.py) : le
             # fichier doit exister et être une image lisible, sinon placeholder.

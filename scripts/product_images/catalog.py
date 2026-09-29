@@ -78,9 +78,15 @@ def sync_products_json(images: dict) -> int:
         return 0
     changed = 0
     for p in data.get("products", []):
-        new = images.get(p["ref"], {}).get("image")
-        if new and p.get("image") != new:
+        entry = images.get(p["ref"], {})
+        new = entry.get("image")
+        illus = entry.get("source") == "illustration"
+        if new and (p.get("image") != new or bool(p.get("illustration")) != illus):
             p["image"] = new
+            if illus:
+                p["illustration"] = True
+            else:
+                p.pop("illustration", None)
             changed += 1
     if changed:
         write_json(config.PRODUCTS_PATH, data)
