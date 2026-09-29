@@ -6785,7 +6785,7 @@
       "designation": "Dell OptiPlex Plus 7010 i7-13700 8Go 512Go SSD Win11 Pro 36M",
       "prix": 12300.0,
       "stock": 0,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/dell7010.webp"
     },
     {
       "ref": "DELL7010_I5",
@@ -7031,7 +7031,7 @@
       "designation": "DELL OPTIPLEX 7020 MT i5-14500 8Go 512 Go SSD",
       "prix": 6350.0,
       "stock": 0,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/do-7020.webp"
     },
     {
       "ref": "DP-303",
@@ -9482,7 +9482,7 @@
       "designation": "PC HP PROBOOK 460 G11 I7 155U RAM 16Go 512 Go",
       "prix": 10200.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/hp-11.webp"
     },
     {
       "ref": "HP-145N",
@@ -9636,7 +9636,7 @@
       "designation": "HP 460 G11 Intel Core Ultra 5 125U Ordinateur portable 40,6 cm",
       "prix": 10400.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/hp-460.webp"
     },
     {
       "ref": "HP460G11",
@@ -9650,7 +9650,7 @@
       "designation": "Ordinateur portable HP ProBook 460 G11 (A38FQET)",
       "prix": 11500.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/hp460u7.webp"
     },
     {
       "ref": "HP-4G1IP",
@@ -9888,7 +9888,7 @@
       "designation": "HP ProBook 450 G9 Intel® Core i5-1235U 8GB-256GO SSD",
       "prix": 6000.0,
       "stock": 0,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/hp-i5.webp"
     },
     {
       "ref": "HP-I7-1362H",
@@ -11099,7 +11099,7 @@
       "designation": "LENOVO Thinkpad T14 i7-1355U 14\" WUXGA AG 16 Go 512 Go SSD",
       "prix": 17800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/lenov-t14.webp"
     },
     {
       "ref": "LEN-P520",
@@ -11701,7 +11701,7 @@
       "designation": "CANON i-SENSYS MF655Cdw lase colour A4 1200*1200 wifi",
       "prix": 4320.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/mf655cdw.webp"
     },
     {
       "ref": "MFP-4102",
@@ -12569,7 +12569,7 @@
       "designation": "Dell 24 Monitor - P2422H - 60.5cm (23.8\") 36M",
       "prix": 1800.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "images/produits/p2422.webp"
     },
     {
       "ref": "P2422H",
@@ -14797,7 +14797,7 @@
       "designation": "LENOVO S22i-30 21.5\" Monitor,1920 x1080, VGA + HDMI 1.4 ,- HDMI-36M",
       "prix": 787.0,
       "stock": 0,
-      "image": "data/placeholders/ecran.svg"
+      "image": "images/produits/s22i-30.webp"
     },
     {
       "ref": "S23",
@@ -15210,7 +15210,7 @@
       "designation": "Canon Scanner LiDE 300 à Plat 2400x2400 , A4 , USB",
       "prix": 995.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/sc300.webp"
     },
     {
       "ref": "SC400",
@@ -15280,7 +15280,7 @@
       "designation": "Canon DOCUMENT SCANNER DR-S250N Réseau Couleur A4 R/V 50 B&WPPM 50PPM",
       "prix": 3900.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/scs250n.webp"
     },
     {
       "ref": "SC-V5",
@@ -16078,7 +16078,7 @@
       "designation": "LENOVO Thinkpad T14s i7-1355U 14\" WUXGA AG 16 Go 1 TB SSD Win 11 PRO",
       "prix": 18990.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/t14.webp"
     },
     {
       "ref": "T14S-I7-512",

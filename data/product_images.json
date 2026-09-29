@@ -5012,9 +5012,12 @@
     "validated_at": "2026-09-28"
   },
   "DELL7010": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/dell7010.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/72038-large_default/ordinateur-de-bureau-dell-optiplex-tower-plus-7010-dl-op7010plus-i7-w.jpg",
+    "source_page": "https://www.iris.ma/16458-ordinateur-de-bureau-dell-optiplex-tower-plus-7010-dl-op7010plus-i7-w.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DELL7010_I5": {
     "image": "images/produits/dell7010-i5.webp",
@@ -5173,9 +5176,12 @@
     "source_page": null
   },
   "DO-7020": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/do-7020.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/117053-large_default/ordinateur-de-bureau-dell-optiplex-7020-mt-dl-op7020-i5-w.jpg",
+    "source_page": "https://www.iris.ma/24659-ordinateur-de-bureau-dell-optiplex-7020-mt-dl-op7020-i5-w.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DP-303": {
     "image": "data/placeholders/audio.svg",
@@ -6911,9 +6917,12 @@
     "source_page": null
   },
   "HP-11": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-11.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/114899-large_default/ordinateur-portable-hp-probook-460-g11-a38fqet.jpg",
+    "source_page": "https://www.iris.ma/24187-ordinateur-portable-hp-probook-460-g11-a38fqet.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-145N": {
     "image": "images/produits/hp-145n.webp",
@@ -7026,9 +7035,12 @@
     "validated_at": "2026-09-29"
   },
   "HP-460": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-460.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/114899-large_default/ordinateur-portable-hp-probook-460-g11-a38fqet.jpg",
+    "source_page": "https://www.iris.ma/24187-ordinateur-portable-hp-probook-460-g11-a38fqet.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-4G1IP": {
     "image": "data/placeholders/ordinateur.svg",
@@ -7134,9 +7146,12 @@
     "source_page": null
   },
   "HP-I5": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-i5.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/65607-large_default/ordinateur-portable-hp-probook-450-g9-6q843es.jpg",
+    "source_page": "https://www.iris.ma/15125-ordinateur-portable-hp-probook-450-g9-6q843es.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-I7-1362H": {
     "image": "data/placeholders/stockage.svg",
@@ -7219,9 +7234,12 @@
     "source_page": null
   },
   "HP460U7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp460u7.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/114899-large_default/ordinateur-portable-hp-probook-460-g11-a38fqet.jpg",
+    "source_page": "https://www.iris.ma/24187-ordinateur-portable-hp-probook-460-g11-a38fqet.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP600G3I7": {
     "image": "data/placeholders/stockage.svg",
@@ -8219,9 +8237,12 @@
     "source_page": null
   },
   "LENOV-T14": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/lenov-t14.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/71311-large_default/ordinateur-portable-lenovo-thinkpad-t14-gen-4-21hd008kfe.jpg",
+    "source_page": "https://www.iris.ma/16346-ordinateur-portable-lenovo-thinkpad-t14-gen-4-21hd008kfe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "LENOVO_T27HV": {
     "image": "data/placeholders/ecran.svg",
@@ -8672,9 +8693,12 @@
     "validated_at": "2026-09-28"
   },
   "MF655CDW": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/mf655cdw.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/96390-large_default/imprimante-multifonction-laser-couleur-canon-i-sensys-mf655cdw-5158c004aa.jpg",
+    "source_page": "https://www.iris.ma/21041-imprimante-multifonction-laser-couleur-canon-i-sensys-mf655cdw-5158c004aa.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "MFP-4102": {
     "image": "data/placeholders/imprimante.svg",
@@ -9450,9 +9474,12 @@
     "source_page": null
   },
   "P2422": {
-    "image": "data/placeholders/ecran.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p2422.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/54562-large_default/ecran-238-full-hd-dell-p2422h-p2422h-3y.jpg",
+    "source_page": "https://www.iris.ma/13314-ecran-238-full-hd-dell-p2422h-p2422h-3y.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P2422H": {
     "image": "images/produits/p2422h.webp",
@@ -11035,9 +11062,12 @@
     "source_page": null
   },
   "S22I-30": {
-    "image": "data/placeholders/ecran.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/s22i-30.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/104692-large_default/ecran-215-full-hd-lenovo-thinkvision-s22i-30-63fckatbeu.jpg",
+    "source_page": "https://www.iris.ma/22248-ecran-215-full-hd-lenovo-thinkvision-s22i-30-63fckatbeu.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "S23": {
     "image": "data/placeholders/divers.svg",
@@ -11329,9 +11359,12 @@
     "validated_at": "2026-09-28"
   },
   "SC300": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/sc300.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/116630-large_default/scanner-a-plat-canon-canoscan-lide-300-2995c010aa.jpg",
+    "source_page": "https://www.iris.ma/24554-scanner-a-plat-canon-canoscan-lide-300-2995c010aa.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "SC400": {
     "image": "images/produits/sc400.webp",
@@ -11365,9 +11398,12 @@
     "validated_at": "2026-09-28"
   },
   "SCS250N": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/scs250n.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/113279-large_default/scanner-canon-imageformula-dr-s250n-6383c003.jpg",
+    "source_page": "https://www.iris.ma/23881-scanner-canon-imageformula-dr-s250n-6383c003.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "SD-K32G": {
     "image": "data/placeholders/stockage.svg",
@@ -11958,9 +11994,12 @@
     "source_page": null
   },
   "T14": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/t14.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/71303-large_default/ordinateur-portable-lenovo-thinkpad-t14s-gen-4-21f60060fe.jpg",
+    "source_page": "https://www.iris.ma/16345-ordinateur-portable-lenovo-thinkpad-t14s-gen-4-21f60060fe.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "T150/100": {
     "image": "data/placeholders/divers.svg",
