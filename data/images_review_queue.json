@@ -879,23 +879,6 @@
       }
     ]
   },
-  "IM3251": {
-    "designation": "IMPRIMANTE EPSON  L3251",
-    "origin": "revoke",
-    "added_at": "2026-09-28 14:08",
-    "candidates": [
-      {
-        "image_url": "https://i8.amplience.net/i/epsonemear/l3251_png_l3251",
-        "page_url": "https://www.epson.eu/en_EU/products/printers/inkjet/consumer/ecotank-l3251-multifunction-wi-fi-ink-tank-a4-printer,-with-up-to-3-years-of-ink-included/p/30245",
-        "title": "",
-        "provider": "revoque",
-        "score": 0,
-        "reasons": [
-          "retirée : controle visuel : visuel marketing (imprimante + bouteilles + signe +), pas un produit isole"
-        ]
-      }
-    ]
-  },
   "SAM-S24": {
     "designation": "SAMSUNG Smartphone S24 6,2\"Exynos2400 8Go 256Go Android 5G",
     "origin": "revoke",

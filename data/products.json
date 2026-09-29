@@ -2093,7 +2093,7 @@
       "designation": "HUAWEI eKitEngine AP361 Plafonnier WiFi 6 AX1800 AP361 est un point",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/ap361.webp"
     },
     {
       "ref": "APB-05",
@@ -7185,7 +7185,7 @@
       "designation": "Hikvision Camera de surveillance IP Etanche 5MP DS-2CD1053G0",
       "prix": 800.0,
       "stock": 0,
-      "image": "data/placeholders/camera.svg"
+      "image": "images/produits/ds-2cd1053g0.webp"
     },
     {
       "ref": "DS-2CD1121",
@@ -7199,7 +7199,7 @@
       "designation": "HIKVISION CAMERA IP 5m DS-2CD1153G0-1 2.8mm C DOME",
       "prix": 850.0,
       "stock": 0,
-      "image": "data/placeholders/camera.svg"
+      "image": "images/produits/ds-2cd1153g0.webp"
     },
     {
       "ref": "DS-2CD1163",
@@ -7220,7 +7220,7 @@
       "designation": "HIKVISION CAMERA 5 M DS-2CE16HOT-ITF BULLET",
       "prix": 350.0,
       "stock": 0,
-      "image": "data/placeholders/camera.svg"
+      "image": "images/produits/ds-2ce.webp"
     },
     {
       "ref": "DS-2CE16KOT-EXLF",
@@ -7297,7 +7297,7 @@
       "designation": "HIKVISION DS-3E0105P-E POE SWITCH 4 PORT FAST ETHERNET",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/ds-3e0105p-e.webp"
     },
     {
       "ref": "DS-3E0108D-O",
@@ -7311,14 +7311,14 @@
       "designation": "HIKVISION DS-3E0109P-E/M(B) 8 Port Fast Ethernet Unmanaged POE Switch",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/ds-3e0109p-e-m.webp"
     },
     {
       "ref": "DS-3E0326P-E",
       "designation": "HIKVISION SWITCH DS-3E0326P-E/M(B) ETHERNET 24-port 10/100 PoE",
       "prix": 2500.0,
       "stock": 0,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/ds-3e0326p-e.webp"
     },
     {
       "ref": "DS-3E0505D",
@@ -9475,7 +9475,7 @@
       "designation": "IMPRIMANTE HP LASER JET 107A",
       "prix": 1600.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/hp-107a.webp"
     },
     {
       "ref": "HP-11",
@@ -10280,7 +10280,7 @@
       "designation": "IMPRIMANTE EPSON  L3251",
       "prix": 1900.0,
       "stock": 5,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/im3251.webp"
     },
     {
       "ref": "IMG680",
@@ -10987,7 +10987,7 @@
       "designation": "IMPRIMANTE CANON LBO6030W BLANC",
       "prix": 2100.0,
       "stock": 0,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/lbo6030w.webp"
     },
     {
       "ref": "LC022",

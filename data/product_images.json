@@ -1547,9 +1547,12 @@
     "source_page": null
   },
   "AP361": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ap361.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/119672-large_default/point-dacces-wifi-6-huawei-ap361-interieur-50086871.jpg",
+    "source_page": "https://www.iris.ma/25116-point-dacces-wifi-6-huawei-ap361-interieur-50086871.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "APB-05": {
     "image": "data/placeholders/papier.svg",
@@ -5290,9 +5293,12 @@
     "source_page": null
   },
   "DS-2CD1053G0": {
-    "image": "data/placeholders/camera.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-2cd1053g0.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/62367-large_default/camera-de-surveillance-ip-hikvision-fixed-bullet-5-mp-ds-2cd1053g0-i.jpg",
+    "source_page": "https://www.iris.ma/14450-camera-de-surveillance-ip-hikvision-fixed-bullet-5-mp-ds-2cd1053g0-i.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-2CD1121": {
     "image": "data/placeholders/camera.svg",
@@ -5300,9 +5306,12 @@
     "source_page": null
   },
   "DS-2CD1153G0": {
-    "image": "data/placeholders/camera.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-2cd1153g0.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59159-large_default/camera-de-surveillance-ip-hikvision-fixed-dome-28-4-mm-5-mp-ds-2cd1153g0-i.jpg",
+    "source_page": "https://www.iris.ma/13901-camera-de-surveillance-ip-hikvision-fixed-dome-28-4-mm-5-mp-ds-2cd1153g0-i.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-2CD1163": {
     "image": "data/placeholders/camera.svg",
@@ -5315,9 +5324,12 @@
     "source_page": null
   },
   "DS-2CE": {
-    "image": "data/placeholders/camera.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-2ce.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59145-large_default/camera-de-surveillance-hikvision-fixed-mini-bullet-24-mm-6-mm-5-mp-ds-2ce16h0t-itf-c.jpg",
+    "source_page": "https://www.iris.ma/13886-camera-de-surveillance-hikvision-fixed-mini-bullet-24-mm-6-mm-5-mp-ds-2ce16h0t-itf-c.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-2CE16KOT-EXLF": {
     "image": "data/placeholders/camera.svg",
@@ -5373,9 +5385,12 @@
     "source_page": null
   },
   "DS-3E0105P-E": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-3e0105p-e.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59154-large_default/switch-non-administrable-hikvision-5-ports-10-100-poe-ds-3e0105p-e-m-b.jpg",
+    "source_page": "https://www.iris.ma/13890-switch-non-administrable-hikvision-5-ports-10-100-poe-ds-3e0105p-e-m-b.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-3E0108D-O": {
     "image": "data/placeholders/reseau.svg",
@@ -5383,14 +5398,20 @@
     "source_page": null
   },
   "DS-3E0109P-E/M": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-3e0109p-e-m.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59155-large_default/switch-non-administrable-hikvision-8-ports-fast-ethernet-10-100-poe-ds-3e0109p-e-m-b.jpg",
+    "source_page": "https://www.iris.ma/13891-switch-non-administrable-hikvision-8-ports-fast-ethernet-10-100-poe-ds-3e0109p-e-m-b.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-3E0326P-E": {
-    "image": "data/placeholders/reseau.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ds-3e0326p-e.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/59157-large_default/switch-non-administrable-hikvision-24-ports-fast-ethernet-10-100-poe-ds-3e0326p-e-m-b.jpg",
+    "source_page": "https://www.iris.ma/13893-switch-non-administrable-hikvision-24-ports-fast-ethernet-10-100-poe-ds-3e0326p-e-m-b.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DS-3E0505D": {
     "image": "data/placeholders/reseau.svg",
@@ -6918,9 +6939,12 @@
     "validated_at": "2026-09-28"
   },
   "HP-107A": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-107a.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/49762-large_default/imprimante-laser-monochrome-hp-laser-107a-4zb77a.jpg",
+    "source_page": "https://www.iris.ma/12302-imprimante-laser-monochrome-hp-laser-107a-4zb77a.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-11": {
     "image": "images/produits/hp-11.webp",
@@ -7688,9 +7712,12 @@
     "source_page": null
   },
   "IM3251": {
-    "image": "data/placeholders/imprimante.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/im3251.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/102705-large_default/epson-ecotank-l3251-jet-d-encre-a4-5760-x-1440-dpi-33-ppm-wifi-c11cj67409.jpg",
+    "source_page": "https://www.iris.ma/21949-epson-ecotank-l3251-jet-d-encre-a4-5760-x-1440-dpi-33-ppm-wifi-c11cj67409.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "IMG680": {
     "image": "data/placeholders/chargeur.svg",
@@ -8160,9 +8187,12 @@
     "source_page": null
   },
   "LBO6030W": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/lbo6030w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/17857-large_default/imprimante-wi-fi-laser-monochrome-canon-i-sensys-lbp6030w.jpg",
+    "source_page": "https://www.iris.ma/6174-imprimante-wi-fi-laser-monochrome-canon-i-sensys-lbp6030w.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "LC-1500": {
     "image": "data/placeholders/divers.svg",
