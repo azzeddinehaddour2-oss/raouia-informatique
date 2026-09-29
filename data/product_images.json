@@ -86,9 +86,12 @@
     "source_page": null
   },
   "103-N": {
-    "image": "data/placeholders/toner.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/103-n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/6/6/7/3/5/5/P_667355_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/epson-ecotank-103-noir-reservoir-d-encre-original-667355.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "103-W": {
     "image": "data/placeholders/toner.svg",
@@ -723,14 +726,20 @@
     "source_page": null
   },
   "711-B": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/711-b.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/1/2/P_79391291_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-711-c-29ml-79391291.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "711-J": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/711-j.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/1/2/P_79391293_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-711-y-29ml-79391293.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "711-N": {
     "image": "data/placeholders/toner.svg",
@@ -738,9 +747,12 @@
     "source_page": null
   },
   "711-R": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/711-r.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/1/2/P_79391292_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-711-m-29ml-79391292.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "7208H": {
     "image": "data/placeholders/camera.svg",
@@ -2077,24 +2089,36 @@
     "source_page": null
   },
   "BL-G2-7-8": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/bl-g2-7-8.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/2/4/2/7/1/0/P_2427101_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-retrac-g2-7-noir-pilot-52574.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BL-G2-7-B": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bl-g2-7-b.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/2/4/2/7/2/0/P_2427202_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-retrac-g2-7-bleu-pilot-52575.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BL-G2-7-G": {
-    "image": "data/placeholders/fourniture.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/bl-g2-7-g.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/2/4/2/7/4/0/P_2427404_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-retrac-g2-7-vert-pilot-52577.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BL-G2-7-R": {
-    "image": "data/placeholders/fourniture.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/bl-g2-7-r.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/2/4/2/7/3/0/P_2427303_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bille-retrac-g2-7-rouge-pilot-52576.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "BL-ML": {
     "image": "data/placeholders/papier.svg",
@@ -3733,9 +3757,12 @@
     "source_page": null
   },
   "CHP-21": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/chp-21.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/1/0/9/3/5/1/P_109351_13.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-21-bk-5ml-109351.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CHP-9020": {
     "image": "images/produits/chp-9020.webp",
@@ -4334,9 +4361,12 @@
     "source_page": null
   },
   "CRH-057": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crh-057.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/0/0/6/6/5/7/P_6657_13.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-57-cmy-17ml-6657.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CRH-122": {
     "image": "data/placeholders/toner.svg",
@@ -4397,9 +4427,12 @@
     "source_page": null
   },
   "CRT-045": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crt-045.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/0/5/1/6/4/5/P_51645_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-45-bk-42ml-51645.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CRT-0701": {
     "image": "data/placeholders/toner.svg",
@@ -7128,9 +7161,12 @@
     "validated_at": "2026-09-28"
   },
   "HPB-124": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-124.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/0/0/1/2/P_79001270_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-laser-hp-q6001a-c-79001270.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HPB-125": {
     "image": "images/produits/hpb-125.webp",
@@ -7165,9 +7201,12 @@
     "validated_at": "2026-09-28"
   },
   "HPB-207": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpb-207.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/4/5/4/P_79445418_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/hp-207a-cyan-cartouche-laser-d-origine-79445418.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HPB-26": {
     "image": "images/produits/hpb-26.webp",
@@ -7231,9 +7270,12 @@
     "validated_at": "2026-09-28"
   },
   "HPJ-207": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpj-207.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/4/5/4/P_79445419_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/hp-207a-jaune-cartouche-laser-d-origine-79445419.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HPJ-305": {
     "image": "images/produits/hpj-305.webp",
@@ -7292,9 +7334,12 @@
     "validated_at": "2026-09-28"
   },
   "HPN-13": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-13.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/1/0/4/0/9/8/P_104098_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-laser-hp-13a-bk-2500p-104098.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HPN-131": {
     "image": "images/produits/hpn-131.webp",
@@ -7321,9 +7366,12 @@
     "validated_at": "2026-09-28"
   },
   "HPN-216": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hpn-216.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/4/0/0/0/0/4/P_400004698_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/hp-216a-noir-cartouche-laser-d-origine-400004698.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HPN-305": {
     "image": "images/produits/hpn-305.webp",
@@ -8321,9 +8369,12 @@
     "source_page": null
   },
   "M170": {
-    "image": "data/placeholders/souris.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/m170.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/6/4/5/7/6/9/P_645769_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/logitech-m170-souris-sans-fil-gris-645769.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "M1728": {
     "image": "data/placeholders/papier.svg",

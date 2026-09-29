@@ -153,41 +153,6 @@
       }
     ]
   },
-  "BL-G2-7-B": {
-    "designation": "STYLO PILOT BLEU BL-G2-7-B",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/811e7q2s0jL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/Pilot-G2-07-Bleu-Pointe-r%C3%A9tractable-Largeur/dp/B00MELLCW8",
-        "title": "",
-        "provider": "existant",
-        "score": 60.0,
-        "reasons": [
-          "modèle 'G2' confirmé",
-          "fond non blanc/propre (bordure blanche 44%, 0/4 coins blancs)"
-        ]
-      }
-    ]
-  },
-  "BL-G2-7-R": {
-    "designation": "STYLO PILOT ROUGE BL-G2-7-R",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/41RgsMitKXL._AC_SL1200_.jpg",
-        "page_url": "https://www.amazon.fr/Pilot-moyenne-r%C3%A9tractable-plastique-caoutchouc/dp/B000I5SEOQ",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "modèle principal 'G2' absent de la source"
-        ]
-      }
-    ]
-  },
   "EATON-3000VA": {
     "designation": "Eaton 9SX 3000VA/2700W 2 ans",
     "origin": "localize",
@@ -552,24 +517,6 @@
       }
     ]
   },
-  "HPB-124": {
-    "designation": "TONER HP 124A BLEU",
-    "origin": "search",
-    "added_at": "2026-09-28 13:30",
-    "candidates": [
-      {
-        "image_url": "https://kr-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/Q/6/Q6001A-1_T1678894793.png",
-        "page_url": "https://www.hp.com/kr-ko/shop/hp-124a-cyan-original-laserjet-toner-cartridge-q6001a.html",
-        "title": "HP 124A 파랑 정품 레이저젯 토너 카트리지",
-        "provider": "page",
-        "score": 80.0,
-        "reasons": [
-          "modèle '124A' confirmé",
-          "couleur non confirmée par la source"
-        ]
-      }
-    ]
-  },
   "HPJ-124": {
     "designation": "TONER HP 124A JAUNE",
     "origin": "search",
@@ -620,60 +567,6 @@
         "reasons": [
           "modèle '205A' confirmé",
           "image déjà utilisée pour CF533"
-        ]
-      }
-    ]
-  },
-  "711-B": {
-    "designation": "CARTOUCHE HP 711 CZ130A BLEU",
-    "origin": "search",
-    "added_at": "2026-09-28 13:38",
-    "candidates": [
-      {
-        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ130A-1_T1678982139.jpg",
-        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-cyan-designjet-ink-cartridge-cz130a.html",
-        "title": "HP 711 29-ml Cyan DesignJet Ink Cartridge",
-        "provider": "page",
-        "score": 85.0,
-        "reasons": [
-          "modèle '711' confirmé",
-          "résolution insuffisante (560x560)"
-        ]
-      }
-    ]
-  },
-  "711-J": {
-    "designation": "CARTOUCHE HP 711 CZ132A JAUNE",
-    "origin": "search",
-    "added_at": "2026-09-28 13:38",
-    "candidates": [
-      {
-        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ132A-1_T1678982147.jpg",
-        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-yellow-designjet-ink-cartridge-cz132a.html",
-        "title": "HP 711 29-ml Yellow DesignJet Ink Cartridge",
-        "provider": "page",
-        "score": 85.0,
-        "reasons": [
-          "modèle '711' confirmé",
-          "résolution insuffisante (560x560)"
-        ]
-      }
-    ]
-  },
-  "711-R": {
-    "designation": "CARTOUCHE HP 711 CZ131A ROUGE",
-    "origin": "search",
-    "added_at": "2026-09-28 13:38",
-    "candidates": [
-      {
-        "image_url": "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/C/Z/CZ131A-1_T1678982143.jpg",
-        "page_url": "https://www.hp.com/my-en/shop/hp-711-29-ml-magenta-designjet-ink-cartridge-cz131a.html",
-        "title": "HP 711 29-ml Magenta DesignJet Ink Cartridge",
-        "provider": "page",
-        "score": 85.0,
-        "reasons": [
-          "modèle '711' confirmé",
-          "résolution insuffisante (560x560)"
         ]
       }
     ]
@@ -812,23 +705,6 @@
         "score": 0,
         "reasons": [
           "retirée : controle visuel : petite image avec bandes noires, qualite insuffisante"
-        ]
-      }
-    ]
-  },
-  "103-N": {
-    "designation": "EPSON 103 BOUTEILLE D'ENCRE NOIR",
-    "origin": "revoke",
-    "added_at": "2026-09-28 13:59",
-    "candidates": [
-      {
-        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/48/675826/1.jpg?6253",
-        "page_url": "https://www.jumia.ma/encre-103-noir-bouteille-dencre-dorigine-epson-mpg1413999.html",
-        "title": "",
-        "provider": "revoque",
-        "score": 0,
-        "reasons": [
-          "retirée : controle visuel : incrustations publicitaires du vendeur (badge, tampon), pas une photo de produit isole"
         ]
       }
     ]
@@ -1188,23 +1064,6 @@
         "score": 0,
         "reasons": [
           "retirée : controle visuel : la photo montre le cachet complet, l'article est la recharge d'encre"
-        ]
-      }
-    ]
-  },
-  "M170": {
-    "designation": "SOURIS SANS FIL LOGITECH M170",
-    "origin": "revoke",
-    "added_at": "2026-09-28 14:14",
-    "candidates": [
-      {
-        "image_url": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/192676/1.jpg?4428",
-        "page_url": "https://www.jumia.ma/logitech-souris-sans-fil-m170-67629101.html",
-        "title": "",
-        "provider": "revoque",
-        "score": 0,
-        "reasons": [
-          "retirée : controle visuel : montage vendeur (produit + boite + logo ajoute)"
         ]
       }
     ]

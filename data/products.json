@@ -126,7 +126,7 @@
       "designation": "EPSON 103 BOUTEILLE D'ENCRE NOIR",
       "prix": 150.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/103-n.webp"
     },
     {
       "ref": "103-W",
@@ -994,14 +994,14 @@
       "designation": "CARTOUCHE HP 711 CZ130A BLEU",
       "prix": 450.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/711-b.webp"
     },
     {
       "ref": "711-J",
       "designation": "CARTOUCHE HP 711 CZ132A JAUNE",
       "prix": 480.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/711-j.webp"
     },
     {
       "ref": "711-N",
@@ -1015,7 +1015,7 @@
       "designation": "CARTOUCHE HP 711 CZ131A ROUGE",
       "prix": 450.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/711-r.webp"
     },
     {
       "ref": "7208H",
@@ -2878,28 +2878,28 @@
       "designation": "STYLO PILOT NOIR  BL-G2-7-8",
       "prix": 18.0,
       "stock": 114,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bl-g2-7-8.webp"
     },
     {
       "ref": "BL-G2-7-B",
       "designation": "STYLO PILOT BLEU BL-G2-7-B",
       "prix": 18.0,
       "stock": 66,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bl-g2-7-b.webp"
     },
     {
       "ref": "BL-G2-7-G",
       "designation": "STYLO PILOT VERT BL-G2-7-G",
       "prix": 18.0,
       "stock": 33,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bl-g2-7-g.webp"
     },
     {
       "ref": "BL-G2-7-R",
       "designation": "STYLO PILOT ROUGE BL-G2-7-R",
       "prix": 18.0,
       "stock": 30,
-      "image": "data/placeholders/fourniture.svg"
+      "image": "images/produits/bl-g2-7-r.webp"
     },
     {
       "ref": "BL-ML",
@@ -5224,7 +5224,7 @@
       "designation": "CARTOUCHE HP 21 NOIR",
       "prix": 230.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/chp-21.webp"
     },
     {
       "ref": "CHP22",
@@ -6030,7 +6030,7 @@
       "designation": "CARTOUCHE HP 57 C6657AE COULEUR",
       "prix": 850.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crh-057.webp"
     },
     {
       "ref": "CRH-122",
@@ -6128,7 +6128,7 @@
       "designation": "CARTOUCHE HP 45 51645AE NOIR",
       "prix": 400.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crt-045.webp"
     },
     {
       "ref": "CRT-0701",
@@ -9811,7 +9811,7 @@
       "designation": "TONER HP 124A BLEU",
       "prix": 300.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-124.webp"
     },
     {
       "ref": "HPB-125",
@@ -9846,7 +9846,7 @@
       "designation": "TONER HP 207A BLEU",
       "prix": 1080.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpb-207.webp"
     },
     {
       "ref": "HPB-26",
@@ -9937,7 +9937,7 @@
       "designation": "TONER HP 207A JAUNE",
       "prix": 1080.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpj-207.webp"
     },
     {
       "ref": "HPJ-305",
@@ -10007,7 +10007,7 @@
       "designation": "TONER HP 13A NOIR",
       "prix": 1250.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-13.webp"
     },
     {
       "ref": "HPN-131",
@@ -10035,7 +10035,7 @@
       "designation": "TONER HP 216A NOIR",
       "prix": 720.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hpn-216.webp"
     },
     {
       "ref": "HPN-305",
@@ -11421,7 +11421,7 @@
       "designation": "SOURIS SANS FIL LOGITECH M170",
       "prix": 150.0,
       "stock": 21,
-      "image": "data/placeholders/souris.svg"
+      "image": "images/produits/m170.webp"
     },
     {
       "ref": "M-170109",
