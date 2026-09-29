@@ -476,7 +476,7 @@
       "designation": "CHARGUR APPLE 20W USB-C",
       "prix": 70.0,
       "stock": 10,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/20w-usb-c.webp"
     },
     {
       "ref": "211020",
@@ -805,7 +805,7 @@
       "designation": "SYNOLOGY Disque 4TB SATA 3,5'' Série HAT5300 7.2k 36M",
       "prix": 2215.5,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/4tb-sata.webp"
     },
     {
       "ref": "4U-W-D-LINK",
@@ -6778,7 +6778,7 @@
       "designation": "CHARGEUR DELL TYPE-C ORIGINAL 65.0W",
       "prix": 400.0,
       "stock": 15,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/dell-65w.webp"
     },
     {
       "ref": "DELL7010",
@@ -9629,7 +9629,7 @@
       "designation": "HP LaserJet Pro Imprimante MFP 4102fdw",
       "prix": 4700.0,
       "stock": 1,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/hp-4102fdw.webp"
     },
     {
       "ref": "HP-460",
@@ -10686,7 +10686,7 @@
       "designation": "KASPERSKY PLUS 3 POSTES",
       "prix": 350.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/kas-3p.webp"
     },
     {
       "ref": "KAS-5P",
@@ -13227,7 +13227,7 @@
       "designation": "UGREEN 10350 CABLE IMPRIMANTE USB 1.5M NOIR",
       "prix": 40.0,
       "stock": 5,
-      "image": "data/placeholders/imprimante.svg"
+      "image": "images/produits/p-n10350.webp"
     },
     {
       "ref": "PN10919",
@@ -13724,7 +13724,7 @@
       "designation": "EATON PROTECTION STRIP 4 PS4F",
       "prix": 200.0,
       "stock": 2,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/ps4f.webp"
     },
     {
       "ref": "PS6F",
@@ -15014,7 +15014,7 @@
       "designation": "CHARGEUR SAMSUNG 45W TYPE C",
       "prix": 100.0,
       "stock": 10,
-      "image": "data/placeholders/chargeur.svg"
+      "image": "images/produits/sam-45w.webp"
     },
     {
       "ref": "SAM-A05-64G",
@@ -16639,7 +16639,7 @@
       "designation": "STATION LENOVO ThinkPad Hybrid USB-C with USB-A Dock",
       "prix": 300.0,
       "stock": 1,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/thinkpad.webp"
     },
     {
       "ref": "THINKPAD_T16",

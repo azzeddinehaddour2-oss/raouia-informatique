@@ -585,9 +585,12 @@
     "source_page": null
   },
   "4TB-SATA": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/4tb-sata.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/96/50/LD0005965022.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00498508.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "4U-W-D-LINK": {
     "image": "data/placeholders/divers.svg",
@@ -4949,9 +4952,12 @@
     "validated_at": "2026-09-28"
   },
   "DELL-65W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/dell-65w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/170611-large_default/adaptateur-dell-usb-c-65-w.jpg",
+    "source_page": "https://www.iris.ma/38674-adaptateur-dell-usb-c-65-w.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DELL-7620": {
     "image": "data/placeholders/ordinateur.svg",
@@ -6973,9 +6979,12 @@
     "source_page": null
   },
   "HP-4102FDW": {
-    "image": "data/placeholders/imprimante.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/hp-4102fdw.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/93331-large_default/hp-laserjet-pro-imprimante-mfp-4102fdw-noir-et-blanc-imprimante-pour-petites-moyennes-entreprises-impression-copie-scan.jpg",
+    "source_page": "https://www.iris.ma/20425-hp-laserjet-pro-imprimante-mfp-4102fdw-noir-et-blanc-imprimante-pour-petites-moyennes-entreprises-impression-copie-scan.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-460": {
     "image": "data/placeholders/ordinateur.svg",
@@ -7855,9 +7864,12 @@
     "source_page": null
   },
   "KAS-3P": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/kas-3p.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/114705-large_default/kaspersky-plus-3-postes-1-an-kl10428bcfs-slimmag.jpg",
+    "source_page": "https://www.iris.ma/24159-kaspersky-plus-3-postes-1-an-kl10428bcfs-slimmag.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "KAS-5P": {
     "image": "data/placeholders/divers.svg",
@@ -9314,9 +9326,12 @@
     "source_page": null
   },
   "P-N10350": {
-    "image": "data/placeholders/imprimante.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/p-n10350.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/70339-large_default/cable-ugreen-imprimante-a-male-vers-usb-b-male-15m-10350.jpg",
+    "source_page": "https://www.iris.ma/16193-cable-ugreen-imprimante-a-male-vers-usb-b-male-15m-10350.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "P-PLA3": {
     "image": "data/placeholders/divers.svg",
@@ -10102,9 +10117,12 @@
     "source_page": null
   },
   "PS4F": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ps4f.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/4/5/4/P_79445434_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/eaton-ps4f-multiprise-parafoudre-4-prises-parasurtenseur-2500-w-79445434.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PS6F": {
     "image": "data/placeholders/divers.svg",
@@ -12192,9 +12210,12 @@
     "source_page": null
   },
   "THINKPAD": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/thinkpad.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/47505-large_default/lenovo-thinkpad-hybrid-usb-c-avec-station-daccueil-usb-a-40af0135eu.jpg",
+    "source_page": "https://www.iris.ma/11760-lenovo-thinkpad-hybrid-usb-c-avec-station-daccueil-usb-a-40af0135eu.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "THINKPAD-L14": {
     "image": "data/placeholders/ordinateur.svg",
@@ -13629,9 +13650,12 @@
     "source": "placeholder"
   },
   "20W-USB-C": {
-    "image": "data/placeholders/divers.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/20w-usb-c.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/3/0/0/0/4/9/P_300049316_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/apple-chargeur-rapide-20w-usb-c-blanc-300049316.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "25W-QC3.0": {
     "image": "data/placeholders/chargeur.svg",
@@ -13914,9 +13938,12 @@
     "source": "placeholder"
   },
   "SAM-45W": {
-    "image": "data/placeholders/chargeur.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/sam-45w.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/72430-large_default/chargeur-samsung-ultra-rapide-45w-usb-c-avec-cable-ep-t4510xbegww.jpg",
+    "source_page": "https://www.iris.ma/16540-chargeur-samsung-ultra-rapide-45w-usb-c-avec-cable-ep-t4510xbegww.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "T14S-I7-512": {
     "image": "data/placeholders/ordinateur.svg",

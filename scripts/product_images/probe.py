@@ -43,9 +43,23 @@ def read_page(url: str):
     urls = [urljoin(r.url, _html.unescape(c.group(1))) for t in _META_IMAGE.findall(text)
             if (c := _CONTENT.search(t))]
     urls += [_html.unescape(u) for u in _LD_IMAGE.findall(text)]
+    if not urls:
+        # Boutiques sans og:image : on ne garde que les images dont le nom
+        # de fichier reprend le nom du produit de la page (les pages listent
+        # aussi des produits « similaires » qu'il ne faut surtout pas prendre).
+        slug_words = set(re.findall(r"[a-z0-9]{3,}", (urlparse(r.url).path.rsplit("/", 1)[-1] + " " + title).lower()))
+        for src in re.findall(r'(?:data-src|data-large_image|data-zoom-image|src|href)=["\']([^"\']+\.(?:jpe?g|png|webp))["\']', text, re.I):
+            name_words = set(re.findall(r"[a-z0-9]{3,}", urlparse(src).path.lower()))
+            if len(name_words & slug_words) >= 3:
+                src = re.sub(r"-(?:medium|home|small|cart|listing|thumb)_default", "-large_default", src)
+                src = re.sub(r"-\d{2,4}x\d{2,4}(\.\w+)$", r"\1", src)   # WooCommerce : taille d'origine
+                urls.append(urljoin(r.url, _html.unescape(src)))
     out = []
     for u in urls:
-        if u not in out and not _NOT_PRODUCT_IMAGE.search(urlparse(u).path):
+        # "large_default" (PrestaShop) est une vraie photo produit : seul le
+        # mot "default" isolé (image par défaut) est exclu.
+        path = re.sub(r"(large|medium|home|thickbox|cart|small)_default", "", urlparse(u).path, flags=re.I)
+        if u not in out and not _NOT_PRODUCT_IMAGE.search(path):
             out.append(u)
     return _html.unescape(re.sub(r"\s+", " ", title)).strip(), out[:3], r.url
 

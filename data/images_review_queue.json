@@ -84,24 +84,6 @@
       }
     ]
   },
-  "4TB-SATA": {
-    "designation": "SYNOLOGY Disque 4TB SATA 3,5'' Série HAT5300 7.2k 36M",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://m.media-amazon.com/images/I/71Dlzd5MWGL._AC_SL1500_.jpg",
-        "page_url": "https://www.amazon.fr/Synology-HAT5300-4T-256Mo-Cache-7200T/dp/B09YDG79JR",
-        "title": "",
-        "provider": "existant",
-        "score": 60.0,
-        "reasons": [
-          "modèle 'HAT5300' confirmé",
-          "fond non blanc/propre (bordure blanche 18%, 0/4 coins blancs)"
-        ]
-      }
-    ]
-  },
   "AES256": {
     "designation": "TRANSCEND ESD270C PORT ABLE SSD 1TB AES256",
     "origin": "localize",
@@ -202,23 +184,6 @@
         "score": 0,
         "reasons": [
           "modèle principal '12B' absent de la source"
-        ]
-      }
-    ]
-  },
-  "HP-4102FDW": {
-    "designation": "HP LaserJet Pro Imprimante MFP 4102fdw",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://hp.widen.net/content/8prnayppvh/png/8prnayppvh.png",
-        "page_url": "https://support.hp.com/us-en/product/details/hp-laserjet-pro-mfp-4101-4104dw-fdn-fdw-printer-series/model/38347991",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "modèle principal '4102FDW' absent de la source"
         ]
       }
     ]
