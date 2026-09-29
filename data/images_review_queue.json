@@ -206,24 +206,6 @@
       }
     ]
   },
-  "HDWT84": {
-    "designation": "TOSHIBA DISQUE DUR HDD 3.5 S300 4 TO",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:42",
-    "candidates": [
-      {
-        "image_url": "https://storage.toshiba.com/images/chddcore/2025_virtuallabel_front_s300.png",
-        "page_url": "https://storage.toshiba.com/consumer-hdd/internal/s300",
-        "title": "",
-        "provider": "existant",
-        "score": 80.0,
-        "reasons": [
-          "modèle 'S300' confirmé",
-          "capacité non confirmée par la source"
-        ]
-      }
-    ]
-  },
   "HP-4102FDW": {
     "designation": "HP LaserJet Pro Imprimante MFP 4102fdw",
     "origin": "localize",
@@ -474,23 +456,6 @@
       {
         "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/adapters/dell-130w-usb-c-adapter/media-gallery/adapter-dell-130w-usbc-bk-gallery-1.psd?fmt=png-alpha&wid=1200&hei=630",
         "page_url": "https://www.dell.com/en-us/shop/dell-130w-usb-c-ac-adapter/apd/450-bfrw/pc-accessories",
-        "title": "",
-        "provider": "existant",
-        "score": 0,
-        "reasons": [
-          "aucun numéro de modèle identifiable dans la désignation"
-        ]
-      }
-    ]
-  },
-  "TL-WPA4220": {
-    "designation": "TP-LINK TL-WPA4220CPL AV600 POWERLINE WIFI",
-    "origin": "localize",
-    "added_at": "2026-09-28 12:43",
-    "candidates": [
-      {
-        "image_url": "https://static.tp-link.com/TL-WPA4220_US_5.0_01_large_1600425370657d.jpg",
-        "page_url": "https://www.tp-link.com/us/home-networking/powerline/tl-wpa4220/",
         "title": "",
         "provider": "existant",
         "score": 0,

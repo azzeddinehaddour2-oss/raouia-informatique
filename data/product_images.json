@@ -81,9 +81,12 @@
     "source_page": null
   },
   "103-M": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/103-m.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/6/6/7/3/5/7/P_667357_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/epson-ecotank-103-magenta-reservoir-d-encre-original-667357.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "103-N": {
     "image": "images/produits/103-n.webp",
@@ -701,24 +704,36 @@
     "source_page": null
   },
   "664-C": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/664-c.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/0/9/0/P_79409091_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bouteille-ep-ecotank-t6642-c-70ml-79409091.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "664-M": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/664-m.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/0/9/0/P_79409092_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bouteille-ep-ecotank-t6643-m-70ml-79409092.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "664-N": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/664-n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/0/9/0/P_79409090_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bouteille-ep-ecotank-t6641-bk-70ml-79409090.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "664-Y": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/664-y.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/4/0/9/0/P_79409093_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/bouteille-ep-ecotank-t6644-y-70ml-79409093.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "6U-W-D-LINK": {
     "image": "data/placeholders/divers.svg",
@@ -869,9 +884,12 @@
     "validated_at": "2026-09-29"
   },
   "933XL": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/933xl.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/6/8/9/P_79368930_13.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-933xl-m-825p-79368930.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "970-N": {
     "image": "data/placeholders/toner.svg",
@@ -3165,9 +3183,12 @@
     "source_page": null
   },
   "CC-445": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/cc-445.webp",
+    "source": "local",
+    "origin_url": "http://www.logically.ma/cdn/shop/files/cartouche-d-encre-d-origine-canon-pg-445-noir_1.jpg?v=1743617922",
+    "source_page": "https://www.logically.ma/products/canon-pg-445-noir-cartouche-dencre-canon-dorigine-8283b001aa",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CC-B": {
     "image": "data/placeholders/papier.svg",
@@ -4374,9 +4395,12 @@
     "source_page": null
   },
   "CRH-78": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crh-78.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/0/5/6/5/7/8/P_56578_13.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-78-cmy-19ml-56578.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CRI-002": {
     "image": "data/placeholders/reseau.svg",
@@ -4445,9 +4469,12 @@
     "source_page": null
   },
   "CRT-27": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/crt-27.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/1/6/6/7/0/0/P_166700_14.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-27-bk-10ml-51863.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "CRT-338": {
     "image": "images/produits/crt-338.webp",
@@ -6335,9 +6362,12 @@
     "source_page": null
   },
   "GI-490C": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/gi-490c.webp",
+    "source": "local",
+    "origin_url": "https://www.imprimantes.fr/images/GI-490C.jpg",
+    "source_page": "https://www.imprimantes.fr/gi-490c-p-11803.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "GI-490CW": {
     "image": "data/placeholders/toner.svg",
@@ -6360,9 +6390,12 @@
     "source_page": null
   },
   "GI-490Y": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/gi-490y.webp",
+    "source": "local",
+    "origin_url": "https://www.imprimantes.fr/images/GI-490Y.jpg",
+    "source_page": "https://www.imprimantes.fr/gi-490y-p-11801.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "GI-490YW": {
     "image": "data/placeholders/toner.svg",
@@ -6654,9 +6687,12 @@
     "source_page": null
   },
   "HDTB510MK3A": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hdtb510mk3a.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/4/0/5/1/5/4/P_405154294_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/toshiba-canvio-basics-disque-dur-externe-1-to-usb-3-2-gen-1-usb-2-0-noir-mat-405154294.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HDTV-1.5": {
     "image": "data/placeholders/cable.svg",
@@ -6671,9 +6707,12 @@
     "source_page": null
   },
   "HDWT84": {
-    "image": "data/placeholders/stockage.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/hdwt84.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/58/05/LD0005580575_2_0005727385_0005848621.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00442099.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HE20HF": {
     "image": "data/placeholders/cable.svg",
@@ -7005,14 +7044,20 @@
     "source_page": null
   },
   "HP-82-N": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-82-n.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/4/6/8/P_79346828_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-82-bk-69ml-79346828.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-82-R": {
-    "image": "data/placeholders/toner.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/hp-82-r.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/4/6/8/P_79346827_3.jpg",
+    "source_page": "https://www.bureau-vallee.fr/cart-hp-82-m-69ml-58411.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "HP-8G": {
     "image": "data/placeholders/ordinateur.svg",
@@ -12259,9 +12304,12 @@
     "validated_at": "2026-09-28"
   },
   "TL-WPA4220": {
-    "image": "data/placeholders/reseau.svg",
-    "source_page": null,
-    "source": "placeholder"
+    "image": "images/produits/tl-wpa4220.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/7/9/3/9/9/9/P_79399928_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/tp-link-extenseur-cpl-av500-wifi-n-300-87000.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "TLSG1024D": {
     "image": "images/produits/tlsg1024d.webp",
@@ -12686,9 +12734,12 @@
     "source_page": null
   },
   "UHU-80": {
-    "image": "data/placeholders/divers.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/uhu-80.webp",
+    "source": "local",
+    "origin_url": "https://dxbyzx5id4chj.cloudfront.net/fit-in/1000x1000/filters:fill(fff)/pub/media/catalog/product/9/9/9/9/9/6/P_99999658_1.jpg",
+    "source_page": "https://www.bureau-vallee.fr/pate-adhesive-patafix-jaune-uhu-76332.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "UN-009": {
     "image": "data/placeholders/divers.svg",

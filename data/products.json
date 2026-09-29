@@ -119,7 +119,7 @@
       "designation": "EPSON 103 BOUTEILLE D'ENCRE MAGENTA",
       "prix": 150.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/103-m.webp"
     },
     {
       "ref": "103-N",
@@ -959,28 +959,28 @@
       "designation": "BOUTEILLE D'ENCRE EPSON  ECOTANK T6642  CYAN",
       "prix": 150.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/664-c.webp"
     },
     {
       "ref": "664-M",
       "designation": "BOUTEILLE D'ENCRE EPSON  ECOTANK T6643  MAGENTA",
       "prix": 150.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/664-m.webp"
     },
     {
       "ref": "664-N",
       "designation": "BOUTEILLE D'ENCRE EPSON  ECOTANK T6641 NOIR",
       "prix": 150.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/664-n.webp"
     },
     {
       "ref": "664-Y",
       "designation": "BOUTEILLE D'ENCRE EPSON  ECOTANK T6644 YELLOW",
       "prix": 150.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/664-y.webp"
     },
     {
       "ref": "6U-W-D-LINK",
@@ -1169,7 +1169,7 @@
       "designation": "CARTOUCHE HP 933 XL ROUGE",
       "prix": 350.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/933xl.webp"
     },
     {
       "ref": "970-N",
@@ -4361,7 +4361,7 @@
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
       "stock": 7,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/cc-445.webp"
     },
     {
       "ref": "CC-B",
@@ -6044,7 +6044,7 @@
       "designation": "CARTOUCHE HP 78 C6578D COULEUR",
       "prix": 950.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crh-78.webp"
     },
     {
       "ref": "CRI-002",
@@ -6149,7 +6149,7 @@
       "designation": "CARTOUCHE HP 27 C8727AE NOIR",
       "prix": 600.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/crt-27.webp"
     },
     {
       "ref": "CRT-338",
@@ -8753,7 +8753,7 @@
       "designation": "CANON BOUTEILLE D'ENCRE GI-490C BLEU 70ML",
       "prix": 162.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/gi-490c.webp"
     },
     {
       "ref": "GI-490CW",
@@ -8788,7 +8788,7 @@
       "designation": "CANON BOUTEILLE D'ENCRE GI-490Y JAUNE",
       "prix": 162.0,
       "stock": 2,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/gi-490y.webp"
     },
     {
       "ref": "GI-490YW",
@@ -9229,7 +9229,7 @@
       "designation": "Toshiba Canvio Basics 1 TB USB Type-B 3.2 Gen 1 (3.1 Gen 1) Black",
       "prix": 1300.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/hdtb510mk3a.webp"
     },
     {
       "ref": "HDTV-1.5",
@@ -9251,7 +9251,7 @@
       "designation": "TOSHIBA DISQUE DUR HDD 3.5 S300 4 TO",
       "prix": 1800.0,
       "stock": 2,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/hdwt84.webp"
     },
     {
       "ref": "HE20HF",
@@ -9762,14 +9762,14 @@
       "designation": "CARTOUCHE HP 82 CH565A NOIR",
       "prix": 700.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-82-n.webp"
     },
     {
       "ref": "HP-82-R",
       "designation": "CARTOUCHE HP 82 C4912A ROUGE",
       "prix": 700.0,
       "stock": 1,
-      "image": "data/placeholders/toner.svg"
+      "image": "images/produits/hp-82-r.webp"
     },
     {
       "ref": "HP840G6",
@@ -16786,7 +16786,7 @@
       "designation": "TP-LINK TL-WPA4220CPL AV600 POWERLINE WIFI",
       "prix": 560.0,
       "stock": 2,
-      "image": "data/placeholders/reseau.svg"
+      "image": "images/produits/tl-wpa4220.webp"
     },
     {
       "ref": "TM",
@@ -17388,7 +17388,7 @@
       "designation": "PATAFIX UHU 80",
       "prix": 20.0,
       "stock": 1,
-      "image": "data/placeholders/divers.svg"
+      "image": "images/produits/uhu-80.webp"
     },
     {
       "ref": "UN-009",
