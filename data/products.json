@@ -1596,7 +1596,7 @@
       "designation": "PC PORTABLE ACER ASPIRE 5 i5 11GEN 8RAM/512SSD 11PRO A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ac-11gen.webp"
     },
     {
       "ref": "AC1200-C54",
@@ -2254,7 +2254,7 @@
       "designation": "ASUS Vivobook 13th i3-1315U Gen 8 Go Ram 512 SSD NVME WIN 11",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/stockage.svg"
+      "image": "images/produits/asus-vivo.webp"
     },
     {
       "ref": "ASV19",
@@ -6561,7 +6561,7 @@
       "designation": "PC PORTABLE DELL LATITUDE 7430 I5-12TH GEN 32 RAM 512 SSD",
       "prix": 4800.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/d7430.webp"
     },
     {
       "ref": "D900",
@@ -6722,7 +6722,7 @@
       "designation": "DELL PRECISION 5560 I7-11Th Gen -15.6\"- 4K ULTRASharp Tactile 4K I7",
       "prix": 12500.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/del-5560-i7.webp"
     },
     {
       "ref": "DEL-5820",
@@ -13584,7 +13584,7 @@
       "designation": "PC PORTABLE ACER ASPIRE 5 I5-11GEN 8RAM/512SSD A+",
       "prix": 0.0,
       "stock": 0,
-      "image": "data/placeholders/ordinateur.svg"
+      "image": "images/produits/ppr-030.webp"
     },
     {
       "ref": "PPR-031",

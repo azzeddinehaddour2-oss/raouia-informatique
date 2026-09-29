@@ -1189,9 +1189,12 @@
     "source_page": null
   },
   "AC-11GEN": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ac-11gen.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/79/30/LD0005793027_1_0005798635_0005835028_0005872372.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456651.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "AC-70W": {
     "image": "data/placeholders/chargeur.svg",
@@ -1646,9 +1649,12 @@
     "source_page": null
   },
   "ASUS-VIVO": {
-    "image": "data/placeholders/stockage.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/asus-vivo.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/06/24/36/LD0006243694_0006256692.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00691395.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "ASV19": {
     "image": "data/placeholders/chargeur.svg",
@@ -4810,9 +4816,12 @@
     "validated_at": "2026-09-28"
   },
   "D7430": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/d7430.webp",
+    "source": "local",
+    "origin_url": "https://www.iris.ma/74042-large_default/dell-latitude-7430-ordinateur-portable-35-6-cm-14-full-hd-intel-core-i5-i5-1245u-16-go-ddr4-sdram-512-go-ssd-wi-fi-6e.jpg",
+    "source_page": "https://www.iris.ma/16774-dell-latitude-7430-ordinateur-portable-35-6-cm-14-full-hd-intel-core-i5-i5-1245u-16-go-ddr4-sdram-512-go-ssd-wi-fi-6e.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "D900": {
     "image": "data/placeholders/divers.svg",
@@ -4918,9 +4927,12 @@
     "validated_at": "2026-09-29"
   },
   "DEL-5560-I7": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/del-5560-i7.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/91/30/LD0005913003_1.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00474611.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "DEL-5820": {
     "image": "data/placeholders/ordinateur.svg",
@@ -10085,9 +10097,12 @@
     "validated_at": "2026-09-29"
   },
   "PPR-030": {
-    "image": "data/placeholders/ordinateur.svg",
-    "source": "placeholder",
-    "source_page": null
+    "image": "images/produits/ppr-030.webp",
+    "source": "local",
+    "origin_url": "https://media.ldlc.com/r1600/ld/products/00/05/79/30/LD0005793027_1_0005798635_0005835028_0005872372.jpg",
+    "source_page": "https://www.ldlc.com/en/product/PB00456651.html",
+    "validated": "manuel-visuel",
+    "validated_at": "2026-09-29"
   },
   "PPR-031": {
     "image": "images/produits/ppr-031.webp",
