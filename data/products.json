@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T07:00:02",
-  "count": 2660,
+  "generated_at": "2026-10-03T07:00:02",
+  "count": 2663,
   "products": [
     {
       "ref": "000001",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 6
+      "stock": 0
     },
     {
       "ref": "121212",
@@ -1478,6 +1478,12 @@
       "stock": 0
     },
     {
+      "ref": "ACOMPTE",
+      "designation": "Acompte",
+      "prix": 0.0,
+      "stock": 0
+    },
+    {
       "ref": "ACS-03",
       "designation": "AGRAFEUSE COMIX STAPLER 24-6.26-6 /B3083",
       "prix": 70.0,
@@ -1775,7 +1781,7 @@
       "ref": "AIN001",
       "designation": "CD-R ANGTE 50 700MB + POSHETTE",
       "prix": 6.0,
-      "stock": 34
+      "stock": 33
     },
     {
       "ref": "AIO-I7",
@@ -2398,7 +2404,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1033,
+      "stock": 1031,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2469,7 +2475,7 @@
       "ref": "BL-001",
       "designation": "BON DE LIVRAISON",
       "prix": 15.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "BL0022",
@@ -2599,7 +2605,7 @@
       "ref": "BL-WN300AX",
       "designation": "LB-LINK AX300 WIFI 6 HIGH GAIN USB ADAPTER BL-WN300AX",
       "prix": 100.0,
-      "stock": 9,
+      "stock": 8,
       "image": "images/produits/bl-wn300ax.webp"
     },
     {
@@ -2792,7 +2798,7 @@
       "ref": "BR-AC-024-025",
       "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
       "prix": 50.0,
-      "stock": 24
+      "stock": 23
     },
     {
       "ref": "BRC02",
@@ -3802,7 +3808,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 67
+      "stock": 60
     },
     {
       "ref": "CC-2008",
@@ -3983,7 +3989,7 @@
       "ref": "CD-700MB",
       "designation": "CD-R ANGTE 50 700MB 80MIN",
       "prix": 5.0,
-      "stock": 172
+      "stock": 171
     },
     {
       "ref": "CD90W",
@@ -4025,13 +4031,13 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 140
+      "stock": 120
     },
     {
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 144
+      "stock": 54
     },
     {
       "ref": "CE037",
@@ -4061,7 +4067,7 @@
       "ref": "CE054",
       "designation": "SUCRE JAUNE",
       "prix": 7.8,
-      "stock": 5
+      "stock": 0
     },
     {
       "ref": "CE057",
@@ -4324,7 +4330,7 @@
       "ref": "CF531ADMT",
       "designation": "TONER 205A CF531A BLEU DIAMANT",
       "prix": 200.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CF532A",
@@ -4427,7 +4433,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 109
+      "stock": 107
     },
     {
       "ref": "CH200W",
@@ -4809,7 +4815,7 @@
       "ref": "CL_A5",
       "designation": "CLASSEUR SICLA NOIR A5 195.280.80",
       "prix": 20.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "CL-006",
@@ -5014,7 +5020,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 96
+      "stock": 91
     },
     {
       "ref": "COP-SA4",
@@ -5270,7 +5276,7 @@
       "ref": "CRBC-0024",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU CIEL",
       "prix": 10.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "CRCN-510",
@@ -5314,7 +5320,7 @@
       "ref": "CRJ-0019",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA JAUNE",
       "prix": 10.0,
-      "stock": 20
+      "stock": 18
     },
     {
       "ref": "CRJ45",
@@ -5332,7 +5338,7 @@
       "ref": "CRO-0022",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ORANGE",
       "prix": 10.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "CR-OR",
@@ -5356,7 +5362,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "CRR-655",
@@ -5458,7 +5464,7 @@
       "ref": "CRV-0023",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA VERT",
       "prix": 10.0,
-      "stock": 5
+      "stock": 2
     },
     {
       "ref": "CS-043",
@@ -7017,7 +7023,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 866
+      "stock": 861
     },
     {
       "ref": "ENV-A5P",
@@ -7191,7 +7197,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1164
+      "stock": 1162
     },
     {
       "ref": "EV33",
@@ -7818,6 +7824,12 @@
       "stock": 0
     },
     {
+      "ref": "GS-405A",
+      "designation": "Tiroir Caisse ouverture horizontale automatique GS-405A",
+      "prix": 700.0,
+      "stock": 0
+    },
+    {
       "ref": "GT-015",
       "designation": "GAS TORCH 8815B GT-015",
       "prix": 200.0,
@@ -8273,7 +8285,7 @@
       "ref": "HL-06",
       "designation": "SUPIRT TELE HL-06 /05",
       "prix": 60.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "HL8206",
@@ -8326,7 +8338,7 @@
       "ref": "HP-145N",
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
-      "stock": 1,
+      "stock": 11,
       "image": "images/produits/hp-145n.webp"
     },
     {
@@ -9134,7 +9146,7 @@
       "ref": "INT-S12",
       "designation": "INTERCLAIRES CARTONE SICLA (1-12)",
       "prix": 30.0,
-      "stock": 73
+      "stock": 72
     },
     {
       "ref": "IP-004",
@@ -9188,7 +9200,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 16
+      "stock": 14
     },
     {
       "ref": "IP-C510",
@@ -9589,7 +9601,7 @@
       "ref": "KO-AAAX4",
       "designation": "PILLE KODAK XTRALIFE ALKALINE AAAx4",
       "prix": 5.0,
-      "stock": 5
+      "stock": 41
     },
     {
       "ref": "KONICA-458",
@@ -10290,7 +10302,7 @@
       "ref": "MEF21",
       "designation": "MENU FT 21*27 CM R/V SUR PAPIER 300 GRS",
       "prix": 50.0,
-      "stock": -30
+      "stock": 10
     },
     {
       "ref": "MEMORY-256G",
@@ -10701,7 +10713,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 53,
+      "stock": 43,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -10860,7 +10872,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 18
+      "stock": 38
     },
     {
       "ref": "NWC-CF226A",
@@ -10884,7 +10896,7 @@
       "ref": "NWC-W1360A",
       "designation": "TONER NWC HP  W1360A AVEC PUCE",
       "prix": 330.0,
-      "stock": 1
+      "stock": 4
     },
     {
       "ref": "NYL-66",
@@ -10920,7 +10932,7 @@
       "ref": "OF2019",
       "designation": "Microsoft Office 2019 Professional Plus",
       "prix": 1300.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "OF2021",
@@ -12161,7 +12173,7 @@
       "ref": "PTB-031",
       "designation": "PERFOREUSE 2 TROUS BOSTON 10 FEUILLES B301",
       "prix": 30.0,
-      "stock": 21
+      "stock": 20
     },
     {
       "ref": "PTM-0027",
@@ -12403,7 +12415,7 @@
       "ref": "R2MM",
       "designation": "REGISTRE NOIR 2 MM",
       "prix": 25.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "R30CM",
@@ -12753,7 +12765,7 @@
       "ref": "RIC-201",
       "designation": "TONER RICHOH 1270D MP201",
       "prix": 200.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "RJ-002",
@@ -12839,7 +12851,7 @@
       "ref": "RN5-0036",
       "designation": "REGISTRE NOIR 5 MAIN",
       "prix": 50.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "RN5B-0038",
@@ -13137,7 +13149,7 @@
       "ref": "S621J",
       "designation": "FLUORESCENT  DELI ACCENT JAUNE RF S621",
       "prix": 10.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "S621O",
@@ -13332,7 +13344,7 @@
       "ref": "SAV-5L",
       "designation": "SAVON LIQUIDE COCO 5L",
       "prix": 45.0,
-      "stock": 5
+      "stock": 0
     },
     {
       "ref": "SAV-D5L",
@@ -13350,7 +13362,7 @@
       "ref": "SAV-FC5L",
       "designation": "SAVON LIQUIDE FLEUR ORANGE CREME 5 L",
       "prix": 60.0,
-      "stock": 2
+      "stock": -3
     },
     {
       "ref": "SB-002",
@@ -13487,7 +13499,7 @@
       "ref": "SD108P",
       "designation": "MACHINE DESTRUCTEUR SD108P",
       "prix": 800.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "S-DELL",
@@ -13648,7 +13660,7 @@
       "ref": "SICLA-R",
       "designation": "CLASSEUR  SICLA ROUGE",
       "prix": 28.0,
-      "stock": 18
+      "stock": 15
     },
     {
       "ref": "SICLA-V",
@@ -13684,7 +13696,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 501
+      "stock": 378
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13930,6 +13942,12 @@
       "ref": "SPM0419",
       "designation": "CUTTER SILVER SPM0419",
       "prix": 6.0,
+      "stock": 0
+    },
+    {
+      "ref": "SPM0544",
+      "designation": "PISTOLET ETIQUETEUR DE PRIX",
+      "prix": 750.0,
       "stock": 0
     },
     {
@@ -15884,7 +15902,7 @@
       "ref": "W2410A",
       "designation": "TONER 216A NOIR WORD W2410A",
       "prix": 300.0,
-      "stock": 2
+      "stock": 5
     },
     {
       "ref": "W2410A_CARR",
@@ -15968,7 +15986,7 @@
       "ref": "W-CE505",
       "designation": "TONER WORLD CE505A CF280A NOIR",
       "prix": 220.0,
-      "stock": 6
+      "stock": 16
     },
     {
       "ref": "W-CF212",
@@ -16040,13 +16058,13 @@
       "ref": "W-CF532",
       "designation": "TONER WORLD CF532A JAUNE",
       "prix": 250.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "W-CF533",
       "designation": "TONER WORLD CF533A ROUGE",
       "prix": 250.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "W-D101",
