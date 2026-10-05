@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:00:02",
+  "generated_at": "2026-10-05T07:00:02",
   "count": 2663,
   "products": [
     {
@@ -3808,7 +3808,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 60
+      "stock": 59
     },
     {
       "ref": "CC-2008",
@@ -5020,7 +5020,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 91
+      "stock": 88
     },
     {
       "ref": "COP-SA4",
@@ -5276,7 +5276,7 @@
       "ref": "CRBC-0024",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU CIEL",
       "prix": 10.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "CRCN-510",
@@ -12959,7 +12959,7 @@
       "ref": "S.770B",
       "designation": "STYLO SMART 0.7MM 770 BLEU",
       "prix": 2.0,
-      "stock": 887
+      "stock": 886
     },
     {
       "ref": "S0050",
@@ -14057,7 +14057,7 @@
       "ref": "ST-B",
       "designation": "Stylo à bille classique bleu sur fond noir",
       "prix": 10.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "S-THE",
