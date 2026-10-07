@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T07:00:02",
-  "count": 2663,
+  "generated_at": "2026-10-07T07:00:02",
+  "count": 2665,
   "products": [
     {
       "ref": "000001",
@@ -649,6 +649,12 @@
       "designation": "DS 3DSS.LL.XL AC ADAPTER",
       "prix": 50.0,
       "stock": 4
+    },
+    {
+      "ref": "3P",
+      "designation": "Onduleur Off-line Eaton 3P Ellipse 3P700F – 420 W / 700 VA – 4 prises",
+      "prix": 1195.0,
+      "stock": 0
     },
     {
       "ref": "3P700F",
@@ -1380,7 +1386,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": 12
+      "stock": 10
     },
     {
       "ref": "AB-68",
@@ -1463,7 +1469,7 @@
       "ref": "ACE-10L",
       "designation": "EAU JAVEL ACE 10L",
       "prix": 75.0,
-      "stock": 11
+      "stock": 6
     },
     {
       "ref": "ACE-2.5L",
@@ -2271,7 +2277,7 @@
       "ref": "BAN-LAV",
       "designation": "BANO MATIC Lavande Sac 9 kg",
       "prix": 110.0,
-      "stock": 30
+      "stock": 25
     },
     {
       "ref": "BAN-OC",
@@ -2313,7 +2319,7 @@
       "ref": "BC-2EXP",
       "designation": "BON DE COMMANDE 2 EXP",
       "prix": 18.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "BC-5671",
@@ -2404,7 +2410,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1031,
+      "stock": 1026,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2437,14 +2443,14 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 210,
+      "stock": 209,
       "image": "images/produits/bic-n.webp"
     },
     {
       "ref": "BIC-R",
       "designation": "STYLO BIC ROUGE",
       "prix": 1.5,
-      "stock": 620
+      "stock": 619
     },
     {
       "ref": "BIC-RV",
@@ -2569,7 +2575,7 @@
       "ref": "BLOC-13.5X21",
       "designation": "BLOC NOTE A5 13.5X21 5/5 200P 60G",
       "prix": 18.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "BLOC-2025",
@@ -2996,7 +3002,7 @@
       "ref": "C12V",
       "designation": "CHARGEUR CAMERA 12.0V3 1.5A",
       "prix": 50.0,
-      "stock": 34
+      "stock": 32
     },
     {
       "ref": "C12V2",
@@ -3068,7 +3074,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 50
+      "stock": 49
     },
     {
       "ref": "C200041380",
@@ -3218,7 +3224,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 20
+      "stock": -5
     },
     {
       "ref": "C4313",
@@ -3382,7 +3388,7 @@
       "ref": "CAN-446",
       "designation": "CARTOUCHE CANON CL446 COULEUR",
       "prix": 230.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "CAN-46",
@@ -3400,7 +3406,7 @@
       "ref": "CAPB",
       "designation": "CABLE ALIMENTATION  PC BUREAU 1,5M",
       "prix": 30.0,
-      "stock": 108
+      "stock": 107
     },
     {
       "ref": "CAR_Q2612A",
@@ -3748,7 +3754,7 @@
       "ref": "CB-240G",
       "designation": "CHEMISE CARTONNE CHRONO BLEU 240GR",
       "prix": 95.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CB-439",
@@ -3808,7 +3814,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 59
+      "stock": 55
     },
     {
       "ref": "CC-2008",
@@ -3820,7 +3826,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 7,
+      "stock": 6,
       "image": "images/produits/cc-445.webp"
     },
     {
@@ -4031,7 +4037,7 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 120
+      "stock": 100
     },
     {
       "ref": "CE034",
@@ -4062,6 +4068,12 @@
       "designation": "SAVON VAISSELLE",
       "prix": 22.0,
       "stock": 5
+    },
+    {
+      "ref": "CE050",
+      "designation": "serveittes cuisne 12 P",
+      "prix": 60.0,
+      "stock": 0
     },
     {
       "ref": "CE054",
@@ -4103,7 +4115,7 @@
       "ref": "CEC002",
       "designation": "Agrafes Maped  Réf  324405 1 paquet",
       "prix": 6.5,
-      "stock": 36
+      "stock": 16
     },
     {
       "ref": "CEC004",
@@ -4433,7 +4445,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 107
+      "stock": 106
     },
     {
       "ref": "CH200W",
@@ -4581,7 +4593,7 @@
       "ref": "CHP23",
       "designation": "CHEMISE A RABAT PLASTIQUE NOIR",
       "prix": 10.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "CHP-9020",
@@ -5020,7 +5032,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 88
+      "stock": 86
     },
     {
       "ref": "COP-SA4",
@@ -5362,7 +5374,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "CRR-655",
@@ -6651,7 +6663,7 @@
       "ref": "E-5557R",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON ROUGE 5557R",
       "prix": 6.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "E-5557T",
@@ -6831,7 +6843,7 @@
       "ref": "EF-002",
       "designation": "ECOUTEUR FRECH",
       "prix": 40.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "EH303",
@@ -7005,7 +7017,7 @@
       "ref": "ENV-A4+",
       "designation": "ENVELOPPES  KRAFT A4+  260*360 GAZELLE",
       "prix": 3.0,
-      "stock": 544
+      "stock": 543
     },
     {
       "ref": "ENV-A4+GAZ",
@@ -7023,7 +7035,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 861
+      "stock": 859
     },
     {
       "ref": "ENV-A5P",
@@ -7077,7 +7089,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 584
+      "stock": 578
     },
     {
       "ref": "ENVT-0028",
@@ -7131,7 +7143,7 @@
       "ref": "ESS-02",
       "designation": "PAPIER ESSUIE MAIN 1K",
       "prix": 45.0,
-      "stock": 60
+      "stock": 42
     },
     {
       "ref": "ESSI-300",
@@ -7197,7 +7209,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1162
+      "stock": 1157
     },
     {
       "ref": "EV33",
@@ -7595,7 +7607,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 886
+      "stock": 884
     },
     {
       "ref": "G-CF279",
@@ -7680,7 +7692,7 @@
       "ref": "GI-490C",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490C BLEU 70ML",
       "prix": 162.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/gi-490c.webp"
     },
     {
@@ -7693,7 +7705,7 @@
       "ref": "GI-490M",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490M ROUGE",
       "prix": 162.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "GI-490MW",
@@ -7705,13 +7717,13 @@
       "ref": "GI-490N",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490N NOIR 135",
       "prix": 162.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "GI-490Y",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490Y JAUNE",
       "prix": 162.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/gi-490y.webp"
     },
     {
@@ -8188,7 +8200,7 @@
       "ref": "HI2019-B",
       "designation": "STYLO HI-PRO HI2019 BLEU",
       "prix": 10.0,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "HI2019N",
@@ -9315,7 +9327,7 @@
       "ref": "JAVEL",
       "designation": "JAVEL",
       "prix": 0.0,
-      "stock": 233
+      "stock": 215
     },
     {
       "ref": "JET-M111A",
@@ -10075,7 +10087,7 @@
       "ref": "M170",
       "designation": "SOURIS SANS FIL LOGITECH M170",
       "prix": 150.0,
-      "stock": 21,
+      "stock": 20,
       "image": "images/produits/m170.webp"
     },
     {
@@ -10713,7 +10725,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 43,
+      "stock": 32,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -10890,7 +10902,7 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "NWC-W1360A",
@@ -11284,7 +11296,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 11
+      "stock": 7
     },
     {
       "ref": "PC-24/32",
@@ -12529,7 +12541,7 @@
       "ref": "RABAT_P_V",
       "designation": "chemise a rabat plastique imik import vert",
       "prix": 10.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "RAM04",
@@ -12711,7 +12723,7 @@
       "ref": "REO-009",
       "designation": "RIBBON EPSON ORIGINAL DFX-9000",
       "prix": 360.0,
-      "stock": 29
+      "stock": 26
     },
     {
       "ref": "REVA00",
@@ -13362,7 +13374,7 @@
       "ref": "SAV-FC5L",
       "designation": "SAVON LIQUIDE FLEUR ORANGE CREME 5 L",
       "prix": 60.0,
-      "stock": -3
+      "stock": 2
     },
     {
       "ref": "SB-002",
@@ -13392,7 +13404,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "SC1630",
@@ -13443,7 +13455,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 56
+      "stock": 50
     },
     {
       "ref": "SC-GB-N",
@@ -14069,7 +14081,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 12
+      "stock": 0
     },
     {
       "ref": "STOCK2026F",
@@ -14135,7 +14147,7 @@
       "ref": "SV-40M",
       "designation": "CLASSEUR SICLA VERT 40MM",
       "prix": 29.0,
-      "stock": 5
+      "stock": 2
     },
     {
       "ref": "T-02",
@@ -14331,7 +14343,7 @@
       "ref": "TAB-028",
       "designation": "TROMBONNES EN ACIER BOSTON 100 PIECES UNITE 28mm 2111",
       "prix": 6.0,
-      "stock": 17
+      "stock": 15
     },
     {
       "ref": "TAB-0628",
@@ -14361,7 +14373,7 @@
       "ref": "TAB-2M",
       "designation": "TABLEAU MAGNETIQUE 2M/1M",
       "prix": 850.0,
-      "stock": 0
+      "stock": -6
     },
     {
       "ref": "TAB60-90",
@@ -14421,7 +14433,7 @@
       "ref": "TB301",
       "designation": "APPAREIL TELEPHONE FIX TELEFUNKEN TB301",
       "prix": 250.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "TBA-02110",
@@ -15630,7 +15642,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 25
+      "stock": 12
     },
     {
       "ref": "W1106",
@@ -15666,7 +15678,7 @@
       "ref": "W1510",
       "designation": "TONER HP 151A W1510A WORD",
       "prix": 200.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "W1510A",
