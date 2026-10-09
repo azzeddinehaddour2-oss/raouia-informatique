@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T07:00:02",
-  "count": 2665,
+  "generated_at": "2026-10-09T07:00:02",
+  "count": 2672,
   "products": [
     {
       "ref": "000001",
@@ -37,7 +37,7 @@
       "ref": "05A",
       "designation": "TONER HP 05A NOIR (CE505A) COMP",
       "prix": 500.0,
-      "stock": 1
+      "stock": 6
     },
     {
       "ref": "0660S",
@@ -254,7 +254,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 67
+      "stock": 107
     },
     {
       "ref": "1566",
@@ -365,7 +365,7 @@
       "ref": "2000V",
       "designation": "MARQUEUR BIC PERMANENT 2000 VERT",
       "prix": 10.0,
-      "stock": 46,
+      "stock": 45,
       "image": "images/produits/2000v.webp"
     },
     {
@@ -1074,6 +1074,12 @@
       "stock": 2
     },
     {
+      "ref": "9E2000I",
+      "designation": "Eaton 9E 1600W / 2000VA Online UPS (9E2000I)",
+      "prix": 8300.0,
+      "stock": 0
+    },
+    {
       "ref": "9PX2200IRT2U",
       "designation": "Onduleur EATON 9PX 2200I RT2U - 2200VA",
       "prix": 18000.0,
@@ -1733,7 +1739,7 @@
       "ref": "AGEF140",
       "designation": "AGRAFEUSE ECOLO 24/6    RF AGEF140",
       "prix": 30.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "AGEF150",
@@ -1962,7 +1968,7 @@
       "ref": "AS-914",
       "designation": "AGENDA AVEC SPIRALE 9x14 130P",
       "prix": 5.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "AS-I5",
@@ -2410,7 +2416,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1026,
+      "stock": 1024,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -3032,7 +3038,7 @@
       "ref": "C180B",
       "designation": "CHEMISE CARTONNEE BLEU 180g",
       "prix": 80.0,
-      "stock": 2
+      "stock": 5
     },
     {
       "ref": "C-180G",
@@ -3328,7 +3334,7 @@
       "ref": "C-A4",
       "designation": "COUVERTURE CARTONNÉE A4 100 FEUILLES WAD DAHAB",
       "prix": 80.0,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "CA80",
@@ -3388,7 +3394,7 @@
       "ref": "CAN-446",
       "designation": "CARTOUCHE CANON CL446 COULEUR",
       "prix": 230.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "CAN-46",
@@ -3814,7 +3820,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 55
+      "stock": 54
     },
     {
       "ref": "CC-2008",
@@ -3826,7 +3832,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 6,
+      "stock": 5,
       "image": "images/produits/cc-445.webp"
     },
     {
@@ -3941,7 +3947,7 @@
       "ref": "CD2476",
       "designation": "CALCULER 12CHF 124x86MM CATIGA  CD2476",
       "prix": 80.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "CD-2488",
@@ -4043,7 +4049,7 @@
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 54
+      "stock": 18
     },
     {
       "ref": "CE037",
@@ -4061,7 +4067,7 @@
       "ref": "CE048",
       "designation": "SAVON 5  LITRES",
       "prix": 90.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "CE049",
@@ -4088,6 +4094,12 @@
       "stock": 10
     },
     {
+      "ref": "CE082",
+      "designation": "postite couleur",
+      "prix": 15.0,
+      "stock": 19
+    },
+    {
       "ref": "CE314A",
       "designation": "TONER HP 126A NOIR CE314A",
       "prix": 795.0,
@@ -4112,10 +4124,16 @@
       "stock": 0
     },
     {
+      "ref": "CE505A",
+      "designation": "TONER CARRERA CE505A CF280A NOIR",
+      "prix": 220.0,
+      "stock": 5
+    },
+    {
       "ref": "CEC002",
       "designation": "Agrafes Maped  Réf  324405 1 paquet",
       "prix": 6.5,
-      "stock": 16
+      "stock": 36
     },
     {
       "ref": "CEC004",
@@ -4145,7 +4163,7 @@
       "ref": "CEC041",
       "designation": "Crono classeur sicla 2 caneau",
       "prix": 32.0,
-      "stock": 0
+      "stock": 20
     },
     {
       "ref": "CEC049",
@@ -4162,29 +4180,47 @@
       "stock": 0
     },
     {
+      "ref": "CEC059",
+      "designation": "Intercalaire Alphabétique 1 paquet",
+      "prix": 35.0,
+      "stock": 30
+    },
+    {
       "ref": "CEC083",
       "designation": "Rame de papier A4 80g navigateur ou équivalant",
       "prix": 49.0,
       "stock": -5
     },
     {
+      "ref": "CEC091",
+      "designation": "Ribbo Epson FDfx-9000",
+      "prix": 580.0,
+      "stock": 2
+    },
+    {
+      "ref": "CEC096",
+      "designation": "Scotches  pour emballage",
+      "prix": 14.0,
+      "stock": 30
+    },
+    {
       "ref": "CEC102",
       "designation": "Stylo BIC bleu",
       "prix": 1.7,
-      "stock": 0
+      "stock": 100
     },
     {
       "ref": "CEC107",
       "designation": "Toner HP 05A Black Original LaserJet CE505A",
       "prix": 1385.0,
-      "stock": 3,
+      "stock": 15,
       "image": "images/produits/cec107.webp"
     },
     {
       "ref": "CEC112",
       "designation": "Toner Original LaserJe 410 A / 207A/ 415A/ 203A B/Y/M/C",
       "prix": 1750.0,
-      "stock": -1
+      "stock": 13
     },
     {
       "ref": "CEC-4S",
@@ -4342,7 +4378,7 @@
       "ref": "CF531ADMT",
       "designation": "TONER 205A CF531A BLEU DIAMANT",
       "prix": 200.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "CF532A",
@@ -7017,7 +7053,7 @@
       "ref": "ENV-A4+",
       "designation": "ENVELOPPES  KRAFT A4+  260*360 GAZELLE",
       "prix": 3.0,
-      "stock": 543
+      "stock": 542
     },
     {
       "ref": "ENV-A4+GAZ",
@@ -7089,7 +7125,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 578
+      "stock": 577
     },
     {
       "ref": "ENVT-0028",
@@ -8212,7 +8248,7 @@
       "ref": "HI2019R",
       "designation": "STYLO HI2019 ROUGE",
       "prix": 10.0,
-      "stock": 21
+      "stock": 20
     },
     {
       "ref": "HI2019V",
@@ -9890,7 +9926,7 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 9,
+      "stock": 8,
       "image": "images/produits/logt-m171.webp"
     },
     {
@@ -10223,6 +10259,12 @@
       "designation": "MOTARRO TROMBONNES 33MM  100PCS",
       "prix": 6.0,
       "stock": 60
+    },
+    {
+      "ref": "MAC16-1TB",
+      "designation": "MacBook Pro 16 M5 Pro 24GB/1TB",
+      "prix": 41800.0,
+      "stock": 0
     },
     {
       "ref": "MAC-45W",
@@ -10725,7 +10767,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 32,
+      "stock": 27,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11626,7 +11668,7 @@
       "ref": "PL-306-PD",
       "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-306 PD",
       "prix": 30.0,
-      "stock": 18
+      "stock": 17
     },
     {
       "ref": "PLA05",
@@ -12625,7 +12667,7 @@
       "ref": "RC-80X75",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80x75",
       "prix": 12.0,
-      "stock": 30
+      "stock": 25
     },
     {
       "ref": "RCA-10M",
@@ -12971,7 +13013,7 @@
       "ref": "S.770B",
       "designation": "STYLO SMART 0.7MM 770 BLEU",
       "prix": 2.0,
-      "stock": 886
+      "stock": 881
     },
     {
       "ref": "S0050",
@@ -13690,7 +13732,7 @@
       "ref": "SIDI_ALI-50CL",
       "designation": "EAU MINERALE NATURELLE 50CL SIDI ALI",
       "prix": 3.0,
-      "stock": -800
+      "stock": -624
     },
     {
       "ref": "SIDI-75CL",
@@ -13708,7 +13750,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 378
+      "stock": 363
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14135,7 +14177,7 @@
       "ref": "S-USBL",
       "designation": "SOURIS USB ORIGINALE MSI",
       "prix": 90.0,
-      "stock": 8
+      "stock": 9
     },
     {
       "ref": "S-USB-M200_16G",
@@ -14325,7 +14367,7 @@
       "ref": "TA-033",
       "designation": "TROMBONNES EN ACIER  33mm 10 PIECES",
       "prix": 7.0,
-      "stock": 3
+      "stock": 13
     },
     {
       "ref": "TA-321",
@@ -14463,7 +14505,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 39
+      "stock": 59
     },
     {
       "ref": "T-BLEU",
@@ -15125,7 +15167,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "TP-2",
@@ -15162,7 +15204,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "TS-500G",
@@ -15986,7 +16028,7 @@
       "ref": "W-CE411",
       "designation": "TONER WORLD W-CC531/CE411A BLEU",
       "prix": 170.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "W-CE413",
