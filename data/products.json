@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T07:00:02",
+  "generated_at": "2026-10-11T07:00:02",
   "count": 2672,
   "products": [
     {
       "ref": "000001",
       "designation": "SERPILIERE FRANCE CASA BN2 50X70CM",
       "prix": 12.0,
-      "stock": 48
+      "stock": 36
     },
     {
       "ref": "000045",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 0
+      "stock": 99
     },
     {
       "ref": "121212",
@@ -321,7 +321,7 @@
       "ref": "1714/1-N",
       "designation": "RALONCHE INGELEC 4 PRISES 1714/1 NOIR",
       "prix": 55.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "1715/1N",
@@ -2605,7 +2605,7 @@
       "ref": "BL-WN151",
       "designation": "LB-LINK 150MBPS NANO WIRELESS N USB ADAPTER BL-WN151",
       "prix": 50.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "BL-WN155A",
@@ -3820,7 +3820,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 54
+      "stock": 53
     },
     {
       "ref": "CC-2008",
@@ -4043,13 +4043,13 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 100
+      "stock": 80
     },
     {
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 18
+      "stock": -18
     },
     {
       "ref": "CE037",
@@ -5318,7 +5318,7 @@
       "ref": "CRB-0021",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU",
       "prix": 10.0,
-      "stock": 45
+      "stock": 44
     },
     {
       "ref": "CRBC-0024",
@@ -7125,7 +7125,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 577
+      "stock": 574
     },
     {
       "ref": "ENVT-0028",
@@ -8147,7 +8147,7 @@
       "ref": "HDM-VG",
       "designation": "HDTV TO VGA/AV  ADAPTATEUR HDMI TO VGA",
       "prix": 100.0,
-      "stock": 5
+      "stock": 2
     },
     {
       "ref": "HDTB510MK3A",
@@ -9043,7 +9043,7 @@
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "HUB",
@@ -9363,7 +9363,7 @@
       "ref": "JAVEL",
       "designation": "JAVEL",
       "prix": 0.0,
-      "stock": 215
+      "stock": 213
     },
     {
       "ref": "JET-M111A",
@@ -9430,7 +9430,7 @@
       "ref": "K250",
       "designation": "Clavier Logitech K250 Wireless Bluetooth Keyboard",
       "prix": 280.0,
-      "stock": 8,
+      "stock": 7,
       "image": "images/produits/k250.webp"
     },
     {
@@ -10123,7 +10123,7 @@
       "ref": "M170",
       "designation": "SOURIS SANS FIL LOGITECH M170",
       "prix": 150.0,
-      "stock": 20,
+      "stock": 19,
       "image": "images/produits/m170.webp"
     },
     {
@@ -10454,7 +10454,7 @@
       "ref": "MIN-A2",
       "designation": "PAPIER MINISTER A2",
       "prix": 5.0,
-      "stock": 18
+      "stock": 17
     },
     {
       "ref": "MINI-AGB",
@@ -10518,25 +10518,25 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 173
+      "stock": 161
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 108
+      "stock": 96
     },
     {
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": -21
+      "stock": 111
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": -37
+      "stock": 95
     },
     {
       "ref": "MP02",
@@ -10767,7 +10767,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 27,
+      "stock": -23,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -10871,7 +10871,7 @@
       "ref": "NOK-105",
       "designation": "TELEPHONE NOKIA 105",
       "prix": 260.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/nok-105.webp"
     },
     {
@@ -11296,7 +11296,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 0
+      "stock": 15
     },
     {
       "ref": "PAPPH-A4",
@@ -12178,7 +12178,7 @@
       "ref": "PS4F",
       "designation": "EATON PROTECTION STRIP 4 PS4F",
       "prix": 200.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/ps4f.webp"
     },
     {
@@ -12741,7 +12741,7 @@
       "ref": "REF-E320",
       "designation": "CHEMISE OUVERT DE 2 COTE BOSTON 150MIC 31X22 CM",
       "prix": 3.0,
-      "stock": 138
+      "stock": 136
     },
     {
       "ref": "REG-1M",
@@ -13497,7 +13497,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 50
+      "stock": 48
     },
     {
       "ref": "SC-GB-N",
@@ -13864,7 +13864,7 @@
       "ref": "SONY-4.35A",
       "designation": "CHARGEUR SONY ORIGINAL 19.5V 4.35A",
       "prix": 150.0,
-      "stock": 94
+      "stock": 93
     },
     {
       "ref": "SONY-8.4V",
@@ -14086,7 +14086,7 @@
       "ref": "ST-07",
       "designation": "STYLO FRIXION PILOT BLEU  07",
       "prix": 15.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/st-07.webp"
     },
     {
@@ -15204,7 +15204,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": 3
+      "stock": -1
     },
     {
       "ref": "TS-500G",
@@ -15356,7 +15356,7 @@
       "ref": "UHU-7",
       "designation": "UHU TUBE 7g",
       "prix": 5.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "UHU-8",
@@ -16221,7 +16221,7 @@
       "ref": "X1/I7/8TH",
       "designation": "LENOVO Thinkpad X1 carbon i7 / 8th  16RAM 256 SSD",
       "prix": 3300.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/x1-i7-8th.webp"
     },
     {
