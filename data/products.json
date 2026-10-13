@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:00:02",
+  "generated_at": "2026-10-13T07:00:02",
   "count": 2672,
   "products": [
     {
@@ -1739,7 +1739,7 @@
       "ref": "AGEF140",
       "designation": "AGRAFEUSE ECOLO 24/6    RF AGEF140",
       "prix": 30.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "AGEF150",
@@ -2416,7 +2416,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1024,
+      "stock": 1022,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2599,7 +2599,7 @@
       "ref": "BLOC-A5",
       "designation": "BLOC NOTE NOIR FT A5 EN 100 FEUILLES",
       "prix": 35.0,
-      "stock": 30
+      "stock": 29
     },
     {
       "ref": "BL-WN151",
@@ -2648,7 +2648,7 @@
       "ref": "BN-1521",
       "designation": "BLOC NOTE A5 15*21 5/5 100P 13521",
       "prix": 12.0,
-      "stock": 85
+      "stock": 84
     },
     {
       "ref": "BNC",
@@ -2774,7 +2774,7 @@
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 16
+      "stock": 15
     },
     {
       "ref": "BR-01",
@@ -3080,7 +3080,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 49
+      "stock": 48
     },
     {
       "ref": "C200041380",
@@ -3820,7 +3820,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 53
+      "stock": 52
     },
     {
       "ref": "CC-2008",
@@ -4262,7 +4262,7 @@
       "ref": "CF_217A",
       "designation": "TONER CARRERA CF217A NOIR",
       "prix": 150.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "CF226AC",
@@ -4475,13 +4475,13 @@
       "ref": "CH180",
       "designation": "CHEMISE CARTONNEE CHRONO MULTICOLOR 180G",
       "prix": 80.0,
-      "stock": 23
+      "stock": 22
     },
     {
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 106
+      "stock": 98
     },
     {
       "ref": "CH200W",
@@ -6092,7 +6092,7 @@
       "ref": "DISHD15",
       "designation": "CABLE DISPLAY TO HDMI 1.5M",
       "prix": 80.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "DIS-HDMI",
@@ -9248,7 +9248,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "IP-C510",
@@ -11837,7 +11837,7 @@
       "ref": "PPJ931-3",
       "designation": "CHEMISE PERFORE ECOLO PPJ931-3",
       "prix": 70.0,
-      "stock": 27
+      "stock": 26
     },
     {
       "ref": "P-PLA3",
@@ -13750,7 +13750,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 363
+      "stock": 361
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14517,7 +14517,7 @@
       "ref": "T-C10",
       "designation": "CABLE TYPE C TYPE C",
       "prix": 30.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "TC-130W",
@@ -15338,7 +15338,7 @@
       "ref": "UHU-12",
       "designation": "UHU TUBE 12 (21 CC)",
       "prix": 9.0,
-      "stock": 15
+      "stock": 13
     },
     {
       "ref": "UHU-21",
