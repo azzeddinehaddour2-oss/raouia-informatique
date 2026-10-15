@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T07:00:02",
-  "count": 2672,
+  "generated_at": "2026-10-15T07:00:02",
+  "count": 2676,
   "products": [
     {
       "ref": "000001",
@@ -1392,7 +1392,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": 10
+      "stock": -30
     },
     {
       "ref": "AB-68",
@@ -2245,7 +2245,7 @@
       "ref": "BAHIA",
       "designation": "BAHIA 5L",
       "prix": 13.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "BAIL",
@@ -2416,7 +2416,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 1022,
+      "stock": 971,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2449,7 +2449,7 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 209,
+      "stock": 208,
       "image": "images/produits/bic-n.webp"
     },
     {
@@ -2529,7 +2529,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 204
+      "stock": 184
     },
     {
       "ref": "BL-G2-7-8",
@@ -2599,7 +2599,7 @@
       "ref": "BLOC-A5",
       "designation": "BLOC NOTE NOIR FT A5 EN 100 FEUILLES",
       "prix": 35.0,
-      "stock": 29
+      "stock": 28
     },
     {
       "ref": "BL-WN151",
@@ -2930,7 +2930,7 @@
       "ref": "BULL-60G",
       "designation": "CHEMISE BULLE EXTRA COLOR 21*31 60g",
       "prix": 50.0,
-      "stock": 1
+      "stock": -3
     },
     {
       "ref": "BUR001",
@@ -3296,7 +3296,7 @@
       "ref": "C-9713",
       "designation": "CISEAUX BOSTON 180MM -9713",
       "prix": 25.0,
-      "stock": -1
+      "stock": 9
     },
     {
       "ref": "CA_A3",
@@ -3349,6 +3349,12 @@
       "stock": 20
     },
     {
+      "ref": "CA-A4",
+      "designation": "CAHIER D'ACTIVITE POUR L'ETUDIANT A4",
+      "prix": 0.0,
+      "stock": 0
+    },
+    {
       "ref": "CAB_C_P",
       "designation": "CABLE TYPE-C IPHONE 3MR",
       "prix": 30.0,
@@ -3394,7 +3400,7 @@
       "ref": "CAN-446",
       "designation": "CARTOUCHE CANON CL446 COULEUR",
       "prix": 230.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "CAN-46",
@@ -3820,7 +3826,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 52
+      "stock": 48
     },
     {
       "ref": "CC-2008",
@@ -4481,7 +4487,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 98
+      "stock": 85
     },
     {
       "ref": "CH200W",
@@ -5068,7 +5074,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 86
+      "stock": 56
     },
     {
       "ref": "COP-SA4",
@@ -5324,7 +5330,7 @@
       "ref": "CRBC-0024",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU CIEL",
       "prix": 10.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "CRCN-510",
@@ -6098,7 +6104,7 @@
       "ref": "DIS-HDMI",
       "designation": "ADAPTATEUR DISPLAY TO HDMI",
       "prix": 80.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "DISP-1.5M",
@@ -6897,7 +6903,7 @@
       "ref": "EH303-B",
       "designation": "CHEMISE PERFOREE BOSTON 40MIC EH303",
       "prix": 70.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "EH303R",
@@ -6993,7 +6999,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "ENV-25/35",
@@ -7053,7 +7059,7 @@
       "ref": "ENV-A4+",
       "designation": "ENVELOPPES  KRAFT A4+  260*360 GAZELLE",
       "prix": 3.0,
-      "stock": 542
+      "stock": 541
     },
     {
       "ref": "ENV-A4+GAZ",
@@ -7119,7 +7125,7 @@
       "ref": "ENV-P",
       "designation": "ENVELOPPES KRAFT JAUNE MINI POCHETTE",
       "prix": 1.0,
-      "stock": 73
+      "stock": -126
     },
     {
       "ref": "ENV-SF",
@@ -7932,6 +7938,12 @@
       "stock": 0
     },
     {
+      "ref": "GXV3450",
+      "designation": "IP PHONE GXV3450",
+      "prix": 3504.0,
+      "stock": 0
+    },
+    {
       "ref": "H39_ULTRA2",
       "designation": "SWITCH H39 ULTRA2",
       "prix": 250.0,
@@ -8031,7 +8043,7 @@
       "ref": "HDM-10M",
       "designation": "CABLE HDMI 10M 4K HDTV PREMIUM",
       "prix": 140.0,
-      "stock": 0,
+      "stock": 5,
       "image": "images/illustrations/cable-hdmi.webp",
       "illustration": true
     },
@@ -8236,7 +8248,7 @@
       "ref": "HI2019-B",
       "designation": "STYLO HI-PRO HI2019 BLEU",
       "prix": 10.0,
-      "stock": 18
+      "stock": -32
     },
     {
       "ref": "HI2019N",
@@ -8277,8 +8289,8 @@
     {
       "ref": "HIK-256-3.0",
       "designation": "Adata disque dur SSD SATA 3.0 Interne 256Go HIKSEMI",
-      "prix": 680.0,
-      "stock": 5
+      "prix": 700.0,
+      "stock": 10
     },
     {
       "ref": "HIK27INC",
@@ -8386,7 +8398,7 @@
       "ref": "HP-145N",
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
-      "stock": 11,
+      "stock": 8,
       "image": "images/produits/hp-145n.webp"
     },
     {
@@ -9014,6 +9026,12 @@
       "stock": 0
     },
     {
+      "ref": "HS-1024G",
+      "designation": "HIKSEMI WAVE(P) 1TB M.2 2280 NVMe PCIe 3.0 Internal SSD HS-1024G",
+      "prix": 1600.0,
+      "stock": 0
+    },
+    {
       "ref": "HS-E307C-128G",
       "designation": "CLE 128GB USB DUAL 3.2 HIKSEMI HS-E307C 128G U3",
       "prix": 200.0,
@@ -9474,13 +9492,13 @@
       "ref": "KAS-1P",
       "designation": "KASPERSKY PLUS 1 APPAREIL",
       "prix": 150.0,
-      "stock": 2
+      "stock": 7
     },
     {
       "ref": "KAS-3P",
       "designation": "KASPERSKY PLUS 3 POSTES",
       "prix": 350.0,
-      "stock": 3,
+      "stock": 8,
       "image": "images/produits/kas-3p.webp"
     },
     {
@@ -9649,7 +9667,7 @@
       "ref": "KO-AAAX4",
       "designation": "PILLE KODAK XTRALIFE ALKALINE AAAx4",
       "prix": 5.0,
-      "stock": 41
+      "stock": 39
     },
     {
       "ref": "KONICA-458",
@@ -10123,7 +10141,7 @@
       "ref": "M170",
       "designation": "SOURIS SANS FIL LOGITECH M170",
       "prix": 150.0,
-      "stock": 19,
+      "stock": 18,
       "image": "images/produits/m170.webp"
     },
     {
@@ -10240,7 +10258,7 @@
       "ref": "M90",
       "designation": "LOGITECH Mouse M90 (Mouton-Boat) Noire",
       "prix": 60.0,
-      "stock": 0
+      "stock": 10
     },
     {
       "ref": "M910X",
@@ -10486,7 +10504,7 @@
       "ref": "MK270",
       "designation": "PACK CLAVIER SOURIS SANS FIL LOGITECH WIRELESS MK270",
       "prix": 400.0,
-      "stock": 0,
+      "stock": 10,
       "image": "images/produits/mk270.webp"
     },
     {
@@ -10755,7 +10773,7 @@
       "ref": "N685278",
       "designation": "AGRAFES STAPLES 24/6  N°685278",
       "prix": 6.0,
-      "stock": 40
+      "stock": 20
     },
     {
       "ref": "NA-120",
@@ -10767,7 +10785,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": -23,
+      "stock": 22,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11309,6 +11327,12 @@
       "designation": "PARAPHEUR SICLA / 18 VOLETS",
       "prix": 80.0,
       "stock": 2
+    },
+    {
+      "ref": "PB-180G",
+      "designation": "PAPIER BRISTOL BLANC 180GR 200F",
+      "prix": 0.0,
+      "stock": 0
     },
     {
       "ref": "PB-PVC",
@@ -13446,7 +13470,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 18
+      "stock": -4
     },
     {
       "ref": "SC1630",
@@ -13497,7 +13521,7 @@
       "ref": "SC-GB-B",
       "designation": "SCOTCH GRAND BLANC 48mm*40m",
       "prix": 14.0,
-      "stock": 48
+      "stock": 28
     },
     {
       "ref": "SC-GB-N",
@@ -13750,7 +13774,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 361
+      "stock": 359
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13876,7 +13900,7 @@
       "ref": "SP-1.5M",
       "designation": "CABLE IMPRIMANTE HIGH SPEED 1,5M",
       "prix": 30.0,
-      "stock": 0
+      "stock": 10
     },
     {
       "ref": "SP-10M",
@@ -14505,7 +14529,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 59
+      "stock": 19
     },
     {
       "ref": "T-BLEU",
@@ -15344,13 +15368,13 @@
       "ref": "UHU-21",
       "designation": "UHU STIC 21G",
       "prix": 15.0,
-      "stock": 41
+      "stock": 25
     },
     {
       "ref": "UHU-35C",
       "designation": "UHU TUBE 13 (35 CC)",
       "prix": 13.0,
-      "stock": 14
+      "stock": 4
     },
     {
       "ref": "UHU-7",
@@ -15362,7 +15386,7 @@
       "ref": "UHU-8",
       "designation": "UHU STIC 8,2G",
       "prix": 8.0,
-      "stock": 68
+      "stock": 67
     },
     {
       "ref": "UHU-80",
@@ -15684,7 +15708,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 12
+      "stock": 6
     },
     {
       "ref": "W1106",
