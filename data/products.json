@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T07:00:02",
-  "count": 2676,
+  "generated_at": "2026-10-17T07:00:02",
+  "count": 2678,
   "products": [
     {
       "ref": "000001",
@@ -254,7 +254,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 107
+      "stock": 307
     },
     {
       "ref": "1566",
@@ -806,7 +806,7 @@
       "ref": "60V",
       "designation": "PORTE DOCUMENT 60 VUES",
       "prix": 25.0,
-      "stock": 8
+      "stock": 9
     },
     {
       "ref": "6128",
@@ -1757,7 +1757,7 @@
       "ref": "AGR-8",
       "designation": "AGRAFES BOSTON 1000 PIECES 8/4",
       "prix": 6.0,
-      "stock": 72
+      "stock": 67
     },
     {
       "ref": "AGR84",
@@ -2416,7 +2416,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 971,
+      "stock": 970,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2822,7 +2822,7 @@
       "ref": "BR-C03",
       "designation": "CHARGEUR BRUDER 27W TYPE C BR-C03",
       "prix": 80.0,
-      "stock": 10
+      "stock": 8
     },
     {
       "ref": "BR-C04",
@@ -2900,7 +2900,7 @@
       "ref": "BS3224",
       "designation": "PINCE A CLIP EN METAL 41MM NOIR BOSTON BS3224",
       "prix": 2.5,
-      "stock": 11
+      "stock": 9
     },
     {
       "ref": "BSU-25",
@@ -3044,7 +3044,7 @@
       "ref": "C-180G",
       "designation": "CHEMISE CARTONNEE MULTICOULEUR 180g",
       "prix": 85.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "C18-I",
@@ -3080,7 +3080,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 48
+      "stock": 45
     },
     {
       "ref": "C200041380",
@@ -3152,7 +3152,7 @@
       "ref": "C250G",
       "designation": "CROWN COUVERTURE CHROMOLUX 250G",
       "prix": 80.0,
-      "stock": 17
+      "stock": 16
     },
     {
       "ref": "C250-I",
@@ -3230,7 +3230,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": -5
+      "stock": -4
     },
     {
       "ref": "C4313",
@@ -3763,6 +3763,12 @@
       "stock": 0
     },
     {
+      "ref": "CB1017",
+      "designation": "CISEAU POUR BUREAU CB1017",
+      "prix": 18.0,
+      "stock": 10
+    },
+    {
       "ref": "CB-240G",
       "designation": "CHEMISE CARTONNE CHRONO BLEU 240GR",
       "prix": 95.0,
@@ -3838,7 +3844,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 5,
+      "stock": 6,
       "image": "images/produits/cc-445.webp"
     },
     {
@@ -4608,9 +4614,9 @@
     },
     {
       "ref": "CHEM-NOB",
-      "designation": "CHEMISE BULLE MULTICOULEUR 80g",
+      "designation": "CHEMISE BULLE MULTICOULEUR 60g",
       "prix": 50.0,
-      "stock": 3
+      "stock": 13
     },
     {
       "ref": "CHEV-TAB",
@@ -4926,7 +4932,7 @@
       "ref": "CLIPS-32M",
       "designation": "PINCE A CLIP EN METAL 32MM NOIR BOSTON BS2518",
       "prix": 3.0,
-      "stock": 24
+      "stock": 0
     },
     {
       "ref": "CLIPS-41M",
@@ -5074,7 +5080,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 56
+      "stock": 29
     },
     {
       "ref": "COP-SA4",
@@ -5324,7 +5330,7 @@
       "ref": "CRB-0021",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU",
       "prix": 10.0,
-      "stock": 44
+      "stock": 54
     },
     {
       "ref": "CRBC-0024",
@@ -5374,7 +5380,7 @@
       "ref": "CRJ-0019",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA JAUNE",
       "prix": 10.0,
-      "stock": 18
+      "stock": 28
     },
     {
       "ref": "CRJ45",
@@ -5392,7 +5398,7 @@
       "ref": "CRO-0022",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ORANGE",
       "prix": 10.0,
-      "stock": 13
+      "stock": 23
     },
     {
       "ref": "CR-OR",
@@ -5416,7 +5422,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 6
+      "stock": 16
     },
     {
       "ref": "CRR-655",
@@ -5518,7 +5524,7 @@
       "ref": "CRV-0023",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA VERT",
       "prix": 10.0,
-      "stock": 2
+      "stock": 12
     },
     {
       "ref": "CS-043",
@@ -6705,7 +6711,7 @@
       "ref": "E-5557R",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON ROUGE 5557R",
       "prix": 6.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "E-5557T",
@@ -6987,7 +6993,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 1006
+      "stock": 2006
     },
     {
       "ref": "ENV-229/324",
@@ -6999,7 +7005,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 3
+      "stock": 1
     },
     {
       "ref": "ENV-25/35",
@@ -7053,7 +7059,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 19
+      "stock": 9
     },
     {
       "ref": "ENV-A4+",
@@ -9103,7 +9109,7 @@
       "ref": "IAN-4833620",
       "designation": "STYLO COULEUR GEL CRELANDO",
       "prix": 2.0,
-      "stock": 148
+      "stock": 118
     },
     {
       "ref": "IBM-16V",
@@ -9266,7 +9272,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "IP-C510",
@@ -10798,7 +10804,7 @@
       "ref": "NB-0009",
       "designation": "CHARGEUR SAMSUNG ADAPTER 35W USB-TYPE C",
       "prix": 80.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "NB-000945",
@@ -10995,6 +11001,12 @@
       "stock": 1
     },
     {
+      "ref": "OBO",
+      "designation": "POCHETTE PERFOREE BLANC 8MIC--100PCS OBO",
+      "prix": 75.0,
+      "stock": 10
+    },
+    {
       "ref": "OEB-E02D",
       "designation": "ECOUTEUR BLUETOOTH ORAIMO OEB-E02D",
       "prix": 300.0,
@@ -11100,7 +11112,7 @@
       "ref": "P-100V",
       "designation": "PORTE DOCUMENT 100 VUES",
       "prix": 35.0,
-      "stock": 17
+      "stock": 18
     },
     {
       "ref": "P1200",
@@ -11314,7 +11326,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "PAPPH-A4",
@@ -11482,7 +11494,7 @@
       "ref": "PD-0020",
       "designation": "PORTE DOCUMENT 20 VUES",
       "prix": 20.0,
-      "stock": 16
+      "stock": 6
     },
     {
       "ref": "PD-00200",
@@ -11494,7 +11506,7 @@
       "ref": "PD-1510037V040",
       "designation": "PORTE DOCUMENTS 40 VUES",
       "prix": 12.0,
-      "stock": 19
+      "stock": 14
     },
     {
       "ref": "PD1-7",
@@ -11572,7 +11584,7 @@
       "ref": "PER-B501",
       "designation": "PERFOREUSE 2 TROUS BOSTON  / B501",
       "prix": 70.0,
-      "stock": 4
+      "stock": 14
     },
     {
       "ref": "PET350SPL1",
@@ -13470,7 +13482,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": -4
+      "stock": 20
     },
     {
       "ref": "SC1630",
@@ -13774,7 +13786,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 359
+      "stock": 298
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14529,7 +14541,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 19
+      "stock": 79
     },
     {
       "ref": "T-BLEU",
@@ -15368,7 +15380,7 @@
       "ref": "UHU-21",
       "designation": "UHU STIC 21G",
       "prix": 15.0,
-      "stock": 25
+      "stock": 61
     },
     {
       "ref": "UHU-35C",
@@ -15386,7 +15398,7 @@
       "ref": "UHU-8",
       "designation": "UHU STIC 8,2G",
       "prix": 8.0,
-      "stock": 67
+      "stock": 115
     },
     {
       "ref": "UHU-80",
@@ -15744,7 +15756,7 @@
       "ref": "W1510",
       "designation": "TONER HP 151A W1510A WORD",
       "prix": 200.0,
-      "stock": 10
+      "stock": 7
     },
     {
       "ref": "W1510A",
@@ -16289,7 +16301,7 @@
       "ref": "XMAN365",
       "designation": "ECOTEUR BLO XMAN 365",
       "prix": 80.0,
-      "stock": 1
+      "stock": 2
     },
     {
       "ref": "X-MAX",
