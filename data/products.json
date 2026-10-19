@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:00:02",
+  "generated_at": "2026-10-19T07:00:02",
   "count": 2678,
   "products": [
     {
@@ -7005,7 +7005,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "ENV-25/35",
@@ -13786,7 +13786,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 298
+      "stock": 297
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14553,7 +14553,7 @@
       "ref": "T-C10",
       "designation": "CABLE TYPE C TYPE C",
       "prix": 30.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "TC-130W",
