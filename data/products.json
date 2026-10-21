@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T07:00:02",
-  "count": 2678,
+  "generated_at": "2026-10-21T07:00:02",
+  "count": 2684,
   "products": [
     {
       "ref": "000001",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 99
+      "stock": 96
     },
     {
       "ref": "121212",
@@ -464,7 +464,7 @@
       "ref": "2300A-B",
       "designation": "TONER NWC HP 2300A BLACK 230A 4203D",
       "prix": 320.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "2300R",
@@ -1002,6 +1002,12 @@
       "designation": "ASUS ROG STRIX G615LR Ultra 9 ARROWLAKE HX 16''WQXGA 32Go 1To SSD GN2",
       "prix": 29500.0,
       "stock": 1
+    },
+    {
+      "ref": "910-007562",
+      "designation": "LOGITECH (910-007562) MX MASTER 4 WIRLESS BLUETOOTH MOUSE",
+      "prix": 1400.0,
+      "stock": 2
     },
     {
       "ref": "9152A",
@@ -1739,7 +1745,7 @@
       "ref": "AGEF140",
       "designation": "AGRAFEUSE ECOLO 24/6    RF AGEF140",
       "prix": 30.0,
-      "stock": 7
+      "stock": 5
     },
     {
       "ref": "AGEF150",
@@ -2343,7 +2349,7 @@
       "ref": "BC-A4",
       "designation": "BLOC STENO A4",
       "prix": 15.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "BG-10M",
@@ -2416,7 +2422,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 970,
+      "stock": 919,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2449,7 +2455,7 @@
       "ref": "BIC-N",
       "designation": "STYLO BIC NOIR",
       "prix": 1.5,
-      "stock": 208,
+      "stock": 207,
       "image": "images/produits/bic-n.webp"
     },
     {
@@ -2792,7 +2798,7 @@
       "ref": "BR-03",
       "designation": "CABLE USB TYPE-C BRUDER BR-03",
       "prix": 25.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "BR07",
@@ -3080,7 +3086,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 45
+      "stock": 43
     },
     {
       "ref": "C200041380",
@@ -3352,7 +3358,7 @@
       "ref": "CA-A4",
       "designation": "CAHIER D'ACTIVITE POUR L'ETUDIANT A4",
       "prix": 0.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "CAB_C_P",
@@ -3832,7 +3838,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 48
+      "stock": 46
     },
     {
       "ref": "CC-2008",
@@ -4493,7 +4499,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 85
+      "stock": 83
     },
     {
       "ref": "CH200W",
@@ -5422,7 +5428,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 16
+      "stock": 14
     },
     {
       "ref": "CRR-655",
@@ -7083,7 +7089,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 859
+      "stock": 858
     },
     {
       "ref": "ENV-A5P",
@@ -7137,7 +7143,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 574
+      "stock": 570
     },
     {
       "ref": "ENVT-0028",
@@ -7620,6 +7626,12 @@
       "prix": 1560.0,
       "stock": 3,
       "image": "images/produits/g3410.webp"
+    },
+    {
+      "ref": "G413-SE",
+      "designation": "LOGITECH CLAVIER G413-SE Clavier gaming mécanique 12 Mois",
+      "prix": 589.03,
+      "stock": 0
     },
     {
       "ref": "G-5020",
@@ -8567,6 +8579,12 @@
       "image": "images/produits/hp-4g1ip.webp"
     },
     {
+      "ref": "HP-4G1IR-512",
+      "designation": "HP ProBook 4 G1iR 16 Core 5-120U 16'' 8Go 512Go SSD FreeDos 24M",
+      "prix": 7890.0,
+      "stock": 0
+    },
+    {
       "ref": "HP-512SSD",
       "designation": "PC HP 12th Gen Intel Core i5 16GB RAM/512GB SSD",
       "prix": 4800.0,
@@ -9014,6 +9032,12 @@
       "stock": 0
     },
     {
+      "ref": "HP-Z2-G1I",
+      "designation": "HP Z2 G1i TWR Ultra7-265 16GB 1TB SSD CG 4GB Linux 12M",
+      "prix": 21946.58,
+      "stock": 0
+    },
+    {
       "ref": "HS-012",
       "designation": "ECOUTEUR TYPE-C HS-012 PLUSTAR",
       "prix": 40.0,
@@ -9097,7 +9121,7 @@
       "ref": "IAM",
       "designation": "CARTE SIM IAM",
       "prix": 20.0,
-      "stock": 247
+      "stock": 244
     },
     {
       "ref": "IAN-480148",
@@ -9272,7 +9296,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 12
+      "stock": 10
     },
     {
       "ref": "IP-C510",
@@ -9883,6 +9907,12 @@
       "ref": "LENV-108",
       "designation": "SOURIS USB ORIGINALE LENOVO",
       "prix": 50.0,
+      "stock": 0
+    },
+    {
+      "ref": "LEN-V15",
+      "designation": "LENOVO V15-ABP 15,6'' AMD Ryzen 7-5825U 8 Go 512Go SSD Freedos Noir",
+      "prix": 6900.0,
       "stock": 0
     },
     {
@@ -10690,6 +10720,12 @@
       "designation": "STEREO HEADPHONE MX-111",
       "prix": 50.0,
       "stock": 1
+    },
+    {
+      "ref": "MY430",
+      "designation": "Kensington MY430 EQ Souris sans fil rechargeable",
+      "prix": 307.91,
+      "stock": 0
     },
     {
       "ref": "MY-446",
@@ -11873,7 +11909,7 @@
       "ref": "PPJ931-3",
       "designation": "CHEMISE PERFORE ECOLO PPJ931-3",
       "prix": 70.0,
-      "stock": 26
+      "stock": 24
     },
     {
       "ref": "P-PLA3",
@@ -15708,7 +15744,7 @@
       "ref": "VU250",
       "designation": "CLE USB ADATA 32GB 2.0",
       "prix": 100.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "VUE10",
