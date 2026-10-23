@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T07:00:02",
-  "count": 2684,
+  "generated_at": "2026-10-23T07:00:02",
+  "count": 2685,
   "products": [
     {
       "ref": "000001",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 96
+      "stock": 92
     },
     {
       "ref": "121212",
@@ -206,7 +206,7 @@
       "ref": "140V",
       "designation": "PORTE DOCUMENT 140 VUES",
       "prix": 38.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "141414",
@@ -2101,7 +2101,7 @@
       "ref": "B-135",
       "designation": "BOITE ARCHIVE CARTONE MM135",
       "prix": 9.0,
-      "stock": 0
+      "stock": 37
     },
     {
       "ref": "B-160",
@@ -2348,8 +2348,8 @@
     {
       "ref": "BC-A4",
       "designation": "BLOC STENO A4",
-      "prix": 15.0,
-      "stock": 8
+      "prix": 17.0,
+      "stock": 6
     },
     {
       "ref": "BG-10M",
@@ -2548,7 +2548,7 @@
       "ref": "BL-G2-7-B",
       "designation": "STYLO PILOT BLEU BL-G2-7-B",
       "prix": 18.0,
-      "stock": 66,
+      "stock": 126,
       "image": "images/produits/bl-g2-7-b.webp"
     },
     {
@@ -2774,7 +2774,7 @@
       "ref": "BR-002",
       "designation": "CABLE TYPE-C TYPE-C  BRUDER BR-002",
       "prix": 40.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "BR-008",
@@ -3314,7 +3314,7 @@
       "ref": "CA100",
       "designation": "CABLE ALIMENTATION PC PORTABLE 1,5",
       "prix": 30.0,
-      "stock": 231
+      "stock": 230
     },
     {
       "ref": "CA-10M",
@@ -3838,7 +3838,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 46
+      "stock": 44
     },
     {
       "ref": "CC-2008",
@@ -4007,7 +4007,7 @@
       "ref": "CD-2799",
       "designation": "CATIGA CD-2799 CALCULATRICE ELECTRONIQUE 12CHF",
       "prix": 120.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "CD-65W",
@@ -4145,7 +4145,7 @@
       "ref": "CE505A",
       "designation": "TONER CARRERA CE505A CF280A NOIR",
       "prix": 220.0,
-      "stock": 5
+      "stock": 3
     },
     {
       "ref": "CEC002",
@@ -4499,7 +4499,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 83
+      "stock": 75
     },
     {
       "ref": "CH200W",
@@ -5086,7 +5086,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 29
+      "stock": 128
     },
     {
       "ref": "COP-SA4",
@@ -5302,7 +5302,7 @@
       "ref": "CR-240G",
       "designation": "CHEMISE CARTONNE CHRONO ROUSE 240GR",
       "prix": 95.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CR-2M",
@@ -5530,7 +5530,7 @@
       "ref": "CRV-0023",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA VERT",
       "prix": 10.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "CS-043",
@@ -6711,7 +6711,7 @@
       "ref": "E-5557J",
       "designation": "ENVELOPPE PLASTIQUE AVEC BOUTON  BOSTON JAUNE 5557J",
       "prix": 6.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "E-5557R",
@@ -7005,7 +7005,7 @@
       "ref": "ENV-229/324",
       "designation": "ENVELOPPES KRAFT POCHETTES 229*324 MM A4",
       "prix": 3.0,
-      "stock": 0
+      "stock": 250
     },
     {
       "ref": "ENV-25",
@@ -7065,7 +7065,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 9
+      "stock": 7
     },
     {
       "ref": "ENV-A4+",
@@ -7089,7 +7089,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 858
+      "stock": 855
     },
     {
       "ref": "ENV-A5P",
@@ -7320,6 +7320,12 @@
       "stock": 2
     },
     {
+      "ref": "EXP-A4",
+      "designation": "RAMETTE PAPIER A4 EXPLORER 90G 500F",
+      "prix": 85.0,
+      "stock": 20
+    },
+    {
       "ref": "EXPRESS-40M",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4470",
       "prix": 70.0,
@@ -7360,13 +7366,13 @@
       "ref": "F00B",
       "designation": "FICHE PERSONNELLE BLEU",
       "prix": 3.0,
-      "stock": 10
+      "stock": 110
     },
     {
       "ref": "F00R",
       "designation": "FICHE PERSONNELLE ROUSE",
       "prix": 3.0,
-      "stock": 6
+      "stock": 106
     },
     {
       "ref": "F00V",
@@ -7667,7 +7673,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 884
+      "stock": 875
     },
     {
       "ref": "G-CF279",
@@ -10827,7 +10833,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 22,
+      "stock": 117,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11010,7 +11016,7 @@
       "ref": "NWC-W1360A",
       "designation": "TONER NWC HP  W1360A AVEC PUCE",
       "prix": 330.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "NYL-66",
@@ -11148,7 +11154,7 @@
       "ref": "P-100V",
       "designation": "PORTE DOCUMENT 100 VUES",
       "prix": 35.0,
-      "stock": 18
+      "stock": 17
     },
     {
       "ref": "P1200",
@@ -11536,7 +11542,7 @@
       "ref": "PD-00200",
       "designation": "PORTE DOCUMENT 200 VUES",
       "prix": 46.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "PD-1510037V040",
@@ -11620,7 +11626,7 @@
       "ref": "PER-B501",
       "designation": "PERFOREUSE 2 TROUS BOSTON  / B501",
       "prix": 70.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "PET350SPL1",
@@ -12739,7 +12745,7 @@
       "ref": "RC-80X75",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80x75",
       "prix": 12.0,
-      "stock": 25
+      "stock": 22
     },
     {
       "ref": "RCA-10M",
@@ -13366,7 +13372,7 @@
       "ref": "SAM-45W",
       "designation": "CHARGEUR SAMSUNG 45W TYPE C",
       "prix": 100.0,
-      "stock": 10,
+      "stock": 9,
       "image": "images/produits/sam-45w.webp"
     },
     {
@@ -13822,7 +13828,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 297
+      "stock": 236
     },
     {
       "ref": "SIDI-ALII-15",
@@ -15239,7 +15245,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 21
+      "stock": 19
     },
     {
       "ref": "TP-2",
@@ -15786,7 +15792,7 @@
       "ref": "W1500A-W",
       "designation": "TONER HP 150A W1500A WORD",
       "prix": 200.0,
-      "stock": 25
+      "stock": 22
     },
     {
       "ref": "W1510",
@@ -16118,7 +16124,7 @@
       "ref": "W-CF212",
       "designation": "TONER WORLD CF212A/CB542A/CE322A JAUNE",
       "prix": 220.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "W-CF213",
@@ -16263,7 +16269,7 @@
       "ref": "WOR-CF210",
       "designation": "TONER WORD CF210A/CB540A/CE320A NOIR",
       "prix": 180.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "WTV-7001",
@@ -16409,13 +16415,13 @@
       "ref": "XO-847",
       "designation": "REGISTRE COURRIER DEPART EXPRESS XO-847",
       "prix": 65.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "XO-854",
       "designation": "REGISTRE COURRIER ARRIVEE EXPRESS XO-854",
       "prix": 70.0,
-      "stock": 1
+      "stock": 2
     },
     {
       "ref": "XP5-ELEC",
