@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:00:02",
+  "generated_at": "2026-10-25T06:00:01",
   "count": 2685,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 92
+      "stock": 91
     },
     {
       "ref": "121212",
@@ -254,7 +254,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 307
+      "stock": 303
     },
     {
       "ref": "1566",
@@ -995,7 +995,7 @@
       "ref": "9002",
       "designation": "RLX ETIQUETEUSE MEMORY 21*12MM-- 1000RLX/CTN",
       "prix": 5.0,
-      "stock": 60
+      "stock": 50
     },
     {
       "ref": "90NR0LR1-M00AM0",
@@ -2422,7 +2422,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 919,
+      "stock": 918,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -4019,7 +4019,7 @@
       "ref": "CD-700MB",
       "designation": "CD-R ANGTE 50 700MB 80MIN",
       "prix": 5.0,
-      "stock": 171
+      "stock": 121
     },
     {
       "ref": "CD90W",
@@ -4499,7 +4499,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 75
+      "stock": 72
     },
     {
       "ref": "CH200W",
@@ -5770,7 +5770,7 @@
       "ref": "D-30102",
       "designation": "CLAVIER ARABE PELIKAN",
       "prix": 10.0,
-      "stock": 42
+      "stock": 41
     },
     {
       "ref": "D301V4",
@@ -6999,7 +6999,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 2006
+      "stock": 2005
     },
     {
       "ref": "ENV-229/324",
@@ -7065,7 +7065,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "ENV-A4+",
@@ -7143,7 +7143,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 570
+      "stock": 568
     },
     {
       "ref": "ENVT-0028",
@@ -7673,7 +7673,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 875
+      "stock": 872
     },
     {
       "ref": "G-CF279",
@@ -9528,7 +9528,7 @@
       "ref": "KAS-1P",
       "designation": "KASPERSKY PLUS 1 APPAREIL",
       "prix": 150.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "KAS-3P",
@@ -10833,7 +10833,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 117,
+      "stock": 97,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -12745,7 +12745,7 @@
       "ref": "RC-80X75",
       "designation": "ROULEAU DE CAISSE THERMIQUE 80x75",
       "prix": 12.0,
-      "stock": 22
+      "stock": 20
     },
     {
       "ref": "RCA-10M",
@@ -13524,7 +13524,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "SC1630",
@@ -13828,7 +13828,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 236
+      "stock": 235
     },
     {
       "ref": "SIDI-ALII-15",
@@ -15677,7 +15677,7 @@
       "ref": "VGA-1.5",
       "designation": "CABLE VGA VGA 1,5m",
       "prix": 30.0,
-      "stock": 34
+      "stock": 33
     },
     {
       "ref": "VGA-15M",
