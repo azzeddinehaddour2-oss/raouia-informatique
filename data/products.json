@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:00:01",
+  "generated_at": "2026-10-27T06:00:01",
   "count": 2685,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 91
+      "stock": 86
     },
     {
       "ref": "121212",
@@ -1301,7 +1301,7 @@
       "ref": "A5-170/250",
       "designation": "ENVELOPPES A5 POCHETTE KRAFT 170*250 GAZELLE",
       "prix": 1.5,
-      "stock": 0
+      "stock": 250
     },
     {
       "ref": "A-541",
@@ -1481,7 +1481,7 @@
       "ref": "ACE-10L",
       "designation": "EAU JAVEL ACE 10L",
       "prix": 75.0,
-      "stock": 6
+      "stock": 3
     },
     {
       "ref": "ACE-2.5L",
@@ -2289,13 +2289,13 @@
       "ref": "BAN-LAV",
       "designation": "BANO MATIC Lavande Sac 9 kg",
       "prix": 110.0,
-      "stock": 25
+      "stock": 23
     },
     {
       "ref": "BAN-OC",
       "designation": "BANO MATIC Océanique Sac 9 kg",
       "prix": 110.0,
-      "stock": 29
+      "stock": 27
     },
     {
       "ref": "BAP-0031",
@@ -3236,7 +3236,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": -4
+      "stock": 36
     },
     {
       "ref": "C4313",
@@ -3772,7 +3772,7 @@
       "ref": "CB1017",
       "designation": "CISEAU POUR BUREAU CB1017",
       "prix": 18.0,
-      "stock": 10
+      "stock": 20
     },
     {
       "ref": "CB-240G",
@@ -3838,7 +3838,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 44
+      "stock": 41
     },
     {
       "ref": "CC-2008",
@@ -5530,7 +5530,7 @@
       "ref": "CRV-0023",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA VERT",
       "prix": 10.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "CS-043",
@@ -5632,7 +5632,7 @@
       "ref": "CU002",
       "designation": "cuillères blanches jetables en plastique GM",
       "prix": 0.5,
-      "stock": 0
+      "stock": 500
     },
     {
       "ref": "CU-60ARL",
@@ -7065,7 +7065,7 @@
       "ref": "ENV-8B",
       "designation": "ENVELOPPE PLASTIQUE BOUTON",
       "prix": 8.0,
-      "stock": 6
+      "stock": 4
     },
     {
       "ref": "ENV-A4+",
@@ -7089,7 +7089,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 855
+      "stock": 854
     },
     {
       "ref": "ENV-A5P",
@@ -7197,7 +7197,7 @@
       "ref": "ESS-02",
       "designation": "PAPIER ESSUIE MAIN 1K",
       "prix": 45.0,
-      "stock": 42
+      "stock": 30
     },
     {
       "ref": "ESSI-300",
@@ -7263,7 +7263,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1157
+      "stock": 1156
     },
     {
       "ref": "EV33",
@@ -7372,7 +7372,7 @@
       "ref": "F00R",
       "designation": "FICHE PERSONNELLE ROUSE",
       "prix": 3.0,
-      "stock": 106
+      "stock": 206
     },
     {
       "ref": "F00V",
@@ -7630,7 +7630,7 @@
       "ref": "G3410",
       "designation": "IMPREMANTE PIXMA CANON G3410 TANK MFP WIFI COLOR",
       "prix": 1560.0,
-      "stock": 3,
+      "stock": 2,
       "image": "images/produits/g3410.webp"
     },
     {
@@ -7673,7 +7673,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 872
+      "stock": 869
     },
     {
       "ref": "G-CF279",
@@ -7850,7 +7850,7 @@
       "ref": "GOB-005",
       "designation": "GOBLET TRANSPARENT +COUV BOMB",
       "prix": 1.0,
-      "stock": 205
+      "stock": 5
     },
     {
       "ref": "GOB-40Z",
@@ -9399,7 +9399,7 @@
       "ref": "J-1820G",
       "designation": "CHEMISE CARTONNEE JAUNE 180g",
       "prix": 80.0,
-      "stock": 1
+      "stock": 4
     },
     {
       "ref": "J6608",
@@ -9565,7 +9565,7 @@
       "ref": "KB8236",
       "designation": "DI FASHION CLAVIER KB8236",
       "prix": 60.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "KC01",
@@ -10410,7 +10410,7 @@
       "ref": "MED-B60",
       "designation": "CHEMISE BULLE ROLLING 21*31 60g",
       "prix": 50.0,
-      "stock": 2
+      "stock": 5
     },
     {
       "ref": "MEF21",
@@ -10652,7 +10652,7 @@
       "ref": "MR-R",
       "designation": "PAPIER PHOTO A4 MR.R 210*297 MM",
       "prix": 60.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "MR-ROUGE",
@@ -10833,7 +10833,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 97,
+      "stock": 92,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11010,7 +11010,7 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "NWC-W1360A",
@@ -11542,7 +11542,7 @@
       "ref": "PD-00200",
       "designation": "PORTE DOCUMENT 200 VUES",
       "prix": 46.0,
-      "stock": 0
+      "stock": 3
     },
     {
       "ref": "PD-1510037V040",
@@ -11891,7 +11891,7 @@
       "ref": "PP005",
       "designation": "PAPIER HYGIENIQUE",
       "prix": 20.0,
-      "stock": 216
+      "stock": 144
     },
     {
       "ref": "PP12",
@@ -12517,7 +12517,7 @@
       "ref": "R-180G",
       "designation": "CHEMISE CARTONNEE ROUSE 180g",
       "prix": 80.0,
-      "stock": 1
+      "stock": 4
     },
     {
       "ref": "R-2",
@@ -13176,7 +13176,7 @@
       "ref": "S2025",
       "designation": "SOURIS USB NORMAL JEDEL 220",
       "prix": 25.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "S22I-30",
@@ -13269,7 +13269,7 @@
       "ref": "S-5L-L",
       "designation": "SANI DESINFECTANT LAVANDE 5L",
       "prix": 45.0,
-      "stock": 8
+      "stock": 9
     },
     {
       "ref": "S621B",
@@ -13365,7 +13365,7 @@
       "ref": "SAM-25W",
       "designation": "CHARGEUR SAMSUNG 25W TYPE C",
       "prix": 80.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/sam-25w.webp"
     },
     {
@@ -13828,7 +13828,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 235
+      "stock": 234
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13954,7 +13954,7 @@
       "ref": "SP-1.5M",
       "designation": "CABLE IMPRIMANTE HIGH SPEED 1,5M",
       "prix": 30.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "SP-10M",
@@ -14463,7 +14463,7 @@
       "ref": "TAB-028",
       "designation": "TROMBONNES EN ACIER BOSTON 100 PIECES UNITE 28mm 2111",
       "prix": 6.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "TAB-0628",
@@ -14583,7 +14583,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 79
+      "stock": 99
     },
     {
       "ref": "T-BLEU",
@@ -16421,7 +16421,7 @@
       "ref": "XO-854",
       "designation": "REGISTRE COURRIER ARRIVEE EXPRESS XO-854",
       "prix": 70.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "XP5-ELEC",
