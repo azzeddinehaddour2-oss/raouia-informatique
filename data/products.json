@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:00:01",
+  "generated_at": "2026-10-29T06:00:01",
   "count": 2685,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 86
+      "stock": 83
     },
     {
       "ref": "121212",
@@ -254,7 +254,7 @@
       "ref": "1552",
       "designation": "AGRAFES DELTA STAPLES 24/6  1552",
       "prix": 5.0,
-      "stock": 303
+      "stock": 273
     },
     {
       "ref": "1566",
@@ -1745,7 +1745,7 @@
       "ref": "AGEF140",
       "designation": "AGRAFEUSE ECOLO 24/6    RF AGEF140",
       "prix": 30.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "AGEF150",
@@ -2605,7 +2605,7 @@
       "ref": "BLOC-A5",
       "designation": "BLOC NOTE NOIR FT A5 EN 100 FEUILLES",
       "prix": 35.0,
-      "stock": 28
+      "stock": 27
     },
     {
       "ref": "BL-WN151",
@@ -2780,7 +2780,7 @@
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "BR-01",
@@ -3086,7 +3086,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 43
+      "stock": 42
     },
     {
       "ref": "C200041380",
@@ -3236,7 +3236,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 36
+      "stock": 34
     },
     {
       "ref": "C4313",
@@ -3526,7 +3526,7 @@
       "ref": "CAR-CF310",
       "designation": "TONER CARRERA CE310A CF350A NOIR",
       "prix": 180.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "CAR-CF351",
@@ -3838,7 +3838,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 41
+      "stock": 36
     },
     {
       "ref": "CC-2008",
@@ -3959,7 +3959,7 @@
       "ref": "CD2472",
       "designation": "CALCULER 12CHF 155x103MM CATIGA--40PCS/CTN CD2472",
       "prix": 100.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "CD2476",
@@ -4181,7 +4181,7 @@
       "ref": "CEC041",
       "designation": "Crono classeur sicla 2 caneau",
       "prix": 32.0,
-      "stock": 20
+      "stock": 10
     },
     {
       "ref": "CEC049",
@@ -4292,7 +4292,7 @@
       "ref": "CF230A",
       "designation": "TONER WORD CF230A NOIR",
       "prix": 150.0,
-      "stock": 9
+      "stock": 4
     },
     {
       "ref": "CF259A",
@@ -4499,7 +4499,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 72
+      "stock": 70
     },
     {
       "ref": "CH200W",
@@ -5086,7 +5086,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 128
+      "stock": 126
     },
     {
       "ref": "COP-SA4",
@@ -5328,7 +5328,7 @@
       "ref": "CR-8M",
       "designation": "CABLE RESEAU 8M",
       "prix": 96.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/illustrations/cable-reseau.webp",
       "illustration": true
     },
@@ -5428,7 +5428,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "CRR-655",
@@ -5716,7 +5716,7 @@
       "ref": "D-0232",
       "designation": "ARRACHE AGRAFE DEAGRAFFE DELI NO°0232",
       "prix": 10.0,
-      "stock": -4
+      "stock": 0
     },
     {
       "ref": "D-1.2M",
@@ -6771,7 +6771,7 @@
       "ref": "EC-009",
       "designation": "ECOUTEUR VLIKE VK6S",
       "prix": 60.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "EC-046",
@@ -7011,7 +7011,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 0
+      "stock": 249
     },
     {
       "ref": "ENV-25/35",
@@ -7089,7 +7089,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 854
+      "stock": 796
     },
     {
       "ref": "ENV-A5P",
@@ -7263,13 +7263,13 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 1156
+      "stock": 956
     },
     {
       "ref": "EV33",
       "designation": "ENVELOPPES OMA JAUNE V  22*330 MM",
       "prix": 2.0,
-      "stock": 198
+      "stock": 178
     },
     {
       "ref": "EVOLVE2",
@@ -7673,7 +7673,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 869
+      "stock": 866
     },
     {
       "ref": "G-CF279",
@@ -8067,7 +8067,7 @@
       "ref": "HDM-10M",
       "designation": "CABLE HDMI 10M 4K HDTV PREMIUM",
       "prix": 140.0,
-      "stock": 5,
+      "stock": 0,
       "image": "images/illustrations/cable-hdmi.webp",
       "illustration": true
     },
@@ -10466,7 +10466,7 @@
       "ref": "MI034-5",
       "designation": "MOTARRO ENCRE BLEU LIQUIDE",
       "prix": 12.0,
-      "stock": 23
+      "stock": 21
     },
     {
       "ref": "MI035-5",
@@ -10514,7 +10514,7 @@
       "ref": "MIN-A2",
       "designation": "PAPIER MINISTER A2",
       "prix": 5.0,
-      "stock": 17
+      "stock": 16
     },
     {
       "ref": "MINI-AGB",
@@ -10578,19 +10578,19 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 161
+      "stock": 160
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 96
+      "stock": 95
     },
     {
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 111
+      "stock": 110
     },
     {
       "ref": "MON-V",
@@ -10833,7 +10833,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 92,
+      "stock": 82,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -10992,7 +10992,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 38
+      "stock": 37
     },
     {
       "ref": "NWC-CF226A",
@@ -12553,7 +12553,7 @@
       "ref": "R30CM",
       "designation": "REGLE 30CM CETVEL ARK",
       "prix": 5.0,
-      "stock": 21
+      "stock": 20
     },
     {
       "ref": "R32304",
@@ -13311,7 +13311,7 @@
       "ref": "S650B",
       "designation": "STYLO SMART  650Q BLEU",
       "prix": 2.0,
-      "stock": 992
+      "stock": 991
     },
     {
       "ref": "S650N",
@@ -13524,7 +13524,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 19
+      "stock": 11
     },
     {
       "ref": "SC1630",
@@ -13750,7 +13750,7 @@
       "ref": "SICLA-BLEU",
       "designation": "CLASSEUR SICLA BLEU",
       "prix": 25.0,
-      "stock": 6
+      "stock": 4
     },
     {
       "ref": "SICLA-BN",
@@ -13792,7 +13792,7 @@
       "ref": "SICLA-R",
       "designation": "CLASSEUR  SICLA ROUGE",
       "prix": 28.0,
-      "stock": 15
+      "stock": 13
     },
     {
       "ref": "SICLA-V",
@@ -13828,7 +13828,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 234
+      "stock": 232
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14038,7 +14038,7 @@
       "ref": "SP-51M",
       "designation": "SPIRAL DE RELIURE 51 MM",
       "prix": 5.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "SP-6MM",
@@ -14785,7 +14785,7 @@
       "ref": "THER-TPE",
       "designation": "PAPIER THERMIQUE N°40 TPE",
       "prix": 6.0,
-      "stock": 12
+      "stock": -8
     },
     {
       "ref": "THINKPAD",
@@ -15154,7 +15154,7 @@
       "ref": "TN-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE  BLACK",
       "prix": 900.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "TNB-001",
@@ -16136,7 +16136,7 @@
       "ref": "W-CF217",
       "designation": "TONER WORLD CF217A NOIR",
       "prix": 180.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "W-CF310",
