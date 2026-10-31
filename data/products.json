@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T06:00:01",
-  "count": 2685,
+  "generated_at": "2026-10-31T06:00:02",
+  "count": 2702,
   "products": [
     {
       "ref": "000001",
@@ -464,7 +464,7 @@
       "ref": "2300A-B",
       "designation": "TONER NWC HP 2300A BLACK 230A 4203D",
       "prix": 320.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "2300R",
@@ -555,7 +555,7 @@
       "ref": "305-N",
       "designation": "CARTOUCHE HP 305 NOIR",
       "prix": 230.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "311722",
@@ -612,6 +612,12 @@
       "prix": 9350.0,
       "stock": 0,
       "image": "images/produits/3540-i5.webp"
+    },
+    {
+      "ref": "35L-40P",
+      "designation": "SAC POUBELLE ELEGANT 35L 40P",
+      "prix": 0.0,
+      "stock": 7
     },
     {
       "ref": "369N",
@@ -751,7 +757,7 @@
       "ref": "567-1R",
       "designation": "BLOC CUBE COULEURS AVEC SUPPORT 567-1R",
       "prix": 25.0,
-      "stock": 18
+      "stock": 16
     },
     {
       "ref": "56-C",
@@ -844,7 +850,7 @@
       "ref": "6638-4",
       "designation": "FLUORESCENT 4 COULEURS BOSTON 6638-4",
       "prix": 25.0,
-      "stock": 16
+      "stock": 15
     },
     {
       "ref": "664-C",
@@ -2113,7 +2119,7 @@
       "ref": "B232",
       "designation": "ARRACHE AGRAFE DEAGRAFFE HI-PRO REF:B232",
       "prix": 10.0,
-      "stock": 0
+      "stock": 10
     },
     {
       "ref": "B2915N",
@@ -2292,6 +2298,12 @@
       "stock": 23
     },
     {
+      "ref": "BANO-5L",
+      "designation": "SAVON LIQUIDE BANO  5L",
+      "prix": 75.0,
+      "stock": 0
+    },
+    {
       "ref": "BAN-OC",
       "designation": "BANO MATIC Océanique Sac 9 kg",
       "prix": 110.0,
@@ -2337,7 +2349,7 @@
       "ref": "BC-5671",
       "designation": "BLOC CUBE BLANC AVEC SUPPORT",
       "prix": 25.0,
-      "stock": 28
+      "stock": 27
     },
     {
       "ref": "BC-90X90",
@@ -2422,7 +2434,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 918,
+      "stock": 868,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2462,7 +2474,7 @@
       "ref": "BIC-R",
       "designation": "STYLO BIC ROUGE",
       "prix": 1.5,
-      "stock": 619
+      "stock": 569
     },
     {
       "ref": "BIC-RV",
@@ -2474,7 +2486,7 @@
       "ref": "BIC-V",
       "designation": "STYLO BIC VERT",
       "prix": 1.5,
-      "stock": 512,
+      "stock": 462,
       "image": "images/produits/bic-v.webp"
     },
     {
@@ -2541,14 +2553,14 @@
       "ref": "BL-G2-7-8",
       "designation": "STYLO PILOT NOIR  BL-G2-7-8",
       "prix": 18.0,
-      "stock": 114,
+      "stock": 102,
       "image": "images/produits/bl-g2-7-8.webp"
     },
     {
       "ref": "BL-G2-7-B",
       "designation": "STYLO PILOT BLEU BL-G2-7-B",
       "prix": 18.0,
-      "stock": 126,
+      "stock": 114,
       "image": "images/produits/bl-g2-7-b.webp"
     },
     {
@@ -2581,7 +2593,7 @@
       "ref": "BLOA4S",
       "designation": "BLOC NOTE A4 SPIRAL STENO",
       "prix": 17.0,
-      "stock": 0
+      "stock": 3
     },
     {
       "ref": "BLOC-13.5X21",
@@ -2630,7 +2642,7 @@
       "ref": "BL-WN351",
       "designation": "LB-LINK N300 WIRELESS USB ADAPTER BL-WN351",
       "prix": 70.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "BM-101",
@@ -3086,7 +3098,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 42
+      "stock": 40
     },
     {
       "ref": "C200041380",
@@ -3731,10 +3743,22 @@
       "stock": 0
     },
     {
+      "ref": "CAT6-1.5M-OR",
+      "designation": "W-D-LINK Patch Cord Network Cable 1.5M Orange",
+      "prix": 15.0,
+      "stock": 1
+    },
+    {
       "ref": "CAT6-10M",
       "designation": "CABLE RESEAU VCOM CAT6 10m",
       "prix": 60.0,
       "stock": 0
+    },
+    {
+      "ref": "CAT6-10M-OR",
+      "designation": "W-D-LINK Patch Cord Network Cable 10M Orange",
+      "prix": 65.0,
+      "stock": 5
     },
     {
       "ref": "CAT6-15M",
@@ -3763,8 +3787,26 @@
       "illustration": true
     },
     {
+      "ref": "CAT6E-3M",
+      "designation": "Patch Cord Network Cable Cat6 3M Light",
+      "prix": 40.0,
+      "stock": 5
+    },
+    {
+      "ref": "CAT6E-5M",
+      "designation": "Patch Cord Network Cable Cat6 5M",
+      "prix": 50.0,
+      "stock": 5
+    },
+    {
       "ref": "CAT-A4",
       "designation": "Catalogue FT A4 paysage en 126 pages imp R/V Sur papier couché 300g",
+      "prix": 0.0,
+      "stock": 0
+    },
+    {
+      "ref": "CAT-PT",
+      "designation": "Catalogue FT 21x21 en 126 pages sur papier 135g",
       "prix": 0.0,
       "stock": 0
     },
@@ -4499,7 +4541,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 70
+      "stock": 66
     },
     {
       "ref": "CH200W",
@@ -4628,7 +4670,7 @@
       "ref": "CHEV-TAB",
       "designation": "CHEVALIER DE TABLEAU",
       "prix": 0.0,
-      "stock": -2
+      "stock": 0
     },
     {
       "ref": "CHP-21",
@@ -5065,7 +5107,7 @@
       "ref": "CON-BL",
       "designation": "PAPIER CANSON BLANC A2",
       "prix": 8.0,
-      "stock": 26,
+      "stock": 22,
       "image": "images/produits/con-bl.webp"
     },
     {
@@ -5086,7 +5128,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 126
+      "stock": 121
     },
     {
       "ref": "COP-SA4",
@@ -5336,7 +5378,7 @@
       "ref": "CRB-0021",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU",
       "prix": 10.0,
-      "stock": 54
+      "stock": 52
     },
     {
       "ref": "CRBC-0024",
@@ -5386,7 +5428,7 @@
       "ref": "CRJ-0019",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA JAUNE",
       "prix": 10.0,
-      "stock": 28
+      "stock": 26
     },
     {
       "ref": "CRJ45",
@@ -5404,7 +5446,7 @@
       "ref": "CRO-0022",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ORANGE",
       "prix": 10.0,
-      "stock": 23
+      "stock": 22
     },
     {
       "ref": "CR-OR",
@@ -5972,6 +6014,12 @@
       "image": "images/produits/del-130w.webp"
     },
     {
+      "ref": "DEL-5400-I7",
+      "designation": "DELL 5400 I7 8th 8 RAM 128 SSD",
+      "prix": 3200.0,
+      "stock": 1
+    },
+    {
       "ref": "DEL-5560-I7",
       "designation": "DELL PRECISION 5560 I7-11Th Gen -15.6\"- 4K ULTRASharp Tactile 4K I7",
       "prix": 12500.0,
@@ -6122,7 +6170,7 @@
       "ref": "DISP-1.5M",
       "designation": "CABLE DISPLAY DISPLAY 1.5M",
       "prix": 35.0,
-      "stock": 5,
+      "stock": 6,
       "image": "images/illustrations/cable-displayport.webp",
       "illustration": true
     },
@@ -6496,9 +6544,9 @@
     },
     {
       "ref": "DS-3E0108D-O",
-      "designation": "HIKVISION SWITCH DS-3E0108D-O FAST ETHERNET 10/100",
+      "designation": "HIKVISION SWITCH DS-3E0108D-O 8-PORT FAST ETHERNET 10/100",
       "prix": 150.0,
-      "stock": 3
+      "stock": 8
     },
     {
       "ref": "DS-3E0109P-E/M",
@@ -6573,7 +6621,7 @@
       "ref": "DSP-ADPT",
       "designation": "CABLE DISPLAY DISPLAY PORT ADAPTER",
       "prix": 60.0,
-      "stock": 2
+      "stock": 7
     },
     {
       "ref": "DSP-HDMI",
@@ -6999,7 +7047,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 2005
+      "stock": 1993
     },
     {
       "ref": "ENV-229/324",
@@ -7011,7 +7059,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 249
+      "stock": 248
     },
     {
       "ref": "ENV-25/35",
@@ -7077,7 +7125,7 @@
       "ref": "ENV-A4+GAZ",
       "designation": "ENVELOPPE POCHETTE A4+ BLANC 260*360 GAZELLE",
       "prix": 3.5,
-      "stock": 443
+      "stock": 442
     },
     {
       "ref": "ENV-A4B",
@@ -7143,7 +7191,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 568
+      "stock": 563
     },
     {
       "ref": "ENVT-0028",
@@ -7263,7 +7311,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 956
+      "stock": 756
     },
     {
       "ref": "EV33",
@@ -7372,7 +7420,7 @@
       "ref": "F00R",
       "designation": "FICHE PERSONNELLE ROUSE",
       "prix": 3.0,
-      "stock": 206
+      "stock": 106
     },
     {
       "ref": "F00V",
@@ -7420,7 +7468,7 @@
       "ref": "F-A5",
       "designation": "FICHE A5 PAPIER BRISTOLE",
       "prix": 30.0,
-      "stock": 1
+      "stock": 3
     },
     {
       "ref": "FABR-1761",
@@ -7457,6 +7505,12 @@
       "designation": "FICHE A2 PAPIER BRISTOLE DETAIL",
       "prix": 5.0,
       "stock": 120
+    },
+    {
+      "ref": "FB-A5",
+      "designation": "FICHE A5 PAPIER BRISTOLE COULEUR",
+      "prix": 35.0,
+      "stock": 0
     },
     {
       "ref": "FBC-B",
@@ -7630,7 +7684,7 @@
       "ref": "G3410",
       "designation": "IMPREMANTE PIXMA CANON G3410 TANK MFP WIFI COLOR",
       "prix": 1560.0,
-      "stock": 2,
+      "stock": 5,
       "image": "images/produits/g3410.webp"
     },
     {
@@ -7758,7 +7812,7 @@
       "ref": "GI-490C",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490C BLEU 70ML",
       "prix": 162.0,
-      "stock": 1,
+      "stock": 2,
       "image": "images/produits/gi-490c.webp"
     },
     {
@@ -7783,7 +7837,7 @@
       "ref": "GI-490N",
       "designation": "CANON BOUTEILLE D'ENCRE GI-490N NOIR 135",
       "prix": 162.0,
-      "stock": 0
+      "stock": 1
     },
     {
       "ref": "GI-490Y",
@@ -7862,7 +7916,7 @@
       "ref": "GOM402",
       "designation": "GOMME BLANCHE FOR STUDENT GOM402",
       "prix": 3.0,
-      "stock": 99
+      "stock": 95
     },
     {
       "ref": "GOM-M",
@@ -8019,7 +8073,7 @@
       "ref": "HB2",
       "designation": "CRAYON HB 2 PENCIL",
       "prix": 2.0,
-      "stock": 432
+      "stock": 420
     },
     {
       "ref": "HCS200",
@@ -8067,7 +8121,7 @@
       "ref": "HDM-10M",
       "designation": "CABLE HDMI 10M 4K HDTV PREMIUM",
       "prix": 140.0,
-      "stock": 0,
+      "stock": 1,
       "image": "images/illustrations/cable-hdmi.webp",
       "illustration": true
     },
@@ -9094,9 +9148,21 @@
       "stock": 11
     },
     {
+      "ref": "HS-USB-M200-128G-U",
+      "designation": "CLE Hiksemi Flash Drive 128GB USB 3.0",
+      "prix": 180.0,
+      "stock": 5
+    },
+    {
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
+      "stock": 15
+    },
+    {
+      "ref": "HS-USB-M200-32G",
+      "designation": "Hiksemi Flash Drive 32GB USB 2.0",
+      "prix": 120.0,
       "stock": 5
     },
     {
@@ -9139,7 +9205,7 @@
       "ref": "IAN-4833620",
       "designation": "STYLO COULEUR GEL CRELANDO",
       "prix": 2.0,
-      "stock": 118
+      "stock": 117
     },
     {
       "ref": "IBM-16V",
@@ -9744,9 +9810,9 @@
     },
     {
       "ref": "L14R5",
-      "designation": "Lenovo ThinkPad L14 G2 / Ryzen 5/ 8gb RAM 256 SSD",
+      "designation": "Lenovo ThinkPad L14 Gen2  i5 8gb RAM 256 SSD 11th",
       "prix": 3000.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/l14r5.webp"
     },
     {
@@ -9986,7 +10052,7 @@
       "ref": "LOGT-M171",
       "designation": "SOURIS SANS FIL LOGITECH M171",
       "prix": 200.0,
-      "stock": 8,
+      "stock": 13,
       "image": "images/produits/logt-m171.webp"
     },
     {
@@ -10208,7 +10274,7 @@
       "ref": "M185",
       "designation": "LOGITECH Wireless Mouse M185 Swift Grey WER Occident Pack",
       "prix": 200.0,
-      "stock": 1,
+      "stock": 6,
       "image": "images/produits/m185.webp"
     },
     {
@@ -10578,25 +10644,25 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 160
+      "stock": 158
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 95
+      "stock": 94
     },
     {
       "ref": "MON-R",
       "designation": "MARQUEUR MONAMI ROUGE",
       "prix": 10.0,
-      "stock": 110
+      "stock": 108
     },
     {
       "ref": "MON-V",
       "designation": "MARQUEUR MONAMI VERT",
       "prix": 10.0,
-      "stock": 95
+      "stock": 92
     },
     {
       "ref": "MP02",
@@ -10974,7 +11040,7 @@
       "ref": "N-PM",
       "designation": "POUBELLE METALLIQUE NOIR PM",
       "prix": 40.0,
-      "stock": 3
+      "stock": 1
     },
     {
       "ref": "NVME-512",
@@ -11010,13 +11076,13 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 0
+      "stock": 5
     },
     {
       "ref": "NWC-W1360A",
       "designation": "TONER NWC HP  W1360A AVEC PUCE",
       "prix": 330.0,
-      "stock": 2
+      "stock": 6
     },
     {
       "ref": "NYL-66",
@@ -11121,10 +11187,16 @@
       "stock": 0
     },
     {
+      "ref": "OTN-5117",
+      "designation": "Onten Adapter DisplayPort to HDMI OTN-5117",
+      "prix": 100.0,
+      "stock": 0
+    },
+    {
       "ref": "OTN-5169",
       "designation": "HDMI TO VGA ADAPTER WITH AUDIO OTN-5169",
       "prix": 120.0,
-      "stock": 1
+      "stock": 2
     },
     {
       "ref": "P002",
@@ -11368,7 +11440,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 14
+      "stock": 12
     },
     {
       "ref": "PAPPH-A4",
@@ -11667,7 +11739,7 @@
     {
       "ref": "PG-511",
       "designation": "CARTOUCHE CANON PG-511 COULEUR",
-      "prix": 280.0,
+      "prix": 300.0,
       "stock": 0
     },
     {
@@ -13506,7 +13578,7 @@
       "ref": "SB112",
       "designation": "BLANCO TURBO SB112",
       "prix": 7.0,
-      "stock": 16
+      "stock": 13
     },
     {
       "ref": "SB-40M",
@@ -13524,7 +13596,7 @@
       "ref": "SC005",
       "designation": "SCOTCH BUREAU MOYEN",
       "prix": 3.5,
-      "stock": 11
+      "stock": 7
     },
     {
       "ref": "SC1630",
@@ -13828,7 +13900,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 232
+      "stock": 215
     },
     {
       "ref": "SIDI-ALII-15",
@@ -13900,7 +13972,7 @@
       "ref": "S-NOVO",
       "designation": "SCOTCH D'EMBALLAGE NOVO",
       "prix": 10.0,
-      "stock": 13
+      "stock": 11
     },
     {
       "ref": "SO-40M",
@@ -13954,7 +14026,7 @@
       "ref": "SP-1.5M",
       "designation": "CABLE IMPRIMANTE HIGH SPEED 1,5M",
       "prix": 30.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "SP-10M",
@@ -14104,7 +14176,7 @@
       "ref": "SR-40M",
       "designation": "CLASSEUR SICLA ROUGE 40MM",
       "prix": 25.0,
-      "stock": 5
+      "stock": 10
     },
     {
       "ref": "SRS3D",
@@ -14201,7 +14273,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 0
+      "stock": 10
     },
     {
       "ref": "STOCK2026F",
@@ -14231,13 +14303,19 @@
       "ref": "SUP-3",
       "designation": "SUPPORT METAL 3 PCS",
       "prix": 35.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "SUP-4P",
       "designation": "SUPPORT GALVANISE 4 PROJECTEURS",
       "prix": 250.0,
       "stock": 0
+    },
+    {
+      "ref": "SUP-A6",
+      "designation": "SUPPORT METAL LAPTOP STAND",
+      "prix": 300.0,
+      "stock": 4
     },
     {
       "ref": "SUPORT_MO2",
@@ -14309,8 +14387,8 @@
     {
       "ref": "T14S-I7-512",
       "designation": "lenovo thinkpad t14s i7 12th gen 16gb 512 NVMe",
-      "prix": 0.0,
-      "stock": 0
+      "prix": 6000.0,
+      "stock": 1
     },
     {
       "ref": "T150/100",
@@ -14372,6 +14450,12 @@
       "designation": "CACHET AUTOMATIQUE KASEM N°13 --200PCS/CTN",
       "prix": 120.0,
       "stock": 30
+    },
+    {
+      "ref": "T480S-I7",
+      "designation": "LENOVO THINKPAD T480s  Core I7 8th 8gb RAM 256 SSD",
+      "prix": 3000.0,
+      "stock": 1
     },
     {
       "ref": "T-4M",
@@ -14785,7 +14869,7 @@
       "ref": "THER-TPE",
       "designation": "PAPIER THERMIQUE N°40 TPE",
       "prix": 6.0,
-      "stock": -8
+      "stock": 42
     },
     {
       "ref": "THINKPAD",
@@ -15245,7 +15329,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 19
+      "stock": 16
     },
     {
       "ref": "TP-2",
@@ -15294,7 +15378,7 @@
       "ref": "TS-DELL",
       "designation": "TAPIS DE SOURIS DELL",
       "prix": 20.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "TV005",
@@ -15350,6 +15434,12 @@
       "designation": "CHARGEUR QUICK TYPE-C 18W 3.0",
       "prix": 60.0,
       "stock": 0
+    },
+    {
+      "ref": "TYP-C-8IN1",
+      "designation": "CONNECTORS TYPE-C HDTV 8 IN 1 ADABTER",
+      "prix": 250.0,
+      "stock": 3
     },
     {
       "ref": "TYP-D06",
@@ -15422,7 +15512,7 @@
       "ref": "UHU-21",
       "designation": "UHU STIC 21G",
       "prix": 15.0,
-      "stock": 61
+      "stock": 59
     },
     {
       "ref": "UHU-35C",
@@ -15546,6 +15636,12 @@
       "stock": 14
     },
     {
+      "ref": "USBC-8P",
+      "designation": "STATION TYPE-C HDTV 8 IN 1 ADABTER",
+      "prix": 350.0,
+      "stock": 1
+    },
+    {
       "ref": "USB-HP",
       "designation": "SOURIS USB HP ORIGINAL",
       "prix": 90.0,
@@ -15586,6 +15682,12 @@
       "designation": "ADATA CLE USB METAL UV350 32GB",
       "prix": 100.0,
       "stock": 6
+    },
+    {
+      "ref": "UV610",
+      "designation": "STATION TYPE-C HDTV 10 IN 1 UVANTEC",
+      "prix": 400.0,
+      "stock": 1
     },
     {
       "ref": "UX8406CA",
@@ -15677,7 +15779,7 @@
       "ref": "VGA-1.5",
       "designation": "CABLE VGA VGA 1,5m",
       "prix": 30.0,
-      "stock": 33
+      "stock": 34
     },
     {
       "ref": "VGA-15M",
@@ -15762,7 +15864,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 6
+      "stock": 21
     },
     {
       "ref": "W1106",
@@ -16269,7 +16371,7 @@
       "ref": "WOR-CF210",
       "designation": "TONER WORD CF210A/CB540A/CE320A NOIR",
       "prix": 180.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "WTV-7001",
@@ -16367,7 +16469,7 @@
       "ref": "XO-2353",
       "designation": "SCOTCH BUREAU MOYEN EXPRESS XO-2353",
       "prix": 4.0,
-      "stock": 0
+      "stock": 24
     },
     {
       "ref": "XO-3329",
