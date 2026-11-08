@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:00:02",
+  "generated_at": "2026-11-08T06:00:02",
   "count": 2714,
   "products": [
     {
@@ -555,7 +555,7 @@
       "ref": "305-N",
       "designation": "CARTOUCHE HP 305 NOIR",
       "prix": 230.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "311722",
@@ -1487,7 +1487,7 @@
       "ref": "ACE-10L",
       "designation": "EAU JAVEL ACE 10L",
       "prix": 75.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "ACE-2.5L",
@@ -2325,7 +2325,7 @@
       "ref": "BC-05",
       "designation": "BLOC CUBE BLANC",
       "prix": 15.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "BC-0977",
@@ -2617,7 +2617,7 @@
       "ref": "BLOC-A5",
       "designation": "BLOC NOTE NOIR FT A5 EN 100 FEUILLES",
       "prix": 35.0,
-      "stock": 26
+      "stock": 25
     },
     {
       "ref": "BL-WN151",
@@ -4553,7 +4553,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 60
+      "stock": 59
     },
     {
       "ref": "CH200W",
@@ -9642,7 +9642,7 @@
       "ref": "KAS-1P",
       "designation": "KASPERSKY PLUS 1 APPAREIL",
       "prix": 150.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "KAS-3P",
@@ -13407,7 +13407,7 @@
       "ref": "S-5L",
       "designation": "SANI DESINFECTANT OCEAN 5L",
       "prix": 25.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "S-5L-L",
@@ -14345,7 +14345,7 @@
       "ref": "STN09",
       "designation": "POSTITE STICK NOTES MULTICOULEUR",
       "prix": 10.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "STOCK2026F",
