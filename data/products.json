@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T06:00:02",
-  "count": 2714,
+  "generated_at": "2026-11-10T06:00:02",
+  "count": 2717,
   "products": [
     {
       "ref": "000001",
@@ -105,14 +105,14 @@
       "ref": "103-M",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE MAGENTA",
       "prix": 150.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/103-m.webp"
     },
     {
       "ref": "103-N",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE NOIR",
       "prix": 150.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/103-n.webp"
     },
     {
@@ -125,7 +125,7 @@
       "ref": "103-Y",
       "designation": "EPSON 103 BOUTEILLE D'ENCRE YELLOW",
       "prix": 150.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/103-y.webp"
     },
     {
@@ -181,7 +181,7 @@
       "ref": "1221",
       "designation": "CRAYON FABER-CASTELL 1221",
       "prix": 4.0,
-      "stock": 60
+      "stock": 36
     },
     {
       "ref": "130HP-BLACK",
@@ -850,7 +850,7 @@
       "ref": "6638-4",
       "designation": "FLUORESCENT 4 COULEURS BOSTON 6638-4",
       "prix": 25.0,
-      "stock": 15
+      "stock": -5
     },
     {
       "ref": "664-C",
@@ -1844,6 +1844,12 @@
       "stock": 0
     },
     {
+      "ref": "ALIN-5L",
+      "designation": "SAVON LIQUIDE ALIN MARSELLA 5L",
+      "prix": 80.0,
+      "stock": 1
+    },
+    {
       "ref": "AM-12P",
       "designation": "AIMANT MAGNETIQUE BUTTON 12PCS",
       "prix": 15.0,
@@ -2786,7 +2792,7 @@
       "ref": "BR-002",
       "designation": "CABLE TYPE-C TYPE-C  BRUDER BR-002",
       "prix": 40.0,
-      "stock": 19
+      "stock": 18
     },
     {
       "ref": "BR-008",
@@ -3352,7 +3358,7 @@
       "ref": "C-A4",
       "designation": "COUVERTURE CARTONNÉE A4 100 FEUILLES WAD DAHAB",
       "prix": 80.0,
-      "stock": 17
+      "stock": 15
     },
     {
       "ref": "CA80",
@@ -3802,7 +3808,7 @@
       "ref": "CAT-A4",
       "designation": "Catalogue FT A4 paysage en 126 pages imp R/V Sur papier couché 300g",
       "prix": 0.0,
-      "stock": 0
+      "stock": -500
     },
     {
       "ref": "CAT-PT",
@@ -3880,7 +3886,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 11
+      "stock": 9
     },
     {
       "ref": "CC-2008",
@@ -4279,20 +4285,32 @@
       "ref": "CEC102",
       "designation": "Stylo BIC bleu",
       "prix": 1.7,
-      "stock": 100
+      "stock": 0
     },
     {
       "ref": "CEC107",
       "designation": "Toner HP 05A Black Original LaserJet CE505A",
       "prix": 1385.0,
-      "stock": 15,
+      "stock": 5,
       "image": "images/produits/cec107.webp"
+    },
+    {
+      "ref": "CEC111",
+      "designation": "Toner HP 26A Black Original LaserJet CF226A",
+      "prix": 1750.0,
+      "stock": 0
     },
     {
       "ref": "CEC112",
       "designation": "Toner Original LaserJe 410 A / 207A/ 415A/ 203A B/Y/M/C",
       "prix": 1750.0,
       "stock": 13
+    },
+    {
+      "ref": "CEC114",
+      "designation": "Transparent pour Spiral  100 P",
+      "prix": 80.0,
+      "stock": 3
     },
     {
       "ref": "CEC-4S",
@@ -4553,7 +4571,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 59
+      "stock": 55
     },
     {
       "ref": "CH200W",
@@ -7161,7 +7179,7 @@
       "ref": "ENV-A4+",
       "designation": "ENVELOPPES  KRAFT A4+  260*360 GAZELLE",
       "prix": 3.0,
-      "stock": 541
+      "stock": 540
     },
     {
       "ref": "ENV-A4+GAZ",
@@ -7510,7 +7528,7 @@
       "ref": "F-A5",
       "designation": "FICHE A5 PAPIER BRISTOLE",
       "prix": 30.0,
-      "stock": 3
+      "stock": 14
     },
     {
       "ref": "FABR-1761",
@@ -7528,7 +7546,7 @@
       "ref": "FB-024",
       "designation": "ELITE CHARGER TYPE C FB-024 2 USB 20W MAX",
       "prix": 60.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "FB-180G",
@@ -9829,19 +9847,19 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "KONICA-M",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE MAGENTA",
       "prix": 900.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "KONICA-Y",
@@ -10966,7 +10984,7 @@
       "ref": "NB-0009",
       "designation": "CHARGEUR SAMSUNG ADAPTER 35W USB-TYPE C",
       "prix": 80.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "NB-000945",
@@ -14739,7 +14757,7 @@
       "ref": "TB-GX33",
       "designation": "TROMBONNES EN COULER BOSTON 100 PCS GX33",
       "prix": 7.0,
-      "stock": 99
+      "stock": 79
     },
     {
       "ref": "T-BLEU",
@@ -15310,7 +15328,7 @@
       "ref": "TN-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE  BLACK",
       "prix": 900.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "TNB-001",
@@ -15438,7 +15456,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": -5
+      "stock": -1
     },
     {
       "ref": "TS-500G",
