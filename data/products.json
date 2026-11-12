@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T06:00:02",
-  "count": 2717,
+  "generated_at": "2026-11-12T06:00:02",
+  "count": 2718,
   "products": [
     {
       "ref": "000001",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 82
+      "stock": 81
     },
     {
       "ref": "121212",
@@ -1007,7 +1007,7 @@
       "ref": "90NR0LR1-M00AM0",
       "designation": "ASUS ROG STRIX G615LR Ultra 9 ARROWLAKE HX 16''WQXGA 32Go 1To SSD GN2",
       "prix": 29500.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "910-007562",
@@ -2113,7 +2113,7 @@
       "ref": "B-135",
       "designation": "BOITE ARCHIVE CARTONE MM135",
       "prix": 9.0,
-      "stock": 37
+      "stock": 7
     },
     {
       "ref": "B-160",
@@ -2440,7 +2440,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 868,
+      "stock": 857,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2480,7 +2480,7 @@
       "ref": "BIC-R",
       "designation": "STYLO BIC ROUGE",
       "prix": 1.5,
-      "stock": 569
+      "stock": 568
     },
     {
       "ref": "BIC-RV",
@@ -2599,7 +2599,7 @@
       "ref": "BLOA4S",
       "designation": "BLOC NOTE A4 SPIRAL STENO",
       "prix": 17.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "BLOC-13.5X21",
@@ -2960,7 +2960,7 @@
       "ref": "BUR001",
       "designation": "CARTE PVC BLANCH 8/5",
       "prix": 2.0,
-      "stock": 498
+      "stock": 238
     },
     {
       "ref": "BUR002",
@@ -3248,19 +3248,19 @@
       "ref": "C4311",
       "designation": "CACHET  MOBI STAMPS C4311",
       "prix": 120.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 34
+      "stock": 30
     },
     {
       "ref": "C4313",
       "designation": "CACHET  MOBI STAMPS C4313",
       "prix": 120.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "C450P",
@@ -3394,7 +3394,7 @@
       "ref": "CAD-08",
       "designation": "CACHET AVEC DATE SHINY S-829D",
       "prix": 300.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "CAD-90X1.2",
@@ -4121,7 +4121,7 @@
       "ref": "CE034",
       "designation": "PAPIER HYGINIQUE GRAND TAILLE",
       "prix": 25.0,
-      "stock": 146
+      "stock": 92
     },
     {
       "ref": "CE037",
@@ -4571,7 +4571,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 55
+      "stock": 52
     },
     {
       "ref": "CH200W",
@@ -5158,7 +5158,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 96
+      "stock": 85
     },
     {
       "ref": "COP-SA4",
@@ -5408,7 +5408,7 @@
       "ref": "CRB-0021",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU",
       "prix": 10.0,
-      "stock": 52
+      "stock": 49
     },
     {
       "ref": "CRBC-0024",
@@ -5704,7 +5704,7 @@
       "ref": "CU002",
       "designation": "cuillères blanches jetables en plastique GM",
       "prix": 0.5,
-      "stock": 500
+      "stock": 100
     },
     {
       "ref": "CU-60ARL",
@@ -6999,7 +6999,7 @@
       "ref": "ECT-12",
       "designation": "ENCRE CACHET TRODAT 4912",
       "prix": 35.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "EF-002",
@@ -7197,7 +7197,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 796
+      "stock": 795
     },
     {
       "ref": "ENV-A5P",
@@ -7305,7 +7305,7 @@
       "ref": "ESS-02",
       "designation": "PAPIER ESSUIE MAIN 1K",
       "prix": 45.0,
-      "stock": 30
+      "stock": 12
     },
     {
       "ref": "ESSI-300",
@@ -7371,7 +7371,7 @@
       "ref": "EV-29-34",
       "designation": "ENVELOPPES POCHETTE  KRAFT A4 GAZELLE  229*324 mm",
       "prix": 3.0,
-      "stock": 756
+      "stock": 755
     },
     {
       "ref": "EV33",
@@ -7486,7 +7486,7 @@
       "ref": "F00V",
       "designation": "FICHE PERSONNELLE VERT",
       "prix": 3.0,
-      "stock": 100
+      "stock": 90
     },
     {
       "ref": "F01",
@@ -7528,7 +7528,7 @@
       "ref": "F-A5",
       "designation": "FICHE A5 PAPIER BRISTOLE",
       "prix": 30.0,
-      "stock": 14
+      "stock": 1
     },
     {
       "ref": "FABR-1761",
@@ -7751,7 +7751,7 @@
       "ref": "G413-SE",
       "designation": "LOGITECH CLAVIER G413-SE Clavier gaming mécanique 12 Mois",
       "prix": 589.03,
-      "stock": 0
+      "stock": -1
     },
     {
       "ref": "G-5020",
@@ -9155,7 +9155,7 @@
       "ref": "HP-Z2-G1I",
       "designation": "HP Z2 G1i TWR Ultra7-265 16GB 1TB SSD CG 4GB Linux 12M",
       "prix": 21946.58,
-      "stock": 0
+      "stock": -1
     },
     {
       "ref": "HS-012",
@@ -9326,7 +9326,7 @@
       "ref": "IMP-A5",
       "designation": "IMPRESSION COULEUR A5",
       "prix": 2.0,
-      "stock": 45384
+      "stock": 42342
     },
     {
       "ref": "IMP-C2026",
@@ -9428,7 +9428,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "IP-C510",
@@ -9853,7 +9853,7 @@
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "KONICA-M",
@@ -9988,7 +9988,7 @@
       "ref": "LEN-27U",
       "designation": "LENOVO Moniteur Legion 27U-10 27'' 24 Mois",
       "prix": 3050.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "LEN-65W",
@@ -10869,7 +10869,7 @@
       "ref": "MY430",
       "designation": "Kensington MY430 EQ Souris sans fil rechargeable",
       "prix": 307.91,
-      "stock": 0
+      "stock": -1
     },
     {
       "ref": "MY-446",
@@ -11130,7 +11130,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 37
+      "stock": 35
     },
     {
       "ref": "NWC-CF226A",
@@ -12569,7 +12569,7 @@
       "ref": "PX120300",
       "designation": "CRAYON Y-PLUS 8mm 12*12 / PX120300",
       "prix": 4.0,
-      "stock": 77
+      "stock": 74
     },
     {
       "ref": "Q8848-60001",
@@ -12715,7 +12715,7 @@
       "ref": "R30CM",
       "designation": "REGLE 30CM CETVEL ARK",
       "prix": 5.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "R32304",
@@ -13139,7 +13139,7 @@
       "ref": "RN4-0040",
       "designation": "REGISTRE NOIR 4 MAIN",
       "prix": 38.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "RN5-0036",
@@ -13479,7 +13479,7 @@
       "ref": "S650N",
       "designation": "STYLO SMART 650Q NOIR",
       "prix": 2.0,
-      "stock": 53
+      "stock": 52
     },
     {
       "ref": "S6700/12",
@@ -13668,7 +13668,7 @@
       "ref": "SB112",
       "designation": "BLANCO TURBO SB112",
       "prix": 7.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "SB-40M",
@@ -13912,7 +13912,7 @@
       "ref": "SICLA-BLEU",
       "designation": "CLASSEUR SICLA BLEU",
       "prix": 25.0,
-      "stock": 4
+      "stock": 9
     },
     {
       "ref": "SICLA-BN",
@@ -13936,7 +13936,7 @@
       "ref": "SICLA-M",
       "designation": "CLASSEUR SICLA  MARRON",
       "prix": 24.0,
-      "stock": 0
+      "stock": 25
     },
     {
       "ref": "SICLA-N",
@@ -13990,7 +13990,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 200
+      "stock": 198
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14116,7 +14116,7 @@
       "ref": "SP-1.5M",
       "designation": "CABLE IMPRIMANTE HIGH SPEED 1,5M",
       "prix": 30.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "SP-10M",
@@ -14667,7 +14667,7 @@
       "ref": "TAB-2M",
       "designation": "TABLEAU MAGNETIQUE 2M/1M",
       "prix": 850.0,
-      "stock": -6
+      "stock": 1
     },
     {
       "ref": "TAB60-90",
@@ -14959,7 +14959,7 @@
       "ref": "THER-TPE",
       "designation": "PAPIER THERMIQUE N°40 TPE",
       "prix": 6.0,
-      "stock": 42
+      "stock": 32
     },
     {
       "ref": "THINKPAD",
@@ -15954,7 +15954,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "W1106",
@@ -15966,6 +15966,12 @@
       "ref": "W1120A",
       "designation": "DRUM NWC HP W1120A 120A 150-178-179",
       "prix": 450.0,
+      "stock": 0
+    },
+    {
+      "ref": "W1234",
+      "designation": "ENSEMBLE DE BUREAU en Simili Cuir",
+      "prix": 300.0,
       "stock": 0
     },
     {
@@ -16328,7 +16334,7 @@
       "ref": "W-CF217",
       "designation": "TONER WORLD CF217A NOIR",
       "prix": 180.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "W-CF310",
