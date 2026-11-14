@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T06:00:02",
-  "count": 2718,
+  "generated_at": "2026-11-14T06:00:01",
+  "count": 2720,
   "products": [
     {
       "ref": "000001",
@@ -1071,7 +1071,7 @@
       "ref": "9801",
       "designation": "NOTEBOOK N°9801 9.5x14.4cm sheets:128",
       "prix": 35.0,
-      "stock": 4
+      "stock": 3
     },
     {
       "ref": "999982",
@@ -2101,7 +2101,7 @@
       "ref": "B-126",
       "designation": "ENCRE A TAMPONS HUHUA BLEU N°126",
       "prix": 15.0,
-      "stock": 0
+      "stock": 6
     },
     {
       "ref": "B-12CM",
@@ -2203,7 +2203,7 @@
       "ref": "B-6M",
       "designation": "BAGUETTES CROWN BINDER 6 mm",
       "prix": 1.0,
-      "stock": 100
+      "stock": 99
     },
     {
       "ref": "B701",
@@ -2440,7 +2440,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 857,
+      "stock": 855,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -3254,7 +3254,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 30
+      "stock": 29
     },
     {
       "ref": "C4313",
@@ -3886,7 +3886,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 9
+      "stock": 4
     },
     {
       "ref": "CC-2008",
@@ -5408,7 +5408,7 @@
       "ref": "CRB-0021",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA BLEU",
       "prix": 10.0,
-      "stock": 49
+      "stock": 44
     },
     {
       "ref": "CRBC-0024",
@@ -5458,7 +5458,7 @@
       "ref": "CRJ-0019",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA JAUNE",
       "prix": 10.0,
-      "stock": 25
+      "stock": 20
     },
     {
       "ref": "CRJ45",
@@ -5488,7 +5488,7 @@
       "ref": "CRP-0032",
       "designation": "CHEMISE A RABAT PLASTIQUE VERT",
       "prix": 10.0,
-      "stock": 0
+      "stock": 9
     },
     {
       "ref": "CRPS-0033",
@@ -5500,7 +5500,7 @@
       "ref": "CRR-0020",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA ROUGE",
       "prix": 10.0,
-      "stock": 13
+      "stock": 8
     },
     {
       "ref": "CRR-655",
@@ -5602,7 +5602,7 @@
       "ref": "CRV-0023",
       "designation": "CHEMISE A RABAT CARTONNEE SICLA VERT",
       "prix": 10.0,
-      "stock": 10
+      "stock": 5
     },
     {
       "ref": "CS-043",
@@ -7119,7 +7119,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 248
+      "stock": 247
     },
     {
       "ref": "ENV-25/35",
@@ -7197,7 +7197,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 795
+      "stock": 794
     },
     {
       "ref": "ENV-A5P",
@@ -8316,7 +8316,7 @@
       "ref": "HDTV-5M",
       "designation": "HIGH SPEED HDTV CABLE PREMIUM 5M",
       "prix": 70.0,
-      "stock": 5,
+      "stock": 9,
       "image": "images/illustrations/cable-hdmi.webp",
       "illustration": true
     },
@@ -9413,6 +9413,12 @@
       "stock": 0
     },
     {
+      "ref": "IP-17-PRO",
+      "designation": "iPhone 17 Pro Max",
+      "prix": 14200.0,
+      "stock": 0
+    },
+    {
       "ref": "IP-3.1A",
       "designation": "DATA CABLE IPHONE 1200 MM BRUDER",
       "prix": 30.0,
@@ -9465,6 +9471,12 @@
       "designation": "CHARGEUR IP GOLD TWIN",
       "prix": 25.0,
       "stock": 6
+    },
+    {
+      "ref": "IPH-18-PRO",
+      "designation": "iPhone 18 Pro Max 512 Gb Black Titanium",
+      "prix": 27600.0,
+      "stock": 0
     },
     {
       "ref": "IPHONE",
@@ -10971,7 +10983,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": -18,
+      "stock": 16,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11130,7 +11142,7 @@
       "ref": "NWC-CE285A",
       "designation": "TONER WORD CB435A/CB436A/CE285A/CE278A NOIR",
       "prix": 150.0,
-      "stock": 35
+      "stock": 34
     },
     {
       "ref": "NWC-CF226A",
@@ -11560,7 +11572,7 @@
       "ref": "PC-210",
       "designation": "TONER WORD NWC-PC210 COMPATIBLE PANTUM 2500",
       "prix": 240.0,
-      "stock": 7
+      "stock": 3
     },
     {
       "ref": "PC-24/32",
@@ -13473,13 +13485,13 @@
       "ref": "S650B",
       "designation": "STYLO SMART  650Q BLEU",
       "prix": 2.0,
-      "stock": 989
+      "stock": 988
     },
     {
       "ref": "S650N",
       "designation": "STYLO SMART 650Q NOIR",
       "prix": 2.0,
-      "stock": 52
+      "stock": 51
     },
     {
       "ref": "S6700/12",
@@ -13503,7 +13515,7 @@
       "ref": "S850R",
       "designation": "STYLO SMART 850Q ROUGE",
       "prix": 2.0,
-      "stock": 99
+      "stock": 98
     },
     {
       "ref": "SAC-01",
@@ -13990,7 +14002,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 198
+      "stock": 162
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14050,7 +14062,7 @@
       "ref": "SMV-001",
       "designation": "STYLO SMART VERT",
       "prix": 2.0,
-      "stock": 100
+      "stock": 99
     },
     {
       "ref": "SN-40M",
@@ -14999,7 +15011,7 @@
       "ref": "TIMBRE",
       "designation": "DROIT DE TIMBRE",
       "prix": 0.0,
-      "stock": 95
+      "stock": 99
     },
     {
       "ref": "TINJI-",
@@ -15419,7 +15431,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 13
+      "stock": 10
     },
     {
       "ref": "TP-2",
@@ -15529,7 +15541,7 @@
       "ref": "TYP-C-8IN1",
       "designation": "CONNECTORS TYPE-C HDTV 8 IN 1 ADABTER",
       "prix": 250.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "TYP-D06",
@@ -15596,7 +15608,7 @@
       "ref": "UHU-12",
       "designation": "UHU TUBE 12 (21 CC)",
       "prix": 9.0,
-      "stock": 13
+      "stock": 12
     },
     {
       "ref": "UHU-21",
@@ -15614,7 +15626,7 @@
       "ref": "UHU-7",
       "designation": "UHU TUBE 7g",
       "prix": 5.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "UHU-8",
@@ -16226,7 +16238,7 @@
       "ref": "W2303-M",
       "designation": "TONER W2303A MAGENTA DIAMOND",
       "prix": 320.0,
-      "stock": 47
+      "stock": 92
     },
     {
       "ref": "W2410A",
@@ -16595,7 +16607,7 @@
       "ref": "XO-4494",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4494",
       "prix": 70.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "XO-4500",
