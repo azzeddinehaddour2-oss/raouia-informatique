@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:00:01",
+  "generated_at": "2026-11-16T06:00:02",
   "count": 2720,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 81
+      "stock": 78
     },
     {
       "ref": "121212",
@@ -4571,7 +4571,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 52
+      "stock": 51
     },
     {
       "ref": "CH200W",
@@ -10450,7 +10450,7 @@
       "ref": "M90",
       "designation": "LOGITECH Mouse M90 (Mouton-Boat) Noire",
       "prix": 60.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "M910X",
@@ -14002,7 +14002,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 162
+      "stock": 161
     },
     {
       "ref": "SIDI-ALII-15",
