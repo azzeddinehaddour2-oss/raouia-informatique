@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T06:00:02",
-  "count": 2720,
+  "generated_at": "2026-11-18T06:00:02",
+  "count": 2724,
   "products": [
     {
       "ref": "000001",
@@ -25,7 +25,7 @@
       "ref": "0012N",
       "designation": "AGRAF STAPLES 24/6 0012N",
       "prix": 7.0,
-      "stock": 12
+      "stock": 11
     },
     {
       "ref": "0323",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 78
+      "stock": 77
     },
     {
       "ref": "121212",
@@ -206,7 +206,7 @@
       "ref": "140V",
       "designation": "PORTE DOCUMENT 140 VUES",
       "prix": 38.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "141414",
@@ -812,7 +812,7 @@
       "ref": "60V",
       "designation": "PORTE DOCUMENT 60 VUES",
       "prix": 25.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "6128",
@@ -972,6 +972,12 @@
       "designation": "TAILLE-CRAYON CASBER Ref:TCR8131",
       "prix": 5.0,
       "stock": 89
+    },
+    {
+      "ref": "83NN001TFE",
+      "designation": "Lenovo Legion Pro 5 16IRX10 Gaming Laptop Core i9-14900HX 32GB 1TB SS",
+      "prix": 30000.0,
+      "stock": 0
     },
     {
       "ref": "840G8_10EM",
@@ -2690,7 +2696,7 @@
       "ref": "BNG-008",
       "designation": "BLOC NOTES A4 100P",
       "prix": 17.0,
-      "stock": 2,
+      "stock": 7,
       "image": "images/illustrations/bloc-notes.webp",
       "illustration": true
     },
@@ -2960,7 +2966,7 @@
       "ref": "BUR001",
       "designation": "CARTE PVC BLANCH 8/5",
       "prix": 2.0,
-      "stock": 238
+      "stock": 138
     },
     {
       "ref": "BUR002",
@@ -3104,7 +3110,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 39
+      "stock": 38
     },
     {
       "ref": "C200041380",
@@ -3176,7 +3182,7 @@
       "ref": "C250G",
       "designation": "CROWN COUVERTURE CHROMOLUX 250G",
       "prix": 80.0,
-      "stock": 15
+      "stock": 14
     },
     {
       "ref": "C250-I",
@@ -3254,7 +3260,7 @@
       "ref": "C4312",
       "designation": "CACHET  MOBI STAMPS C4312",
       "prix": 120.0,
-      "stock": 29
+      "stock": 24
     },
     {
       "ref": "C4313",
@@ -3364,7 +3370,7 @@
       "ref": "CA80",
       "designation": "CACHET STYLO POCKET 80",
       "prix": 120.0,
-      "stock": 0
+      "stock": 3
     },
     {
       "ref": "CA95014",
@@ -3808,7 +3814,7 @@
       "ref": "CAT-A4",
       "designation": "Catalogue FT A4 paysage en 126 pages imp R/V Sur papier couché 300g",
       "prix": 0.0,
-      "stock": -500
+      "stock": 0
     },
     {
       "ref": "CAT-PT",
@@ -3886,7 +3892,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "CC-2008",
@@ -3900,6 +3906,12 @@
       "prix": 230.0,
       "stock": 6,
       "image": "images/produits/cc-445.webp"
+    },
+    {
+      "ref": "CC9X2EA",
+      "designation": "HP CC9X2EA laptop AMD Ryzen7 8845HS (15.6\") Full HD 16GB DDR5 NVIDIA",
+      "prix": 19800.0,
+      "stock": 0
     },
     {
       "ref": "CC-B",
@@ -4090,8 +4102,8 @@
     {
       "ref": "CE007",
       "designation": "CAFE NESPRESSO 10P",
-      "prix": 79.0,
-      "stock": 10
+      "prix": 80.0,
+      "stock": 7
     },
     {
       "ref": "CE024",
@@ -4115,7 +4127,7 @@
       "ref": "CE033",
       "designation": "PAPIER EN ZIG ZAG",
       "prix": 27.0,
-      "stock": 40
+      "stock": 20
     },
     {
       "ref": "CE034",
@@ -4571,7 +4583,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 51
+      "stock": 49
     },
     {
       "ref": "CH200W",
@@ -5230,7 +5242,7 @@
       "ref": "CP-96P",
       "designation": "CAHIER PIQUE 96 PAGES",
       "prix": 5.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "CP-A4",
@@ -5701,10 +5713,16 @@
       "stock": 1
     },
     {
+      "ref": "CT-J",
+      "designation": "COUTEAU EN BOIS JETABLE",
+      "prix": 0.5,
+      "stock": 0
+    },
+    {
       "ref": "CU002",
       "designation": "cuillères blanches jetables en plastique GM",
       "prix": 0.5,
-      "stock": 100
+      "stock": -400
     },
     {
       "ref": "CU-60ARL",
@@ -8536,7 +8554,7 @@
       "ref": "HP-145N",
       "designation": "TONER HP 145A Noir (W1450A) - Toner HP LaserJet d'origine 1700P",
       "prix": 1100.0,
-      "stock": 8,
+      "stock": 28,
       "image": "images/produits/hp-145n.webp"
     },
     {
@@ -9217,7 +9235,7 @@
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
-      "stock": 14
+      "stock": 11
     },
     {
       "ref": "HS-USB-M200-32G",
@@ -9374,7 +9392,7 @@
       "ref": "INT-S12",
       "designation": "INTERCLAIRES CARTONE SICLA (1-12)",
       "prix": 30.0,
-      "stock": 72
+      "stock": 70
     },
     {
       "ref": "IP-004",
@@ -10168,13 +10186,13 @@
       "ref": "LQ300/350",
       "designation": "RIBBON EPSON LQ300/350 ORIGINAL",
       "prix": 60.0,
-      "stock": 0
+      "stock": 12
     },
     {
       "ref": "LQ-350",
       "designation": "IMPRIMANTE EPSON LQ-350",
       "prix": 1900.0,
-      "stock": 1,
+      "stock": 2,
       "image": "images/produits/lq-350.webp"
     },
     {
@@ -10983,7 +11001,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 16,
+      "stock": 15,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11208,7 +11226,7 @@
       "ref": "OF2019",
       "designation": "Microsoft Office 2019 Professional Plus",
       "prix": 1300.0,
-      "stock": 1
+      "stock": -3
     },
     {
       "ref": "OF2021",
@@ -13491,7 +13509,7 @@
       "ref": "S650N",
       "designation": "STYLO SMART 650Q NOIR",
       "prix": 2.0,
-      "stock": 51
+      "stock": 50
     },
     {
       "ref": "S6700/12",
@@ -13515,7 +13533,7 @@
       "ref": "S850R",
       "designation": "STYLO SMART 850Q ROUGE",
       "prix": 2.0,
-      "stock": 98
+      "stock": 97
     },
     {
       "ref": "SAC-01",
@@ -14002,7 +14020,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 161
+      "stock": 158
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14900,6 +14918,12 @@
       "stock": 0
     },
     {
+      "ref": "TC-S36424",
+      "designation": "TC-S36424 Spec: T/4U/V6.2 K2000 All-in-one Machine",
+      "prix": 64.0,
+      "stock": 0
+    },
+    {
       "ref": "TDB-0821",
       "designation": "TAPE DISENSER BOSTON NO.821",
       "prix": 40.0,
@@ -15011,7 +15035,7 @@
       "ref": "TIMBRE",
       "designation": "DROIT DE TIMBRE",
       "prix": 0.0,
-      "stock": 99
+      "stock": 105
     },
     {
       "ref": "TINJI-",
@@ -15468,7 +15492,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": -1
+      "stock": 0
     },
     {
       "ref": "TS-500G",
@@ -15881,7 +15905,7 @@
       "ref": "VGA-1.5",
       "designation": "CABLE VGA VGA 1,5m",
       "prix": 30.0,
-      "stock": 34
+      "stock": 33
     },
     {
       "ref": "VGA-15M",
