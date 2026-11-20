@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:00:02",
+  "generated_at": "2026-11-20T06:00:01",
   "count": 2724,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 77
+      "stock": 76
     },
     {
       "ref": "121212",
@@ -2307,7 +2307,7 @@
       "ref": "BAN-LAV",
       "designation": "BANO MATIC Lavande Sac 9 kg",
       "prix": 110.0,
-      "stock": 23
+      "stock": 20
     },
     {
       "ref": "BANO-5L",
@@ -2319,7 +2319,7 @@
       "ref": "BAN-OC",
       "designation": "BANO MATIC Océanique Sac 9 kg",
       "prix": 110.0,
-      "stock": 27
+      "stock": 25
     },
     {
       "ref": "BAP-0031",
@@ -3110,7 +3110,7 @@
       "ref": "C200",
       "designation": "CHEMISE BULLE 50g  200",
       "prix": 35.0,
-      "stock": 38
+      "stock": 36
     },
     {
       "ref": "C200041380",
@@ -4061,7 +4061,7 @@
       "ref": "CD-2677RP",
       "designation": "CATIGA CD-2677RP CALCULATRICE ELECTRONIQUE 12CHF",
       "prix": 140.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "CD-2799",
@@ -5170,7 +5170,7 @@
       "ref": "COP80G",
       "designation": "RAMETTE PAPIER CAPTAIN COPY A4 80g",
       "prix": 46.0,
-      "stock": 85
+      "stock": 81
     },
     {
       "ref": "COP-SA4",
@@ -6218,7 +6218,7 @@
       "ref": "DIS-HDMI",
       "designation": "ADAPTATEUR DISPLAY TO HDMI",
       "prix": 80.0,
-      "stock": 5
+      "stock": 3
     },
     {
       "ref": "DISP-1.5M",
@@ -7137,7 +7137,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 247
+      "stock": 246
     },
     {
       "ref": "ENV-25/35",
@@ -8207,7 +8207,7 @@
       "ref": "HDM-3M",
       "designation": "CABLE HDMI 3M 4K SAFI",
       "prix": 50.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "HDM-5M",
@@ -8334,7 +8334,7 @@
       "ref": "HDTV-5M",
       "designation": "HIGH SPEED HDTV CABLE PREMIUM 5M",
       "prix": 70.0,
-      "stock": 9,
+      "stock": 8,
       "image": "images/illustrations/cable-hdmi.webp",
       "illustration": true
     },
@@ -9235,7 +9235,7 @@
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "HS-USB-M200-32G",
@@ -9452,7 +9452,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "IP-C510",
@@ -9883,7 +9883,7 @@
       "ref": "KONICA-J",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE JAUNE",
       "prix": 900.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "KONICA-M",
@@ -11370,7 +11370,7 @@
       "ref": "P-20W",
       "designation": "POWER BANK BRW-03 10000 mAh bruder",
       "prix": 200.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "P22.5W",
@@ -11542,7 +11542,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": -13
+      "stock": 6
     },
     {
       "ref": "PAPPH-A4",
@@ -11635,7 +11635,7 @@
       "ref": "P-CA3",
       "designation": "PAPIER CONSON A3",
       "prix": 8.0,
-      "stock": 2
+      "stock": -3
     },
     {
       "ref": "PC-D",
@@ -14020,7 +14020,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 158
+      "stock": 155
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14459,7 +14459,7 @@
       "ref": "S-USB-M200_16G",
       "designation": "CLE 16GB USB CLASSIC 2.0 HIKSEMI HS-USB-M200 16G",
       "prix": 70.0,
-      "stock": 21
+      "stock": 20
     },
     {
       "ref": "SV-40M",
@@ -15431,7 +15431,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 11
+      "stock": 10
     },
     {
       "ref": "TOR-4",
@@ -15990,7 +15990,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 7
+      "stock": 5
     },
     {
       "ref": "W1106",
