@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T06:00:01",
-  "count": 2724,
+  "generated_at": "2026-11-22T06:00:01",
+  "count": 2726,
   "products": [
     {
       "ref": "000001",
@@ -1410,7 +1410,7 @@
       "ref": "AB-0084",
       "designation": "AGRAFES BOSTON 1000 PIECES 24/6  369N",
       "prix": 5.0,
-      "stock": -30
+      "stock": 8
     },
     {
       "ref": "AB-68",
@@ -1589,7 +1589,7 @@
       "ref": "AD-A4",
       "designation": "ETIQUETTE ADHESIVE A4 MULTI USAGES 100 PIECES 210*297",
       "prix": 120.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "ADAT-256SSD",
@@ -1661,7 +1661,7 @@
       "ref": "AES-024",
       "designation": "AGRAFEUSE EAGLE STAPLER 24-6.26-6 /206",
       "prix": 70.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "AES256",
@@ -2131,13 +2131,13 @@
       "ref": "B232",
       "designation": "ARRACHE AGRAFE DEAGRAFFE HI-PRO REF:B232",
       "prix": 10.0,
-      "stock": 10
+      "stock": 5
     },
     {
       "ref": "B2915N",
       "designation": "PERFOREUSE 2 TROUS COMIX B2915N",
       "prix": 70.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "B2B-CABCNEMICRSV",
@@ -2361,7 +2361,7 @@
       "ref": "BC-5671",
       "designation": "BLOC CUBE BLANC AVEC SUPPORT",
       "prix": 25.0,
-      "stock": 27
+      "stock": 26
     },
     {
       "ref": "BC-90X90",
@@ -2446,7 +2446,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 855,
+      "stock": 854,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2840,7 +2840,7 @@
       "ref": "BR-AC-024-025",
       "designation": "ADAPTER BRUDER 25W TYPE C-USB BR-AC-024/025",
       "prix": 50.0,
-      "stock": 22
+      "stock": 21
     },
     {
       "ref": "BRC02",
@@ -2918,7 +2918,7 @@
       "ref": "BS1212",
       "designation": "AGRAFEUSE A PINCE BOSTON 24/6  BS1212",
       "prix": 70.0,
-      "stock": 1
+      "stock": -1
     },
     {
       "ref": "BS2419",
@@ -3826,7 +3826,7 @@
       "ref": "CB1017",
       "designation": "CISEAU POUR BUREAU CB1017",
       "prix": 18.0,
-      "stock": 20
+      "stock": 19
     },
     {
       "ref": "CB-240G",
@@ -3844,7 +3844,7 @@
       "ref": "CB-500F",
       "designation": "CHEMISE BULLE BLEU MED PAPER 21*31 50g  500 FEUILLES",
       "prix": 50.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "CB-50G",
@@ -3892,7 +3892,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "CC-2008",
@@ -3904,7 +3904,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 6,
+      "stock": 7,
       "image": "images/produits/cc-445.webp"
     },
     {
@@ -4583,7 +4583,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 49
+      "stock": 47
     },
     {
       "ref": "CH200W",
@@ -6444,7 +6444,7 @@
       "ref": "DR313",
       "designation": "Drum Konica Minolta DR313 CMY Konica",
       "prix": 1300.0,
-      "stock": 1
+      "stock": -2
     },
     {
       "ref": "DR512",
@@ -7137,7 +7137,7 @@
       "ref": "ENV-25",
       "designation": "ENVELOPPES POCHETTE A4  250*324 mm V",
       "prix": 2.0,
-      "stock": 246
+      "stock": 245
     },
     {
       "ref": "ENV-25/35",
@@ -7269,7 +7269,7 @@
       "ref": "ENV-SF",
       "designation": "ENVELOPPE BLANCHE SF 110*220",
       "prix": 1.0,
-      "stock": 562
+      "stock": 561
     },
     {
       "ref": "ENVT-0028",
@@ -7510,7 +7510,7 @@
       "ref": "F01",
       "designation": "TELEPHONE AMG F01",
       "prix": 160.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "F31428",
@@ -10192,7 +10192,7 @@
       "ref": "LQ-350",
       "designation": "IMPRIMANTE EPSON LQ-350",
       "prix": 1900.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/lq-350.webp"
     },
     {
@@ -10291,7 +10291,7 @@
       "ref": "LX-350",
       "designation": "RIBBON LQ-350",
       "prix": 50.0,
-      "stock": 20
+      "stock": 0
     },
     {
       "ref": "M0002",
@@ -11001,7 +11001,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 15,
+      "stock": 10,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11178,7 +11178,7 @@
       "ref": "NWC-CF283",
       "designation": "TONER NWC CF283A NOIR WORD",
       "prix": 150.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "NWC-W1360A",
@@ -11316,7 +11316,7 @@
       "ref": "P005",
       "designation": "PORTE STYLO",
       "prix": 20.0,
-      "stock": 8
+      "stock": 5
     },
     {
       "ref": "P1000",
@@ -11932,7 +11932,7 @@
       "ref": "PL-306-PD",
       "designation": "CABLE TYPE-C IPHONE  PLUSTAR PL-306 PD",
       "prix": 30.0,
-      "stock": 16
+      "stock": 15
     },
     {
       "ref": "PLA05",
@@ -12077,7 +12077,7 @@
       "ref": "PP-0013",
       "designation": "POCHETTES A PLASTIFIER A4 125MIC",
       "prix": 180.0,
-      "stock": 9
+      "stock": 13
     },
     {
       "ref": "PP005",
@@ -12542,6 +12542,12 @@
       "stock": 6
     },
     {
+      "ref": "PVC120",
+      "designation": "PVC COUVERTURE TRANSPARANT TURBO A4-120",
+      "prix": 75.0,
+      "stock": 4
+    },
+    {
       "ref": "PVC-XO-2841",
       "designation": "COUVERTURES PVC TRANSPARENT A3 EXPRESS XO-2841",
       "prix": 100.0,
@@ -12745,7 +12751,7 @@
       "ref": "R30CM",
       "designation": "REGLE 30CM CETVEL ARK",
       "prix": 5.0,
-      "stock": 19
+      "stock": 13
     },
     {
       "ref": "R32304",
@@ -14020,7 +14026,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 155
+      "stock": 34
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14739,7 +14745,7 @@
       "ref": "TB-028",
       "designation": "TROMBONNES EN COULEUR BOSTON 100 PIECES GX28",
       "prix": 7.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "TB10",
@@ -15492,6 +15498,12 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
+      "stock": 7
+    },
+    {
+      "ref": "TR-P",
+      "designation": "TROPHEE PERSONNALISE",
+      "prix": 600.0,
       "stock": 0
     },
     {
@@ -15990,7 +16002,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": 5
+      "stock": -1
     },
     {
       "ref": "W1106",
@@ -16026,7 +16038,7 @@
       "ref": "W1500A-W",
       "designation": "TONER HP 150A W1500A WORD",
       "prix": 200.0,
-      "stock": 19
+      "stock": 13
     },
     {
       "ref": "W1510",
@@ -16044,7 +16056,7 @@
       "ref": "W-2030",
       "designation": "TONER NWC HP W2030A 415A BLACK",
       "prix": 320.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "W2030A",
@@ -16093,7 +16105,7 @@
       "ref": "W2031A-W",
       "designation": "TONER NWC HP W2031A 415A CYAN",
       "prix": 320.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "W2032A",
@@ -16118,7 +16130,7 @@
       "ref": "W2032A-W",
       "designation": "TONER NWC HP W2032A 415A YELLOW",
       "prix": 320.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "W2033A",
@@ -16142,7 +16154,7 @@
       "ref": "W2033A-W",
       "designation": "TONER NWC HP W2033A 415A MAGENTA",
       "prix": 320.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "W2070A-N",
