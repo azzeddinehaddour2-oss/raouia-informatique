@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T06:00:01",
-  "count": 2726,
+  "generated_at": "2026-11-24T06:00:02",
+  "count": 2730,
   "products": [
     {
       "ref": "000001",
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 76
+      "stock": 74
     },
     {
       "ref": "121212",
@@ -2446,7 +2446,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 854,
+      "stock": 853,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -3203,6 +3203,12 @@
       "stock": 0
     },
     {
+      "ref": "C-2X1.5",
+      "designation": "CABLE ELECTRIQUE 2*1,5",
+      "prix": 8.0,
+      "stock": 717
+    },
+    {
       "ref": "C300G",
       "designation": "COUVERTURE CHROMOLUX 300G 100F",
       "prix": 80.0,
@@ -3892,7 +3898,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 0
+      "stock": 8
     },
     {
       "ref": "CC-2008",
@@ -3904,7 +3910,7 @@
       "ref": "CC-445",
       "designation": "CARTOUCHE CANON PG-445 NOIR",
       "prix": 230.0,
-      "stock": 7,
+      "stock": 6,
       "image": "images/produits/cc-445.webp"
     },
     {
@@ -4511,7 +4517,7 @@
       "ref": "CF540A-W",
       "designation": "TONER WORD CF540A NOIR",
       "prix": 180.0,
-      "stock": 2
+      "stock": 1
     },
     {
       "ref": "CF541",
@@ -4583,7 +4589,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 47
+      "stock": 44
     },
     {
       "ref": "CH200W",
@@ -6218,7 +6224,7 @@
       "ref": "DIS-HDMI",
       "designation": "ADAPTATEUR DISPLAY TO HDMI",
       "prix": 80.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "DISP-1.5M",
@@ -8193,7 +8199,7 @@
       "ref": "HDD-6T",
       "designation": "WESTERN DIGITAL Disque dur interne (HDD) 3.5\" 6To, Purple",
       "prix": 2500.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "HDM-10M",
@@ -11063,7 +11069,7 @@
       "ref": "NEX-CAT6",
       "designation": "NEXANS BOBINE CABLE INFORMATIQUE CAT6 ORANGE 500M",
       "prix": 7.5,
-      "stock": 4
+      "stock": 375
     },
     {
       "ref": "NGF008",
@@ -14026,7 +14032,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 34
+      "stock": 32
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14845,6 +14851,12 @@
       "stock": 0
     },
     {
+      "ref": "TC-C34XP",
+      "designation": "TC-C34XP Spec:W/E/Y/2.8mm/V4.0 6MP Fixed Color Maker Turret Camera",
+      "prix": 650.0,
+      "stock": 2
+    },
+    {
       "ref": "TC-C35KS",
       "designation": "TIANDY CAMERA IP TC-C35KS 5MP FIXED STARLIGHT IR 2.8MM",
       "prix": 770.0,
@@ -14872,7 +14884,7 @@
       "ref": "TC-C36QN",
       "designation": "Tiandy TC-C36QN 2ENA-4 Camera 6MP Fixed Color Market Bullet",
       "prix": 700.0,
-      "stock": 9,
+      "stock": 53,
       "image": "images/produits/tc-c36qn.webp"
     },
     {
@@ -14897,13 +14909,13 @@
       "ref": "TC-P3S010",
       "designation": "TIANDY SWITCH PoE TC-P3S010",
       "prix": 430.0,
-      "stock": 3
+      "stock": 0
     },
     {
       "ref": "TC-P3S06",
       "designation": "Tiandy Switch PoE TC-P3S06 Spec:H/0402/AT/06",
       "prix": 0.0,
-      "stock": 0
+      "stock": 18
     },
     {
       "ref": "TC-R3110",
@@ -14915,7 +14927,13 @@
       "ref": "TC-R3120",
       "designation": "Tiandy TC-R3120 SPEC:I/B/K/V3.1 NVR H.265 20ch 1HDD",
       "prix": 850.0,
-      "stock": 1
+      "stock": 2
+    },
+    {
+      "ref": "TC-R3220",
+      "designation": "TC-R3220 416HA 2HDD 20ch PSE***** AI**** NVR Up to 20-ch IP camera",
+      "prix": 2700.0,
+      "stock": 10
     },
     {
       "ref": "TCR8116",
@@ -15504,7 +15522,7 @@
       "ref": "TR-P",
       "designation": "TROPHEE PERSONNALISE",
       "prix": 600.0,
-      "stock": 0
+      "stock": 6
     },
     {
       "ref": "TS-500G",
@@ -16473,6 +16491,12 @@
       "designation": "RALLONGE RACKABLE 8PORTS W-D-LINK POUR COFFRET INFORMATIQUE",
       "prix": 400.0,
       "stock": 0
+    },
+    {
+      "ref": "W-D-LINK-4U",
+      "designation": "W-D-LINK 4U Network Cabinet Flat-Packed Coffret informatique 4U",
+      "prix": 480.0,
+      "stock": 5
     },
     {
       "ref": "WE5",
