@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T06:00:02",
-  "count": 2730,
+  "generated_at": "2026-11-26T06:00:01",
+  "count": 2732,
   "products": [
     {
       "ref": "000001",
@@ -206,7 +206,7 @@
       "ref": "140V",
       "designation": "PORTE DOCUMENT 140 VUES",
       "prix": 38.0,
-      "stock": 4
+      "stock": 2
     },
     {
       "ref": "141414",
@@ -850,7 +850,7 @@
       "ref": "6638-4",
       "designation": "FLUORESCENT 4 COULEURS BOSTON 6638-4",
       "prix": 25.0,
-      "stock": -5
+      "stock": 4
     },
     {
       "ref": "664-C",
@@ -890,14 +890,14 @@
       "ref": "711-B",
       "designation": "CARTOUCHE HP 711 CZ130A BLEU",
       "prix": 450.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/711-b.webp"
     },
     {
       "ref": "711-J",
       "designation": "CARTOUCHE HP 711 CZ132A JAUNE",
       "prix": 480.0,
-      "stock": 1,
+      "stock": 0,
       "image": "images/produits/711-j.webp"
     },
     {
@@ -910,7 +910,7 @@
       "ref": "711-R",
       "designation": "CARTOUCHE HP 711 CZ131A ROUGE",
       "prix": 450.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/711-r.webp"
     },
     {
@@ -2334,6 +2334,12 @@
       "stock": 2
     },
     {
+      "ref": "BAT-L",
+      "designation": "Batterie PC Lenovo ThinkPad",
+      "prix": 600.0,
+      "stock": 0
+    },
+    {
       "ref": "BC-05",
       "designation": "BLOC CUBE BLANC",
       "prix": 15.0,
@@ -2373,7 +2379,7 @@
       "ref": "BC-A4",
       "designation": "BLOC STENO A4",
       "prix": 17.0,
-      "stock": 6
+      "stock": 4
     },
     {
       "ref": "BG-10M",
@@ -2446,7 +2452,7 @@
       "ref": "BIC-B",
       "designation": "STYLO BIC BLEU",
       "prix": 1.5,
-      "stock": 853,
+      "stock": 852,
       "image": "images/produits/bic-b.webp"
     },
     {
@@ -2559,7 +2565,7 @@
       "ref": "BL-EXP",
       "designation": "BLANCO STYLO EXPRESS",
       "prix": 7.0,
-      "stock": 184
+      "stock": 183
     },
     {
       "ref": "BL-G2-7-8",
@@ -2696,7 +2702,7 @@
       "ref": "BNG-008",
       "designation": "BLOC NOTES A4 100P",
       "prix": 17.0,
-      "stock": 7,
+      "stock": 5,
       "image": "images/illustrations/bloc-notes.webp",
       "illustration": true
     },
@@ -2704,7 +2710,7 @@
       "ref": "BNG-009",
       "designation": "BLOC NOTES A4 140P",
       "prix": 17.0,
-      "stock": 5,
+      "stock": 4,
       "image": "images/illustrations/bloc-notes.webp",
       "illustration": true
     },
@@ -2804,7 +2810,7 @@
       "ref": "BR-008",
       "designation": "ECOUTEUR TYPE-C BR-008 BRUDER",
       "prix": 50.0,
-      "stock": 14
+      "stock": 13
     },
     {
       "ref": "BR-01",
@@ -3206,7 +3212,7 @@
       "ref": "C-2X1.5",
       "designation": "CABLE ELECTRIQUE 2*1,5",
       "prix": 8.0,
-      "stock": 717
+      "stock": 1297
     },
     {
       "ref": "C300G",
@@ -4370,7 +4376,7 @@
       "ref": "CF_217A",
       "designation": "TONER CARRERA CF217A NOIR",
       "prix": 150.0,
-      "stock": 13
+      "stock": 10
     },
     {
       "ref": "CF226AC",
@@ -4589,7 +4595,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 44
+      "stock": 40
     },
     {
       "ref": "CH200W",
@@ -6611,7 +6617,7 @@
       "ref": "DS-3E0105D-E",
       "designation": "HIKVISION SWITCH DS-3E0105D-E FAST ETHERNET 10/100 Mbps",
       "prix": 120.0,
-      "stock": 0
+      "stock": 7
     },
     {
       "ref": "DS-3E0105D-O",
@@ -6741,7 +6747,7 @@
       "ref": "DUR-CR2032",
       "designation": "PILLE DURACELL CR2032 PACK & BATTERY",
       "prix": 40.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "D-USB3",
@@ -7047,7 +7053,7 @@
       "ref": "EH303-B",
       "designation": "CHEMISE PERFOREE BOSTON 40MIC EH303",
       "prix": 70.0,
-      "stock": 1
+      "stock": -1
     },
     {
       "ref": "EH303R",
@@ -7131,7 +7137,7 @@
       "ref": "ENV-21V",
       "designation": "ENVELOPPES KRAFT JAUNE 21V MINI",
       "prix": 0.5,
-      "stock": 1993
+      "stock": 1992
     },
     {
       "ref": "ENV-229/324",
@@ -7221,7 +7227,7 @@
       "ref": "ENV-A5",
       "designation": "ENVELOPPES A5  KRAFT 162*229     V",
       "prix": 1.5,
-      "stock": 794
+      "stock": 792
     },
     {
       "ref": "ENV-A5P",
@@ -7642,7 +7648,7 @@
       "ref": "FCT-1321",
       "designation": "FACTURE 13.5x21",
       "prix": 12.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "FCV-0015",
@@ -7811,7 +7817,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 866
+      "stock": 865
     },
     {
       "ref": "G-CF279",
@@ -8199,7 +8205,7 @@
       "ref": "HDD-6T",
       "designation": "WESTERN DIGITAL Disque dur interne (HDD) 3.5\" 6To, Purple",
       "prix": 2500.0,
-      "stock": 2
+      "stock": 0
     },
     {
       "ref": "HDM-10M",
@@ -8416,7 +8422,7 @@
       "ref": "HI2019N",
       "designation": "STYLO HI-PRO HI2019 NOIR",
       "prix": 10.0,
-      "stock": 165
+      "stock": 164
     },
     {
       "ref": "HI2019R",
@@ -9458,7 +9464,7 @@
       "ref": "IP-6A",
       "designation": "CABLE IPHO TYPE-C 6A  BR-001",
       "prix": 30.0,
-      "stock": 8
+      "stock": 7
     },
     {
       "ref": "IP-C510",
@@ -9883,7 +9889,7 @@
       "ref": "KONICA-B",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE BLEU",
       "prix": 900.0,
-      "stock": 7
+      "stock": 6
     },
     {
       "ref": "KONICA-J",
@@ -9895,13 +9901,13 @@
       "ref": "KONICA-M",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE MAGENTA",
       "prix": 900.0,
-      "stock": 9
+      "stock": 8
     },
     {
       "ref": "KONICA-Y",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE YELLOW",
       "prix": 900.0,
-      "stock": 0
+      "stock": 4
     },
     {
       "ref": "L13/I5",
@@ -10382,7 +10388,7 @@
       "ref": "M185",
       "designation": "LOGITECH Wireless Mouse M185 Swift Grey WER Occident Pack",
       "prix": 200.0,
-      "stock": 5,
+      "stock": 4,
       "image": "images/produits/m185.webp"
     },
     {
@@ -10752,13 +10758,13 @@
       "ref": "MON-B",
       "designation": "MARQUEUR MONAMI BLEU",
       "prix": 10.0,
-      "stock": 157
+      "stock": 156
     },
     {
       "ref": "MON-N",
       "designation": "MARQUEUR MONAMI NOIR",
       "prix": 10.0,
-      "stock": 93
+      "stock": 91
     },
     {
       "ref": "MON-R",
@@ -10868,7 +10874,7 @@
       "ref": "MS105GP",
       "designation": "Mercusys MS105GP 5-Port Gigabit PoE+ Unmanaged Destktop Switch 4xPoE+",
       "prix": 375.0,
-      "stock": 2,
+      "stock": 1,
       "image": "images/produits/ms105gp.webp"
     },
     {
@@ -11007,7 +11013,7 @@
       "ref": "NAV80G",
       "designation": "RAMETTE DE PAPIER NAVIGATOR - A4 - 80G",
       "prix": 60.0,
-      "stock": 10,
+      "stock": 9,
       "image": "images/produits/nav80g.webp"
     },
     {
@@ -11069,7 +11075,7 @@
       "ref": "NEX-CAT6",
       "designation": "NEXANS BOBINE CABLE INFORMATIQUE CAT6 ORANGE 500M",
       "prix": 7.5,
-      "stock": 375
+      "stock": -483
     },
     {
       "ref": "NGF008",
@@ -12125,7 +12131,7 @@
       "ref": "PPO",
       "designation": "CHARGEUR HP ORIGINAL 18.5 V 6.5A 120W",
       "prix": 300.0,
-      "stock": 3
+      "stock": 2
     },
     {
       "ref": "P-POS01",
@@ -12497,7 +12503,7 @@
       "ref": "PT-0016",
       "designation": "COUVERTURES PVC TRANSPARENT A4 EXPRESS XO-2827",
       "prix": 80.0,
-      "stock": 5
+      "stock": 4
     },
     {
       "ref": "PTB-031",
@@ -14032,7 +14038,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 32
+      "stock": 29
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14884,14 +14890,14 @@
       "ref": "TC-C36QN",
       "designation": "Tiandy TC-C36QN 2ENA-4 Camera 6MP Fixed Color Market Bullet",
       "prix": 700.0,
-      "stock": 53,
+      "stock": 15,
       "image": "images/produits/tc-c36qn.webp"
     },
     {
       "ref": "TC-C36XN",
       "designation": "Tiandy TC-C36XN 2ENA-28 Camera 6MP Fixed Color Maker Turret",
       "prix": 700.0,
-      "stock": 7
+      "stock": 5
     },
     {
       "ref": "T-CF230A",
@@ -14906,16 +14912,22 @@
       "stock": 0
     },
     {
+      "ref": "TC-H366V",
+      "designation": "Tiandy TC-H366V SPEC:4MP/25X/IW/E/A/2.8mm Camera 6MP Panoramic PTZ",
+      "prix": 7000.0,
+      "stock": 0
+    },
+    {
       "ref": "TC-P3S010",
       "designation": "TIANDY SWITCH PoE TC-P3S010",
       "prix": 430.0,
-      "stock": 0
+      "stock": 2
     },
     {
       "ref": "TC-P3S06",
       "designation": "Tiandy Switch PoE TC-P3S06 Spec:H/0402/AT/06",
       "prix": 0.0,
-      "stock": 18
+      "stock": 49
     },
     {
       "ref": "TC-R3110",
@@ -14933,7 +14945,7 @@
       "ref": "TC-R3220",
       "designation": "TC-R3220 416HA 2HDD 20ch PSE***** AI**** NVR Up to 20-ch IP camera",
       "prix": 2700.0,
-      "stock": 10
+      "stock": 0
     },
     {
       "ref": "TCR8116",
@@ -15455,7 +15467,7 @@
       "ref": "TON-N",
       "designation": "TONER KONICA ORIGINAL SANS EMBALLAGE NOIR",
       "prix": 900.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "TOR-4",
@@ -15516,7 +15528,7 @@
       "ref": "TRAC-50M",
       "designation": "ROULEAU PAPIER TRACEUR 90G 50M",
       "prix": 150.0,
-      "stock": 7
+      "stock": 5
     },
     {
       "ref": "TR-P",
@@ -15893,7 +15905,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 119
+      "stock": 118
     },
     {
       "ref": "VARTA-AA",
@@ -16020,7 +16032,7 @@
       "ref": "W-106A",
       "designation": "TONER WORLD (106A) W1106A",
       "prix": 200.0,
-      "stock": -1
+      "stock": 12
     },
     {
       "ref": "W1106",
@@ -16496,7 +16508,7 @@
       "ref": "W-D-LINK-4U",
       "designation": "W-D-LINK 4U Network Cabinet Flat-Packed Coffret informatique 4U",
       "prix": 480.0,
-      "stock": 5
+      "stock": 0
     },
     {
       "ref": "WE5",
@@ -16661,7 +16673,7 @@
       "ref": "XO-4487",
       "designation": "CHEMISE PERFORE EXPRESS 40MIC XO-4487",
       "prix": 70.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "XO-4494",
