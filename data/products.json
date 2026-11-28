@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:00:01",
+  "generated_at": "2026-11-28T06:00:02",
   "count": 2732,
   "products": [
     {
@@ -163,7 +163,7 @@
       "ref": "11XMZ",
       "designation": "CHEMISE PERFOREE DETAIL",
       "prix": 1.0,
-      "stock": 74
+      "stock": 72
     },
     {
       "ref": "121212",
@@ -315,7 +315,7 @@
       "ref": "1714/1",
       "designation": "RALONCHE INGELEC 4 PRISES 1714/1 BLANC",
       "prix": 55.0,
-      "stock": 1
+      "stock": 0
     },
     {
       "ref": "1714/1-N",
@@ -1228,7 +1228,7 @@
       "ref": "A239",
       "designation": "CLASSEUR CRONO COMIX 2,5 4 ANNE",
       "prix": 35.0,
-      "stock": 25
+      "stock": 15
     },
     {
       "ref": "A25-128",
@@ -3212,7 +3212,7 @@
       "ref": "C-2X1.5",
       "designation": "CABLE ELECTRIQUE 2*1,5",
       "prix": 8.0,
-      "stock": 1297
+      "stock": 1157
     },
     {
       "ref": "C300G",
@@ -3904,7 +3904,7 @@
       "ref": "CC-180G",
       "designation": "CHEMISE CARTONNEE COULEUR DETAIL 180g",
       "prix": 1.0,
-      "stock": 8
+      "stock": 6
     },
     {
       "ref": "CC-2008",
@@ -4595,7 +4595,7 @@
       "ref": "CH200",
       "designation": "CHEMISE BULLE C200 DETAIL",
       "prix": 0.5,
-      "stock": 40
+      "stock": 36
     },
     {
       "ref": "CH200W",
@@ -5168,7 +5168,7 @@
       "ref": "CON-J",
       "designation": "PAPIER CONSON JAUNE A2",
       "prix": 8.0,
-      "stock": 4,
+      "stock": 2,
       "image": "images/produits/con-j.webp"
     },
     {
@@ -7510,7 +7510,7 @@
       "ref": "F00R",
       "designation": "FICHE PERSONNELLE ROUSE",
       "prix": 3.0,
-      "stock": 106
+      "stock": 6
     },
     {
       "ref": "F00V",
@@ -7817,7 +7817,7 @@
       "ref": "GAZ-229X324",
       "designation": "ENVELOPPES POCHETTE KRAFT A4 GAZELLE  229*324 mm BLANC",
       "prix": 3.0,
-      "stock": 865
+      "stock": 864
     },
     {
       "ref": "G-CF279",
@@ -9247,7 +9247,7 @@
       "ref": "HS-USB-M200-16G",
       "designation": "CLE 16GB USB CLASSIC 3.0 HIKSEMI HS-USB-M200 16G U3",
       "prix": 75.0,
-      "stock": 10
+      "stock": 8
     },
     {
       "ref": "HS-USB-M200-32G",
@@ -9763,7 +9763,7 @@
       "ref": "KGT-32GB",
       "designation": "CLE KINGSTON 32 GB USB 3.1/3.0/2.0",
       "prix": 120.0,
-      "stock": 0
+      "stock": 40
     },
     {
       "ref": "KGT-64GB",
@@ -10480,7 +10480,7 @@
       "ref": "M90",
       "designation": "LOGITECH Mouse M90 (Mouton-Boat) Noire",
       "prix": 60.0,
-      "stock": 9
+      "stock": 6
     },
     {
       "ref": "M910X",
@@ -10712,7 +10712,7 @@
       "ref": "MK120",
       "designation": "LOGITECH Desktop MK120, French AZERTY",
       "prix": 200.0,
-      "stock": 8,
+      "stock": 5,
       "image": "images/produits/mk120.webp"
     },
     {
@@ -11075,7 +11075,7 @@
       "ref": "NEX-CAT6",
       "designation": "NEXANS BOBINE CABLE INFORMATIQUE CAT6 ORANGE 500M",
       "prix": 7.5,
-      "stock": -483
+      "stock": -248
     },
     {
       "ref": "NGF008",
@@ -11340,7 +11340,7 @@
       "ref": "P-100V",
       "designation": "PORTE DOCUMENT 100 VUES",
       "prix": 35.0,
-      "stock": 16
+      "stock": 15
     },
     {
       "ref": "P1200",
@@ -11554,7 +11554,7 @@
       "ref": "PAP-A3",
       "designation": "RAMETTE PAPIER TARGET A3",
       "prix": 120.0,
-      "stock": 6
+      "stock": 5
     },
     {
       "ref": "PAPPH-A4",
@@ -13692,7 +13692,7 @@
       "ref": "SAV-D5L",
       "designation": "SAVON LIQUIDE DOVE 5 L",
       "prix": 45.0,
-      "stock": 4
+      "stock": -1
     },
     {
       "ref": "SAV-DC5L",
@@ -14038,7 +14038,7 @@
       "ref": "SIDI-ALI33",
       "designation": "SIDI ALI 33CL",
       "prix": 2.0,
-      "stock": 29
+      "stock": 26
     },
     {
       "ref": "SIDI-ALII-15",
@@ -14890,14 +14890,14 @@
       "ref": "TC-C36QN",
       "designation": "Tiandy TC-C36QN 2ENA-4 Camera 6MP Fixed Color Market Bullet",
       "prix": 700.0,
-      "stock": 15,
+      "stock": 14,
       "image": "images/produits/tc-c36qn.webp"
     },
     {
       "ref": "TC-C36XN",
       "designation": "Tiandy TC-C36XN 2ENA-28 Camera 6MP Fixed Color Maker Turret",
       "prix": 700.0,
-      "stock": 5
+      "stock": 3
     },
     {
       "ref": "T-CF230A",
@@ -15491,7 +15491,7 @@
       "ref": "TP-002",
       "designation": "TAPIS DE SOURIS",
       "prix": 20.0,
-      "stock": 10
+      "stock": 9
     },
     {
       "ref": "TP-2",
@@ -15905,7 +15905,7 @@
       "ref": "VALUE-O",
       "designation": "RAMETTE PAPIER A4 VALUE OFFICE 500 SHEETS",
       "prix": 50.0,
-      "stock": 118
+      "stock": 117
     },
     {
       "ref": "VARTA-AA",
